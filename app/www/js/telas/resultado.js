@@ -25,7 +25,7 @@ export function resultado({ arg }) {
       const q = ctx.porId.get(it.qid);
       if (!q) return null;
       return h('details', { class: 'card' },
-        h('summary', {}, `${k + 1}. ${tema(q)} `, h('span', { class: it.resp ? (it.certo ? 'badge ok' : 'badge erro') : 'badge' },
+        h('summary', {}, h('span', { class: 'res-titulo' }, `${k + 1}. ${tema(q)}`), h('span', { class: it.resp ? (it.certo ? 'badge ok' : 'badge erro') : 'badge' },
           it.resp ? (it.certo ? 'Acertou' : `Errou (gabarito ${q.gabarito})`) : 'Sem resposta'),
         it.conf && h('span', { class: 'badge' }, ROTULO_CONF[it.conf])),
         h('p', { class: 'suave' }, origemTexto(q)),

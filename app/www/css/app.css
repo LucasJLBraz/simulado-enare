@@ -52,9 +52,10 @@ input[type=number], input[type=date], input[type=time], select {
 .escolha { display: flex; gap: 8px; }
 .escolha button { flex: 1; min-height: 56px; border-radius: 14px; border: 2px solid var(--borda); background: var(--card); color: var(--texto); font: inherit; font-weight: 600; cursor: pointer; }
 .escolha button.sel { border-color: var(--prim); background: var(--sel); }
-.interruptor { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 56px; padding: 6px 0; cursor: pointer; }
+label.interruptor { display: flex; font-weight: normal; align-items: center; justify-content: space-between; gap: 16px; min-height: 56px; padding: 6px 0; cursor: pointer; }
 .interruptor span { flex: 1; }
-.interruptor input { flex: 0 0 28px; width: 28px; height: 28px; margin: 0; }
+.interruptor input { flex: 0 0 32px; width: 32px; height: 32px; margin: 0; accent-color: var(--prim, currentColor); }
+.res-titulo { flex: 1 0 100%; font-weight: 600; margin-bottom: 6px; }
 .enunciado { white-space: pre-line; }
 .comentario { white-space: pre-line; background: var(--bg); border-radius: 12px; padding: 12px; margin: 8px 0; }
 .topo-questao { position: sticky; top: 0; background: var(--bg); padding: 8px 0; z-index: 2; border-bottom: 1px solid var(--borda); }
@@ -69,7 +70,7 @@ input[type=number], input[type=date], input[type=time], select {
 #aviso { position: fixed; left: 12px; right: 12px; top: max(12px, env(safe-area-inset-top)); z-index: 9; background: var(--aviso-bg); color: var(--aviso);
   border: 2px solid var(--aviso); border-radius: 14px; padding: 14px; font-weight: 700; text-align: center; }
 details { margin: 8px 0; }
-summary { min-height: 48px; display: flex; align-items: center; cursor: pointer; font-weight: 600; }
+summary { min-height: 48px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; cursor: pointer; font-weight: 600; }
 .pontos { text-align: center; }
 .dots { display: flex; gap: 8px; justify-content: center; margin: 16px 0; }
 .dots i { width: 10px; height: 10px; border-radius: 50%; background: var(--borda); }
