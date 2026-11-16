@@ -1,5 +1,9 @@
 apply plugin: 'com.android.application'
 
+// release.sh passa -PversionCode/-PversionName; build local usa 1 / 1.0.
+def vCode = (findProperty('versionCode') ?: '1').toString().toInteger()
+def vName = (findProperty('versionName') ?: '1.0').toString()
+
 android {
     namespace "br.simulado.enare"
     compileSdk rootProject.ext.compileSdkVersion
@@ -7,8 +11,8 @@ android {
         applicationId "br.simulado.enare"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode (project.findProperty("versionCode") ?: "1") as int
-        versionName project.findProperty("versionName") ?: "1.0"
+        versionCode vCode
+        versionName vName
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
              // Files and dirs to omit from the packaged assets dir, modified to accommodate modern web apps.
@@ -21,9 +25,9 @@ android {
     signingConfigs {
         release {
             if (chave.exists()) {
-                def p = new Properties(); chave.withInputStream { p.load(it) }
-                storeFile file(p.storeFile); storePassword p.storePassword
-                keyAlias p.keyAlias; keyPassword p.keyPassword
+                def k = new Properties(); chave.withInputStream { k.load(it) }
+                storeFile file(k.getProperty("storeFile")); storePassword k.getProperty("storePassword")
+                keyAlias k.getProperty("keyAlias"); keyPassword k.getProperty("keyPassword")
             }
         }
     }
