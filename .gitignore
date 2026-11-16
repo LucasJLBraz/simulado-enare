@@ -1,3 +1,13 @@
 /target/
 enare_psicologia_progresso.json
 *.zip
+
+# pipeline: dados locais (pdfs, cache); extraidos validados podem ser commitados
+pipeline/dados/*
+!pipeline/dados/.gitkeep
+!pipeline/dados/extraido/
+pipeline/dados/extraido/*.rejeitadas.json
+pipeline/.venv/
+__pycache__/
+.pytest_cache/
+pipeline/dados/extraido/*.amostra.md
