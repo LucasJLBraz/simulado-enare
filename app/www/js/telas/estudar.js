@@ -19,7 +19,7 @@ export function estudar() {
 
   const cartao = (t, comMotivo) => h('div', { class: 'card' },
     h('h2', {}, curto(t)),
-    h('details', {}, h('summary', {}, 'Nome no edital'), h('p', { class: 'suave' }, t.nome)),
+    h('details', {}, h('summary', {}, 'Ver nome no edital'), h('p', { class: 'suave' }, t.nome)),
     h('span', { class: cls[t.estado] }, ROTULO_ESTADO[t.estado]), // só com 5 ou mais respostas; antes disso "Ainda sem dados"
     h('p', {}, comMotivo ? `Por quê: ${motivo(t)}.` : `${t.n} respostas, ${Math.round((t.erro ?? 0) * 100)}% de erro.`),
     comMotivo && blocoAntesDepois(ad[t.id]),

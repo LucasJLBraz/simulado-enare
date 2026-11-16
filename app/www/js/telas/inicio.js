@@ -25,8 +25,8 @@ export function inicio() {
   };
   // 10, 25 ou todas; erros com certeza vêm primeiro (ordem de revisaoDoDia).
   const tamanhos = [10, 25].filter((n) => n < ids.length).concat(ids.length);
-  const botao = (n, k) => h('button', { class: 'btn' + (k === 0 ? ' prim' : ''), onclick: () => comecarRevisao(n) },
-    tamanhos.length === 1 ? 'Começar revisão' : `Revisar ${n === ids.length ? `todas as ${n} questões` : `${n} questões`}, cerca de ${duracao(minutosEstimados(ids.slice(0, n), e.progresso))}`);
+  const botao = (n, k) => h('button', { class: 'btn' + (k === 0 && !s ? ' prim' : ''), onclick: () => comecarRevisao(n) },
+    tamanhos.length === 1 ? 'Começar revisão' : ['Revisar ', n === ids.length ? `todas as ${n} questões` : `${n} questões`, ', cerca de ', h('span', { class: 'sq' }, duracao(minutosEstimados(ids.slice(0, n), e.progresso)))]);
 
   return h('div', {},
     h('h1', {}, 'Olá, bons estudos'),
@@ -35,10 +35,10 @@ export function inicio() {
       h('h2', {}, s.modo === 'prova' ? 'Simulado em andamento' : 'Sessão pausada'),
       h('p', {}, `${s.titulo} (${Object.keys(s.respostas).length} de ${s.fila.length} respondidas).`),
       h('button', { class: 'btn prim', onclick: () => { retomar(s); ctx.ir('#/questao'); } }, 'Continuar'),
-      h('button', { class: 'btn perigo', onclick: () => { if (confirm('Descartar esta sessão? As respostas já dadas continuam salvas.')) { e.sessao = null; ctx.salvar(); ctx.ir('#/'); } } }, 'Descartar sessão')),
+      h('button', { class: 'link-txt', onclick: () => { if (confirm('Descartar esta sessão? As respostas já dadas continuam salvas.')) { e.sessao = null; ctx.salvar(); ctx.ir('#/'); } } }, 'Descartar sessão')),
     h('section', { class: 'card destaque' },
       h('h2', {}, 'Revisão do dia'),
-      meta.total > 0 && [h('p', ids.length ? { class: 'grande' } : {}, `Hoje você revisou ${meta.feitas} de ${meta.total}.`),
+      meta.total > 0 && [h('p', {}, `Hoje você revisou ${meta.feitas} de ${meta.total}.`),
         h('div', { class: 'barra' }, h('div', { style: `width:${(meta.feitas / meta.total) * 100}%` }))],
       ids.length
         ? [caderno && h('p', { class: 'suave' }, caderno),

@@ -52,7 +52,9 @@ export function cartaoGabarito(q, resp) {
     const cls = L === q.gabarito ? 'certa' : L === resp ? 'errada' : '';
     return h('div', {},
       h('div', { class: `opcao ${cls}` }, h('span', { class: 'letra' }, L),
-        h('span', {}, q.alternativas[i], L === q.gabarito && ' (gabarito)', L === resp && L !== q.gabarito && ' (sua resposta)', L === pg && ' (pegadinha)')),
+        h('span', {}, q.alternativas[i], h('div', {},
+          L === q.gabarito && h('span', { class: 'badge ok' }, 'Gabarito'), L === resp && L !== q.gabarito && h('span', { class: 'badge erro' }, 'Sua resposta'),
+          L === pg && h('span', { class: 'badge prov' }, 'Pegadinha')))),
       com.alternativas?.[i] && h('div', { class: 'comentario' }, com.alternativas[i]));
   };
   const principais = [resp, q.gabarito].filter((L, k, a) => L && a.indexOf(L) === k).map((L) => LETRAS.indexOf(L));

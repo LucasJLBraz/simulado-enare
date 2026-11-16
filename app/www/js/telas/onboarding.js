@@ -17,10 +17,11 @@ export function onboarding() {
     const [titulo, texto] = PASSOS[i];
     const ultimo = i === PASSOS.length - 1;
     raiz.replaceChildren(frag(
-      h('div', { class: 'dots' }, PASSOS.map((_, k) => h('i', { class: k === i ? 'on' : '' }))),
-      h('h1', {}, titulo), h('p', {}, texto),
-      ultimo && h('input', { type: 'date', id: 'data-prova', 'aria-label': 'Data da prova', value: ctx.estado.config.dataProva || '',
-        onchange: (e) => { ctx.estado.config.dataProva = e.target.value || null; ctx.salvar(); } }),
+      h('div', { class: 'miolo' },
+        h('div', { class: 'dots' }, PASSOS.map((_, k) => h('i', { class: k === i ? 'on' : '' }))),
+        h('h1', {}, titulo), h('p', {}, texto),
+        ultimo && h('input', { type: 'date', id: 'data-prova', 'aria-label': 'Data da prova', value: ctx.estado.config.dataProva || '',
+          onchange: (e) => { ctx.estado.config.dataProva = e.target.value || null; ctx.salvar(); } })),
       h('div', { class: 'rodape' },
         h('button', { class: 'btn prim', onclick: () => (ultimo ? fim() : (i++, desenhar())) }, ultimo ? 'Começar' : 'Próxima'),
         h('div', { class: 'linha' },

@@ -15,7 +15,7 @@ import { ajustes } from './telas/ajustes.js';
 
 const telas = { '': inicio, onboarding, mini: miniSetup, simulado: simuladoSetup, questao, resultado, estudar, progresso, ajustes };
 const comNav = new Set(['', 'estudar', 'progresso', 'ajustes']);
-const nav = [['#/', 'Início', ''], ['#/estudar', 'O que estudar', 'estudar'], ['#/progresso', 'Progresso', 'progresso'], ['#/ajustes', 'Ajustes', 'ajustes']];
+const nav = [['#/', 'Início', ''], ['#/estudar', 'Estudar', 'estudar'], ['#/progresso', 'Progresso', 'progresso'], ['#/ajustes', 'Ajustes', 'ajustes']];
 
 function rota() {
   const [caminho, query = ''] = location.hash.replace(/^#\/?/, '').split('?');

@@ -62,7 +62,7 @@ export function resultado({ arg }) {
     topicos.length > 0 && [
       h('h2', {}, 'Onde você perdeu pontos'),
       topicos.slice(0, 5).map(linhaTopico),
-      topicos.length > 5 && h('details', {}, h('summary', {}, 'Ver todos os tópicos'), topicos.slice(5).map(linhaTopico))],
+      topicos.length > 5 && h('details', {}, h('summary', { class: 'btn' }, 'Ver todos os tópicos'), topicos.slice(5).map(linhaTopico))],
     h('h2', {}, 'Questões'),
     filtro,
     lista,
