@@ -20,9 +20,24 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 2
+  "pdf_pagina": 2,
+  "comentario": {
+   "geral": "A prevalência depende de incidência e duração. Mais casos novos (incidência) aumentam a prevalência, como no gabarito D.",
+   "alternativas": [
+    "Errada: a sazonalidade afeta principalmente agravos agudos, não é fator geral.",
+    "Errada: sem tratamento, diminui a sobrevivência, mas a lógica apresentada é inconsistente.",
+    "Errada: a redução de duração diminui a prevalência.",
+    "Correta: maior incidência aumenta a prevalência.",
+    "Errada: a prevenção diminui o número de casos novos."
+   ],
+   "referencia": "Rouquayrol, M. Z. Epidemiologia e Saúde",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-003",
@@ -45,9 +60,24 @@
   ],
   "gabarito": "B",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 2
+  "pdf_pagina": 2,
+  "comentario": {
+   "geral": "A higienização das mãos é a medida mais simples e eficaz para reduzir infecções relacionadas à assistência em saúde. O gabarito é B.",
+   "alternativas": [
+    "Errada: antibiótico profilático amplia a resistência.",
+    "Correta: higienização das mãos.",
+    "Errada: minimizar procedimentos é secundário.",
+    "Errada: rotatividade não reduz infecção.",
+    "Errada: é medida genérica."
+   ],
+   "referencia": "OMS, Diretrizes sobre Higiene das Mãos na Assistência à Saúde (2009)",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-004",
@@ -70,9 +100,28 @@
   ],
   "gabarito": "A",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 3
+  "pdf_pagina": 3,
+  "pegadinha": {
+   "letra": "C",
+   "atracao": 0.27
+  },
+  "comentario": {
+   "geral": "O gabarito A indica intervalo de 4 meses desde a última dose para o reforço bivalente, conforme o esquema do Ministério da Saúde para a época.",
+   "alternativas": [
+    "Correta: intervalo de 4 meses.",
+    "Errada: 2 meses é intervalo insuficiente.",
+    "Errada: 4 semanas é curto demais.",
+    "Errada: 2 semanas é curto demais.",
+    "Errada: 12 semanas não corresponde ao intervalo oficial."
+   ],
+   "referencia": "Brasil. Ministério da Saúde. Nota técnica sobre vacina Covid-19 bivalente",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-005",
@@ -95,9 +144,24 @@
   ],
   "gabarito": "B",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 3
+  "pdf_pagina": 3,
+  "comentario": {
+   "geral": "A regionalização é o eixo estruturante da descentralização das ações e serviços de saúde, materializada pelas Redes de Atenção à Saúde. O gabarito é B.",
+   "alternativas": [
+    "Errada: equidade é princípio.",
+    "Correta: regionalização.",
+    "Errada: governança é coordenação.",
+    "Errada: intergestão é pactuação.",
+    "Errada: abrangência não é eixo."
+   ],
+   "referencia": "Decreto nº 7.508/2011; Portaria GM/MS nº 4.279/2010",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-007",
@@ -120,9 +184,24 @@
   ],
   "gabarito": "A",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "A 8ª Conferência Nacional de Saúde (1986) foi o marco institucional da Reforma Sanitária. O gabarito é A.",
+   "alternativas": [
+    "Correta: 8ª Conferência Nacional de Saúde.",
+    "Errada: AIS foram estratégia posterior.",
+    "Errada: não é marco da Reforma Sanitária.",
+    "Errada: as CAPs são de 1923, anteriores.",
+    "Errada: Lei Eloy Chaves é de 1923."
+   ],
+   "referencia": "Brasil, Relatório Final da 8ª Conferência Nacional de Saúde (1986)",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-008",
@@ -145,9 +224,24 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "No modelo de Donabedian, estrutura refere-se a recursos, fluxos e protocolos. Indicadores organizacionais que mostram sua existência se relacionam à Estrutura. O gabarito é D.",
+   "alternativas": [
+    "Errada: descreve resultado.",
+    "Errada: descreve resultado.",
+    "Errada: descreve processo.",
+    "Correta: estrutura.",
+    "Errada: descreve processo."
+   ],
+   "referencia": "Donabedian, A. (1980)",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-009",
@@ -170,9 +264,24 @@
   ],
   "gabarito": "E",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "Na Rede de Atenção às Pessoas com Doenças Crônicas, diagnóstico, rastreamento e tratamento da população adstrita segundo protocolos são competência da Atenção Básica. O gabarito é E.",
+   "alternativas": [
+    "Errada: unidades de acesso aberto não fazem acompanhamento longitudinal.",
+    "Errada: atenção especializada atua em casos referenciados.",
+    "Errada: hospital atua em agudização.",
+    "Errada: urgência atende agudos.",
+    "Correta: Atenção Básica."
+   ],
+   "referencia": "Portaria GM/MS nº 483/2014",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-010",
@@ -195,9 +304,24 @@
   ],
   "gabarito": "E",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "O Conselho de Saúde tem caráter deliberativo, com decisões a serem cumpridas pelo poder público. O gabarito é E.",
+   "alternativas": [
+    "Errada: não é subordinado ao Poder Executivo.",
+    "Errada: a conferência ocorre a cada 4 anos.",
+    "Errada: é criado por lei.",
+    "Errada: usuários são 50%.",
+    "Correta: deliberativo."
+   ],
+   "referencia": "Lei nº 8.142/1990, art. 1º; Resolução CNS nº 453/2012",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-011",
@@ -220,9 +344,24 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "A segurança do paciente chama atenção ao erro e ao dano, mostra que o cuidado pode ser danoso e introduz ferramentas. Não busca disseminar situações de alta produção. O gabarito é C, a exceção.",
+   "alternativas": [
+    "Verdadeira: amplia atenção à ergonomia e psicologia.",
+    "Verdadeira: chama atenção ao erro.",
+    "Exceção (resposta): não propaga situações de alta produção.",
+    "Verdadeira: mostra que o cuidado pode ser danoso.",
+    "Verdadeira: introduz novas ferramentas."
+   ],
+   "referencia": "Portaria GM/MS nº 529/2013 (Programa Nacional de Segurança do Paciente)",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-012",
@@ -245,9 +384,24 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "O CTA é serviço de acesso aberto e porta de entrada do SUS para testagem e aconselhamento de IST. O gabarito é C.",
+   "alternativas": [
+    "Errada: não é terciária.",
+    "Errada: não exige encaminhamento.",
+    "Correta: porta de entrada.",
+    "Errada: o acesso é universal.",
+    "Errada: não exige cadastro."
+   ],
+   "referencia": "Ministério da Saúde, diretrizes dos CTA; Decreto nº 7.508/2011",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-013",
@@ -270,9 +424,24 @@
   ],
   "gabarito": "B",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "O manejo ambiental, com proteção ou destruição de criadouros, é o controle mecânico do Aedes. O gabarito é B.",
+   "alternativas": [
+    "Errada: químico usa inseticidas.",
+    "Correta: mecânico.",
+    "Errada: não é classificação usual.",
+    "Errada: biológico usa predadores.",
+    "Errada: não é a classificação."
+   ],
+   "referencia": "Ministério da Saúde, Diretrizes Nacionais para Prevenção e Controle de Epidemias de Dengue",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-014",
@@ -295,9 +464,24 @@
   ],
   "gabarito": "A",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "Informar todas as informações e dar liberdade de escolha respeita a autonomia, princípio da bioética. O gabarito é A.",
+   "alternativas": [
+    "Correta: autonomia.",
+    "Errada: não é princípio.",
+    "Errada: não é princípio.",
+    "Errada: refere-se a fazer o bem.",
+    "Errada: não é princípio."
+   ],
+   "referencia": "Beauchamp, T. L.; Childress, J. F. Principles of Biomedical Ethics",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-015",
@@ -320,9 +504,24 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "O controle de roedores visa especialmente a leptospirose, transmitida pela urina de ratos. O gabarito é D.",
+   "alternativas": [
+    "Errada: criptococose se associa a fezes de pombos.",
+    "Errada: febre maculosa se associa a carrapatos.",
+    "Errada: giardíase é de veiculação hídrica.",
+    "Correta: leptospirose.",
+    "Errada: leishmaniose é transmitida por flebotomíneos."
+   ],
+   "referencia": "Ministério da Saúde, Guia de Vigilância em Saúde",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-016",
@@ -345,9 +544,24 @@
   ],
   "gabarito": "E",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "A prática colaborativa interprofissional tem como resultado essencial serviços de saúde de excelência. O gabarito é E.",
+   "alternativas": [
+    "Errada: cogestão não é o resultado essencial.",
+    "Errada: ensino é meio.",
+    "Errada: não é o resultado.",
+    "Errada: força voltada à clínica não é o objetivo.",
+    "Correta: serviços de excelência."
+   ],
+   "referencia": "OMS, Marco para Ação em Educação Interprofissional e Prática Colaborativa (2010)",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-017",
@@ -370,9 +584,24 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 6
+  "pdf_pagina": 6,
+  "comentario": {
+   "geral": "O modelo de vigilância à saúde organiza-se por operações sobre problemas e grupos populacionais. O gabarito é C.",
+   "alternativas": [
+    "Errada: caracteriza o modelo médico-hegemônico.",
+    "Errada: caracteriza o modelo sanitarista.",
+    "Correta: operações sobre problemas e grupos.",
+    "Errada: campanhas é do sanitarista.",
+    "Errada: tecnologia médica é do modelo médico."
+   ],
+   "referencia": "Paim, J. S. (modelos assistenciais)",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-018",
@@ -395,9 +624,24 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 6
+  "pdf_pagina": 6,
+  "comentario": {
+   "geral": "Adequar horário de atendimento para aumentar a participação reflete a participação da comunidade. O gabarito é C.",
+   "alternativas": [
+    "Errada: não é a diretriz descrita.",
+    "Errada: a educação permanente é dos profissionais.",
+    "Correta: participação da comunidade.",
+    "Errada: não é a diretriz.",
+    "Errada: não é a diretriz."
+   ],
+   "referencia": "Portaria GM/MS nº 2.436/2017 (PNAB)",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-019",
@@ -420,9 +664,24 @@
   ],
   "gabarito": "A",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 6
+  "pdf_pagina": 6,
+  "comentario": {
+   "geral": "A questão pede a exceção. A opção A trata de ações de atenção às doenças crônicas, não de promoção. O gabarito é A.",
+   "alternativas": [
+    "Exceção (resposta): ações de atenção.",
+    "Verdadeira: violência intrafamiliar.",
+    "Verdadeira: restrição de bebidas alcoólicas.",
+    "Verdadeira: comunidades livres de tabaco.",
+    "Verdadeira: práticas corporais."
+   ],
+   "referencia": "Política Nacional de Promoção da Saúde (Portaria GM/MS nº 2.446/2014)",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-020",
@@ -445,9 +704,24 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "sus-redes"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 6
+  "pdf_pagina": 6,
+  "comentario": {
+   "geral": "Escuta e resposta que incluem cultura, saberes e capacidade de avaliar riscos configuram acolhimento. O gabarito é D.",
+   "alternativas": [
+    "Errada: não é a diretriz.",
+    "Errada: não é a diretriz.",
+    "Errada: ambiência é espaço físico.",
+    "Correta: acolhimento.",
+    "Errada: intersetorialidade é articulação."
+   ],
+   "referencia": "Política Nacional de Humanização (HumanizaSUS)",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-021",
@@ -470,9 +744,24 @@
   ],
   "gabarito": "B",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "aps-pnh"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 7
+  "pdf_pagina": 7,
+  "comentario": {
+   "geral": "Comunicação assertiva é a expressão de sentimentos, opiniões e direitos de modo claro e respeitoso, sem violar o outro. É uma habilidade social, portanto aprendida e treinável, o que sustenta a alternativa B. Ela se situa entre o estilo passivo (omissão) e o agressivo (imposição). O treino de assertividade é recurso comum em habilidades sociais.",
+   "alternativas": [
+    "Errada: expressar sentimentos negativos de forma respeitosa é assertivo; a agressividade está na forma que desrespeita o outro.",
+    "Correta: a assertividade é aprendida e treinada e permite defender direitos sem prejudicar ninguém.",
+    "Errada: reconhecer o direito do outro com empatia é elemento da assertividade, não atitude discrepante.",
+    "Errada: o oposto direto da assertividade não se reduz à passividade; a agressividade é o outro polo.",
+    "Errada: descreve o componente de consequências do 'eu' assertivo de forma distorcida, e não define o tipo de comunicação."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-022",
@@ -495,9 +784,24 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "aps-pnh"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 7
+  "pdf_pagina": 7,
+  "comentario": {
+   "geral": "A residência multiprofissional em saúde é pós-graduação lato sensu, de ensino em serviço, com dedicação exclusiva, 60 h semanais e mínimo de 2 anos. A legislação organiza a formação em torno da integração ensino-serviço-comunidade e prevê supervisão docente-assistencial, como pacto entre saúde e educação (Comissão Nacional de Residência Multiprofissional). Isso sustenta a alternativa D.",
+   "alternativas": [
+    "Errada: é lato sensu, não stricto sensu.",
+    "Errada: a Lei 11.129/2005 trata a residência como especialização com bolsa, sem vínculo empregatício.",
+    "Errada: a carga é de 60 horas, mas há dedicação exclusiva.",
+    "Correta: a supervisão técnico-assistencial na articulação saúde-educação é obrigatória.",
+    "Errada: o eixo é a regionalização e a descentralização, não 'centralização'."
+   ],
+   "referencia": "Lei 11.129/2005",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-023",
@@ -520,9 +824,24 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "etica-cfp"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 7
+  "pdf_pagina": 7,
+  "comentario": {
+   "geral": "Rafael é adulto, logo capaz de decidir sobre o próprio sigilo. O Código de Ética (Resolução CFP 010/2005) protege o sigilo profissional e a confidencialidade, e informações só são partilhadas com autorização do atendido. Cabe ao psicólogo pedir autorização a Rafael antes de falar com o pai e, se houver consentimento, manter o sigilo.",
+   "alternativas": [
+    "Errada: pacto sigiloso com familiar sem o conhecimento do paciente rompe a confiança e a ética.",
+    "Errada: não resolve a demanda do pai nem esclarece a conduta do psicólogo.",
+    "Errada: compartilhar informações sem autorização viola o sigilo e a comunicação ao Conselho não se aplica.",
+    "Correta: autonomia do adulto, autorização prévia e preservação do sigilo.",
+    "Errada: atender o pai com o mesmo profissional compromete o vínculo e o sigilo de Rafael."
+   ],
+   "referencia": "Resolução CFP 010/2005 (Código de Ética Profissional do Psicólogo)",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-024",
@@ -545,9 +864,25 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "aps-pnh",
+   "hospitalar"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 7
+  "pdf_pagina": 7,
+  "comentario": {
+   "geral": "O trabalho em saúde é relacional e exige abertura para saberes e vivências do cotidiano. Flexibilizar posturas acadêmicas rígidas permite compreender o mundo da vida por meio de ação comunicativa (Habermas) e troca sobre processos de trabalho. Isso sustenta a D, contrária a uma visão tecnicista e unilateral do cuidado.",
+   "alternativas": [
+    "Errada: competência interpessoal é aprendida e desenvolvida, não inata.",
+    "Errada: o cuidado ultrapassa o ato técnico e inclui escuta e vínculo.",
+    "Errada: o positivismo separa sujeito e objeto, em relação hierárquica.",
+    "Correta: abertura ao cotidiano e à ação comunicativa.",
+    "Errada: o vínculo afetivo é parte do cuidado, e o distanciamento total não é necessário nem recomendável."
+   ],
+   "referencia": "Habermas, Teoria da Ação Comunicativa",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-025",
@@ -570,9 +905,25 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps",
+   "psicopato-neuro"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 8
+  "pdf_pagina": 8,
+  "comentario": {
+   "geral": "O caso sugere quadro cognitivo e funcional com história de álcool, com sofrimento e isolamento social. Na Atenção Psicossocial a intervenção inicial é um projeto individualizado, acompanhamento terapêutico e psicoeducação familiar, que exploram os recursos do território e preservam autonomia. A alternativa D traduz esse cuidado em liberdade e no território.",
+   "alternativas": [
+    "Errada: medicaliza o tremor sem avaliação ampla nem cuidado psicossocial.",
+    "Errada: foca na medicação e no quadro demencial antes de um projeto de cuidado.",
+    "Errada: reduz o caso a ansiedade e depressão e à lógica ambulatorial.",
+    "Correta: acompanhamento terapêutico, plano individualizado e psicoeducação familiar no território.",
+    "Errada: pressionar o usuário a se expor é contraproducente e antiético."
+   ],
+   "referencia": "Portaria GM/MS 3.088/2011 (RAPS)",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-026",
@@ -595,9 +946,24 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "psicopato-neuro"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 8
+  "pdf_pagina": 8,
+  "comentario": {
+   "geral": "Diante de queixa de isolamento, dificuldade de comunicação e irritabilidade iniciada na pandemia, o primeiro passo é uma avaliação ampla do comportamento em diferentes contextos e da qualidade das relações, sobretudo no período relatado. Só depois se levantam hipóteses diagnósticas. A D evita diagnóstico precoce e considera o contexto de sofrimento.",
+   "alternativas": [
+    "Errada: pressupõe TEA antes de investigar; o início na pandemia sugere outras hipóteses.",
+    "Errada: a irritabilidade não é necessariamente o problema central.",
+    "Errada: testes de cognição não respondem à queixa inicial.",
+    "Correta: investigação contextual e relacional como primeiro passo.",
+    "Errada: restringe a hipótese a problema de aprendizagem."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-027",
@@ -620,9 +986,28 @@
   ],
   "gabarito": "E",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 8
+  "pdf_pagina": 8,
+  "pegadinha": {
+   "letra": "C",
+   "atracao": 0.84
+  },
+  "comentario": {
+   "geral": "O CAPS III funciona 24 horas, com acolhimento noturno, e oferece retaguarda clínica a outros serviços de saúde mental da rede, inclusive CAPS Ad, conforme a organização da RAPS. As demais alternativas distorcem as modalidades.",
+   "alternativas": [
+    "Errada: o CAPS atende regimes intensivo, semi-intensivo e não intensivo.",
+    "Errada: o CAPSi pode atender crianças com uso de substâncias, sem encaminhamento obrigatório ao CAPS Ad.",
+    "Errada: leitos de acolhimento 24 h são do CAPS Ad III, não de todo CAPS Ad.",
+    "Errada: a classificação dos CAPS segue porte e população, não a ERSM nessa ordem.",
+    "Correta: CAPS III com retaguarda clínica e acolhimento noturno à rede."
+   ],
+   "referencia": "Portaria GM/MS 3.088/2011",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-028",
@@ -645,9 +1030,28 @@
   ],
   "gabarito": "B",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "etica-cfp"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 9
+  "pdf_pagina": 9,
+  "pegadinha": {
+   "letra": "E",
+   "atracao": 0.86
+  },
+  "comentario": {
+   "geral": "A avaliação psicológica é processo estruturado de coleta e análise de informações, com autonomia do profissional para escolher métodos. O profissional deve recusar a avaliação diante de vínculos atuais ou anteriores com o avaliando, por risco ao distanciamento e à imparcialidade. Isso sustenta a B, em linha com a Resolução CFP 31/2022.",
+   "alternativas": [
+    "Errada: a avaliação não exige exclusivamente instrumentos de uso restrito.",
+    "Correta: vínculo prévio ou atual impede a avaliação.",
+    "Errada: o psicólogo escolhe métodos; não há exigência de um teste com parecer favorável.",
+    "Errada: o documento final depende da finalidade e não é sempre parecer.",
+    "Errada: a finalidade deve constar, mas a alternativa não é a que se destaca como correta no gabarito."
+   ],
+   "referencia": "Resolução CFP 31/2022",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-029",
@@ -670,9 +1074,24 @@
   ],
   "gabarito": "E",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "hospitalar"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 9
+  "pdf_pagina": 9,
+  "comentario": {
+   "geral": "Em dor crônica sem causa traumática definida, o psicólogo atua como parte da equipe, acolhendo e auxiliando na regulação emocional, no manejo de estresse e na ansiedade que modulam a dor. A dor é biopsicossocial: não se ignora nem se reduz a 'psicossomática'.",
+   "alternativas": [
+    "Errada: ignorar a dor física invalida a queixa.",
+    "Errada: rotular a dor de psicossomática sem avaliação é inadequado.",
+    "Errada: há contribuição psicológica no manejo da dor crônica.",
+    "Errada: orientar a pensar positivo minimiza o sofrimento.",
+    "Correta: acolhimento e regulação emocional associados à dor crônica."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-030",
@@ -695,9 +1114,25 @@
   ],
   "gabarito": "B",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps",
+   "ad-violencia"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 9
+  "pdf_pagina": 9,
+  "comentario": {
+   "geral": "O caso mostra uso grave de álcool, vulnerabilidade social e vínculo materno. A lógica do CAPS ad é cuidado no território, com a família, matriciamento da atenção básica e articulação intersetorial, sem internação compulsória ou comunidade terapêutica como primeira opção. A B reflete a redução de danos e o trabalho em rede.",
+   "alternativas": [
+    "Errada: internação e comunidade terapêutica contrariam a Reforma Psiquiátrica como primeira resposta.",
+    "Correta: acompanhamento no território com matriciamento e ações intersetoriais.",
+    "Errada: foco só em emprego é parcial.",
+    "Errada: constelação familiar não tem respaldo técnico.",
+    "Errada: o caso não exige CAPS III de imediato e CRAS é apenas parte do cuidado."
+   ],
+   "referencia": "Lei 10.216/2001; Portaria GM/MS 3.088/2011",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-031",
@@ -720,9 +1155,25 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps",
+   "ad-violencia"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 10
+  "pdf_pagina": 10,
+  "comentario": {
+   "geral": "Faltas repetidas em usuária vulnerável não são resistência a ser punida, e sim sinal para cuidado ativo. Na Atenção Psicossocial a conduta é a busca ativa, inclusive por visita domiciliar, mantendo o vínculo e o PTS. A D é a resposta alinhada ao território e ao cuidado em liberdade.",
+   "alternativas": [
+    "Errada: desloca a intervenção para o companheiro sem tratar a ausência da usuária.",
+    "Errada: interpreta faltas como resistência e desliga a usuária.",
+    "Errada: troca de profissional e rede de proteção não respondem à ausência.",
+    "Correta: busca ativa e visita domiciliar.",
+    "Errada: encaminhar e desligar abandona a usuária no serviço."
+   ],
+   "referencia": "Portaria GM/MS 3.088/2011",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-032",
@@ -745,9 +1196,25 @@
   ],
   "gabarito": "E",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "psicanalise",
+   "hospitalar"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 10
+  "pdf_pagina": 10,
+  "comentario": {
+   "geral": "O luto é processo individual, ligado ao vínculo e à qualidade da relação. O psicólogo ajuda a lidar com a perda, expressar sentimentos e desenvolver novas formas de enfrentamento e adaptação. Não se apressa o luto nem se evita falar da perda.",
+   "alternativas": [
+    "Errada: a doença crônica não elimina a dor e não há retomada rápida.",
+    "Errada: não se incentiva a esquecer, e separar alma e corpo não é critério.",
+    "Errada: evitar falar da perda dificulta a elaboração.",
+    "Errada: grupo pode ajudar no luto, não há exclusividade individual.",
+    "Correta: ajudar a lidar com a perda, expressar sentimentos e adaptar-se."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-033",
@@ -770,9 +1237,24 @@
   ],
   "gabarito": "B",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "aps-pnh"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 11
+  "pdf_pagina": 11,
+  "comentario": {
+   "geral": "No trabalho em saúde, além do saber técnico e dos instrumentos, importam as relações entre sujeitos e a horizontalidade, que sustentam liderança compartilhada e cuidado integral. Protocolos, papéis rígidos e liderança centrada no líder não bastam.",
+   "alternativas": [
+    "Errada: priorizar protocolos reduz a dimensão relacional.",
+    "Correta: relações e horizontalidade, além do saber técnico.",
+    "Errada: liderança democrática não dispensa coordenação e a alternativa é imprecisa.",
+    "Errada: o líder articula contribuições, o planejamento não visa apenas ao líder.",
+    "Errada: demarcar rigidamente papéis reforça o modelo funcionalista."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-034",
@@ -795,9 +1277,24 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "ad-violencia"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 11
+  "pdf_pagina": 11,
+  "comentario": {
+   "geral": "A notificação compulsória de violência contra a mulher em serviços de saúde é obrigatória no SINAN (Lei 10.778/2003). Fatores sociais e racismo explicam parte da vulnerabilidade, a laqueadura exige consentimento da pessoa e é vedado induzir esterilização, e o profissional de saúde não denuncia aborto por sigilo.",
+   "alternativas": [
+    "Errada: a política se justifica por determinantes sociais e racismo, mais que por genética.",
+    "Errada: não há exigência de concordância do cônjuge na versão atualizada da lei.",
+    "Correta: notificação compulsória no SINAN.",
+    "Errada: é vedado induzir ou instigar esterilização.",
+    "Errada: o sigilo veda denúncia e a criminalização não é política de saúde."
+   ],
+   "referencia": "Lei 10.778/2003; Lei 9.263/1996",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-035",
@@ -820,9 +1317,25 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "psicopato-neuro",
+   "hospitalar"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 11
+  "pdf_pagina": 11,
+  "comentario": {
+   "geral": "Quadro com síncope, mutismo, contraturas e paralisia sem alteração neurológica ou de sinais vitais sugere sintoma neurológico funcional, crise conversiva. A ausência de achados orgânicos orienta a hipótese.",
+   "alternativas": [
+    "Errada: exames normais afastam causa orgânica evidente.",
+    "Errada: não há convulsão descrita.",
+    "Correta: sintomas motores e de comunicação sem causa orgânica.",
+    "Errada: ansiedade não explica paralisia e mutismo.",
+    "Errada: pânico não cursa com contraturas e paralisia."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-036",
@@ -845,9 +1358,24 @@
   ],
   "gabarito": "A",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "etica-cfp"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "Questão pede a incorreta. O Código de Ética não visa fornecer normas de natureza técnica; sua missão é fixar padrões de conduta, valores e responsabilidades com compromisso social. As demais alternativas coincidem com seu texto e princípios.",
+   "alternativas": [
+    "Incorreta: o Código não trata de normas técnicas, mas de padrões éticos de conduta.",
+    "Correta como enunciado: princípio de análise crítica da realidade.",
+    "Correta como enunciado: considerar relações de poder.",
+    "Correta como enunciado: assegura padrão de conduta e reconhecimento social.",
+    "Correta como enunciado: delineia responsabilidades, forma e julga."
+   ],
+   "referencia": "Resolução CFP 010/2005",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-037",
@@ -870,9 +1398,24 @@
   ],
   "gabarito": "E",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "etica-cfp"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "Em equipe multiprofissional o sigilo não é absoluto nem livre. O psicólogo compartilha apenas as informações estritamente necessárias e com menor prejuízo à pessoa atendida (Código de Ética, art. 6º, ao tratar de relações com outros profissionais).",
+   "alternativas": [
+    "Errada: sigilo vale também dentro da equipe.",
+    "Errada: guardar documentos acessíveis a todos viola o sigilo.",
+    "Errada: prontuário e testes não são emprestados.",
+    "Errada: sigilo não é absoluto.",
+    "Correta: informações estritamente necessárias, com menor prejuízo."
+   ],
+   "referencia": "Resolução CFP 010/2005",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-038",
@@ -895,9 +1438,24 @@
   ],
   "gabarito": "B",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "aps-pnh"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "A UBS é a porta de entrada e responde pela atenção básica, baixa complexidade. O atendimento psicológico ali é de baixa complexidade, mesmo com psicólogo, pois o nível se define pelo serviço. A saúde mental também é cuidada na atenção básica.",
+   "alternativas": [
+    "Errada: o nível se define pelo ponto de atenção, não pelo profissional.",
+    "Correta: UBS é baixa complexidade.",
+    "Errada: saúde mental não é exclusiva da alta complexidade.",
+    "Errada: atendimento ambulatorial não define a baixa complexidade.",
+    "Errada: a doença instituída não desloca o nível."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-039",
@@ -920,9 +1478,24 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "A Lei 10.216/2001 assegura tratamento em serviços comunitários de saúde mental, preferencialmente, com acesso a informação sobre a doença, liberdade de comunicação e internação como último recurso. A alternativa C reproduz esse princípio.",
+   "alternativas": [
+    "Errada: a pessoa tem direito à melhor informação possível.",
+    "Errada: tem direito a livre acesso aos meios de comunicação.",
+    "Correta: tratamento preferencial em serviços comunitários.",
+    "Errada: a internação involuntária exige laudo médico.",
+    "Errada: a lei redireciona o modelo para fora do hospitalocentrismo."
+   ],
+   "referencia": "Lei 10.216/2001",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-040",
@@ -945,9 +1518,24 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 13
+  "pdf_pagina": 13,
+  "comentario": {
+   "geral": "A RAPS inclui UBS, CAPS, SRT, SAMU, geração de trabalho e renda, leitos em hospital geral, Programa de Volta para Casa, Consultório na Rua e Centros de Convivência. A alternativa D foi apontada como a que contém item fora da rede, as comunidades terapêuticas.",
+   "alternativas": [
+    "Compõem a RAPS: UBS e CAPS.",
+    "Compõem a RAPS: SRT, SAMU e geração de trabalho e renda.",
+    "Compõem a RAPS: enfermaria em hospital geral e serviço hospitalar de referência.",
+    "Correta como exceção: a lista inclui comunidades terapêuticas, indicadas como item fora.",
+    "Compõem a RAPS: Consultório na Rua e Centros de Convivência."
+   ],
+   "referencia": "Portaria GM/MS 3.088/2011",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-041",
@@ -970,9 +1558,24 @@
   ],
   "gabarito": "A",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "psicanalise"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 13
+  "pdf_pagina": 13,
+  "comentario": {
+   "geral": "Bion descreveu três supostos básicos de funcionamento grupal: dependência, luta e fuga e acasalamento (apareamento). A alternativa A cita esses três. As demais atribuem a Bion e a Pichon-Rivière ideias trocadas.",
+   "alternativas": [
+    "Correta: dependência, luta e fuga e acasalamento.",
+    "Errada: os dois planos (grupo de trabalho e de supostos básicos) são de Bion.",
+    "Errada: grupos operativos são de Pichon-Rivière.",
+    "Errada: o psicodrama é de Moreno.",
+    "Errada: a relação bicorporal e tripessoal é de Pichon-Rivière."
+   ],
+   "referencia": "Bion, Experiências com Grupos; Pichon-Rivière, O Processo Grupal",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-042",
@@ -995,9 +1598,24 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "psicopato-neuro"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 13
+  "pdf_pagina": 13,
+  "comentario": {
+   "geral": "Desorientação em relação a pessoas, tempo e espaço é alopsíquica. Incapacidade de reconhecer e interpretar estímulos sensoriais é agnosia. A diminuição da atenção é hipoprosexia. A sequência correta é a D.",
+   "alternativas": [
+    "Errada: troca agnosia por hipoprosexia.",
+    "Errada: autopsíquica refere-se à própria identidade.",
+    "Errada: associa hipoprosexia ao primeiro item.",
+    "Correta: alopsíquica, agnosia, hipoprosexia.",
+    "Errada: ordem incorreta."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-043",
@@ -1020,9 +1638,24 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "psicopato-neuro"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 13
+  "pdf_pagina": 13,
+  "comentario": {
+   "geral": "A entrevista inicial no psicodiagnóstico pode ser livre, semiestruturada ou estruturada, conforme objetivos. Os demais itens são equivocados quanto à autorização, ordem e uso da anamnese.",
+   "alternativas": [
+    "Errada: contatos com terceiros exigem autorização.",
+    "Errada: a ordem depende da idade e do caso.",
+    "Correta: livre, semiestruturada ou estruturada.",
+    "Errada: a anamnese também é usada com adultos.",
+    "Errada: a escolha de instrumentos é do profissional."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-044",
@@ -1045,9 +1678,25 @@
   ],
   "gabarito": "A",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "psicanalise",
+   "psicopato-neuro"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 14
+  "pdf_pagina": 14,
+  "comentario": {
+   "geral": "Questão pede a incorreta. O Complexo de Édipo ocorre na fase fálica, não na genital. As demais alternativas são corretas: ascetismo e intelectualização em Anna Freud, oito estágios de Erikson e estudo do ciclo vital.",
+   "alternativas": [
+    "Incorreta: o Édipo situa-se na fase fálica.",
+    "Correta: ascetismo e intelectualização na adolescência.",
+    "Correta: o primeiro estágio é confiança versus desconfiança.",
+    "Correta: os estágios vão até a velhice.",
+    "Correta: perspectiva do ciclo vital."
+   ],
+   "referencia": "Freud; Anna Freud; Erikson",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-045",
@@ -1070,9 +1719,24 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 14
+  "pdf_pagina": 14,
+  "comentario": {
+   "geral": "A Reforma Psiquiátrica brasileira inspirou-se na experiência italiana (Basaglia). A Declaração de Salamanca (1994) trata de educação especial, não de saúde mental; o marco foi a Declaração de Caracas (1990). O projeto de Paulo Delgado entrou no Congresso em 1989. Logo, V, F, V.",
+   "alternativas": [
+    "Errada: a segunda é falsa.",
+    "Errada: a primeira e a terceira são verdadeiras.",
+    "Correta: V, F, V.",
+    "Errada: a segunda é falsa.",
+    "Errada: a primeira é verdadeira."
+   ],
+   "referencia": "Declaração de Caracas (1990); Projeto de Lei Paulo Delgado (1989)",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-046",
@@ -1095,9 +1759,29 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "psicanalise",
+   "raps-caps"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 14
+  "pdf_pagina": 14,
+  "pegadinha": {
+   "letra": "C",
+   "atracao": 0.21
+  },
+  "comentario": {
+   "geral": "A Antipsiquiatria nega radicalmente a psiquiatria clássica e localiza a doença nas relações e no ambiente social e político. As demais atribuem a cada corrente ideias que não lhe pertencem.",
+   "alternativas": [
+    "Errada: a psicanálise vê o sintoma como formação do inconsciente.",
+    "Errada: a psiquiatria clássica não afirma isso e mistura conceitos.",
+    "Errada: a psiquiatria social é descrita de modo impreciso.",
+    "Correta: negação radical e origem social e política.",
+    "Errada: crenças centrais são conceito da terapia cognitiva."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-047",
@@ -1120,9 +1804,24 @@
   ],
   "gabarito": "E",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "psicopato-neuro"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 15
+  "pdf_pagina": 15,
+  "comentario": {
+   "geral": "Na análise do comportamento, a ansiedade e as respostas fisiológicas são respostas a contingências, não causa umas das outras. O ambiente e a história de vida são antecedentes do pensamento e do sentimento, que são também comportamentos. A alternativa E é a coerente com o referencial.",
+   "alternativas": [
+    "Errada: ansiedade não causa as reações; são concomitantes.",
+    "Errada: crença central é conceito da terapia cognitiva.",
+    "Errada: orientar a evitar reforça a esquiva.",
+    "Errada: o antecedente é o contexto social e a história, não pensamentos como causa.",
+    "Correta: ambiente e história como antecedentes do pensamento e do sentimento."
+   ],
+   "referencia": "Skinner, Ciência e Comportamento Humano",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-048",
@@ -1145,9 +1844,24 @@
   ],
   "gabarito": "B",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 15
+  "pdf_pagina": 15,
+  "comentario": {
+   "geral": "Questão pede a incorreta. A comunicação nem sempre exige mediador, e este não impõe o acordo; facilita a comunicação. As demais refletem a hipótese do contato, a cooperação e o papel do mediador.",
+   "alternativas": [
+    "Correta como enunciado: hipótese do contato.",
+    "Incorreta: mediador nem sempre é necessário nem decide o acordo.",
+    "Correta como enunciado: cooperação em vez de competição.",
+    "Correta como enunciado: mediador estrutura a comunicação.",
+    "Correta como enunciado: mediação previne conflitos."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-049",
@@ -1170,9 +1884,24 @@
   ],
   "gabarito": "D",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "psicanalise"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 15
+  "pdf_pagina": 15,
+  "comentario": {
+   "geral": "Na PBD o foco é um conflito atual definido, e a resolução do conflito focal pode repercutir em outras áreas da vida. A relação terapêutica e a transferência são trabalhadas, sem terapeuta passivo.",
+   "alternativas": [
+    "Errada: a PBD trabalha em torno de um foco.",
+    "Errada: não se proíbe a associação livre de modo rígido.",
+    "Errada: o terapeuta é ativo.",
+    "Correta: repercussões além do foco.",
+    "Errada: a transferência é trabalhada."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-050",
@@ -1195,9 +1924,28 @@
   ],
   "gabarito": "B",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 16
+  "pdf_pagina": 16,
+  "pegadinha": {
+   "letra": "C",
+   "atracao": 0.88
+  },
+  "comentario": {
+   "geral": "Questão pede o que não corresponde. A alternativa B descreve o Programa de Volta para Casa (auxílio-reabilitação), um programa específico, e não define a reabilitação psicossocial em geral. As demais descrevem a reabilitação como intersetorial, com metas, ação individual e no ambiente, e geração de renda.",
+   "alternativas": [
+    "Corresponde: intersetorialidade.",
+    "Não corresponde: descreve programa específico de auxílio-reabilitação.",
+    "Corresponde: programa com objetivos e metas.",
+    "Corresponde: competências e mudanças no ambiente.",
+    "Corresponde: componente da RAPS."
+   ],
+   "referencia": "Lei 10.708/2003; Portaria GM/MS 3.088/2011",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-051",
@@ -1220,9 +1968,25 @@
   ],
   "gabarito": "E",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps",
+   "ad-violencia"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 16
+  "pdf_pagina": 16,
+  "comentario": {
+   "geral": "A reabilitação psicossocial deve respeitar autonomia, expectativas e contexto da pessoa, usando recursos variados (grupos operativos, ateliês, atendimento familiar, atividades externas). Não se baseia em afastar da comunidade nem em internação longa.",
+   "alternativas": [
+    "Errada: desconsiderar expectativas fere a autonomia.",
+    "Errada: afastar da comunidade contraria a lógica territorial.",
+    "Errada: reduzir ao tratamento clínico é parcial.",
+    "Errada: internação de longa permanência contraria a reforma.",
+    "Correta: recursos diversos e atividades externas."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-052",
@@ -1245,9 +2009,28 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 16
+  "pdf_pagina": 16,
+  "pegadinha": {
+   "letra": "E",
+   "atracao": 0.31
+  },
+  "comentario": {
+   "geral": "Os CAPS que atendem intenso sofrimento por transtornos graves e persistentes, inclusive relacionados ao uso de substâncias, são todas as modalidades: I, II, III, ad e i. A C é a alternativa abrangente.",
+   "alternativas": [
+    "Errada: omite CAPSad e CAPSi.",
+    "Errada: omite CAPS I, II e III.",
+    "Correta: todas as modalidades.",
+    "Errada: limitada.",
+    "Errada: limitada."
+   ],
+   "referencia": "Portaria GM/MS 3.088/2011",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-053",
@@ -1270,9 +2053,28 @@
   ],
   "gabarito": "B",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "ad-violencia"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 16
+  "pdf_pagina": 16,
+  "pegadinha": {
+   "letra": "A",
+   "atracao": 0.6
+  },
+  "comentario": {
+   "geral": "Questão pede a incorreta. Fissura (craving) é o desejo intenso de usar a substância, não variação individual de resposta; esta se chama tolerância inata. As demais afirmações estão corretas.",
+   "alternativas": [
+    "Correta como enunciado.",
+    "Incorreta: fissura é desejo intenso, não variação de resposta.",
+    "Correta como enunciado: abstinência é oposta aos efeitos.",
+    "Correta como enunciado.",
+    "Correta como enunciado: tolerância inata."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-054",
@@ -1295,9 +2097,28 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "etica-cfp"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 17
+  "pdf_pagina": 17,
+  "pegadinha": {
+   "letra": "B",
+   "atracao": 0.33
+  },
+  "comentario": {
+   "geral": "A Resolução CFP 06/2019 define a estrutura do Relatório Psicológico: identificação, demanda, procedimento, análise e conclusão, com referencial teórico. Os demais itens misturam conteúdo de documentos.",
+   "alternativas": [
+    "Errada: relatório multiprofissional não é resultado de avaliação psicológica como o laudo.",
+    "Errada: o atestado não deve trazer o acompanhamento detalhado.",
+    "Correta: estrutura do relatório com referencial teórico.",
+    "Errada: apresenta substituição sem a recomendação nesses termos.",
+    "Errada: a declaração não registra sintomas."
+   ],
+   "referencia": "Resolução CFP 06/2019",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-055",
@@ -1320,9 +2141,24 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 17
+  "pdf_pagina": 17,
+  "comentario": {
+   "geral": "Questão pede o que não corresponde. A abordagem sistêmica não vê a família como somatória de comportamentos; ela é um sistema em que as partes interagem e se influenciam. A C contradiz esse princípio.",
+   "alternativas": [
+    "Compatível: o sintoma indica a dinâmica familiar.",
+    "Compatível: considera história e contexto.",
+    "Não corresponde: família não é soma de partes.",
+    "Compatível: aplicável a dependência química.",
+    "Compatível: unidade dinâmica e interativa."
+   ],
+   "referencia": "Bertalanffy, Teoria Geral dos Sistemas",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-056",
@@ -1345,9 +2181,28 @@
   ],
   "gabarito": "E",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "psicopato-neuro"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 17
+  "pdf_pagina": 17,
+  "pegadinha": {
+   "letra": "B",
+   "atracao": 0.27
+  },
+  "comentario": {
+   "geral": "O caso apresenta delírios, desorganização e baixo autocuidado, compatíveis com espectro da esquizofrenia. O diagnóstico exige exclusão de outras causas de psicose, como substâncias e condições médicas.",
+   "alternativas": [
+    "Errada: sintomas descritos não são do espectro autista.",
+    "Errada: o relato inclui sintomas positivos e desorganização além dos negativos.",
+    "Errada: o tipo paranoide foi abolido, e a infância não é condição.",
+    "Errada: o WISC-IV é para crianças.",
+    "Correta: exclusão de outra condição que origine psicose."
+   ],
+   "referencia": "DSM-5",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-057",
@@ -1370,9 +2225,24 @@
   ],
   "gabarito": "A",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "psicopato-neuro"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 17
+  "pdf_pagina": 17,
+  "comentario": {
+   "geral": "Humor deprimido, anedonia e prejuízos sugerem depressão. A intervenção mais adequada na TCC é a ativação comportamental. As demais técnicas são de outros problemas ou abordagens.",
+   "alternativas": [
+    "Correta: ativação comportamental.",
+    "Errada: usada em fobias.",
+    "Errada: é modelo explicativo, não intervenção.",
+    "Errada: técnica da ACT, não da TCC clássica.",
+    "Errada: técnica da ACT."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-058",
@@ -1395,9 +2265,25 @@
   ],
   "gabarito": "A",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "etica-cfp",
+   "raps-caps"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 18
+  "pdf_pagina": 18,
+  "comentario": {
+   "geral": "Diante de risco de suicídio, a conduta depende da avaliação de risco e pode variar do acompanhamento usual a acionamento de urgência e envolvimento da família, com quebra de sigilo quando necessário. A alternativa A descreve essa gradação.",
+   "alternativas": [
+    "Correta: conduta varia conforme o risco.",
+    "Errada: a restrição absoluta ao contato é inadequada.",
+    "Errada: o sigilo não deve ocultar o risco da equipe.",
+    "Errada: minimizar e pedir pensamento positivo é inadequado.",
+    "Errada: abordar o suicídio não o incentiva."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-059",
@@ -1420,9 +2306,24 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "raps-caps"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 18
+  "pdf_pagina": 18,
+  "comentario": {
+   "geral": "Com tentativa de suicídio em curso, a prioridade é o socorro imediato. A orientação é acionar serviço pré-hospitalar ou levar a criança a hospital geral ou UPA.",
+   "alternativas": [
+    "Errada: esperar põe a vida em risco.",
+    "Errada: o CVV não é o recurso de emergência.",
+    "Correta: socorro imediato.",
+    "Errada: o CAPSi não é serviço de urgência clínica.",
+    "Errada: UBS não é o serviço adequado."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2023-psicologia-t01-060",
@@ -1445,8 +2346,23 @@
   ],
   "gabarito": "C",
   "gabarito_status": "provisorio",
-  "topicos": [],
+  "topicos": [
+   "hospitalar"
+  ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
-  "pdf_pagina": 18
+  "pdf_pagina": 18,
+  "comentario": {
+   "geral": "No hospital geral, o psicólogo trabalha como membro da equipe de saúde e o setting se adapta ao paciente internado, muitas vezes no leito, com interrupções e sem horário rígido. A demanda pode partir da equipe, da família ou da busca ativa do próprio psicólogo, de modo que o paciente não precisa solicitar o atendimento. O eixo da avaliação é compreender como paciente e família percebem a situação, quais recursos psíquicos de enfrentamento dispõem e de que modo o psicólogo pode colaborar com os demais cuidadores. Por isso, apenas a assertiva III descreve corretamente a atuação, e o gabarito é a alternativa C.",
+   "alternativas": [
+    "Errada: marcar como correta apenas a I deixa de fora a assertiva III, que é a que descreve o núcleo da atuação. Além disso, a I trata o setting como fixo, com horário definido e espaço privativo, quando o atendimento hospitalar se ajusta às condições clínicas do paciente, ao leito e à rotina da equipe.",
+    "Errada: a assertiva II exige que o paciente solicite o atendimento, o que não procede. No hospital a demanda pode vir da equipe, da família ou da busca ativa do psicólogo, como neste caso, em que a equipe pediu a avaliação. Essa alternativa ainda exclui a III, que está correta.",
+    "Correta: somente a assertiva III está certa, pois define a atuação do psicólogo hospitalar como compreensão da vivência do paciente e da família, de seus recursos de enfrentamento e da colaboração como parte da equipe de cuidadores. As assertivas I e II descrevem condições rígidas que não correspondem à prática hospitalar.",
+    "Errada: inclui a II, que é falsa, porque o atendimento psicológico hospitalar não depende de solicitação do paciente e pode ser iniciado a pedido da equipe, da família ou por iniciativa do psicólogo. Embora reconheça a III, a combinação com a II torna a alternativa incorreta.",
+    "Errada: reúne as três assertivas, mas a I e a II não se sustentam. A I impõe horário definido e espaço privativo como condição, o que ignora a flexibilidade do setting no leito, e a II exige solicitação do paciente, o que não é requisito. Só a III é correta."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  }
 ]

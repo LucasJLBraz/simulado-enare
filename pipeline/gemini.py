@@ -5,7 +5,7 @@ from pathlib import Path
 CHAVE = Path.home() / ".config" / "simulado-enare" / "gemini.key"
 CACHE = Path(__file__).parent / "dados" / "cache"
 # ponytail: ids de modelo mudam; confirmar o Flash gratuito atual em ai.google.dev/gemini-api/docs/models
-MODELO = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+MODELO = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 MODELO_EMB = os.environ.get("GEMINI_EMB_MODEL", "gemini-embedding-001")
 
 
@@ -40,7 +40,12 @@ def _com_retry(fn, tentativas=6):
         try:
             return fn()
         except Exception as e:
-            if getattr(e, "code", None) != 429:
+            code = getattr(e, "code", None)
+            if code in (500, 503) and n < tentativas - 1:  # modelo sobrecarregado: tenta de novo
+                print(f"  {code}, espera {30 * (n + 1)}s", file=sys.stderr)
+                time.sleep(30 * (n + 1))
+                continue
+            if code != 429:
                 raise
             s = str(e)
             if "PerDay" in s or "per day" in s.lower():

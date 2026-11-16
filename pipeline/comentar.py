@@ -90,7 +90,7 @@ def main():
         if arq.name.endswith(".rejeitadas.json"):
             continue
         qs = json.loads(arq.read_text())
-        alvo = [q for q in qs if not q.get("comentario")]
+        alvo = [q for q in qs if not (q.get("comentario") or {}).get("alternativas")]
         n = comentar(alvo, lambda q: 1, a.lote, a.modelo, a.dry_run,
                      lambda: arq.write_text(json.dumps(qs, ensure_ascii=False, indent=1)))
         print(f"{arq.name}: {n} comentadas, {len(alvo) - n} pendentes")

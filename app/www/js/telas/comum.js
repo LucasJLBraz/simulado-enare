@@ -8,6 +8,7 @@ export const ROTULO_CONF = { chutei: 'Chutei', duvida: 'Dúvida', certeza: 'Cert
 // Gabarito, comentário geral, comentário por alternativa (quando existe), referência e confirmar/contestar.
 export function cartaoGabarito(q, resp) {
   const com = q.comentario || {};
+  const pg = q.pegadinha?.letra; // estimada pela Decisions API no pipeline (pipeline/conferir_gabarito.py)
   const raiz = h('div');
   const botoes = h('div', { class: 'linha' });
   const pintar = () => {
@@ -25,9 +26,12 @@ export function cartaoGabarito(q, resp) {
       const cls = L === q.gabarito ? 'certa' : L === resp ? 'errada' : '';
       return h('div', {},
         h('div', { class: `opcao ${cls}` }, h('span', { class: 'letra' }, L),
-          h('span', {}, a, L === q.gabarito && ' (gabarito)', L === resp && L !== q.gabarito && ' (sua resposta)')),
+          h('span', {}, a, L === q.gabarito && ' (gabarito)', L === resp && L !== q.gabarito && ' (sua resposta)', L === pg && ' (pegadinha)')),
         com.alternativas?.[i] && h('div', { class: 'comentario' }, com.alternativas[i]));
     })),
+    pg && h('p', { class: 'badge prov' }, resp === pg
+      ? `Você caiu na pegadinha: a alternativa ${pg} é a errada que mais parece certa. Leia o comentário dela acima.`
+      : `Pegadinha desta questão: a alternativa ${pg} é a errada que mais parece certa.`),
     h('h2', {}, 'Comentário'),
     com.geral ? h('div', { class: 'comentario' }, com.geral) : h('p', { class: 'suave' }, 'Esta questão ainda não tem comentário.'),
     com.referencia && h('p', { class: 'suave' }, `Referência: ${com.referencia}`),

@@ -23,6 +23,10 @@ Questão oficial anulada pela banca no gabarito definitivo. Não entra no banco.
 Explicação de por que cada alternativa está certa ou errada, com a referência (lei, resolução, autor) que justifica o gabarito. Está não revisado, confirmado pela estudante ou contestado por ela.
 _Avoid_: resolução, explicação
 
+**Pegadinha**:
+A alternativa errada que mais parece certa numa questão, estimada por modelo e mostrada junto do gabarito.
+_Avoid_: distrator, armadilha
+
 **Contestação**:
 Marca da estudante dizendo que um comentário está errado. Um comentário contestado é refeito na próxima atualização do banco.
 _Avoid_: denúncia, reclamação

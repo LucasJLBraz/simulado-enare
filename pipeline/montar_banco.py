@@ -78,7 +78,7 @@ def main():
     topicos = {t["id"] for t in json.loads((BANCO / "topicos.json").read_text())}
     novas = []
     for f in sorted((DIR / "dados" / "extraido").glob("*.json")):
-        if not f.name.endswith(".rejeitadas.json"):
+        if not f.name.endswith((".rejeitadas.json", ".conferencia.json")):
             novas += json.loads(f.read_text())
     banco, add, upd = mesclar(existentes, novas)
     erros = validar(banco, topicos)

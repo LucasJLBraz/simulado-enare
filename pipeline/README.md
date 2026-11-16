@@ -3,7 +3,7 @@
 Scripts Python (3.12+, `uv`) rodados no PC do autor. O app nunca chama LLM (`docs/adr/0002-llm-so-fora-do-app.md`).
 Tudo em `pipeline/`: `uv sync` uma vez, depois `uv run python <script>`.
 
-Chave do Gemini: arquivo `~/.config/simulado-enare/gemini.key` (fora do repo). Modelo: `GEMINI_MODEL` (padrão `gemini-2.5-flash`; confirmar o Flash gratuito atual). Respostas ficam em `dados/cache/`, então reexecutar não reenvia nada e uma cota diária esgotada só pausa o trabalho.
+Chave do Gemini: arquivo `~/.config/simulado-enare/gemini.key` (fora do repo). Modelo: `GEMINI_MODEL` (padrão `gemini-3.8-flash`, conferido em 2026-11-16). Respostas ficam em `dados/cache/`, então reexecutar não reenvia nada e uma cota diária esgotada só pausa o trabalho.
 
 ## Adicionar uma prova nova
 
