@@ -67,3 +67,27 @@ O código Rust antigo vai para `legado/rust/`.
 - App: abrir `app/www/index.html` no navegador e fazer um mini-simulado e um simulado curto do começo ao fim.
 - APK: `./gradlew assembleDebug` gera o APK sem erro; instalar no emulador ou aparelho se houver.
 - Banco: toda questão tem 5 alternativas e gabarito A a E; ids únicos; a contagem por prova bate com a prova menos as anuladas; a amostra de conferência não acha mais de 1 erro por prova.
+
+## Rodada de UX (decidida em 16/11/2026, a partir de `docs/revisao-ux.md`)
+
+Direção: o que falta é sobretudo interface e retorno ao usuário. Motivação entra só como sinal de progresso, sem pontos, ranking, medalhas ou sequência que zera. Todo número aparece numa frase simples ("Acertou 6 de 10").
+
+Bloco A (caderno, questão, banco):
+- Depois de confirmar, faixa fixa no alto com resultado, confiança e o destino real no caderno, pela regra de `logica/revisao.js` (primeiro erro ou acerto sem certeza: volta em N dias; errar de novo: amanhã; acerto com certeza: não volta). Início: "No caderno: N questões. Próxima revisão: dd/mm."
+- Comentário abre só na alternativa marcada e na correta; as demais em "Ver as outras alternativas".
+- Confiança e Confirmar fixos embaixo; cabeçalho da questão numa linha.
+- Sem cronômetro pedido, nenhum tempo na tela (o tempo continua medido). Botão para esconder o relógio em qualquer modo, inclusive prova.
+- "Confirmar/Contestar comentário" viram "O comentário me ajudou" / "Acho que o comentário está errado", com frase do que acontece.
+- "Pular" diz que a questão volta no fim (já é o comportamento).
+- Banco: nome curto (até 4 palavras) para os 43 tópicos, nome do edital ao abrir o tópico; afirmativas I, II, III em linhas próprias; sem U+F020; comentários antigos com prefixo "Correta:/Errada:" (só o prefixo muda). Limpeza por script, reaplicada em toda montagem do banco.
+- Detalhes D1 a D10 da revisão.
+
+Bloco B (progresso, revisão do dia, simulado):
+- Aba "Progresso": lista das sessões (abre o resultado), antes e depois por tópico (últimas 2 semanas contra o período anterior; menos de 5 respostas: "poucas questões ainda", sem porcentagem), contador de erros com certeza corrigidos. Linha de resumo no Início leva à aba.
+- Resultado: resumo por tópico, filtro "só as erradas"; em Encerrar de revisão ou mini, gabarito das não respondidas escondido atrás de "Ver gabarito".
+- Revisão do dia: escolher 10, 25 ou todas; erros com certeza primeiro, depois atraso; meta "Hoje: X de N"; tela final com o que muda amanhã. Encerrar diz que as restantes continuam vencidas.
+- Pausar em toda sessão menos modo prova; sair da tela pausa; iniciar sessão nova com outra pausada pede confirmação.
+- O que estudar: 5 tópicos prioritários e "Ver todos"; etiqueta só com 5 ou mais respostas ("Ainda sem dados" abaixo disso); barra de antes e depois.
+- Simulado completo: confirmação antes de começar (questões e duração); contador "respondidas X de N". Mapa de questões fica para depois.
+
+Conferência: testes em `node --test` e `pytest`; um agente independente confere os dois blocos juntos (diff, testes, storyboard gerado por script com estado de exemplo, sem celular). Uma release só no fim.
