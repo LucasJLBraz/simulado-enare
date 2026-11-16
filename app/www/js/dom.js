@@ -42,3 +42,6 @@ export function badgesOrigem(q) {
     h('span', { class: q.origem.tipo === 'oficial' ? 'badge' : 'badge apost' }, origemTexto(q)),
     q.gabarito_status === 'provisorio' && h('span', { class: 'badge prov' }, 'Gabarito provisório'));
 }
+
+// Figura recortada da prova (pipeline/extrair.py). Fundo branco porque o recorte do PDF é branco.
+export const figura = (q) => q.figura && h('img', { src: `banco/${q.figura}`, alt: 'Figura da questão, como aparece na prova', class: 'figura' });

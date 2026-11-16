@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "banco": "mkdir -p www/banco && cp ../banco/*.json www/banco/",
+    "banco": "mkdir -p www/banco && cp ../banco/*.json www/banco/ && rm -rf www/banco/figuras && cp -r ../banco/figuras www/banco/",
     "test": "node --test tests",
     "sync": "npm run banco && npx cap sync android",
     "apk": "npm run sync && cd android && ./gradlew assembleDebug"

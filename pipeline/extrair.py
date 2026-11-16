@@ -110,7 +110,37 @@ def parse_gabarito(path, secao):
     return gab, status
 
 
-def montar(qs, gab, origem, status):
+FIGURAS = Path(__file__).parent.parent / "banco" / "figuras"
+
+
+def recortar_figura(pdf, numero, pagina, destino):
+    """Recorta do PDF a região entre o número da questão e a alternativa (A), na coluna da questão, como PNG.
+    Devolve True se achou a região. ponytail: supõe enunciado numa página e numa coluna só."""
+    doc = pymupdf.open(pdf)
+    p = doc[pagina - 1]
+    meio = p.rect.width / 2
+    blocos = p.get_text("blocks")
+    ini = next((b for b in blocos if b[4].strip() == str(numero)), None)
+    if ini is None:
+        return False
+    x0, x1 = (0, meio) if ini[0] < meio else (meio, p.rect.width)
+    mesma_col = [b for b in blocos if x0 <= b[0] < x1 and b[1] > ini[1]]
+    fim = next((b[1] for b in sorted(mesma_col, key=lambda b: b[1]) if b[4].lstrip().startswith("(A)")), None)
+    if fim is None:  # alternativas em outra coluna/página: corta até o texto logo depois do maior vão (a figura)
+        ant, vao = ini[3], 0
+        for b in sorted((b for b in mesma_col if b[4].strip()), key=lambda b: b[1]):
+            if b[1] - ant > max(vao, 40):
+                vao, fim = b[1] - ant, b[1]
+            ant = b[3]
+    if fim is None:
+        return False
+    clip = pymupdf.Rect(x0 + 8, ini[1] - 4, x1 - 8, fim - 2)
+    destino.parent.mkdir(parents=True, exist_ok=True)
+    p.get_pixmap(clip=clip, matrix=pymupdf.Matrix(2, 2)).save(destino)
+    return True
+
+
+def montar(qs, gab, origem, status, pdf=None):
     ano = origem["edicao"].split("/")[0]
     pid = f"enare-{ano}-{origem['prova'].lower()}"
     ok, rejeitadas, anuladas = [], [], 0
@@ -123,8 +153,14 @@ def montar(qs, gab, origem, status):
             motivos.append("enunciado vazio")
         if q["parte"] not in ("gerais", "especificos"):
             motivos.append("parte indefinida")
+        figura = None
         if q["img"]:
-            motivos.append("depende de figura/imagem")
+            ano_, pid_ = origem["edicao"].split("/")[0], origem["prova"].lower()
+            nome = f"enare-{ano_}-{pid_}-{q['numero']:03d}.png"
+            if pdf and recortar_figura(pdf, q["numero"], min(q["paginas"]), FIGURAS / nome):
+                figura = f"figuras/{nome}"
+            else:
+                motivos.append("depende de figura/imagem e o recorte falhou")
         g = gab.get(q["numero"])
         if g == "X":
             anuladas += 1
@@ -142,6 +178,8 @@ def montar(qs, gab, origem, status):
             "gabarito": g, "gabarito_status": status, "topicos": [],
             "fonte_url": origem.get("fonte_url", ""), "pdf_pagina": min(q["paginas"]),
         }
+        if figura:
+            reg["figura"] = figura
         (rejeitadas if motivos else ok).append({**reg, "motivos": motivos} if motivos else reg)
     return pid, ok, rejeitadas, anuladas
 
@@ -164,7 +202,7 @@ def main():
     status = a.status or st
     if not status:
         sys.exit("gabarito sem indicação de definitivo/preliminar: passe --status")
-    pid, ok, rej, anul = montar(qs, gab, origem, status)
+    pid, ok, rej, anul = montar(qs, gab, origem, status, a.prova)
     out = Path(a.saida); out.mkdir(parents=True, exist_ok=True)
     (out / f"{pid}.json").write_text(json.dumps(ok, ensure_ascii=False, indent=1))
     rp = out / f"{pid}.rejeitadas.json"

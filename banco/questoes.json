@@ -8395,5 +8395,93 @@
    "status": "nao_revisado",
    "versao": 1
   }
+ },
+ {
+  "id": "enare-2023-psicologia-t01-002",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 2
+  },
+  "parte": "gerais",
+  "enunciado": "Em epidemiologia, existem vários modelos para se representar o processo saúde-doença, principalmente quando este está associado aos aspectos etiológicos das doenças. Analise a seguinte figura e assinale a alternativa que corresponde ao modelo apresentado. Fonte: adaptado de Pereira, 2013.",
+  "alternativas": [
+   "Modelo da cadeia de eventos.",
+   "Modelo da dupla ecológica.",
+   "Modelo das causas – múltiplos efeitos.",
+   "Modelo sistêmico.",
+   "Modelo da etiologia social da doença."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "sus-redes"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2023-2024/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "figura": "figuras/enare-2023-psicologia-t01-002.png",
+  "comentario": {
+   "geral": "Os modelos de processo saúde-doença em epidemiologia organizam os fatores que explicam o adoecimento. A figura mostra o Homem no centro, com seus atributos individuais (genética, anatomia, fisiologia e estilo de vida), cercado por um anel de fatores do ambiente: meio físico, social, cultural, biológico e serviços de saúde. A ideia central é a interação entre o ser humano (hospedeiro) e o seu meio, e é isso que caracteriza o modelo da dupla ecológica, indicado no gabarito como alternativa B. Por isso a figura retrata duas dimensões em interação, o homem e o ambiente, e não uma sequência linear de eventos nem um único fator causal. Ao reconhecer esse arranjo homem-meio, o aluno chega ao modelo correto.",
+   "alternativas": [
+    "Errada: o modelo da cadeia de eventos descreve uma sequência linear de causas e efeitos (agente, hospedeiro, ambiente em série), e a figura traz o homem em interação com o ambiente ao redor.",
+    "Correta: a figura apresenta o homem no centro e o ambiente (físico, social, cultural, biológico e serviços de saúde) em volta, ou seja, a interação homem-meio própria da dupla ecológica.",
+    "Errada: o modelo das causas e múltiplos efeitos parte de uma causa que gera vários desfechos, e a figura não mostra uma causa única com desdobramentos.",
+    "Errada: o modelo sistêmico representa subsistemas e relações hierárquicas entre níveis de organização, e a figura traz um indivíduo e seu entorno, sem essa estrutura de níveis.",
+    "Errada: o modelo da etiologia social da doença enfatiza a determinação social do adoecimento, e a figura inclui atributos biológicos individuais como genética e fisiologia."
+   ],
+   "referencia": "Pereira, M. G. Epidemiologia: teoria e prática. Rio de Janeiro: Guanabara Koogan.",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "pegadinha": {
+   "letra": "A",
+   "atracao": 0.29
+  }
+ },
+ {
+  "id": "enare-2023-psicologia-t01-006",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 6
+  },
+  "parte": "gerais",
+  "enunciado": "A seguinte imagem ilustra os cinco tipos de tecnologias de gestão da clínica: as diretrizes clínicas, a gestão da condição de saúde, a gestão de caso, a auditoria clínica e a lista de espera. Nesse contexto, é correto afirmar que, para alcançar seus objetivos, as diretrizes clínicas devem",
+  "alternativas": [
+   "utilizar o método de auditoria que confronta a prática real com padrões predefinidos e busca pela economia de escopo.",
+   "combinar medicina baseada em evidência, avaliação tecnológica em saúde, avaliação econômica dos serviços de saúde e garantia de qualidade.",
+   "alterar os padrões de cuidados sem causar danos aos resultados em relação aos pacientes e com menores custos.",
+   "abordar um modelo voltado ao profissional de saúde que responde a um doente por meio de procedimentos curativos, cuidadores e reabilitadores.",
+   "proporcionar os elementos fundamentais para uma participação reativa das pessoas usuárias em sua atenção, recolhendo e acolhendo seu grau de confiança."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "sus-redes"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2023-2024/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "figura": "figuras/enare-2023-psicologia-t01-006.png",
+  "comentario": {
+   "geral": "As tecnologias de gestão da clínica, descritas por Eugênio Vilaça Mendes no contexto das redes de atenção à saúde, são cinco: diretrizes clínicas, gestão da condição de saúde, gestão de caso, auditoria clínica e lista de espera. A figura mostra as diretrizes clínicas no centro, e as demais tecnologias derivam delas. As diretrizes são recomendações sistematicamente desenvolvidas para orientar decisões sobre o cuidado adequado em circunstâncias específicas. Para alcançar seus objetivos, elas combinam quatro elementos: medicina baseada em evidências, avaliação tecnológica em saúde, avaliação econômica dos serviços de saúde e garantia de qualidade. Esse é o conteúdo da alternativa B, o gabarito oficial. As demais alternativas atribuem às diretrizes características de outras tecnologias ou de outros modelos de atenção.",
+   "alternativas": [
+    "Errada: confrontar a prática real com padrões predefinidos é o método da auditoria clínica, outra tecnologia da lista, e não o modo como as diretrizes alcançam seus objetivos.",
+    "Correta: as diretrizes clínicas integram medicina baseada em evidências, avaliação tecnológica em saúde, avaliação econômica e garantia de qualidade para orientar o cuidado.",
+    "Errada: a afirmação descreve um propósito geral de mudança de padrões de cuidado com menor custo e não os componentes que as diretrizes combinam para atingir seus objetivos.",
+    "Errada: um modelo centrado no profissional que responde ao doente com procedimentos curativos e reabilitadores remete à atenção às condições agudas, e não ao método das diretrizes.",
+    "Errada: a participação reativa das pessoas usuárias remete ao apoio ao autocuidado e à gestão da condição de saúde, e o termo reativa não condiz com a participação ativa esperada."
+   ],
+   "referencia": "Mendes, E. V. As redes de atenção à saúde. Brasília: Organização Pan-Americana da Saúde, 2011.",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "pegadinha": {
+   "letra": "C",
+   "atracao": 0.17
+  }
  }
 ]

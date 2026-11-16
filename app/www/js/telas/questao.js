@@ -1,4 +1,4 @@
-import { h, fmtSeg, badgesOrigem, frag } from '../dom.js';
+import { h, fmtSeg, badgesOrigem, frag, figura } from '../dom.js';
 import { ctx } from '../ctx.js';
 import { avisosPendentes } from '../../logica/simulado.js';
 import { atualId, decorrido, restante, marcarQuestaoExibida, registrarResposta, finalizar, pausar, retomar, pular } from '../sessao.js';
@@ -62,7 +62,7 @@ export function questao() {
       h('div', { class: 'linha' }, h('strong', {}, `Questão ${Math.min(feitas + (feedback ? 0 : 1), s.fila.length)} de ${s.fila.length}`), h('span', {}, relogio, porQ)),
       h('div', { class: 'barra' }, h('div', { style: `width:${(feitas / s.fila.length) * 100}%` })));
 
-    const corpo = [topo, badgesOrigem(q), h('p', { class: 'enunciado' }, q.enunciado)];
+    const corpo = [topo, badgesOrigem(q), h('p', { class: 'enunciado' }, q.enunciado), figura(q)];
 
     if (!feedback) {
       corpo.push(

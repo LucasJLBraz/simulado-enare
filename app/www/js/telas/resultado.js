@@ -1,4 +1,4 @@
-import { h, fmtMin, origemTexto } from '../dom.js';
+import { h, fmtMin, origemTexto, figura } from '../dom.js';
 import { ctx } from '../ctx.js';
 import { ritmo } from '../../logica/ritmo.js';
 import { SEG_PADRAO } from '../../logica/revisao.js';
@@ -29,7 +29,7 @@ export function resultado({ arg }) {
           it.resp ? (it.certo ? 'Acertou' : `Errou (gabarito ${q.gabarito})`) : 'Sem resposta'),
         it.conf && h('span', { class: 'badge' }, ROTULO_CONF[it.conf])),
         h('p', { class: 'suave' }, origemTexto(q)),
-        h('p', { class: 'enunciado' }, q.enunciado),
+        h('p', { class: 'enunciado' }, q.enunciado), figura(q),
         cartaoGabarito(q, it.resp));
     }),
     h('a', { class: 'btn prim', href: '#/' }, 'Voltar ao início'),
