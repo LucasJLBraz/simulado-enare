@@ -18,8 +18,8 @@ test('mensagem de feedback usa a regra do caderno', () => {
 test('resumo do caderno para o Início', () => {
   const p = { a: { caderno: { proxima: '2026-05-10' } }, b: { caderno: { proxima: '2026-05-03' } }, c: {} };
   assert.deepEqual(resumoCaderno(p), { n: 2, proxima: '2026-05-03' });
-  assert.equal(fraseCaderno(resumoCaderno(p), H), 'No caderno: 2 questões. Próxima revisão: 03/05.');
-  assert.equal(fraseCaderno({ n: 1, proxima: '2026-04-30' }, H), 'No caderno: 1 questão. Próxima revisão: hoje.');
+  assert.equal(fraseCaderno(resumoCaderno(p), H), 'No caderno de erros: 2 no total. Próxima revisão: 03/05.');
+  assert.equal(fraseCaderno({ n: 1, proxima: '2026-04-30' }, H), 'No caderno de erros: 1 no total. Próxima revisão: hoje.');
   assert.equal(fraseCaderno(resumoCaderno({}), H), null);
 });
 

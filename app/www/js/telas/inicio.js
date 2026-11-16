@@ -38,7 +38,7 @@ export function inicio() {
       h('button', { class: 'link-txt', onclick: () => { if (confirm('Descartar esta sessão? As respostas já dadas continuam salvas.')) { e.sessao = null; ctx.salvar(); ctx.ir('#/'); } } }, 'Descartar sessão')),
     h('section', { class: 'card destaque' },
       h('h2', {}, 'Revisão do dia'),
-      meta.total > 0 && [h('p', {}, `Hoje você revisou ${meta.feitas} de ${meta.total}.`),
+      meta.total > 0 && [h('p', {}, `Para revisar hoje: ${meta.total} ${meta.total === 1 ? 'questão' : 'questões'} (feitas: ${meta.feitas}).`),
         h('div', { class: 'barra' }, h('div', { style: `width:${(meta.feitas / meta.total) * 100}%` }))],
       ids.length
         ? [caderno && h('p', { class: 'suave' }, caderno),

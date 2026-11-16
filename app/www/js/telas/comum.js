@@ -41,7 +41,7 @@ export function cartaoGabarito(q, resp) {
     const conf = !contest && !!ctx.estado.confirmacoes[q.id];
     const agir = (t) => () => { marcar(ctx.estado, q, t); ctx.salvar(); pintar(); };
     botoes.replaceChildren(frag(
-      h('div', { class: 'linha' },
+      h('div', { class: 'linha iguais' },
         h('button', { class: 'btn' + (conf ? ' marcado' : ''), onclick: agir(conf ? 'limpar' : 'confirmar') }, conf ? 'Marcado: o comentário me ajudou' : 'O comentário me ajudou'),
         h('button', { class: 'btn' + (contest ? ' perigo marcado' : ''), onclick: agir(contest ? 'limpar' : 'contestar') }, contest ? 'Marcado: acho que está errado' : 'Acho que o comentário está errado')),
       (contest || conf) && h('p', { class: 'suave' }, (contest ? 'Marcado. O comentário será refeito na próxima atualização do banco.' : 'Marca guardada.') + ' Toque de novo para desfazer.')));
@@ -61,7 +61,7 @@ export function cartaoGabarito(q, resp) {
   const outras = LETRAS.map((_, i) => i).filter((i) => !principais.includes(i));
   raiz.append(frag(
     h('div', { class: 'opcoes' }, principais.map(alt)),
-    h('details', {}, h('summary', {}, 'Ver as outras alternativas'), h('div', { class: 'opcoes' }, outras.map(alt))),
+    h('details', {}, h('summary', { class: 'link-sum' }, 'Ver as outras alternativas'), h('div', { class: 'opcoes' }, outras.map(alt))),
     pg && h('p', { class: 'badge prov' }, resp === pg
       ? `Você caiu na pegadinha: a alternativa ${pg} é a errada que mais parece certa. Leia o comentário dela acima.`
       : `Pegadinha desta questão: a alternativa ${pg} é a errada que mais parece certa.`),

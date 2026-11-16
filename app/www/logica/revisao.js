@@ -65,7 +65,7 @@ export function resumoCaderno(progresso) {
 }
 export function fraseCaderno({ n, proxima }, hoje) {
   if (!n) return null;
-  return `No caderno: ${n} ${n === 1 ? 'questão' : 'questões'}. Próxima revisão: ${proxima <= hoje ? 'hoje' : dataCurta(proxima)}.`;
+  return `No caderno de erros: ${n} no total. Próxima revisão: ${proxima <= hoje ? 'hoje' : dataCurta(proxima)}.`;
 }
 
 // Meta do dia: quantas já foram revisadas hoje de quantas venciam. rev: estado.revisaoHoje.

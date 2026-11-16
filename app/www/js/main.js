@@ -28,11 +28,12 @@ function desenhar() {
   const { nome, arg, params } = rota();
   const app = document.getElementById('app');
   const tela = telas[nome] || inicio;
+  const nomeTela = telas[nome] ? nome : '';
   app.replaceChildren(frag(tela({ arg, params })));
   window.scrollTo(0, 0);
   const n = document.getElementById('nav');
-  n.hidden = !comNav.has(nome);
-  n.replaceChildren(frag(...nav.map(([href, rot, id]) => h('a', { href, class: id === nome ? 'ativo' : '' }, rot))));
+  n.hidden = !comNav.has(nomeTela);
+  n.replaceChildren(frag(...nav.map(([href, rot, id]) => h('a', { href, class: id === nomeTela ? 'ativo' : '' }, rot))));
 }
 
 async function boot() {

@@ -77,7 +77,9 @@ summary { min-height: 48px; display: flex; flex-wrap: wrap; gap: 6px; align-item
 .dots i.on { background: var(--prim); }
 .figura { display: block; max-width: 100%; height: auto; margin: 12px 0; border-radius: 8px; background: #fff; }
 .cabecalho { flex-wrap: wrap; }
+.cabecalho { gap: 6px; font-size: .9rem; }
 .cabecalho .relogio { white-space: nowrap; }
+.cabecalho > .btn.pequeno { padding: 4px 8px; font-size: .85rem; }
 .cabecalho strong { white-space: nowrap; }
 .cabecalho > .btn { flex: 0 0 auto; min-width: 0; }
 .cabecalho .barra { flex: 1 0 100%; order: 5; }
@@ -100,5 +102,9 @@ summary { min-height: 48px; display: flex; flex-wrap: wrap; gap: 6px; align-item
 summary.btn { display: block; }
 .sq { white-space: nowrap; }
 .link-txt { background: none; border: 0; padding: 12px 0; font: inherit; font-size: .95rem; color: var(--prim); text-decoration: underline; cursor: pointer; }
-.miolo { flex: 1; display: flex; flex-direction: column; justify-content: center; }
 .opcao .badge { margin-top: 4px; }
+.link-sum { color: var(--prim); font-weight: 400; text-decoration: underline; }
+.linha.iguais { align-items: stretch; }
+.link-sess { color: var(--prim); text-decoration: underline; }
+.link-sum::before { content: '▸'; margin-right: 6px; text-decoration: none; display: inline-block; }
+details[open] > .link-sum::before { content: '▾'; }

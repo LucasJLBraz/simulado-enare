@@ -17,7 +17,7 @@ export function onboarding() {
     const [titulo, texto] = PASSOS[i];
     const ultimo = i === PASSOS.length - 1;
     raiz.replaceChildren(frag(
-      h('div', { class: 'miolo' },
+      h('div', {},
         h('div', { class: 'dots' }, PASSOS.map((_, k) => h('i', { class: k === i ? 'on' : '' }))),
         h('h1', {}, titulo), h('p', {}, texto),
         ultimo && h('input', { type: 'date', id: 'data-prova', 'aria-label': 'Data da prova', value: ctx.estado.config.dataProva || '',

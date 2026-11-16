@@ -23,7 +23,7 @@ export function progresso() {
       ? sessoes.map((r) => {
         const acertos = r.itens.filter((i) => i.certo).length;
         return h('a', { class: 'card item-sessao', href: `#/resultado/${r.id}` },
-          h('strong', { class: 'link-txt' }, `${r.titulo} ›`), h('span', { class: 'suave' }, `${dataBR(r.quando)}. ` + (r.itens.some((i) => !i.resp) ? `Respondeu ${r.itens.filter((i) => i.resp).length}, acertou ${acertos}.` : `Acertou ${acertos} de ${r.itens.length}.`)));
+          h('strong', { class: 'link-sess' }, `${r.titulo} ›`), h('span', { class: 'suave' }, `${dataBR(r.quando)}. ` + (r.itens.some((i) => !i.resp) ? `Respondeu ${r.itens.filter((i) => i.resp).length}, acertou ${acertos}.` : `Acertou ${acertos} de ${r.itens.length}.`)));
       })
       : h('p', { class: 'suave' }, 'Nenhuma sessão terminada ainda. Os resultados ficam aqui.'),
     h('h2', {}, 'Antes e depois por tópico'),
