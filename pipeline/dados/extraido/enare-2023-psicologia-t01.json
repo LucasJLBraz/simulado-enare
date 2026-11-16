@@ -1,0 +1,1452 @@
+[
+ {
+  "id": "enare-2023-psicologia-t01-001",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 1
+  },
+  "parte": "gerais",
+  "enunciado": "A chegada a um município de novos moradores com determinada doença aumentará a prevalência dessa doença. Da mesma maneira, a saída de pessoas doentes diminuirá sua frequência, ou seja, sem se modificar o risco e a sobrevida pode haver flutuação nos casos existentes de determinada doença em função de processos migratórios. Além deste, é correto afirmar que um dos outros fatores que influenciam para o aumento da prevalência de um agravo à saúde é",
+  "alternativas": [
+   "a sazonalidade que influencia diretamente no surgimento dos agravos agudos e crônicos.",
+   "a falta de tratamento que diminui o tempo de sobrevivência, o que pode levar a uma diminuição do tempo de duração da doença.",
+   "a redução no tempo e duração dos casos que se alcança por meio da prevenção primária.",
+   "a maior frequência com que surgem casos novos (incidência).",
+   "o aumento do número de casos novos, que ocorre pela melhoria das ações de prevenção primária e secundária."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 2
+ },
+ {
+  "id": "enare-2023-psicologia-t01-003",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 3
+  },
+  "parte": "gerais",
+  "enunciado": "Dentre as descritas a seguir, qual das ações tomadas pelo profissional de saúde é considerada a prioritária para reduzir a infecção associada ao cuidado em saúde?",
+  "alternativas": [
+   "Estímulo à antibioticoterapia profilática.",
+   "Higienização das mãos dos profissionais de saúde.",
+   "Minimização de procedimentos invasivos e não invasivos.",
+   "Aumento da rotatividade da equipe de saúde entre os setores.",
+   "Adoção de mecanismos para que a falha humana não ocorra."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 2
+ },
+ {
+  "id": "enare-2023-psicologia-t01-004",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 4
+  },
+  "parte": "gerais",
+  "enunciado": "Luciana, 24 anos, é acadêmica da residência multiprofissional em saúde e foi orientada pelo tutor a verificar sua situação vacinal em relação a Covid-19. No cartão de vacina de Luciana, constam 3 doses de vacina monovalente (Covid-19). Pelo esquema vacinal registrado, sabe-se que Luciana está apta a receber a dose de reforço bivalente, pois foi respeitado o intervalo de",
+  "alternativas": [
+   "4 meses da última dose recebida.",
+   "2 meses da última dose recebida.",
+   "4 semanas da última dose recebida.",
+   "2 semanas da última dose recebida.",
+   "12 semanas da última dose recebida."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 3
+ },
+ {
+  "id": "enare-2023-psicologia-t01-005",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 5
+  },
+  "parte": "gerais",
+  "enunciado": "É o eixo estruturante que organiza a descentralização das ações e serviços de saúde no país e se materializa por meio da organização das Redes de Atenção à Saúde – RAS – o(a)",
+  "alternativas": [
+   "equidade.",
+   "regionalização.",
+   "governança.",
+   "intergestão.",
+   "abrangência."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 3
+ },
+ {
+  "id": "enare-2023-psicologia-t01-007",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 7
+  },
+  "parte": "gerais",
+  "enunciado": "O movimento pela democratização da saúde, que tomou corpo no Brasil durante a segunda metade da década de setenta, possibilitou a formulação do projeto da Reforma Sanitária Brasileira. Esse processo teve como marco institucional a",
+  "alternativas": [
+   "8ª Conferência Nacional de Saúde.",
+   "5ª Ação Integrada de Saúde.",
+   "comissão intersetorial do SUS.",
+   "formação das caixas de aposentadorias e pensões.",
+   "Lei Eloy Chaves."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2023-psicologia-t01-008",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 8
+  },
+  "parte": "gerais",
+  "enunciado": "Das várias abordagens adotadas na avaliação em saúde, o modelo mais empregado é o de Donabedian (1980), de estruturação sistêmica, que estabelece a tríade estrutura – processo – resultado. Assim, é correto afirmar que se relaciona à Estrutura os indicadores",
+  "alternativas": [
+   "que expressam os reflexos das medidas implementadas na saúde da população.",
+   "que refletem a forma de atuação para avaliar e comparar as alterações nos perfis epidemiológicos de uma determinada população.",
+   "que envolvem auditoria de prontuários, supervisões periódicas e pesquisas de opinião pública.",
+   "organizacionais que indicam a existência de recursos, fluxos e protocolos.",
+   "explícitos que refletem a forma de atuação de uma equipe para garantir a qualidade do processo de prestação de serviços de acordo com padrões de excelência técnica."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2023-psicologia-t01-009",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 9
+  },
+  "parte": "gerais",
+  "enunciado": "Maria, 32 anos e obesa, procura a Unidade de Pronto Atendimento (UPA) devido a uma crise hipertensiva. Relata não fazer uso de medicamentos e que, sempre que precisa de atendimento de saúde, costuma ir diretamente à UPA. Após ser medicada, recebe alta e encaminhamento para um especialista. Considerando a Rede de Atenção à Saúde das Pessoas com Doenças Crônicas, realizar o diagnóstico, o rastreamento e o tratamento da sua população adstrita de acordo com os protocolos e as diretrizes clínicas estabelecidas pelo Sistema Único de Saúde é uma competência de qual dos componentes da Rede?",
+  "alternativas": [
+   "Unidades de acesso aberto.",
+   "Ambulatorial especializada.",
+   "Hospitalar.",
+   "Urgência e emergência.",
+   "Atenção Básica."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2023-psicologia-t01-010",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 10
+  },
+  "parte": "gerais",
+  "enunciado": "Sobre o Conselho de Saúde, assinale a alternativa correta.",
+  "alternativas": [
+   "É subordinado ao Poder Executivo.",
+   "É convocado a cada 4 anos para discutir as políticas de saúde.",
+   "É criado por meio de portaria específica, e sua dissolução depende de aprovação do judiciário.",
+   "É composto por pessoas de diferentes grupos da sociedade, sendo 25% delas representantes de usuários do SUS.",
+   "Tem caráter deliberativo, ou seja, toma decisões que devem ser cumpridas pelo poder público."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2023-psicologia-t01-011",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 11
+  },
+  "parte": "gerais",
+  "enunciado": "Os acadêmicos da residência multiprofissional discutiram com a equipe de saúde do Hospital Universitário a importância da assistência segura. Para isso, os acadêmicos listaram as contribuições da segurança do paciente para a qualidade do cuidado de saúde, que estão descritas a seguir, EXCETO",
+  "alternativas": [
+   "ampliar a atenção nas questões colocadas pela ergonomia e pela psicologia.",
+   "chamar atenção para o impacto do erro e as consequências do dano.",
+   "disseminar situações nas quais são requeridos níveis elevados de produção e resultados.",
+   "mostrar com clareza como o cuidado de saúde pode ser danoso para os pacientes.",
+   "introduzir novas ferramentas e técnicas para a melhoria do cuidado de saúde."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2023-psicologia-t01-012",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 12
+  },
+  "parte": "gerais",
+  "enunciado": "Após exposição a uma situação de risco para infecção sexualmente transmissível, um jovem procura o Centro de Testagem e Aconselhamento (CTA) para atendimento. Considerado um serviço especial de acesso aberto, no contexto das redes de atenção em saúde, é correto afirmar que o CTA",
+  "alternativas": [
+   "é um serviço de atenção terciária.",
+   "deve ser referenciado pela atenção primária.",
+   "é uma das portas de entrada do SUS.",
+   "tem acesso restrito à população LGBTQIAP+.",
+   "tem o atendimento vinculado ao cadastro nas equipes de saúde da família."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2023-psicologia-t01-013",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 13
+  },
+  "parte": "gerais",
+  "enunciado": "Ao desenvolver atividades de Educação em Saúde na comunidade de Santa Luzia, visando à prevenção de zoonoses, um grupo de acadêmicos abordou, com um grupo de moradores, a questão do controle vetorial do mosquito Aedes. Os acadêmicos deram ênfase à adoção das práticas de manejo ambiental, que tem como principais atividades a proteção, a destruição ou a destinação adequada de criadouros, as quais devem ser executadas, prioritariamente, pelo próprio morador e/ou proprietário. Essa abordagem é relacionada ao controle",
+  "alternativas": [
+   "químico.",
+   "mecânico.",
+   "fracionado.",
+   "biológico.",
+   "sustentável."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2023-psicologia-t01-014",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 14
+  },
+  "parte": "gerais",
+  "enunciado": "O profissional de saúde, ao realizar um atendimento, explica para o paciente sobre seu tratamento, fornecendo todas as informações necessárias e lhe dá a liberdade de escolha. Ao adotar essa postura, o profissional está em consonância com o princípio fundamental da Bioética denominado",
+  "alternativas": [
+   "autonomia.",
+   "reconhecimento.",
+   "empatia.",
+   "beneficência.",
+   "conhecimento."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2023-psicologia-t01-015",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 15
+  },
+  "parte": "gerais",
+  "enunciado": "As ações de vigilância e controle de roedores devem ser executadas, de forma temporária ou permanente, em área determinada (área-alvo), a fim de reduzir ou eliminar o risco iminente de transmissão de doenças (ou a própria doença), em particular, a doença denominada",
+  "alternativas": [
+   "criptococose.",
+   "febre maculosa.",
+   "giardíase.",
+   "leptospirose.",
+   "leishmaniose."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2023-psicologia-t01-016",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 16
+  },
+  "parte": "gerais",
+  "enunciado": "Os governos, em todo o mundo, estão buscando soluções inovadoras e transformadoras do sistema que assegurem a disponibilidade, a variedade e a distribuição adequada da força de trabalho de saúde. Uma das soluções mais promissoras reside na colaboração interprofissional. Assim, como resultado da prática colaborativa, espera-se essencialmente",
+  "alternativas": [
+   "compromisso com a cogestão.",
+   "estratégias inovadoras de ensino.",
+   "gestão transversal da atenção básica.",
+   "força de trabalho voltada para a clínica.",
+   "serviços de saúde de excelência."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2023-psicologia-t01-017",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 17
+  },
+  "parte": "gerais",
+  "enunciado": "Entre os modelos assistenciais de atenção à saúde, é uma característica da forma de organização do modelo de vigilância à saúde",
+  "alternativas": [
+   "a organização hospitalocêntrica e médico-centrada.",
+   "organizar-se por modos de transmissão e fatores de risco de doenças.",
+   "as operações sobre problemas e grupos populacionais.",
+   "ser voltado principalmente para campanhas sanitárias.",
+   "ser direcionado à tecnologia médica (indivíduo)."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2023-psicologia-t01-018",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 18
+  },
+  "parte": "gerais",
+  "enunciado": "Os profissionais da equipe de saúde da Unidade Básica de Saúde (UBS) Vila Mariana, durante reunião do Conselho Local, abordaram a possibilidade de modificar o horário de alguns atendimentos. Relataram que muitos usuários diziam que não conseguiam participar das atividades de Educação em Saúde promovidas pela equipe multiprofissional, pois, no horário da manhã, muitos trabalhavam e não poderiam se ausentar. Os profissionais, usuários e conselheiros conseguiram adequar um horário diferenciado para melhorar a adesão da população. No caso relatado, é descrita uma das Diretrizes da Atenção Básica que é o(a)",
+  "alternativas": [
+   "consolidação do cuidado.",
+   "educação permanente.",
+   "participação da comunidade.",
+   "gestão direcionada.",
+   "cooperação da rede."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2023-psicologia-t01-019",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 19
+  },
+  "parte": "gerais",
+  "enunciado": "São ações priorizadas pela Política Nacional de Promoção à Saúde, EXCETO",
+  "alternativas": [
+   "ofertar e apoiar ações para incremento de exames periódicos e acompanhamento especializado para hipertensos e diabéticos com impacto na redução de internamentos por doenças cardiovasculares.",
+   "investir na sensibilização e capacitação dos gestores e profissionais de saúde na identificação e encaminhamento adequado de situações de violência intrafamiliar e sexual.",
+   "apoiar a restrição de acesso a bebidas alcoólicas de acordo com o perfil epidemiológico de dado território, protegendo segmentos vulneráveis e priorizando situações de violência e danos sociais.",
+   "realizar ações educativas de sensibilização da população para a promoção de “comunidades livres de tabaco”, divulgando ações relacionadas ao tabagismo e seus diferentes aspectos.",
+   "mapear e apoiar as ações de práticas corporais/atividades físicas existentes nos serviços de atenção básica e na Estratégia de Saúde da Família."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2023-psicologia-t01-020",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 20
+  },
+  "parte": "gerais",
+  "enunciado": "Maurício é profissional de saúde e atua em uma Unidade Básica. Sua postura de escuta e compromisso em dar respostas às necessidades de saúde trazidas pelo usuário, de maneira que inclua sua cultura, seus saberes e sua capacidade de avaliar riscos, é compatível com a diretriz da Política Nacional de Humanização (PNH) conhecida como",
+  "alternativas": [
+   "educação em saúde.",
+   "promoção da saúde.",
+   "ambiência.",
+   "acolhimento.",
+   "intersetorialidade."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2023-psicologia-t01-021",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 21
+  },
+  "parte": "especificos",
+  "enunciado": "A comunicação assertiva consiste na expressão de sentimentos, desejos, preferências e ideais, de maneira confortável, levando em conta também os direitos dos outros. Em relação à comunicação assertiva, é correto afirmar que",
+  "alternativas": [
+   "expressar sentimentos negativos é condizente com uma comunicação agressiva.",
+   "ela pode ser aprendida e treinada, sendo uma forma de exprimir os direitos pessoais sem prejudicar as outras pessoas.",
+   "quando é expresso o direito dos outros, demostrando empatia, ocorre atitude discrepante na comunicação assertiva.",
+   "o contrário de comunicação assertiva é a comunicação passiva, quando a pessoa não expressa seus sentimentos, opiniões e desejos.",
+   "nesse tipo de comunicação deve haver atitude de esclarecimento, exprimindo os efeitos do comportamento do outro se este não mudar, além de oportunidade para que ele faça."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2023-psicologia-t01-022",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 22
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre a legislação acerca das Residências Multiprofissionais em Saúde, assinale a alternativa correta.",
+  "alternativas": [
+   "Trata-se de uma especialização de nível de pós-graduação na modalidade stricto sensu.",
+   "O trabalho no contexto de um Programa de Residência caracteriza vínculo empregatício.",
+   "Define carga-horária de 60 horas semanais, duração mínima de 2 anos e não prevê regime de dedicação exclusiva.",
+   "Define como obrigatória a realização de supervisão técnica-assistencial em um pacto entre saúde e educação.",
+   "Deve contemplar como um dos eixos norteadores a regionalização e centralização, as necessidades locais, regionais e nacionais de saúde."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2023-psicologia-t01-023",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 23
+  },
+  "parte": "especificos",
+  "enunciado": "Rafael tem 21 anos e procurou terapia relatando ter diagnóstico de Transtorno de Déficit de Atenção e Hiperatividade (TDA/H), Transtorno do Espectro Autista (TEA) e Altas Habilidades. Após a primeira sessão, o pai de Rafael entra em contato querendo agendar uma sessão para falar sobre o filho, sem que ele saiba, e para saber como está indo o processo psicoterapêutico. Nessa situação, o psicólogo",
+  "alternativas": [
+   "pode estabelecer com o familiar essa relação sigilosa (sem que o paciente saiba), visto que o pai pode auxiliar no processo terapêutico.",
+   "deve sugerir que o pai converse com outros profissionais sobre seu filho buscando formas de lidar com ele.",
+   "compartilhará com o pai informações relevantes para qualificar o serviço prestado e informará o Conselho da categoria sobre o ocorrido.",
+   "deve pedir autorização a Rafael para conversar com o pai, caso haja consentimento, deverá respeitar o sigilo profissional e a confidencialidade.",
+   "pode sugerir que o pai inicie o processo psicoterapêutico com o mesmo profissional, visando atingir melhores resultados com Rafael."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2023-psicologia-t01-024",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 24
+  },
+  "parte": "especificos",
+  "enunciado": "O trabalho em saúde envolve conhecimento teórico e técnico, valores, ética, habilidades e competências. A esse respeito, assinale a alternativa correta.",
+  "alternativas": [
+   "Competência interpessoal é a habilidade, pessoal e inata, lidando eficazmente com relações interpessoais, de lidar com outras pessoas de forma adequada às necessidades de cada uma e às exigências da situação.",
+   "O espaço de cuidado deve ser restrito ao ato técnico para melhor realização do procedimento necessário.",
+   "Na saúde, são aplicados os pressupostos da ciência positivista, a qual concebe a indissociável relação entre sujeito e objeto, em uma relação horizontal.",
+   "Há necessidade de flexibilizar posturas acadêmicas para a compreensão do mundo cotidiano através de ação comunicativa e trocas sobre os processos.",
+   "No trabalho em saúde, especialmente nos níveis de alta complexidade, é necessário que o profissional não mantenha relação de afeto com o usuário, como um mecanismo de defesa diante da iminência da morte."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2023-psicologia-t01-025",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 25
+  },
+  "parte": "especificos",
+  "enunciado": "Usuário, 55 anos, foi levado ao CAPS pela família que informa importante comprometimento para ações diárias no último ano, com dificuldades para falar, não sai de casa sozinho, apresenta leve dificuldade para se locomover e tremor em membros superiores, além de higiene e autocuidado prejudicados. A família refere histórico de alcoolismo por muitos anos e abandono do uso na mesma época em que tais sinais e sintomas emergiram. Nas avaliações iniciais, a psicóloga avalia comprometimento das funções de memória, atenção e de abstração. Todavia, com auxílio, o usuário consegue efetuar atividades de treino cognitivo. No atendimento, o usuário verbaliza ter vergonha (sic) de sair de casa e conversar com as pessoas. Diante desse caso, qual seria a intervenção inicial possível, considerando a Atenção Psicossocial?",
+  "alternativas": [
+   "Encaminhar o usuário para um programa de reabilitação física intensiva como tratamento aos tremores nos membros superiores.",
+   "Encaminhar o usuário para avaliação de neuropsicologia a fim de avaliar possível quadro demencial e iniciar tratamento medicamentoso, o quanto antes, visando tratar sintomas de comprometimento cognitivo.",
+   "Realizar psicoterapia individual e encaminhamento para acompanhamento de psiquiatria para farmacoterapia e acompanhamento especializado voltado à ansiedade e depressão.",
+   "Realizar acompanhamento terapêutico com plano de trabalho individualizado com o usuário e psicoeducação com a família, explorando recursos e dispositivos de seu território.",
+   "Inserir o usuário em oficinas e grupos terapêuticos como forma de lhe proporcionar maior socialização e recomendar à família que pressione o usuário a se expor e a interagir com as pessoas para superar sua vergonha."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2023-psicologia-t01-026",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 26
+  },
+  "parte": "especificos",
+  "enunciado": "Considere o seguinte relato: “Mãe de uma criança de 9 anos solicita avaliação psicológica dessa criança diante da queixa de baixa interação social, dificuldade de comunicação e irritabilidade. Refere que esses comportamentos tiveram início na pandemia”. Diante desse quadro, deve ser investigado(a) pela equipe, inicialmente,",
+  "alternativas": [
+   "o transtorno do Espectro Autista a partir de uma avaliação neuropsicológica.",
+   "o transtorno opositor/desafiador, pois a irritabilidade é o problema mais sério apresentado pela criança por causar consequências sociais.",
+   "a cognição, por meio de testes psicométricos, e, se necessário propor encaminhamento para neurologista infantil.",
+   "o comportamento da criança em diferentes contextos e a qualidade de suas relações, sobretudo durante o período relatado.",
+   "a aprendizagem e os elementos importantes para a avaliação psicopedagógica, como anamnese, contato com a escola e outras crianças próximas."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2023-psicologia-t01-027",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 27
+  },
+  "parte": "especificos",
+  "enunciado": "Quanto às modalidades do Centro de Atenção Psicossocial (CAPS), é correto afirmar que",
+  "alternativas": [
+   "o CAPS, em quaisquer de suas modalidades, deve ser composto por equipe multiprofissional na lógica interdisciplinar e territorial, caracterizando-se como o dispositivo em saúde mental que atende especificamente o regime de tratamento intensivo.",
+   "o CAPSi atende crianças e adolescentes com transtorno mental grave e persistente. Caso crianças e adolescentes façam uso de crack, álcool ou outras drogas, devem ser referenciados ao CAPS Ad.",
+   "a população com necessidades decorrentes do uso de crack, álcool e outras drogas é atendida no CAPS ad. Esse serviço conta com leitos de acolhimento 24 horas para observação e monitoramento quando necessário.",
+   "são classificados de acordo com a Estratificação de Risco em Saúde Mental (ERSM), nesta ordem: CAPS I para transtornos mentais leves, CAPS II para transtornos mentais moderados, CAPS III para transtornos mentais graves e persistentes.",
+   "o CAPS III oferta retaguarda clínica e acolhimento noturno a outros serviços de saúde mental, inclusive CAPS Ad."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2023-psicologia-t01-028",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 28
+  },
+  "parte": "especificos",
+  "enunciado": "Diante da solicitação da realização de uma avaliação psicológica, assinale a alternativa que apresenta corretamente quais procedimentos e cuidados devem ser mantidos pelo profissional.",
+  "alternativas": [
+   "Para a avaliação psicológica ser validada, deve-se utilizar, exclusivamente, instrumentos de uso restrito ao psicólogo.",
+   "O profissional deve recusar a realização de avaliação psicológica caso tenha vínculos, atuais ou anteriores, com o avaliando.",
+   "O psicólogo possui autonomia para escolha dos instrumentos a serem utilizados, porém deve incluir ao menos um teste psicológico, com parecer favorável pelo SATEPSI.",
+   "Ao final do processo, o profissional deve emitir parecer psicológico ressaltando a demanda, os instrumentos utilizados e os resultados conclusivos.",
+   "No documento resultante da Avaliação Psicológica, deve constar a finalidade do procedimento e que ele será utilizado somente para esse fim."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2023-psicologia-t01-029",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 29
+  },
+  "parte": "especificos",
+  "enunciado": "Homem de 47 anos busca atendimento em unidade de pronto atendimento sob a queixa de dor lombar pela quinta vez em menos de um mês. Durante a consulta, o usuário refere dor há cerca de 2 anos, com piora gradual, e nega histórico de acidente/trauma. O médico solicita realização de exame de Raio-x e encaminhamento para ortopedista. Diante dessa situação, como o psicólogo deve intervir?",
+  "alternativas": [
+   "Deve ignorar a dor física do paciente e voltar o foco do atendimento para a saúde mental, sua capacidade de atenção, concentração e motivação.",
+   "Deve informar ao paciente que se trata de uma dor psicossomática proveniente de estresse ou de ambiente desconfortável. Para solucionar, pode treinar habilidades em Mindfulness.",
+   "Deve deixar a conduta para o médico, pois, como se trata de uma dor crônica, o psicólogo não tem contribuições a realizar, visto o aspecto biológico da dor.",
+   "Deve encorajar o paciente a focar nas partes positivas de seu dia, seu trabalho, sua vida, distraindo-se enquanto aguarda o diagnóstico.",
+   "Deve acolher o paciente e ajudá-lo com a regulação emocional para o manejo de estresse e ansiedade que podem estar associados à dor crônica."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2023-psicologia-t01-030",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 30
+  },
+  "parte": "especificos",
+  "enunciado": "Mulher, 32 anos, passa por consulta com o médico da família da UBS, acompanhada pela mãe, sob a queixa de uso abusivo de álcool. Relata uso diário de cerca de 1 litro de “aguardente” e apresenta episódios de agressividade associado ao consumo. Houve intensificação do uso há cerca de 7 meses após perda do emprego de operadora de caixa de supermercado. Apresenta diagnóstico prévio de transtorno de ansiedade, sem tratamento esporádico, e crítica parcial acerca dos prejuízos decorrentes do uso de álcool. Reside com a mãe de 65 anos em uma casa alugada, as duas vivem com o auxílio BPC por motivo de doença da mãe, sendo que o pai faleceu há cerca de 10 anos devido a complicações de cirrose alcoólica. Diante dessa situação, quais são as possibilidades de intervenção da equipe do CAPS ad?",
+  "alternativas": [
+   "Avaliar com a equipe e a mãe da usuária a necessidade de internação psiquiátrica para desintoxicação e, posteriormente, para serviço de comunidade terapêutica, como forma de garantir a segurança da idosa diante da agressividade da filha.",
+   "Realizar acompanhamento da usuária e da mãe no território com apoio matricial do CAPS ad, avaliar encaminhamentos intersetoriais.",
+   "Articular ações com a rede intersetorial com foco na profissionalização da usuária e encaminhamentos para vagas de emprego.",
+   "Realizar abordagem de constelação familiar com a usuária com foco na relação com seu pai a fim de compreender fatores associados ao uso do álcool.",
+   "Realizar encaminhamento da usuária para o CAPS III, por se tratar de caso grave, e para o CRAS diante da situação de vulnerabilidade social da família."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2023-psicologia-t01-031",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 31
+  },
+  "parte": "especificos",
+  "enunciado": "Mulher, 23 anos, com histórico de importante sofrimento psíquico e tentativas de suicídio, atendida pelo CAPSi durante infância e adolescência com diagnóstico de “transtorno depressivo”. Apresenta vínculos familiares fragilizados, vulnerabilidade social importante, relato de conflitos com o companheiro e está na quarta gestação. No Projeto Terapêutico Singular do CAPS, é inserida em grupo de convivência uma vez na semana, oficina de arte uma vez na semana, consulta de psiquiatria a cada dois meses e psicoterapia individual. No início do trabalho de psicoterapia, a usuária e a psicóloga firmaram um contrato estabelecendo as condições e formas de atendimento. Em dois meses, a usuária apresentou cinco faltas não justificadas, também não compareceu aos outros atendimentos do serviço além da consulta com psiquiatra. Diante dessa situação, qual deve ser a conduta da psicóloga com a usuária?",
+  "alternativas": [
+   "Diante da não adesão ao Projeto Terapêutico Singular, propor psicoterapia ao companheiro da usuária como forma de prestar suporte ao núcleo familiar e manter a usuária nos demais atendimentos do serviço.",
+   "Apreender as faltas da usuária como resistência ao tratamento na análise do processo terapêutico e realizar o desligamento temporário da psicoterapia, mantendo os demais atendimentos no serviço.",
+   "Avaliar com a equipe multidisciplinar do serviço a possibilidade de trocar de profissional de psicologia para acompanhamento de psicoterapia e acionar a rede de proteção à mulher.",
+   "Realizar busca ativa da usuária, considerando seu contexto de vulnerabilidade, com a possibilidade de visitas domiciliares.",
+   "Em respeito à não adesão da usuária ao Projeto Terapêutico Singular, avaliar com ela a possibilidade de encaminhamento para ambulatório de psiquiatria e encaminhá-la para o CRAS."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2023-psicologia-t01-032",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 32
+  },
+  "parte": "especificos",
+  "enunciado": "Paula tem 54 anos e vem para atendimento psicológico após passar pelo falecimento de seu marido Bento, com o qual esteve casada por 25 anos. Bento fez tratamento domiciliar de uma doença crônica nos últimos 4 anos, Paula viveu exclusivamente para ele e relata encontrar-se perdida, sem saber como será sua vida sem o marido. Junto a isso, teve que se mudar da casa de campo onde moravam para vir morar com o filho, que não aceita que ela permaneça sozinha. Diante desse caso, sobre o luto e a atuação do psicólogo, é correto afirmar que",
+  "alternativas": [
+   "como se tratava de uma doença crônica de Bento, Paula estava preparada para a finitude e aceitação do processo de luto. Cabe ao psicólogo fornecer um ambiente acolhedor, de escuta e empatia para que Paula retome rapidamente sua vida.",
+   "na terapia, é importante trabalhar aspectos relacionados aos sintomas do luto, a separação alma e corpo que ocorre e incentivar Paula a esquecer Bento para seguir sua vida.",
+   "o objetivo da terapia deve ser o alívio da dor, do sofrimento. Para isso, deve ser evitado falar sobre a perda e ensinado a Paula estratégias de regulação emocional como relaxamento, mindfulness e distração.",
+   "a elaboração do luto depende do vínculo, da representação da pessoa e da qualidade do relacionamento. Por ser uma construção individual, Paula só atingirá seus objetivos na psicoterapia individual e não em uma psicoterapia de grupo.",
+   "a função do psicólogo é ajudar Paula a lidar com sua perda, expressar seus sentimentos e capacitá-la a desenvolver  novos enfrentamentos, organizações e adaptações que forem necessárias."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2023-psicologia-t01-033",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 33
+  },
+  "parte": "especificos",
+  "enunciado": "Considerando a atuação multiprofissional e a importância da liderança enquanto competência e prática voltada para o alcance dos objetivos no trabalho em saúde, assinale a alternativa correta.",
+  "alternativas": [
+   "A equipe deve priorizar a implantação de protocolos de atendimento e de avaliação como forma de garantir a qualidade da assistência conjunta.",
+   "No trabalho em saúde, é importante, além do saber técnico estruturado e dos instrumentos, as relações entre os sujeitos envolvidos e a horizontalidade das relações.",
+   "É importante garantir condições para que a própria equipe defina as metas e os objetivos a serem alcançados, como forma de estabelecer uma liderança democrática, em que todos possam atuar, independentemente do caso.",
+   "As estratégias devem ser planejadas visando emprestar elementos contribuintes de cada profissional para a atuação do líder.",
+   "Demarcar os limites dos papéis e das funções de cada membro da equipe, de acordo com o trabalho prescrito, como forma de garantir a realização dos processos de trabalho e manutenção da visão funcionalista atual."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2023-psicologia-t01-034",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 34
+  },
+  "parte": "especificos",
+  "enunciado": "Quanto às especificidades do atendimento à saúde e aos direitos da mulher, é correto afirmar que",
+  "alternativas": [
+   "a vulnerabilidade e a necessidade de política específica para a saúde da mulher negra se justifica pela existência de fatores de origem genética, como, por exemplo, maior incidência de anemia falciforme em mulheres negras.",
+   "de acordo com a lei que dispõe sobre o planejamento familiar, a realização da laqueadura na mulher depende de um documento escrito e firmado expressando sua vontade e da concordância de seu cônjuge, caso haja sociedade conjugal.",
+   "casos de violência doméstica e/ou outras violências como física, sexual, psicológica, moral e patrimonial contra a mulher devem ser notificados, de maneira compulsória, no Sistema de Informação de Agravos de Notificação nos serviços de saúde.",
+   "o psicólogo, durante o atendimento, pode induzir ou instigar a esterilização cirúrgica caso a atendida tenha uma situação de vulnerabilidade social e mais de 5 filhos, a depender da sua idade.",
+   "a política de criminalização tem como objetivo a diminuição da mortalidade de mulheres e a promoção da vida, por esse motivo, é dever do profissional de saúde denunciar em caso de suspeita ou confirmação de aborto intencional."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2023-psicologia-t01-035",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 35
+  },
+  "parte": "especificos",
+  "enunciado": "Jovem, 18 anos, foi encontrada em via pública e levada para a Sala de Estabilização de pronto atendimento pelo SAMU após episódio de síncope. Não se comunica com a equipe, apresenta contraturas no corpo, paralisia das pernas e rouquidão. Sinais vitais e exame neurológico sem alterações. O caso relatado sugere qual hipótese diagnóstica?",
+  "alternativas": [
+   "Transtorno mental de causa orgânica.",
+   "Crise epiléptica.",
+   "Crise conversiva.",
+   "Crise de ansiedade.",
+   "Ataque de pânico."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2023-psicologia-t01-036",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 36
+  },
+  "parte": "especificos",
+  "enunciado": "Acerca do Código de Ética Profissional do Psicólogo, assinale a alternativa INCORRETA.",
+  "alternativas": [
+   "A missão primordial de um Código de Ética profissional é a de fornecer normas de natureza técnica acerca do trabalho.",
+   "Em sua atuação, o psicólogo deve analisar crítica e historicamente a realidade política, econômica, social e cultural.",
+   "O psicólogo deverá considerar as relações de poder em seu contexto de atuação, bem como o impacto dessas relações sobre a sua atividade, tomando uma posição crítica.",
+   "O Código de Ética deve assegurar um padrão de conduta que fortaleça o reconhecimento social de uma dada categoria.",
+   "A expectativa é que o Código de Ética seja um instrumento capaz de delinear para a sociedade as responsabilidades e deveres do psicólogo, direcionar a formação e balizar julgamentos de ações."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2023-psicologia-t01-037",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 37
+  },
+  "parte": "especificos",
+  "enunciado": "Janice é uma psicóloga que trabalha na saúde pública em equipe multiprofissional formada por médico, enfermeiro e educador físico. Caso algum desses profissionais solicite informações acerca de uma pessoa atendida em seu serviço, para fins de uma futura tomada de decisão acerca do caso, a psicóloga deve",
+  "alternativas": [
+   "fornecer todas as informações solicitadas, pois, entre os membros da equipe, o sigilo não precisa ser mantido.",
+   "manter os documentos contendo as informações dos atendimentos em local de fácil acesso para os demais profissionais da equipe ou outros funcionários do serviço para que possam consultá-los sem a necessidade de solicitação prévia.",
+   "emprestar aos demais profissionais da equipe o prontuário e os testes psicológicos aplicados na pessoa atendida.",
+   "manter sigilo absoluto sobre seu atendimento, avaliação realizada e condutas.",
+   "compartilhar apenas algumas situações e, ainda assim, basear sua decisão na busca do menor prejuízo e prestar as informações estritamente necessárias."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2023-psicologia-t01-038",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 38
+  },
+  "parte": "especificos",
+  "enunciado": "João, 60 anos de idade, motorista, começou a apresentar sintomas como taquicardia, suor nas mãos e dores abdominais todos os dias de manhã, logo após acordar. Os sintomas iniciaram após a morte de sua esposa e o casamento do único filho, o que fez com que tivesse que morar sozinho pela primeira vez em sua vida. O paciente procurou atendimento da Unidade Básica de Saúde (UBS) do seu bairro e foi encaminhado pelo médico para uma avaliação com a psicóloga do serviço. Assinale a alternativa que corresponde ao nível de atenção do atendimento prestado a João.",
+  "alternativas": [
+   "Nível de atenção de média complexidade, pois contempla profissionais especializados, como psicólogos.",
+   "Nível de atenção de baixa complexidade, por tratar-se de atendimento realizado em Unidade Básica de Saúde.",
+   "Nível de atenção de alta complexidade, pois a saúde mental é uma especialidade não contemplada nos níveis de baixa e média complexidade.",
+   "Nível de atenção de baixa complexidade, por tratar-se de atendimento ambulatorial.",
+   "Nível de média complexidade, pois a doença já está instituída e requer acompanhamento constante."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2023-psicologia-t01-039",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 39
+  },
+  "parte": "especificos",
+  "enunciado": "A Lei da Reforma Psiquiátrica nº 10.216/01, que trata da Política Nacional da Saúde Mental, dispõe sobre a proteção e os direitos das pessoas com transtornos mentais e redireciona o modelo assistencial em saúde mental. Sobre essa lei, é correto afirmar que",
+  "alternativas": [
+   "a pessoa com transtorno mental deve receber o mínimo de informações a respeito de sua doença e de seu tratamento.",
+   "se deve evitar que a pessoa com transtorno mental tenha livre acesso aos meios de comunicação disponíveis, a fim de protegê-la.",
+   "a pessoa com transtorno mental tem o direito de ser tratada, preferencialmente, em serviços comunitários de saúde mental.",
+   "a presença médica não é necessária para esclarecer à pessoa portadora de transtorno mental acerca da necessidade ou não de sua hospitalização involuntária.",
+   "as pessoas com transtornos mentais devem permanecer em ambientes hospitalocêntricos, recebendo tratamento e intervenções adequados."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2023-psicologia-t01-040",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 40
+  },
+  "parte": "especificos",
+  "enunciado": "Fazem parte da Rede de Atenção Psicossocial (RAPS) os seguintes serviços e equipamentos, EXCETO",
+  "alternativas": [
+   "Unidades Básicas de Saúde (UBS) e Centros de Atenção Psicossocial (CAPS), podendo ser CAPS I, CAPS II, CAPS III, CAPS i ou CAPS ad.",
+   "Serviços Residenciais Terapêuticos (SRT), SAMU e iniciativas de Geração de Trabalho e Renda.",
+   "Enfermarias especializadas em Hospital Geral e Serviço Hospitalar de Referência para Atenção às pessoas com sofrimento ou transtorno mental e com necessidades decorrentes do uso de crack, álcool e outras drogas.",
+   "Serviços Residenciais Terapêuticos, Comunidades Terapêuticas e Programa de Volta para Casa.",
+   "Consultório na Rua e Centros de Convivência e Cultura."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 13
+ },
+ {
+  "id": "enare-2023-psicologia-t01-041",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 41
+  },
+  "parte": "especificos",
+  "enunciado": "Dentre os autores que contribuíram para o desenvolvimento da área de grupos estão Pichon-Rivière e W. R. Bion. Acerca das concepções de grupos desses dois autores, assinale a alternativa correta.",
+  "alternativas": [
+   "W. R. Bion formulou três tipos de supostos básicos de liderança: o de “dependência”, o de “luta e fuga” e o de “apareamento”.",
+   "Pichon-Rivière desenvolveu a concepção de que o grupo se movimenta em dois planos: o “grupo de trabalho”, que opera no plano consciente, e o “grupo de pressupostos básicos”, radicado no inconsciente.",
+   "W. R. Bion se destacou na área dos grupos operativos, cuja finalidade é a de operar em uma determinada tarefa objetiva.",
+   "Pichon-Rivière introduziu a utilização do psicodrama enquanto técnica grupal.",
+   "W. R. Bion compreende que sempre há figuras internalizadas presentes, interferindo na relação, a qual é bicorporal e tripessoal."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 13
+ },
+ {
+  "id": "enare-2023-psicologia-t01-042",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 42
+  },
+  "parte": "especificos",
+  "enunciado": "Ao realizar o exame do estado mental de José, o médico observou que o paciente apresentava: 1) desorientação com relação a outras pessoas, ao tempo e ao espaço; 2) incapacidade de reconhecer e interpretar o significado das suas impressões sensoriais; e 3) diminuição da atenção. Tais alterações são denominadas, respectivamente:",
+  "alternativas": [
+   "1) desorientação alopsíquica; 2) hipoprosexia; 3) agnosia.",
+   "1) desorientação autopsíquica; 2) agnosia; 3) hipoprosexia.",
+   "1) hipoprosexia; 2) desorientação autopsíquica; 3) agnosia.",
+   "1) desorientação alopsíquica; 2) agnosia; 3) hipoprosexia.",
+   "1) agnosia; 2) hipoprosexia; 3) desorientação alopsíquica."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 13
+ },
+ {
+  "id": "enare-2023-psicologia-t01-043",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 43
+  },
+  "parte": "especificos",
+  "enunciado": "A entrevista é um importante recurso utilizado no processo de Avaliação e DE Psicodiagnóstico. Acerca desse tema, assinale a alternativa correta.",
+  "alternativas": [
+   "As entrevistas iniciais podem ser feitas com professores, médicos ou outros profissionais que acompanham o avaliando, sem a necessidade de prévia autorização do paciente ou de seus responsáveis.",
+   "A entrevista com o paciente deve ocorrer antes do contato com outros familiares, independentemente da sua idade.",
+   "A entrevista inicial pode ser livre, semiestruturada ou estruturada.",
+   "A entrevista de anamnese é um instrumento para uso na Avaliação infantojuvenil e não deve ser usada nos processos psicodiagnósticos de adultos.",
+   "A escolha das estratégias e instrumentos empregados na avaliação deve ser feita com ajuda do paciente ou de seus responsáveis, considerando o referencial teórico do profissional."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 13
+ },
+ {
+  "id": "enare-2023-psicologia-t01-044",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 44
+  },
+  "parte": "especificos",
+  "enunciado": "O desenvolvimento psicológico humano pode ser explicado por diversas teorias. Quanto a essas teorias, assinale a alternativa INCORRETA.",
+  "alternativas": [
+   "S. Freud descreveu o Complexo de Édipo, que ocorre na fase genital do desenvolvimento psicossexual.",
+   "De acordo com Anna Freud, o adolescente possui dois mecanismos que o ajudam a lidar com seus conflitos e impulsos: o ascetismo e a intelectualização.",
+   "Erik Erikson formulou os oito estágios psicossociais do desenvolvimento, em que o primeiro consiste na Confiança versus Desconfiança.",
+   "O processo de desenvolvimento descrito por Erik Erikson se estende até a velhice.",
+   "Cada vez mais o desenvolvimento é estudado ao longo do ciclo vital, ao invés da tradicional ênfase na infância e adolescência."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2023-psicologia-t01-045",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 45
+  },
+  "parte": "especificos",
+  "enunciado": "Informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir sobre o movimento da Reforma Psiquiátrica no Brasil e assinale a alternativa com a sequência correta. (   ) O movimento inspirou-se na experiência italiana de desinstitucionalização da psiquiatria e sua crítica aos manicômios. (   ) Na década de 90, o Brasil firmou um compromisso ao assinar a declaração de Salamanca, documento norteador das políticas em saúde mental, sendo este um dos marcos da Reforma Psiquiátrica. (   ) O ano de 1989 marcou a entrada no Congresso Nacional do Projeto de Lei do deputado Paulo Delgado, cuja proposta era, entre outras, a regulamentação dos direitos da pessoa com transtornos mentais.",
+  "alternativas": [
+   "V – V – V.",
+   "F – V – F.",
+   "V – F – V.",
+   "V – V – F.",
+   "F – F – V."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2023-psicologia-t01-046",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 46
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre as diferentes perspectivas acerca do sofrimento psíquico e dos sintomas decorrentes dele, assinale a alternativa correta.",
+  "alternativas": [
+   "A Psicanálise considera os sintomas como um sinal de distúrbio orgânico, de origem endógena, que leva a alterações do comportamento, da afetividade e do pensamento.",
+   "Para a Psiquiatria Clássica, o que distingue o normal do anormal é uma questão de grau, e não de natureza. Todas as manifestações de neurose possuem sua origem em vivências e situações conflitantes que ocorreram na vida infantil.",
+   "A Psiquiatria Social questiona as abordagens clássicas da doença mental, mas não nega a existência das doenças. Nessa abordagem, a doença seria um produto da interação dos níveis psicológico e sociológico.",
+   "A Antipsiquiatria consiste em uma negação radical da Psiquiatria Clássica e considera que a doença mental tem origem nas relações e no ambiente social e político.",
+   "Para a Psicologia Jungiana, a causa dos sintomas está nas crenças centrais formuladas ao longo da vida do indivíduo."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2023-psicologia-t01-047",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 47
+  },
+  "parte": "especificos",
+  "enunciado": "Anali tem 47 anos e buscou atendimento psicoterapêutico após um episódio de intensa ansiedade, no qual se sentiu paralisada, com o coração acelerado e tremores. Ela relatou ter ido almoçar sozinha e começou a se questionar sobre o que as pessoas estariam pensando dela, que não era boa suficiente e ficou muito incomodada com seus pensamentos e com a situação como um todo. Foi embora sem comer e, desde então, tem evitado qualquer contato social quando sozinha. Considerando a Teoria Analítico Comportamental, assinale a alternativa correta em relação ao caso descrito.",
+  "alternativas": [
+   "A ansiedade é a causa da paralisia, do coração acelerado e dos tremores.",
+   "Os sintomas apresentados correspondem à crença central de desamor, em que Anali se vê como indigna de amor, os outros como superiores e o mundo como injusto.",
+   "A intervenção do psicólogo seria orientar Anali a não frequentar lugares sozinha até que não se sinta mais ansiosa. Lidar com os pensamentos será o foco da terapia.",
+   "O estímulo antecedente da ansiedade são os olhares das pessoas e os pensamentos disfuncionais.",
+   "O ambiente social junto à sua história de vida são ambientes antecedentes tanto para o pensamento quanto para o sentimento de ansiedade."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2023-psicologia-t01-048",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 48
+  },
+  "parte": "especificos",
+  "enunciado": "Os conflitos interpessoais são inevitáveis, já que as pessoas possuem necessidades e interesses diferentes. Sobre as estratégias de resolução de conflitos, assinale a alternativa INCORRETA.",
+  "alternativas": [
+   "A hipótese do contato considera que, se forem colocados em contato dois indivíduos ou dois grupos em conflito, cria-se uma oportunidade para que eles se conheçam, descubram pontos comuns e desenvolvam sentimentos positivos um pelo outro, diminuindo a hostilidade.",
+   "A comunicação entre as partes em conflito constitui uma estratégia eficaz de resolver as diferenças e deve sempre contar com a presença de um mediador que estabelecerá o acordo a ser realizado entre elas.",
+   "Deve-se estimular os antagonistas a substituírem a competição, em que uma parte ganha e outra perde, por uma orientação mais cooperativa, em que as duas partes podem ganhar.",
+   "A função do mediador consiste em estruturar as comunicações de modo a que sejam superadas as percepções distorcidas e haja aumento dos sentimentos de compreensão mútua.",
+   "A mediação é um processo complexo que torna difícil delimitar seus principais objetivos, pois ultrapassa a solução de conflitos, sendo capaz de preveni-los."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2023-psicologia-t01-049",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 49
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a alternativa que corresponde a características da Psicoterapia Breve Dinâmica (PBD).",
+  "alternativas": [
+   "Por ter como base teórica a Psicanálise, a PBD não deve ser desenvolvida em torno de um foco atual, mas sim dos conflitos vividos na infância do paciente.",
+   "Na primeira sessão, o paciente é orientado a não fazer associações livres, mas a apresentar suas queixas.",
+   "O terapeuta deve manter um papel de ouvinte, deixando que o paciente conduza as sessões conforme seu conteúdo emerge.",
+   "Quando o conflito é solucionado, as repercussões podem se estender para além do foco, possibilitando mudança em diferentes áreas da vida do paciente.",
+   "Por ser breve, o vínculo deve ser leve, evitando que o conteúdo transferencial ocorra."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2023-psicologia-t01-050",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 50
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a alternativa que NÃO corresponde à Reabilitação Psicossocial.",
+  "alternativas": [
+   "As práticas de Reabilitação Psicossocial caracterizam-se pela intersetorialidade, envolvendo as áreas da saúde, previdência, moradia, trabalho, escola, lazer e cultura.",
+   "O Programa de Reabilitação Psicossocial é uma política pública de inclusão social que visa contribuir e fortalecer o processo de desinstitucionalização que provê auxílio reabilitação para pessoas com transtorno mental egressas de internação de longa permanência.",
+   "O processo de Reabilitação Psicossocial pressupõe a estruturação de um programa voltado à recuperação da pessoa em tratamento por algum transtorno mental a partir de objetivos e metas específicos.",
+   "A Reabilitação Psicossocial inclui tanto melhorar competências individuais quanto introduzir mudanças no ambiente da pessoa atendida.",
+   "O componente Reabilitação Psicossocial da Rede de Atenção Psicossocial é composto por iniciativas de geração de trabalho e renda, empreendimentos solidários e cooperativas sociais."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2023-psicologia-t01-051",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 51
+  },
+  "parte": "especificos",
+  "enunciado": "José, 36 anos, dependente de álcool desde os 21 anos, procura tratamento após decisão conjunta com sua família. Queixa-se de que o alcoolismo está prejudicando de forma séria diversos aspectos da sua vida. Em casos como o de José, o programa de Reabilitação Psicossocial deve",
+  "alternativas": [
+   "ser orientado à promoção de melhoras no funcionamento intelectual, emocional e físico, desconsiderando, momentaneamente, suas expectativas e interesses pessoais, pois sua capacidade de julgamento encontra-se alterada.",
+   "ocorrer em local longe da sua comunidade, incentivando uma mudança de contexto a fim de evitar situações em que, cotidianamente, faz uso de álcool.",
+   "ter como foco o tratamento clínico de abstinência de José e orientá-lo a procurar apoio às suas necessidades de moradia, educação e trabalho em outros programas e serviços.",
+   "garantir internação de longa permanência e cuidado integral na perspectiva da garantia de direitos e exercício de cidadania.",
+   "ter como possibilidade o uso de recursos diversos como grupos operativos, ateliês terapêuticos, atendimento familiar, discussão de livros e filmes, além de visitas a lugares externos ao ambiente de tratamento."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2023-psicologia-t01-052",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 52
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a alternativa que corresponde corretamente às modalidades de Centros de Atenção Psicossocial (CAPS) que preveem atendimento de pessoas com intenso sofrimento psíquico decorrente de transtornos mentais graves e persistentes relacionados ao uso de substâncias psicoativas.",
+  "alternativas": [
+   "CAPS I, CAPS II e CAPS III, apenas.",
+   "CAPSad e CAPSi, apenas.",
+   "CAPS I, CAPS II, CAPS III, CAPSad e CAPSi.",
+   "CAPS III e CAPSad, apenas.",
+   "CAPSad apenas."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2023-psicologia-t01-053",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 53
+  },
+  "parte": "especificos",
+  "enunciado": "Em relação à dependência de substâncias psicoativas, assinale a alternativa INCORRETA.",
+  "alternativas": [
+   "A tolerância e a abstinência são fenômenos estritamente farmacológicos.",
+   "Fissura, ou craving, são as variações individuais na resposta à droga.",
+   "Síndrome de abstinência constitui um conjunto de sinais e sintomas que, em geral, são reversos aos da droga.",
+   "A abstinência pode se manifestar no indivíduo em coma, no feto ou no recém-nascido.",
+   "Tolerância inata são as variações individuais na resposta à droga."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2023-psicologia-t01-054",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 54
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a alternativa correta acerca das orientações do Conselho Federal de Psicologia (CFP) sobre a elaboração de documentos escritos pelo psicólogo no exercício profissional.",
+  "alternativas": [
+   "Relatório Multiprofissional e Laudo Psicológico são resultados de um processo de Avaliação Psicológica.",
+   "No Atestado, deve constar o comparecimento da pessoa atendida, o acompanhamento psicológico realizado ou em realização e as informações sobre o tempo de acompanhamento, dias e horários.",
+   "A estrutura do Relatório Psicológico conta com identificação, demanda, procedimento,  análise e conclusão, sendo necessário especificar o referencial teórico que fundamentou as análises e interpretações do psicólogo.",
+   "É recomendada a substituição do termo “Relatório Psicossocial” pelo termo “Relatório Multiprofissional” considerando a variedade de contextos e de composição das equipes, os referenciais de intervenção e de argumentação singular de cada profissional envolvido.",
+   "Na Declaração, deve constar a identificação, a finalidade e o registro de sintomas, situações ou estados psicológicos do atendido."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2023-psicologia-t01-055",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 55
+  },
+  "parte": "especificos",
+  "enunciado": "A abordagem sistêmica é um recurso importante no atendimento e acompanhamento das famílias nas propostas de atenção psicossocial. Assinale a alternativa que NÃO corresponde a essa abordagem.",
+  "alternativas": [
+   "O diagnóstico de um paciente indica dificuldades em todo o núcleo familiar, sendo assim a família é a estrutura que deve ser tratada e transformada.",
+   "O atendimento ao grupo familiar deve levar em conta as especificidades de cada família, considerando sua história, estrutura, dinâmica e sua inserção no contexto social.",
+   "A família corresponde à somatória dos comportamentos e ações de seus membros, em que um movimento interfere nas outras partes, caso encontrem-se no mesmo ambiente.",
+   "A abordagem sistêmica pode ser utilizada no atendimento de casos de alcoolismo e dependência química, os quais constituem-se como um fenômeno complexo multicausal, que envolve aspectos biológicos, psicológicos e relacionais.",
+   "A família é vista como uma unidade dinâmica e condicionante dos fenômenos humanos, em que os membros encontram-se articulados em diferentes níveis, mas todos em interação."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2023-psicologia-t01-056",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 56
+  },
+  "parte": "especificos",
+  "enunciado": "Claudia, 45 anos, solteira e sem filhos, passou por três internações em hospital psiquiátrico nos últimos quinze anos. A família se queixa de que ela inventa histórias acerca de vizinhos que estariam planejando matá-la e que haviam colocado câmeras em sua casa para vigiá-la. Nunca apresentou comportamento agressivo. Não consegue manter-se em um emprego fixo, pois apresenta diversas faltas não justificadas. Sua aparência apresenta baixo autocuidado em relação à higiene e desorganização de pensamento no relato dos fatos durante o atendimento. Acerca do caso descrito, assinale a alternativa correta.",
+  "alternativas": [
+   "O estado prodrômico, com prejuízo social, os interesses e crenças atípicos, os delírios e alucinações apresentados por Cláudia correspondem a características presentes no espectro autista.",
+   "Claudia apresenta os sintomas negativos associados à esquizofrenia: expressão emocional diminuída e avolia.",
+   "Os sintomas de Cláudia são condizentes com esquizofrenia paranoide e o dignóstico pode ser firmado caso as manifestações tenham iniciado na infância.",
+   "A avaliação de cognição da paciente poderá ser realizada por meio do instrumento WISC-IV.",
+   "Para diagnosticar Cláudia como tendo um transtorno do espectro da esquizofrenia, é necessária a exclusão de outra condição capaz de originar uma psicose."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2023-psicologia-t01-057",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 57
+  },
+  "parte": "especificos",
+  "enunciado": "Joana tem 36 anos e procura por atendimento psicológico relatando estar desanimada, triste e sem interesse em atividades que antes lhe causava prazer. Tais características têm interferido em seu trabalho, em seu sono e em seus relacionamentos. Considerando os sintomas apresentados e a Teoria Cognitivo Comportamental, assinale a alternativa correspondente à intervenção mais adequada ao caso.",
+  "alternativas": [
+   "Ativação comportamental.",
+   "Dessensibilização sistemática.",
+   "Desamparo aprendido.",
+   "Fusão cognitiva.",
+   "Desesperança criativa."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2023-psicologia-t01-058",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 58
+  },
+  "parte": "especificos",
+  "enunciado": "Lea tem 17 anos e veio para atendimento psicológico acompanhada por sua mãe. A mãe relatou ser separada do pai de Lea e que todos têm um relacionamento conturbado. Em sessão, Lea relata desesperança, raiva e pensamentos frequentes sobre morte e suicídio. Sente-se um fardo e incompreendida pela família. Diante da situação, como o psicólogo deve intervir?",
+  "alternativas": [
+   "A conduta pode variar desde acionamento de serviços de urgência e emergência, quebra de sigilo, envolvimento da família, internação domiciliar até acompanhamento ambulatorial com o número de sessões usuais.",
+   "Para manter o distanciamento necessário para análise e conduta terapêutica, o profissional não deve, em nenhuma circunstância, fornecer seu telefone pessoal, mas orientar Lea sobre regulação e suporte para momentos de crise, como contato com Centro de Valorização a Vida (CVV).",
+   "O psicólogo deve contar com abordagem multidisciplinar para o caso de Lea, compartilhando saberes e responsabilidades, porém mantendo o sigilo e a confidencialidade, sem referir que se trata de um caso de pensamentos e ideações suicidas.",
+   "Após a primeira sessão, o psicólogo deve realizar o Projeto Terapêutico Singular (PTS) com propostas terapêuticas para Lea e sua família, orientando-os a se concentrarem no lado positivo das coisas e que esse momento passará.",
+   "A avaliação de risco norteia a conduta clínica. Ela é elaborada pelo psicólogo a partir de análise dos fatores de risco e de proteção e da Avaliação Psicológica. Durante esse processo, não se deve abordar os pensamentos suicidas de Lea, pois a abordagem pode gerar receio, constrangimento, bloqueio de vínculo e encorajamento ao planejamento e ato suicida."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 18
+ },
+ {
+  "id": "enare-2023-psicologia-t01-059",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 59
+  },
+  "parte": "especificos",
+  "enunciado": "Diego tem 12 anos e está em atendimento no CAPSi há 2 meses. O pai faz contato telefônico com o psicólogo chorando, gritando e relatando ter encontrado seu filho dormindo, ao lado de um frasco de remédios e uma carta de despedida, diz que tentou acordá-lo, mas sem sucesso. Assinale a alternativa que apresenta a melhor orientação ao pai, nesse momento.",
+  "alternativas": [
+   "Esperar que o filho acorde para saber o que houve e tomar providências.",
+   "Entrar em contato com um serviço de suporte como Centro de Valorização à Vida (CVV), devido à importância substancial do serviço em momentos de crise.",
+   "Acionar serviços de socorro e atenção pré- hospitalar ou levar o filho a um hospital geral ou unidades de pronto atendimento (UPAs).",
+   "Levar ao CAPSi, orientando o pai a levar junto o frasco de remédio e a carta para facilitar o atendimento de Diego, local em que já é atendido e familiarizado.",
+   "Deve procurar uma Unidade Básica de Saúde (UBS) que é a porta de entrada do Sistema Único de Saúde (SUS) ou acionar o SAMU para atendimento de urgência e emergência."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 18
+ },
+ {
+  "id": "enare-2023-psicologia-t01-060",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2023/2024",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 60
+  },
+  "parte": "especificos",
+  "enunciado": "Considere um psicólogo clínico-hospitalar trabalhando em um grande hospital no qual um paciente foi internado após um grave acidente de carro, em que teve traumas físicos e emocionais significativos. O paciente está ansioso para saber sobre seu estado de saúde, e a equipe solicita uma avaliação psicológica. Nesse contexto, em relação ao atendimento psicológico, analise as assertivas e assinale a alternativa que aponta a(s) correta(s). I. É necessário que o protocolo operacional do setor de Psicologia seja respeitado, tendo horário definido e espaço privativo para a avaliação. II. Para que ocorra o atendimento psicológico no hospital, o paciente precisa solicitar. III. O psicólogo deve buscar compreender como o paciente e a família percebem a situação, seus recursos psíquicos de enfrentamento e como pode ajudá-los como participante da equipe de cuidadores.",
+  "alternativas": [
+   "Apenas I.",
+   "Apenas II.",
+   "Apenas III.",
+   "Apenas II e III.",
+   "I, II e III."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [],
+  "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
+  "pdf_pagina": 18
+ }
+]
