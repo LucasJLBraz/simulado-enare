@@ -30,6 +30,9 @@ p { margin: 8px 0; }
 .btn.pequeno { min-height: 48px; display: inline-block; width: auto; }
 .linha { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
 .linha > .btn { flex: 1; min-width: 120px; }
+.linha.stepper { flex-wrap: nowrap; }
+.linha.stepper > .btn { flex: 0 0 64px; min-width: 0; margin: 0; }
+.linha.stepper input { flex: 1; min-width: 0; text-align: center; }
 .badge { display: inline-block; padding: 3px 10px; border-radius: 999px; font-size: .82rem; font-weight: 600; background: var(--sel); color: var(--texto); margin: 2px 4px 2px 0; }
 .badge.prov { background: var(--aviso-bg); color: var(--aviso); }
 .badge.apost { background: var(--aviso-bg); color: var(--aviso); }
@@ -49,8 +52,9 @@ input[type=number], input[type=date], input[type=time], select {
 .escolha { display: flex; gap: 8px; }
 .escolha button { flex: 1; min-height: 56px; border-radius: 14px; border: 2px solid var(--borda); background: var(--card); color: var(--texto); font: inherit; font-weight: 600; cursor: pointer; }
 .escolha button.sel { border-color: var(--prim); background: var(--sel); }
-.interruptor { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 56px; }
-.interruptor input { width: 28px; height: 28px; }
+.interruptor { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 56px; padding: 6px 0; cursor: pointer; }
+.interruptor span { flex: 1; }
+.interruptor input { flex: 0 0 28px; width: 28px; height: 28px; margin: 0; }
 .enunciado { white-space: pre-line; }
 .comentario { white-space: pre-line; background: var(--bg); border-radius: 12px; padding: 12px; margin: 8px 0; }
 .topo-questao { position: sticky; top: 0; background: var(--bg); padding: 8px 0; z-index: 2; border-bottom: 1px solid var(--borda); }

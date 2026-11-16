@@ -7,7 +7,7 @@ import { iniciar, atualId, decorrido, retomar } from '../sessao.js';
 export function inicio() {
   const e = ctx.estado;
   const hoje = hojeISO();
-  const ids = revisaoDoDia(e.progresso, hoje).filter((id) => ctx.porId.has(id));
+  const ids = revisaoDoDia(e.progresso, hoje).filter((id) => ctx.porId.has(id) && (e.config.mini.apostila || ctx.porId.get(id).origem.tipo === 'oficial'));
   const min = minutosEstimados(ids, e.progresso);
   const diag = diagnostico(ctx.questoes, ctx.topicos, e.progresso);
   const foco = diag[0];

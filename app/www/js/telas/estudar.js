@@ -1,11 +1,12 @@
 import { h, fmtMin } from '../dom.js';
 import { ctx } from '../ctx.js';
 import { diagnostico, motivo, ROTULO_ESTADO } from '../../logica/dominio.js';
-import { ritmoPorTopico, refSegPorQuestao } from '../../logica/ritmo.js';
+import { ritmoPorTopico } from '../../logica/ritmo.js';
+import { SEG_PADRAO } from '../../logica/revisao.js';
 
 export function estudar() {
   const e = ctx.estado;
-  const ref = refSegPorQuestao(ctx.meta.formato_prova);
+  const ref = SEG_PADRAO;
   const rit = ritmoPorTopico(ctx.questoes, e.progresso, ref);
   const diag = diagnostico(ctx.questoes, ctx.topicos, e.progresso);
   const diagAp = diagnostico(ctx.questoes, ctx.topicos, e.progresso, { apostila: true }).filter((t) => t.n > 0);

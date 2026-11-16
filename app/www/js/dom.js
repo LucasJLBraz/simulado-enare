@@ -26,7 +26,7 @@ export const fmtMin = (s) => {
 export function origemTexto(q) {
   const o = q.origem;
   return o.tipo === 'oficial'
-    ? `${o.exame} ${o.edicao} · ${o.banca} · prova ${o.prova} · questão ${o.numero}`
+    ? `${o.exame} ${o.edicao} · ${o.banca} · prova ${o.prova} · questão\u00a0${o.numero}`
     : `Apostila: ${o.material}`;
 }
 

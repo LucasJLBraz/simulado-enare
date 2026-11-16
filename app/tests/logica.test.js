@@ -130,3 +130,23 @@ test('contestação some quando o comentário ganha versão nova', () => {
   marcar(est, q, 'confirmar');
   assert.ok(est.confirmacoes['1'] && !est.contestacoes['1']);
 });
+
+test('retomar: modo prova segue o relógio de parede, treino retoma só se pausado', async () => {
+  const { retomar } = await import('../www/js/sessao.js');
+  const { ctx } = await import('../www/js/ctx.js');
+  ctx.salvar = () => {};
+  const p = { modo: 'prova', rodandoDesde: 1000, acumuladoSeg: 0 };
+  retomar(p); assert.equal(p.rodandoDesde, 1000);
+  const p2 = { modo: 'prova', rodandoDesde: null, acumuladoSeg: 5 };
+  retomar(p2); assert.equal(p2.rodandoDesde, null);
+  const t = { modo: null, rodandoDesde: null, acumuladoSeg: 5 };
+  retomar(t); assert.ok(t.rodandoDesde);
+  const t2 = { modo: null, rodandoDesde: 1000, acumuladoSeg: 5 };
+  retomar(t2); assert.equal(t2.rodandoDesde, 1000);
+});
+
+test('esperadas: maior número por prova', async () => {
+  const { esperadas } = await import('../www/logica/simulado.js');
+  const o = (prova, numero) => ({ origem: { prova, numero } });
+  assert.equal(esperadas([o('A', 1), o('A', 60), o('B', 3)]), 63);
+});

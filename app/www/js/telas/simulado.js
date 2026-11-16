@@ -16,6 +16,7 @@ export function simuladoSetup() {
 
   const desenhar = () => {
     const total = s.total ?? Math.round(n() * s.porQ * 60);
+    const ed = eds.find((x) => x.edicao === s.edicao);
     const faltam = s.tipo === 'montado' ? montar(ctx.questoes, vistos, f).faltam : null;
     raiz.replaceChildren(
       h('h1', {}, 'Simulado completo'),
@@ -29,6 +30,8 @@ export function simuladoSetup() {
             eds.map((x) => h('option', { value: x.edicao, selected: x.edicao === s.edicao }, `ENARE ${x.edicao} (${x.n} questões)`))),
           h('p', { class: 'suave' }, 'Todas as questões não anuladas da edição, na ordem original.')]
         : h('p', { class: 'suave' }, `Sorteio de várias edições do ENARE: ${f.gerais} de conhecimentos gerais e ${f.especificos} específicas. Inéditas primeiro.`),
+      s.tipo === 'real' && ed && ed.n < ed.esperadas &&
+        h('p', { class: 'badge prov' }, `Esta prova tem ${ed.n} questões no app (algumas foram anuladas ou dependem de figura).`),
       faltam && (faltam.gerais > 0 || faltam.especificos > 0) &&
         h('p', { class: 'badge prov' }, `O banco tem menos questões que a prova: ${n()} no total.`),
       h('label', { class: 'campo' }, 'Modo'),

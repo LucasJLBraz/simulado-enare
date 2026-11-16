@@ -13,7 +13,11 @@ export function iniciar({ tipo, titulo, fila, modo = null, feedback = 'fim', tot
 }
 
 export function pausar(s) { s.acumuladoSeg = decorrido(s); s.rodandoDesde = null; ctx.salvar(); }
-export function retomar(s) { s.rodandoDesde = Date.now(); s.tickEm = Date.now(); ctx.salvar(); }
+// Modo prova segue o relógio de parede: nunca re-arma. Só retoma sessão realmente pausada.
+export function retomar(s) {
+  if (s.modo === 'prova' || s.rodandoDesde) return;
+  s.rodandoDesde = Date.now(); s.tickEm = Date.now(); ctx.salvar();
+}
 export function pular(s, id) { s.fila = s.fila.filter((x) => x !== id).concat(id); ctx.salvar(); }
 
 // Ao abrir o app: sessão em modo prova segue o relógio de parede; as demais ficam pausadas
@@ -48,6 +52,7 @@ export function finalizar(s) {
   const id = Date.now();
   e.historico.push({
     id, quando: hojeISO(), tipo: s.tipo, titulo: s.titulo, modo: s.modo, feedback: s.feedback, totalSeg: Math.round(decorrido(s)),
+    refSeg: s.totalSeg != null ? s.totalSeg / s.fila.length : s.porQuestaoSeg,
     itens: s.fila.map((qid) => ({ qid, ...(s.respostas[qid] || { resp: null }) })),
   });
   e.historico = e.historico.slice(-30);

@@ -11,10 +11,17 @@ export function montar(questoes, vistos, formato, rng = Math.random) {
   return { questoes: [...g, ...e], faltam: { gerais: formato.gerais - g.length, especificos: formato.especificos - e.length } };
 }
 
+// Questões que a edição tinha: soma do maior número de cada prova (anuladas e de figura somem do banco).
+export function esperadas(qs) {
+  const m = {};
+  for (const q of qs) m[q.origem.prova] = Math.max(m[q.origem.prova] || 0, q.origem.numero);
+  return Object.values(m).reduce((a, b) => a + b, 0);
+}
+
 export function edicoes(questoes) {
   const m = {};
   for (const q of questoes.filter(ehEnare)) (m[q.origem.edicao] ||= []).push(q);
-  return Object.entries(m).map(([edicao, qs]) => ({ edicao, n: qs.length })).sort((a, b) => b.edicao.localeCompare(a.edicao));
+  return Object.entries(m).map(([edicao, qs]) => ({ edicao, n: qs.length, esperadas: esperadas(qs) })).sort((a, b) => b.edicao.localeCompare(a.edicao));
 }
 
 // Prova real: todas as questões não anuladas da edição, na ordem original.

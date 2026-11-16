@@ -20,7 +20,7 @@ export function miniSetup({ params }) {
     raiz.replaceChildren(
       h('h1', {}, 'Mini-simulado'),
       h('label', { class: 'campo' }, 'Quantas questões?'),
-      h('div', { class: 'linha' },
+      h('div', { class: 'linha stepper' },
         h('button', { class: 'btn', onclick: () => { c.n = Math.max(1, c.n - 1); desenhar(); } }, '−'),
         h('input', { type: 'number', min: 1, max: 100, value: c.n, 'aria-label': 'Número de questões', onchange: (ev) => { c.n = Math.max(1, +ev.target.value || 1); desenhar(); } }),
         h('button', { class: 'btn', onclick: () => { c.n = Math.min(100, c.n + 1); desenhar(); } }, '+')),
