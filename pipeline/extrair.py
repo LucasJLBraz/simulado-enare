@@ -101,7 +101,7 @@ def parse_gabarito(path, secao):
             ls = []
             while i < len(toks) and len(ls) < len(nums) and (toks[i].upper() in ANULADA or re.fullmatch(r"[A-E]", toks[i])):
                 ls.append("X" if toks[i].upper() in ANULADA else toks[i]); i += 1
-            if len(ls) != len(nums):
+            if not nums or len(ls) != len(nums):  # fim do bloco da seção (texto que não é número/letra)
                 break
             gab.update(zip(nums, ls))
     else:

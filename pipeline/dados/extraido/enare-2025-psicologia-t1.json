@@ -1,0 +1,2744 @@
+[
+ {
+  "id": "enare-2025-psicologia-t1-001",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 1
+  },
+  "parte": "gerais",
+  "enunciado": "Carlos Chagas, médico sanitarista e pesquisador, ao assumir a direção do recém-criado Departamento Nacional de Saúde Pública (DNSP) em 1920, reorganizou os serviços de saúde. Sobre as atribuições do DNSP, assinale a afirmativa correta.",
+  "alternativas": [
+   "Estabelecer uma política de vacinação infantil.",
+   "Criar o Programa Nacional de Imunizações no Brasil.",
+   "Instituir, no âmbito federal, a Fundação Oswaldo Cruz.",
+   "Fornecer e fiscalizar o preparo de soros e vacinas.",
+   "Suprimir o controle sanitário dos portos marítimos e fluviais."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.1"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 3
+ },
+ {
+  "id": "enare-2025-psicologia-t1-002",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 2
+  },
+  "parte": "gerais",
+  "enunciado": "A Reforma Sanitária Brasileira, gestada desde a década de 1970 e consolidada na década de 1980, desenvolveu-se em meio a disputas entre diferentes atores sociais, políticos e econômicos. Havia a expectativa de que a reorganização da sociedade após o fim do período autoritário poderia abrir caminho para que se erigisse a Saúde Pública sobre novas bases. Considerando os atores envolvidos nesse processo de reforma, cabe destacar o papel desempenhado",
+  "alternativas": [
+   "pelas grandes instituições hospitalares privadas, que assumiram a liderança política do processo de unificação dos sistemas de saúde existentes.",
+   "por setores empresariais e financeiros, que defenderam o financiamento integral do novo sistema público de saúde pelo Estado.",
+   "por movimentos sociais, que articularam propostas voltadas à universalização do acesso e à democratização das políticas públicas de saúde.",
+   "por corporações médicas tradicionais, que se colocaram à frente da formulação de políticas de descentralização e regionalização da saúde.",
+   "por setores do regime militar, que buscaram garantir a expansão dos serviços públicos de saúde sem romper com a lógica do mercado."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.1"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 3
+ },
+ {
+  "id": "enare-2025-psicologia-t1-003",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 3
+  },
+  "parte": "gerais",
+  "enunciado": "Sobre a organização do Sistema Único de Saúde - SUS, o planejamento da saúde, a assistência à saúde e a articulação interfederativa, além de outras providências, considerando o Decreto nº 7.508/2011 que regulamentou a Lei nº 8.080/1990, assinale a afirmativa correta.",
+  "alternativas": [
+   "As Regiões de Saúde serão referência para as transferências de recursos entre os entes federativos.",
+   "As portas de entrada às ações e aos serviços de saúde nas Redes de Atenção à Saúde serão a atenção primária e a atenção de urgência e emergência.",
+   "Os serviços ambulatoriais especializados serão considerados como Portas de Entrada, em virtude da densidade tecnológica para a Rede de Saúde.",
+   "As Redes de Atenção à Saúde estarão compreendidas no âmbito de uma Região de Saúde, em consonância com as diretrizes pactuadas entre as secretarias municipais.",
+   "O Ministério da Educação e os Hospitais Universitários vinculados a ele terão a competência de dispor sobre a Relação Nacional de Medicamentos Essenciais - RENAME, assim como sobre os Protocolos Clínicos e as Diretrizes Terapêuticas para instituições de saúde."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.2"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 3,
+  "pegadinha": {
+   "letra": "B",
+   "atracao": 0.6
+  }
+ },
+ {
+  "id": "enare-2025-psicologia-t1-004",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 4
+  },
+  "parte": "gerais",
+  "enunciado": "Considere a situação hipotética a seguir. Um paciente realizou uma biópsia de cordas vocais em um hospital rural de pequeno porte. Quando o resultado do exame histopatológico mostrou se tratar de um carcinoma epidermoide de laringe, o paciente foi regulado para tratamento com químio e radioterapia no CACON mais próximo. Com base no relato, assinale a opção que apresenta o princípio do SUS que melhor embasa o encaminhamento e o tratamento desse paciente para o CACON.",
+  "alternativas": [
+   "Equidade.",
+   "Universalidade.",
+   "Integralidade.",
+   "Hierarquização.",
+   "Justiça Social."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.2"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 3,
+  "pegadinha": {
+   "letra": "D",
+   "atracao": 0.3
+  }
+ },
+ {
+  "id": "enare-2025-psicologia-t1-005",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 5
+  },
+  "parte": "gerais",
+  "enunciado": "A Lei nº 8.142/1990, que dispõe, entre outras coisas, sobre as transferências intergovernamentais de recursos financeiros na área da saúde, estabelece condições para que os Municípios recebam recursos do Fundo Nacional de Saúde (FNS). Eles devem, por exemplo, formar Conselhos de Saúde, elaborar planos de saúde e produzir relatórios de gestão. Assinale a opção que indica corretamente o que ocorre caso estes requisitos não sejam atendidos.",
+  "alternativas": [
+   "O Município continua recebendo normalmente os repasses do Fundo Nacional de Saúde, mas com restrição para utilizá-los em despesas de custeio.",
+   "O Município passa a receber os repasses em caráter parcial, com valores reduzidos proporcionalmente ao descumprimento das exigências legais.",
+   "Os recursos deixam de ser transferidos diretamente ao Município e passam a ser administrados pela esfera de governo imediatamente superior.",
+   "O Município permanece recebendo os repasses, mas fica obrigado a devolver anualmente os valores aplicados sem comprovação em relatórios de gestão.",
+   "O Município tem suspensas apenas as transferências estaduais, mas mantém os recursos federais normalmente, sob fiscalização da União."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.2"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 3
+ },
+ {
+  "id": "enare-2025-psicologia-t1-006",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 6
+  },
+  "parte": "gerais",
+  "enunciado": "Rede de Atenção à Saúde (RAS) é uma forma de organização e estruturação dos serviços oferecidos pelo Sistema Único de Saúde (SUS). A RAS promove a integração vertical (entre diferentes níveis) e a integração horizontal (entre serviços similares). Assinale a opção que exemplifica um caso de integração vertical.",
+  "alternativas": [
+   "Laboratórios de análises clínicas de municípios vizinhos organizam uma central única de processamento de exames laboratoriais.",
+   "Três Centros de Atenção Psicossocial de uma região pactuam ações conjuntas para manejo de crises e internação em leitos de saúde mental.",
+   "Dois hospitais gerais firmam um convênio para otimizar o uso de seus centros cirúrgicos e reduzir a fila de usuários à espera de cirurgias eletivas.",
+   "Uma Unidade Básica de Saúde encaminha um paciente para atendimento especializado e posterior tratamento em unidade de alta complexidade.",
+   "Duas Unidades Básicas de Saúde de bairros vizinhos compartilham uma equipe de Saúde Bucal para ampliar o atendimento odontológico da região. "
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.3"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 3
+ },
+ {
+  "id": "enare-2025-psicologia-t1-007",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 7
+  },
+  "parte": "gerais",
+  "enunciado": "Com relação às Redes de Atenção à Saúde (RAS), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. (   ) Um dos atributos das RAS é a adscrição de clientela, ou seja, a definição de uma população em território específico para cada ponto de atenção. (   ) Um dos objetivos das RAS é garantir a referência e a contrarreferência adequadas entre os serviços, assegurando continuidade do cuidado. (   ) A Atenção Primária à Saúde ocupa posição periférica na rede, que tem como enfoque o atendimento em serviços especializados ou hospitalares. As afirmativas são, respectivamente,",
+  "alternativas": [
+   "F – V – F.",
+   "F – V – V.",
+   "V – F – F.",
+   "V – V – F.",
+   "F – F – V."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.3"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2025-psicologia-t1-008",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 8
+  },
+  "parte": "gerais",
+  "enunciado": "As Equipes Consultório na Rua (ECR) são o braço do Sistema Único de Saúde (SUS) voltado para o atendimento às populações em situação de rua. Para ser atendido por uma ECR, é necessário que o indivíduo",
+  "alternativas": [
+   "comprove nacionalidade brasileira no momento do atendimento.",
+   "busque ativamente o atendimento junto à unidade de saúde de referência.",
+   "possua encaminhamento formal de unidade de saúde da atenção primária.",
+   "seja identificado como em situação de rua por uma abordagem ativa das equipes.",
+   "esteja previamente cadastro no sistema governamental para o acesso a programas sociais."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.4"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2025-psicologia-t1-009",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 9
+  },
+  "parte": "gerais",
+  "enunciado": "Sobre a Portaria nº 2.803/2013, que redefine e amplia o Processo Transexualizador no Sistema Único de Saúde, analise as diretrizes de assistência ao usuário com demanda para a realização do Processo no SUS. I. Garantir a integralidade da atenção a transexuais e travestis, centralizando a meta terapêutica nas cirurgias de transgenitalização e demais intervenções somáticas. II. Providenciar que o atendimento seja sempre realizado por equipes interdisciplinares e multiprofissionais. III. Implementar a integração com as ações e os serviços em atendimento ao Processo Transexualizador, tendo como entrada a Atenção Básica em saúde, incluindo-se o acolhimento e a humanização do atendimento livre de qualquer discriminação. As afirmativas são, na ordem apresentada,",
+  "alternativas": [
+   "F – V – V.",
+   "V – V – V",
+   "F – V – F.",
+   "V – F – V.",
+   "F – F – V."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.4"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2025-psicologia-t1-010",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 10
+  },
+  "parte": "gerais",
+  "enunciado": "A Estratégia Saúde da Família (ESF) é um modelo crucial na organização e execução da Atenção Primária à Saúde (APS) no Brasil. Dentre os atributos que orientam seu funcionamento, destaca-se a longitudinalidade. Assinale a opção que exemplifica corretamente esse atributo.",
+  "alternativas": [
+   "Realização de ações educativas em grupos comunitários para promoção de hábitos saudáveis.",
+   "Integração de diferentes níveis de atenção para garantir acesso a exames e cirurgias de alta complexidade.",
+   "Encaminhamento imediato de casos agudos para o atendimento especializado, visando rápida resolução.",
+   "Planejamento de ações com base em indicadores epidemiológicos locais, priorizando grupos de risco.",
+   "Acompanhamento contínuo de um paciente com hipertensão arterial por uma mesma equipe de saúde ao longo dos anos."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.5"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2025-psicologia-t1-011",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 11
+  },
+  "parte": "gerais",
+  "enunciado": "A Portaria nº 2.436/2017 do Ministério da Saúde estabelece as responsabilidades das esferas do governo no âmbito da Política Nacional de Atenção Básica (PNAB). Assinale a opção que exemplifica um caso em que uma dessas responsabilidades é violada.",
+  "alternativas": [
+   "A União direcionou parte maior de seus repasses financeiros relativos à cobertura de Atenção Básica para municípios com maior densidade populacional.",
+   "Um Estado estabeleceu metas de expansão da cobertura de serviços, priorizando inicialmente regiões metropolitanas e, em etapas posteriores, áreas rurais.",
+   "Equipes de Saúde utilizaram os sistemas oficiais de informação da Atenção Básica para monitorar atendimentos, analisar indicadores e planejar intervenções.",
+   "Um Município ampliou a infraestrutura de suas Unidades Básicas de Saúde (UBS), criando consultórios adicionais e adaptando gradualmente os espaços para atender melhor à população adscrita.",
+   "Conselhos Municipais de Saúde organizaram encontros periódicos com representantes da comunidade para discutir prioridades locais e avaliar o desempenho das equipes."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.5"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 4,
+  "pegadinha": {
+   "letra": "B",
+   "atracao": 0.17
+  }
+ },
+ {
+  "id": "enare-2025-psicologia-t1-012",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 12
+  },
+  "parte": "gerais",
+  "enunciado": "A Política Nacional de Atenção Básica (PNAB) é o resultado da experiência acumulada por um conjunto de atores envolvidos historicamente com o desenvolvimento e a consolidação do Sistema Único de Saúde (SUS), como movimentos sociais, população, trabalhadores e gestores das três esferas de governo. Essa Política, tem na Saúde da Família sua estratégia prioritária para expansão e consolidação da Atenção Básica. Sobre as equipes que integram a Estratégia Saúde da Família (ESF), no contexto da PNAB, assinale a afirmativa correta.",
+  "alternativas": [
+   "É obrigatória a participação de um profissional de saúde bucal.",
+   "Em áreas consideradas de risco, é aceitável a cobertura pela equipe de ESF de até 75% do território.",
+   "Não há necessidade das categorias de médicos e enfermeiros serem especialistas em medicina de família e comunidade e saúde da família, respectivamente.",
+   "Para a equipe de ESF, há a obrigatoriedade de carga horária de 10 (dez) horas semanais para todos os profissionais que a compõem.",
+   "É de responsabilidade de cada profissional a distribuição da carga horária, levando em consideração o perfil demográfico e epidemiológico local atendido, garantido 100% de cobertura. "
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.5"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2025-psicologia-t1-013",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 13
+  },
+  "parte": "gerais",
+  "enunciado": "A Política Nacional de Educação Permanente em Saúde (PNEPS) busca fortalecer a integração entre os processos formativos dos profissionais de saúde e os diversos aspectos que constituem sua atuação no sistema de saúde. Assinale a opção que exemplifica uma ação compatível com os objetivos da PNEPS.",
+  "alternativas": [
+   "A equipe gestora de um hospital promove capacitações técnicas com foco em atualização de procedimentos clínicos previamente definidos em planos anuais.",
+   "Profissionais de uma unidade básica de saúde organizam encontros periódicos para elaborar estratégias que qualifiquem o cuidado a partir da realidade local.",
+   "Uma instituição oferece cursos presenciais com foco em habilidades técnicas voltadas ao atendimento em unidades de média complexidade.",
+   "O departamento de ensino de uma Secretaria de Saúde realiza oficinas sobre gestão de processos administrativos e uso de ferramentas digitais no serviço público.",
+   "Uma empresa contratada ministra treinamentos sobre protocolos assistenciais com base em diretrizes nacionais de boas práticas clínicas."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.6"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2025-psicologia-t1-014",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 14
+  },
+  "parte": "gerais",
+  "enunciado": "A Política Nacional de Humanização (PNH) se baseia em três princípios orientadores. A esse respeito, considere a situação a seguir. Em um hospital público, os gestores e profissionais percebem que os longos tempos de espera no pronto-socorro comprometem a qualidade do atendimento. Para resolver o problema, reorganizam a escala de trabalho da equipe e implantam acolhimento com classificação de risco. Assinale a opção que indica o princípio exemplificado pela iniciativa dos gestores.",
+  "alternativas": [
+   "Protagonismo.",
+   "Transversalidade.",
+   "Corresponsabilidade.",
+   "Autonomia dos sujeitos e coletivos.",
+   "Indissociabilidade entre ação e gestão."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.7"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2025-psicologia-t1-015",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 15
+  },
+  "parte": "gerais",
+  "enunciado": "Segundo a Portaria nº 1.378/2013, do GM/MS, a Agência Nacional de Vigilância Sanitária deve",
+  "alternativas": [
+   "coordenar o Programa Nacional de Imunizações, incluindo a definição das vacinas componentes do calendário nacional.",
+   "regular, controlar e fiscalizar os procedimentos, os produtos, as substâncias e os serviços de saúde e de interesse para a saúde.",
+   "coordenar a preparação e a resposta das ações de vigilância em saúde nas emergências de Saúde Pública de importância nacional e internacional.",
+   "prover os insumos de prevenção, o diagnóstico e o tratamento de doenças sexualmente transmissíveis, relacionados pelos programas das comissões tripartites.",
+   "prover os insumos destinados ao controle de doenças transmitidas por vetores, compreendendo inseticidas, larvicidas e moluscocidas - indicados pelos programas."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.8"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2025-psicologia-t1-016",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 16
+  },
+  "parte": "gerais",
+  "enunciado": "Com base nos tipos de ação previstos na Política Nacional de Vigilância em Saúde (PNVS), assinale a opção que apresenta uma situação que não se enquadra no escopo dessa política.",
+  "alternativas": [
+   "Inspeção sanitária em estabelecimentos que produzem alimentos e medicamentos.",
+   "Realização de campanhas de vacinação para prevenir surtos de doenças transmissíveis.",
+   "Acompanhamento de condições de saúde relacionadas ao ambiente de trabalho.",
+   "Monitoramento da qualidade da água e do ar em áreas urbanas e rurais.",
+   "Vistoria de equipamentos hospitalares com foco em controle de custos."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.8"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2025-psicologia-t1-017",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 17
+  },
+  "parte": "gerais",
+  "enunciado": "Relacione os princípios clássicos da bioética listados a seguir ao seu respectivo exemplo de violação. 1. Autonomia 2. Justiça 3. Não-maleficência 4. Beneficência (   ) Um paciente é submetido a um procedimento cirúrgico invasivo sem ter sido previamente informado sobre os riscos, as alternativas e as possíveis consequências. (   ) Uma equipe médica prescreve um medicamento cuja toxicidade já era conhecida e superior ao benefício terapêutico esperado para aquele caso. (   ) Em um hospital público, pacientes com convênios privados são sistematicamente priorizados em detrimento daqueles atendidos via SUS. (   ) Um médico decide manter um tratamento agressivo e doloroso a um paciente terminal, mesmo quando já se sabe que não há nenhum possível benefício. Assinale a opção que indica a relação correta, segundo a ordem apresentada.",
+  "alternativas": [
+   "1, 3, 2 e 4.",
+   "1, 4, 2 e 3.",
+   "4, 2, 3 e 1.",
+   "2, 4, 3 e 1.",
+   "4, 3, 2 e 1."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.9"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 5,
+  "pegadinha": {
+   "letra": "A",
+   "atracao": 0.89
+  }
+ },
+ {
+  "id": "enare-2025-psicologia-t1-018",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 18
+  },
+  "parte": "gerais",
+  "enunciado": "No contexto do Programa Nacional de Segurança do Paciente (PNSP), assinale a opção que indica uma ação obrigatória para os serviços de saúde.",
+  "alternativas": [
+   "Garantir visitas irrestritas em unidades de terapia intensiva.",
+   "Priorizar intervenções farmacológicas off-label, sem notificação.",
+   "Resguardar os processos decisórios da participação de pacientes e acompanhantes.",
+   "Implementar Núcleos de Segurança do Paciente nos estabelecimentos de saúde.",
+   "Usar terminologias médicas em linguagem técnica nos prontuários dos pacientes. "
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.10"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2025-psicologia-t1-019",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 19
+  },
+  "parte": "gerais",
+  "enunciado": "A Norma Regulamentadora nº 32 (NR-32) estabeleceu diretrizes de segurança e saúde no trabalho no âmbito dos serviços de saúde. Um elemento fundamental a ser levado em conta é a exposição a riscos químicos e biológicos. Assinale a opção que indica um risco biológico.",
+  "alternativas": [
+   "Inalação de gases anestésicos em centro cirúrgico.",
+   "Exposição a vapores de formaldeído em sala de anatomia.",
+   "Inalação de óxido nitroso em procedimentos odontológicos.",
+   "Contato com sangue contaminado durante a coleta de amostras laboratoriais.",
+   "Manipulação de glutaraldeído para desinfecção de equipamentos hospitalares."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.12"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2025-psicologia-t1-020",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 20
+  },
+  "parte": "gerais",
+  "enunciado": "Leia o texto a seguir. Durante o acompanhamento de um idoso com múltiplas condições crônicas, o médico ajustou a medicação, a nutricionista elaborou uma nova dieta e o fisioterapeuta prescreveu séries de exercícios. O paciente saiu da unidade de saúde sem compreender como as atividades prescritas tratam seus sintomas. O trabalho em equipes multidisciplinares coloca uma série de desafios, de modo que diversos fatores podem prejudicar o seu bom andamento. Na situação exposta, trata-se de um problema de",
+  "alternativas": [
+   "fragmentação do cuidado multiprofissional.",
+   "comunicação deficiente entre os profissionais.",
+   "sobrecarga de trabalho dos profissionais de saúde.",
+   "hierarquização entre as profissões da equipe de saúde.",
+   "precarização dos vínculos de trabalho na atenção primária. Conhecimentos Específicos"
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.11"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2025-psicologia-t1-021",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 21
+  },
+  "parte": "especificos",
+  "enunciado": "O Sr. Mário, 86 anos, viúvo, professor aposentado, foi internado em um hospital para ser submetido a uma cirurgia delicada e arriscada. Antes de ser levado ao centro cirúrgico, o idoso entregou aos filhos um documento escrito de próprio punho em que pedia para não ser submetido a nenhum procedimento de prolongamento artificial da vida, caso saísse da cirurgia impossibilitado de se comunicar. Com relação à situação apresentada, assinale a afirmativa correta.",
+  "alternativas": [
+   "As diretivas antecipadas de vontade do paciente devem ser respeitadas pela equipe médica e pela família.",
+   "O testamento vital só tem validade quando a procuração por instrumento particular é registrada em cartório.",
+   "Por conta de sua idade avançada, o Sr. Mário precisa ser assistido por sua família na tomada de decisões.",
+   "A legislação brasileira protege a vida em quaisquer circunstâncias e impõe que sejam esgotados todos os recursos para preservá-la.",
+   "O Sr. Mário deverá ser atendido pelo profissional de Psicologia para que sejam certificadas as condições para a aplicação da distanásia. Atenção: o fragmento abaixo deve ser usado para responder às duas questões seguintes. Lucas, 23 anos, foi diagnosticado com esquizofrenia e apresenta um quadro psiquiátrico agudo, com riscos à sua própria segurança e à de sua família."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.9"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2025-psicologia-t1-022",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 22
+  },
+  "parte": "especificos",
+  "enunciado": "Considerando os princípios da Reforma Psiquiátrica e os dispositivos da Rede de Atenção Psicossocial (RAPS), assinale a opção que indica o procedimento mais adequado.",
+  "alternativas": [
+   "O tratamento ambulatorial no CAPS AD.",
+   "A internação em leito de saúde mental em hospital geral.",
+   "A internação em leito psiquiátrico de hospital de custódia.",
+   "A internação compulsória em um serviço residencial terapêutico.",
+   "O tratamento domiciliar prestado pelo profissional de saúde mental de referência."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.20"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 6,
+  "pegadinha": {
+   "letra": "A",
+   "atracao": 0.5
+  }
+ },
+ {
+  "id": "enare-2025-psicologia-t1-023",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 23
+  },
+  "parte": "especificos",
+  "enunciado": "Considerando o quadro apresentado por Lucas, assinale a opção que apresenta, de acordo com o DSM-5, os principais critérios diagnósticos da esquizofrenia.",
+  "alternativas": [
+   "Delírios e ideação suicida.",
+   "Humor hipomaníaco e catatonia.",
+   "Alucinações táteis e delirium tremens.",
+   "Discurso desorganizado e alucinações.",
+   "Pensamentos obsessivos e compulsões."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.28",
+   "edital-13.13"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2025-psicologia-t1-024",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 24
+  },
+  "parte": "especificos",
+  "enunciado": "Opioides são substâncias amplamente empregadas em ambiente hospitalar por suas propriedades analgésicas no controle de dores extremas. Essas substâncias causam uma sensação de grande bem-estar e seu uso demanda grande cautela por seu potencial de causar dependência. Sobre essas substâncias, analise as afirmativas a seguir. I. Opioides como morfina e cocaína têm ação perturbadora sobre o SNC. II. A tolerância ao opioide faz com que o usuário precise de quantidades cada vez maiores para obter o mesmo efeito. III. Pessoas que fazem uso recreativo de opioides, como o fentanil, não apresentam sintomas de abstinência quando interrompem o uso. Está correto o que se afirma em",
+  "alternativas": [
+   "II, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III. "
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.24"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2025-psicologia-t1-025",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 25
+  },
+  "parte": "especificos",
+  "enunciado": "A psicóloga Débora atua na terapia sistêmica de família e um dos recursos que utiliza é a construção do genograma familiar. Nesse contexto, o genograma é uma ferramenta importante para",
+  "alternativas": [
+   "aferir a prontidão do grupo familiar para as mudanças, devendo ser adotada como estratégia central nas entrevistas motivacionais.",
+   "render homenagem aos antepassados e apontar as conexões significativas com os mesmos durante a prática da constelação familiar.",
+   "identificar padrões de comportamento, conflitos, alianças e eventos significativos que influenciam as relações familiares através de gerações.",
+   "rastrear doenças e outras características de transmissão hereditária que se manifestam de forma recorrente em alguns membros de cada geração.",
+   "abreviar o atendimento psicoterápico com o estabelecimento de metas terapêuticas, tarefas e definição de prazos para o término da terapia."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.14"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2025-psicologia-t1-026",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 26
+  },
+  "parte": "especificos",
+  "enunciado": "Cecília, 5 anos, filha de Marisa e de Sérgio, foi diagnosticada com uma doença grave, com prognóstico desfavorável. Os médicos preveem pouco tempo de vida para a criança e aconselharam o casal a proporcionar conforto e bons momentos para a filha. Angustiados, Marisa e Sérgio procuraram um templo religioso, ao qual são atribuídos milagres, e fizeram promessas pela cura de Cecília. Considerando as fases do luto formuladas pela psiquiatra Elizabeth Kubler-Ross em sua obra “Sobre a Morte e o Morrer”, identifica-se, no caso narrado,",
+  "alternativas": [
+   "a impotência e a depressão de Cecília.",
+   "o sentimento de raiva ou de revolta da família.",
+   "a fase da aceitação da finitude da filha pelo casal.",
+   "a fase da barganha ou de negociação vivida pelos pais.",
+   "a fase da negação ou de pessimismo apresentada pelos médicos."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.8"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2025-psicologia-t1-027",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 27
+  },
+  "parte": "especificos",
+  "enunciado": "Em alguns procedimentos cirúrgicos, como cirurgias bariátricas, cirurgias plásticas, laqueaduras e cirurgias para afirmação de gênero, o(a) psicólogo(a) que trabalha em equipe multidisciplinar pode ser convocado para produzir uma avaliação. Nesse contexto, considerando as normativas do CFP, as opções a seguir apresentam atribuições dos profissionais de Psicologia, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "Orientar e ajudar o paciente na tomada de uma decisão plenamente informada.",
+   "Auxiliar o paciente na preparação emocional adequada para o procedimento cirúrgico.",
+   "Abordar com o paciente, suas expectativas com relação aos resultados da intervenção cirúrgica.",
+   "Avaliar com a equipe multidisciplinar a demanda que motivou a solicitação de avaliação psicológica.",
+   "Proceder à testagem psicológica do paciente para elaborar o laudo de aptidão mental para o procedimento."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.16"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2025-psicologia-t1-028",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 28
+  },
+  "parte": "especificos",
+  "enunciado": "Durante uma consulta de pré-natal, Camila, estudante, 22 anos, revelou que não queria criar aquele bebê e que iria entregá-lo para adoção. Ela contou que engravidou em uma festa quando se encontrava sob efeito de álcool e outras drogas e que era incapaz de identificar o pai da criança. Sobre a situação narrada, assinale a afirmativa correta.",
+  "alternativas": [
+   "O abandono de um recém-nascido é crime e Camila precisará ser persuadida a assumir a responsabilidade pelo seu erro.",
+   "A rejeição de Camila ao bebê decorre da depressão puerperal e a gestante precisa de ajuda psicológica para poder maternar seu filho.",
+   "O amor materno é instintivo e se manifestará naturalmente no momento do parto, devendo Camila ser incentivada a amamentar seu bebê.",
+   "A entrega em adoção é um direito da genitora e Camila deverá ser encaminhada e acompanhada pela Justiça para a proteção dela e do bebê.",
+   "Camila apresenta um quadro de psicose puerperal desencadeado pelo uso de substâncias psicoativas estimulantes e perturbadoras."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.30"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2025-psicologia-t1-029",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 29
+  },
+  "parte": "especificos",
+  "enunciado": "A participação em grupos como Alcoólicos Anônimos e Narcóticos Anônimos é um recurso conhecido e escolhido por uma parcela de usuários de álcool e outras drogas em seu processo de tratamento. Entre os fatores terapêuticos de grupos dessa natureza, encontra- se",
+  "alternativas": [
+   "a redução de danos.",
+   "a aprendizagem interpessoal.",
+   "a dessensibilização sistemática.",
+   "o estágio de pré-contemplação.",
+   "a codependência entre os membros."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.24",
+   "edital-13.11"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2025-psicologia-t1-030",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 30
+  },
+  "parte": "especificos",
+  "enunciado": "A pandemia da Covid e as tragédias climáticas recentes evidenciaram a importância da inserção da Psicologia no campo das emergências e dos desastres, ampliando as possibilidades da atuação da(o) psicóloga(o) no gerenciamento de riscos e de vulnerabilidades. Um deslizamento de terra soterrou a casa de Rejane. Ela foi resgatada com seus filhos, Junior e Jéssica, de 7 e 5 anos, e com sua avó Lourdes, de 80 anos, mas agora está desabrigada. Sobre os primeiros cuidados psicológicos nesse contexto, analise as afirmativas a seguir. I. Ajudar Rejane e sua família a suprir suas necessidades básicas, como abrigo e alimentação, e a conseguir informações sobre suporte social. II. Confortar as crianças e a idosa e ajudá-las a se sentirem mais calmas e a buscar proteção adicional para suas vulnerabilidades. III. Incentivar Rejane a falar sobre seus sentimentos e suas reações à tragédia, para desabafar e tratar o Transtorno de Estresse Pós-Traumático. Está correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III. "
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.27"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2025-psicologia-t1-031",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 31
+  },
+  "parte": "especificos",
+  "enunciado": "A Portaria GM/MS nº 5.201/2024 introduziu uma série de doenças ocupacionais que agora são de notificação obrigatória nos Serviços de Saúde, entre as quais encontram-se os transtornos mentais relacionados ao trabalho, listados a seguir. I. Síndrome de Burnout. II. Transtorno de ansiedade em trabalhadores noturnos causado pelo abuso de estimulantes. III. Depressão decorrente de assédio organizacional. IV. Doenças osteomusculares e lesões por esforços repetitivos. V. Transtorno de Déficit de Atenção e Hiperatividade. São exemplos de transtornos dessa natureza:",
+  "alternativas": [
+   "I, II e III, apenas.",
+   "I, III e IV, apenas.",
+   "II, IV e V, apenas.",
+   "I, II, III e IV, apenas.",
+   "I, II, III, IV e V."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.21"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2025-psicologia-t1-032",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 32
+  },
+  "parte": "especificos",
+  "enunciado": "Cláudia recebeu uma proposta de emprego mais compatível com sua área de formação profissional e com salário melhor. Em situações como essa, Cláudia fica muito tensa e não para de pensar que, na entrevista, descobrirão que ela é insegura e que será desmascarada e ridicularizada. No caso de Cláudia, o uso da reestruturação cognitiva na Terapia Cognitivo-Comportamental traria o benefício de",
+  "alternativas": [
+   "usar reforços positivos para aumentar a frequência de comportamentos desejáveis e reforços negativos ou punições para reduzir comportamentos indesejados.",
+   "ajudá-la a identificar e a modificar seus pensamentos automáticos negativos e distorcidos, substituindo-os por pensamentos mais adaptativos e realistas.",
+   "a expor gradualmente aos estímulos temidos, enquanto pratica técnicas de relaxamento com o objetivo de reduzir a ansiedade e os comportamentos de evitação associados ao estímulo.",
+   "proporcionar a oportunidade de insights sobre suas próprias ações e reações na forma de interagir com o mundo, mediante a estratégia de troca de papéis entre ela e o terapeuta.",
+   "analisar os padrões de sentimentos e reações que Cláudia desenvolve em relação ao terapeuta, com base em experiências e relações passadas, especialmente na infância, a fim de promover o autoconhecimento."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.13"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2025-psicologia-t1-033",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 33
+  },
+  "parte": "especificos",
+  "enunciado": "A inserção da Psicologia no Sistema Único de Saúde (SUS) no Brasil ocorreu com a regulamentação do SUS pela Lei nº 8.080/1990, que estabeleceu os princípios da universalidade e da integralidade da Atenção à Saúde. Sobre a atuação do(a) psicólogo(a) no SUS e, especificamente, na Atenção Básica à Saúde, assinale a afirmativa correta.",
+  "alternativas": [
+   "Na Atenção Básica, o(a) psicólogo(a) deve pautar sua atuação no assistencialismo, de acordo com a demanda apresentada pela população do território.",
+   "O(A) psicólogo(a) que integra as Equipes de Saúde da Família é um dos profissionais que faz o matriciamento dos casos de saúde mental atendidos no NASF.",
+   "O(A) psicólogo(a) integra a equipe multiprofissional e deve também atuar no campo da prevenção e da promoção da saúde no nível da Atenção Básica.",
+   "O(A) psicólogo(a) que atua nos Centros de Atenção Psicossocial Infanto-Juvenil (CAPSi) deve ampliar sua atuação para contemplar o atendimento às famílias.",
+   "O(A) psicólogo(a) pode ser convocado para atuar em emergências psiquiátricas atendidas pelas Unidades de Pronto Atendimento (UPA) e na abordagem aos pacientes em crise."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.7"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2025-psicologia-t1-034",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 34
+  },
+  "parte": "especificos",
+  "enunciado": "O suicídio é um fenômeno complexo e multifacetado que pode afetar indivíduos de diferentes origens, classes sociais, idades, identidades de gênero etc. As opções a seguir apresentam transtornos psiquiátricos que podem aumentar a probabilidade de uma pessoa considerar, planejar ou tentar tirar a própria vida, à exceção de uma. Assinale- a.",
+  "alternativas": [
+   "Transtorno bipolar.",
+   "Transtorno depressivo maior.",
+   "Orientação sexual homoafetiva.",
+   "Abuso de substâncias psicoativas.",
+   "Transtorno de personalidade borderline."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.29"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2025-psicologia-t1-035",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 35
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre os fatores de risco para o suicídio de pessoas idosas, avalie os itens a seguir. I. A perda de vínculos sociais, da ocupação produtiva e do reconhecimento social. II. A dependência física, o sentimento de sobrecarga para os familiares, bem como a violência ou a negligência familiar. III. Os lutos, as perdas em curto período de tempo e os transtornos do neurodesenvolvimento. Está correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III. "
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.29"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2025-psicologia-t1-036",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 36
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre o risco de depressão e suicídio na faixa etária definida como idosa, assinale a opção que indica a estratégia que pode ser implementada na Rede de Atenção à Saúde como proteção psicológica.",
+  "alternativas": [
+   "A organização de oficinas terapêuticas nos CAPSI (Centros de Atenção Psicossocial do Idoso).",
+   "A internação de curta permanência nas Unidades Básicas de Saúde, em casos agudos.",
+   "A oferta de grupos de convivência para pessoas idosas pelas Equipes da Estratégia Saúde da Família.",
+   "Atividades religiosas e filantrópicas voltadas para pessoas idosas em situação de vulnerabilidade social.",
+   "A realização de palestras sobre cuidados pessoais e direitos da pessoa da terceira idade no CRAS de cada território."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.29"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2025-psicologia-t1-037",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 37
+  },
+  "parte": "especificos",
+  "enunciado": "Luciana está tendo uma gravidez de risco e foi hospitalizada. Um exame de imagem revelou que o bebê que Luciana está gestando é anencéfalo. A gravidez de um bebê anencéfalo levanta dilemas éticos complexos e a equipe hospitalar - médicos, psicólogo, enfermeira - se reuniu para debater o caso. Sobre o caso apresentado, considerando os princípios da bioética, assinale a afirmativa correta.",
+  "alternativas": [
+   "O médico que diagnosticou a má-formação do bebê deve guardar sigilo sobre essa informação, a fim de evitar trazer sofrimento adicional para a gestante.",
+   "De acordo com o princípio da autonomia, Luciana deverá interromper a gestação considerando que a anencefalia é incompatível com a vida extrauterina.",
+   "A não maleficência busca evitar danos desnecessários à mulher e permite que ela opte pela interrupção, considerando os riscos físicos e emocionais dessa gestação.",
+   "O respeito ao princípio da beneficência preconiza a continuação da gravidez para garantir ao bebê o direito de nascer e evitar as consequências legais de um aborto.",
+   "Caberá ao médico dar a resposta ao dilema entre manter ou interromper a gestação, considerando seus valores religiosos e morais e o juramento de Hipócrates."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.9"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2025-psicologia-t1-038",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 38
+  },
+  "parte": "especificos",
+  "enunciado": "O movimento da Psicologia Positiva, iniciado em 1998 por Martin Seligman, representa um ramo da Psicologia que se concentra no estudo científico do funcionamento humano positivo e do bem- estar. Entre as virtudes e forças pessoais estudadas encontra-se a resiliência, que pode ser descrita como",
+  "alternativas": [
+   "a aptidão para se envolver totalmente em atividades e experiências, formando conexões sociais significativas e redes de apoio.",
+   "o dom de encontrar propósito e sentido na vida a fim de alcançar metas e objetivos, tanto pessoais quanto profissionais.",
+   "a busca de compreensão de suas próprias habilidades e limitações, a fim de identificar áreas que precisam de desenvolvimento.",
+   "a habilidade de lidar com situações de tensão e divergências de forma construtiva, buscando soluções conciliatórias que beneficiem a todos os envolvidos.",
+   "a capacidade de uma pessoa se adaptar e se recuperar de situações difíceis, adversidades ou traumas, mantendo o equilíbrio emocional e seguindo em frente."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.1",
+   "edital-13.13"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2025-psicologia-t1-039",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 39
+  },
+  "parte": "especificos",
+  "enunciado": "Na instituição em que Helena trabalha, verificou-se um aumento expressivo de pedidos de licença médica, com fundamento em diagnósticos clínicos como hipertensão, enxaquecas e problemas digestivos.  Helena vem sofrendo de insônia e percebeu que tem dependido de hipnóticos para dormir e abusado de bebidas alcoólicas para relaxar. Sobre a situação descrita, considerando os dispositivos da Política Nacional de Saúde do Trabalhador e da Trabalhadora, cabe",
+  "alternativas": [
+   "a implementação de programas de incentivo para promover a retenção de talentos e reduzir o turnover.",
+   "uma revisão dos processos de seleção, recrutamento e treinamento dos colaboradores da instituição.",
+   "a realização de avaliações de desempenho reunindo trabalhadores, gestores e representantes da clientela atendida.",
+   "a oferta de palestras com conteúdos ligados à prevenção e à promoção da saúde física e mental dos funcionários e de atividades para gestão do estresse.",
+   "a realização de intervenções voltadas à identificação e à correção dos fatores organizacionais e ambientais que impactam negativamente a saúde dos trabalhadores."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.21"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2025-psicologia-t1-040",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 40
+  },
+  "parte": "especificos",
+  "enunciado": "A Lei nº 8.080/1990 (Lei Orgânica da Saúde), com a inclusão do inciso XVI – atenção humanizada pela Lei nº 15.126/2025, passou a reconhecer oficialmente a Atenção Humanizada como um dos princípios do SUS. A Atenção Humanizada pelo SUS representa um importante avanço, porque",
+  "alternativas": [
+   "agiliza e aprimora os atendimentos, ao focar na melhoria da qualidade técnica dos exames diagnósticos.",
+   "preconiza o acolhimento empático e a consideração dos aspectos psicológicos e sociais de cada paciente.",
+   "direciona o foco para a doença, aumentando a adesão aos tratamentos e a busca por resultados positivos.",
+   "fortalece a responsabilidade do médico na escolha da terapêutica que atenderá o paciente de forma mais eficiente.",
+   "padroniza as práticas de atendimento, sem diferenciar os pacientes por sua origem social ou características psicológicas."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.7",
+   "edital-1.2"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2025-psicologia-t1-041",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 41
+  },
+  "parte": "especificos",
+  "enunciado": "Thiago, 30 anos, é usuário de álcool e crack e encontra-se atualmente em situação de rua, sendo habitualmente encontrado em uma cracolândia na periferia da cidade. Considerando a rede de atenção primária em saúde, assinale a opção que apresenta a estratégia que pode oferecer cuidados globais a Thiago em seu território.",
+  "alternativas": [
+   "O atendimento por equipe multiprofissional ofertado pelo Consultório na Rua.",
+   "A internação voluntária em uma comunidade terapêutica de orientação religiosa.",
+   "O acolhimento pelas equipes do CREAS por meio do programa Centro POP.",
+   "A abordagem de urgência e emergência pelas equipes interdisciplinares do SAMU.",
+   "A oferta de abrigo e tratamento em um equipamento de atendimento socioeducativo. "
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.4",
+   "edital-13.24"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2025-psicologia-t1-042",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 42
+  },
+  "parte": "especificos",
+  "enunciado": "A enfermeira Márcia chefia uma equipe formada por homens. Seus subordinados costumam afrontar sua autoridade e fazer piadas quanto à sua competência e à sua capacidade de liderança. Márcia está em sofrimento emocional, com sintomas físicos e emocionais de grande estresse, e cogita pedir uma licença médica. O caso narrado é uma situação de",
+  "alternativas": [
+   "etarismo de gênero.",
+   "gaslighting e ghosting.",
+   "assédio sexual horizontal.",
+   "psicodinâmica do trabalho.",
+   "assédio moral vertical ascendente."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.21"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2025-psicologia-t1-043",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 43
+  },
+  "parte": "especificos",
+  "enunciado": "O Ministério da Educação (MEC) publicou as Diretrizes Curriculares Nacionais para os cursos de graduação em Psicologia, elaboradas em parceria com o Conselho Federal de Psicologia (CFP). Considerando as competências pessoais esperadas para a formação do Psicólogo, assinale a afirmativa correta.",
+  "alternativas": [
+   "A ética se manifesta pelo respeito ao sigilo do paciente em toda e qualquer circunstância revelada por ele.",
+   "A empatia é a capacidade de compartilhar seus sentimentos com o outro, seja ele um colega ou um paciente ou usuário.",
+   "A inteligência emocional é aferida pelos resultados acadêmicos e pelo domínio pelo aluno da psicologia como ciência.",
+   "A comunicação eficaz é expressar-se de forma clara, respeitosa e assertiva e adequar a linguagem ao contexto e ao interlocutor.",
+   "A capacidade de trabalhar em equipe interdisciplinar consiste em incentivar a solidariedade e a cooperação horizontal entre os colegas psicólogos."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.31"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2025-psicologia-t1-044",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 44
+  },
+  "parte": "especificos",
+  "enunciado": "O psicólogo Ricardo, ao realizar uma entrevista com Paulo em uma Unidade de Saúde, observou que o paciente apresentava um quadro de obnubilação, com o pensamento lento, um pouco confuso e com dificuldade para entender e responder a perguntas simples. Nesse contexto, Ricardo concluiu, corretamente, que se trata",
+  "alternativas": [
+   "de uma alteração no nível da consciência, que pode ser causada pela intoxicação por substâncias psicoativas.",
+   "de uma alteração no nível da auto e da heteropercepção, sugestiva de um quadro psicótico.",
+   "de sintomas típicos do TDAH - lentidão do pensamento, dificuldade de compreensão e rebaixamento da atenção.",
+   "dos primeiros sinais de um quadro de demência - os sintomas de torpor e letargia.",
+   "de um quadro de desorientação por alterações nas funções psíquicas de memória e linguagem."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.28"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2025-psicologia-t1-045",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 45
+  },
+  "parte": "especificos",
+  "enunciado": "Os paradigmas da saúde mental referem-se às diferentes formas de entender e abordar a saúde mental, que evoluíram ao longo do tempo e da história. Assinale a opção que apresenta uma característica do paradigma psicossocial.",
+  "alternativas": [
+   "A estigmatização da doença mental.",
+   "O foco na medicalização e na internação.",
+   "A supremacia do saber médico psiquiátrico.",
+   "A substituição do modelo asilar por serviços comunitários e abertos.",
+   "A criação de equipes multidisciplinares formadas por profissionais médicos."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.19"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2025-psicologia-t1-046",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 46
+  },
+  "parte": "especificos",
+  "enunciado": "Joana procurou uma Unidade Básica de Saúde para pedir orientação. Ela percebeu que Nicole, sua filha de 15 anos, estava se isolando, fazendo cortes nos braços e se alimentando com quantidades cada vez menores de comida, alegando estar gorda. Considerando a situação de risco à integridade física e psicológica da adolescente, assinale a opção que indica a medida que deve ser adotada pela equipe da UBS.",
+  "alternativas": [
+   "Encaminhar Joana para atendimento familiar no NASF.",
+   "Sensibilizar Nicole para aceitar uma internação involuntária",
+   "Solicitar um matriciamento em saúde mental à equipe do CAPSi.",
+   "Fazer a notificação compulsória de maus tratos ao Conselho Tutelar.",
+   "Providenciar a contrarreferência de Nicole para um serviço psiquiátrico especializado."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.21",
+   "edital-13.17"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2025-psicologia-t1-047",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 47
+  },
+  "parte": "especificos",
+  "enunciado": "A incidência de distúrbios alimentares e de automutilação na população adolescente pede intervenções com alcance educativo e preventivo. As opções a seguir apresentam ações de prevenção primária que podem ser implementadas por psicólogos na comunidade, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "Palestras em centros comunitários com informações sobre autocuidado e saúde mental.",
+   "Capacitação de professores e funcionários das escolas para identificarem e lidarem com situações de bullying.",
+   "Acompanhamento psicoterápico individual, grupal e familiar, com foco no tratamento da anorexia e da bulimia nervosa.",
+   "Ações educativas com as famílias com temas como comunicação não violenta, escuta ativa e questões próprias da adolescência.",
+   "Grupos de convivência para adolescentes na UBS com rodas de conversa e oficinas de expressão para tratar de temas como autoestima e padrões de beleza. "
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.11",
+   "edital-13.13"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2025-psicologia-t1-048",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 48
+  },
+  "parte": "especificos",
+  "enunciado": "Patrícia, psicóloga que atua na Estratégia Saúde da Família (ESF), onde coordena um grupo reflexivo para mulheres hipertensas e diabéticas, relatou o caso a seguir. Regina, 55 anos, era participante assídua, mas deixou de frequentar o grupo e não respondeu às tentativas de contato telefônico. Preocupada, Patrícia decidiu fazer uma visita domiciliar. Regina atendeu assustada e, em seguida, Nilton, seu marido, apareceu e, em tom ríspido, avisou para Patrícia que sua mulher tinha “serviço pra fazer em casa” e não tinha tempo a perder com “fofoca de comadres”. Assinale a opção que apresenta a situação de notificação compulsória às autoridades sanitárias identificada no texto.",
+  "alternativas": [
+   "Abandono do tratamento psicológico.",
+   "Pedido de intervenção feito pela mulher vítima.",
+   "Situação confirmada de violência física ou sexual.",
+   "Suspeita fundamentada de violência contra a mulher.",
+   "Situação de risco, mediante autorização da equipe multidisciplinar."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.21",
+   "edital-13.18"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2025-psicologia-t1-049",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 49
+  },
+  "parte": "especificos",
+  "enunciado": "Isaura, 63 anos, viúva, pensionista, tem procurado o pronto atendimento onde sempre repete queixas de uma infecção urinária persistente. Ela refere ardor intenso ao urinar, febre, sugere que tem uma bexiga neurogênica, relata que já chegou a desmaiar de dor. Os sucessivos exames de imagem não trouxeram resposta, mas se constatou a presença de sangue nas amostras de urina, em quantidades cada vez maiores. Os médicos começam a desconfiar que Isaura não está fisicamente doente e a situação foi debatida na equipe que reúne médico, psicólogo e outros profissionais. O quadro descrito sugere que Isaura",
+  "alternativas": [
+   "está somatizando seus problemas emocionais.",
+   "tem um transtorno conversivo do tipo histérico.",
+   "é hipocondríaca e acredita estar diante de uma doença terminal.",
+   "pode estar adulterando seus exames, em busca de atenção e cuidado.",
+   "apresenta a Síndrome de Munchausen por procuração."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.2",
+   "edital-13.9"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2025-psicologia-t1-050",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 50
+  },
+  "parte": "especificos",
+  "enunciado": "Segundo um dos princípios fundamentais do Código de Ética Profissional do Psicólogo, o psicólogo trabalhará visando promover a saúde e a qualidade de vida das pessoas e das coletividades e contribuirá para a eliminação de qualquer forma de negligência, discriminação, exploração, violência, crueldade e opressão. Nesse sentido, assinale a opção que apresenta a prática que caracteriza violência sexual contra a mulher.",
+  "alternativas": [
+   "Destruir roupas e acessórios da mulher, impedindo-a de se vestir como deseja.",
+   "Deixar de oferecer a profilaxia anti HIV e a pílula do dia seguinte para a mulher vítima de assédio.",
+   "A perseguição obsessiva, conhecida como stalking, com invasão da privacidade e restrição da liberdade.",
+   "Praticar atos de difamação contra a honra da mulher por meio de redes sociais ou quaisquer outros meios.",
+   "Impedir a mulher de fazer uso de qualquer método contraceptivo, forçando-a a uma gravidez indesejada."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.23"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2025-psicologia-t1-051",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 51
+  },
+  "parte": "especificos",
+  "enunciado": "Jorge tem 60 anos e sempre foi considerado um pai e marido presente, trabalhando de forma intensa para prover sua família e sendo rígido sobre o que esperava do padrão de comportamento da esposa e filhos. Jorge irritava-se com homens que gostavam de beber e se envolver em relações extraconjugais, comportamentos que ele mesmo passou a apresentar após o seu aniversário de 60 anos. Na perspectiva da Psicologia Junguiana, podemos considerar que essa mudança tem relação com",
+  "alternativas": [
+   "a sombra.",
+   "os sonhos.",
+   "a persona.",
+   "a imago Dei.",
+   "o arquétipo da Grande Mãe."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.29",
+   "edital-13.13"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2025-psicologia-t1-052",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 52
+  },
+  "parte": "especificos",
+  "enunciado": "Os processos psicológicos que permeiam o período grávido- puerperal são complexos, pois trazem grandes modificações psíquicas, acarretando extraordinárias mudanças existenciais. Sobre esses processos e as modificações psíquicas que eles provocam, analise as afirmativas a seguir. I. A ambivalência com relação à gravidez se expressa pelo desejo de querer estar e também não querer estar grávida. II. Promovem alterações do desejo e do desempenho sexual. III. No puerpério, o baby blues caracteriza-se como estado depressivo mais brando em que são comuns a hiperemotividade, as alterações do humor, a falta de confiança em si própria e os sentimentos de incapacidade. Está correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.30"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2025-psicologia-t1-053",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 53
+  },
+  "parte": "especificos",
+  "enunciado": "A Organização Mundial de Saúde (OMS) mostrou, em várias publicações, que o suicídio tem aumentado nas últimas décadas, e está entre as principais causas de morte entre adolescentes e adultos jovens. Com relação ao suicídio, assinale a afirmativa incorreta.",
+  "alternativas": [
+   "Há diversos fatores de risco para o suicídio, como um transtorno psiquiátrico ou a perda de um emprego.",
+   "O comportamento suicida pode ser prevenido e a prevenção se revela desafiadora para toda a sociedade.",
+   "O suicídio é um fenômeno complexo no qual a interação de fatores individuais, sociais e culturais será determinante na decisão de tirar a própria vida.",
+   "A existência de uma explicação universal para o ato suicida permite que ele seja compreendido pela associação entre fatores precipitantes internos e o contexto sociocultural do ato.",
+   "O suicídio sempre esteve presente na história da humanidade, tendo adquirido significados e valores diversos, a depender da civilização e do momento histórico. "
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.29"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2025-psicologia-t1-054",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 54
+  },
+  "parte": "especificos",
+  "enunciado": "Elisa é médica e foi assaltada em seu consultório, sendo mantida refém por algumas horas. Desde o assalto, ela vem apresentando dificuldade para dormir, pesadelos recorrentes e não está conseguindo atender no consultório, pois passa mal fisicamente apenas em pensar em ir até o local. Os sintomas apresentados por Elisa são sugestivos de",
+  "alternativas": [
+   "hipomania.",
+   "psicose aguda.",
+   "labilidade afetiva.",
+   "transtorno de estresse pós-traumático.",
+   "transtorno de personalidade bipolar."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.27",
+   "edital-13.28"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2025-psicologia-t1-055",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 55
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a opção que mostra como as intervenções terapêuticas grupais podem se revelar estratégias de cuidado relevantes no campo da atenção psicossocial.",
+  "alternativas": [
+   "Desenvolvendo o acolhimento emancipatório e desencadeador de potências de vida consoante o paradigma manicomial dominante.",
+   "Respeitando as diferenças individuais e valorizando a medicalização dos participantes do grupo como estratégia principal de cuidado.",
+   "Redimensionando os papéis de gênero e a assimetria de poder social por meio da presença centralizadora do coordenador que estabelece as regras do grupo.",
+   "Proporcionando momentos de escuta, socialização de experiências de vida, reflexão e empatia entre os integrantes dos grupos terapêuticos.",
+   "Valorizando o processo democrático das decisões grupais e reconhecendo a centralidade do poder decisório dos médicos na área da saúde."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.13",
+   "edital-13.11"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2025-psicologia-t1-056",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 56
+  },
+  "parte": "especificos",
+  "enunciado": "Susana é psicóloga e coordenadora técnica de um CAPS.  Ela, no exercício da função, ouve a equipe, valoriza e promove um ambiente colaborativo, e assume as responsabilidades pelas consequências do trabalho. Além disso, ela promove feedbacks positivos, mantém o engajamento da equipe no trabalho e atende às necessidades individuais e os diferentes perfis dos trabalhadores do CAPS. Segundo a descrição acima, Susana se coloca como líder",
+  "alternativas": [
+   "liberal, técnica e carismática.",
+   "autocrática, transformacional e técnica.",
+   "democrática, motivadora e comportamental.",
+   "carismática, autocrática e técnica.",
+   "democrática, liberal e técnica."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.31"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2025-psicologia-t1-057",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 57
+  },
+  "parte": "especificos",
+  "enunciado": "A psicóloga Lúcia, para sensibilizar as pessoas interessadas em adoção, desenvolveu um trabalho sociodramático, em que elaborou vivências e produziu transformações, com o objetivo de entender a importância da revelação das origens para o adotado, conectando a história das famílias biológicas e o desejo das famílias adotivas. O sociodrama, como estratégia psicoterápica, foi desenvolvido por",
+  "alternativas": [
+   "Augusto Boal.",
+   "Lev Vygotsky.",
+   "Wilhelm Reich.",
+   "Jacob Moreno.",
+   "Constantin Stanislavski."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.13"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2025-psicologia-t1-058",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 58
+  },
+  "parte": "especificos",
+  "enunciado": "Com relação à atuação da Psicologia na área da Saúde do Trabalhador, analise as afirmativas a seguir. I. Deve avaliar as condicionantes sociais e as condições da organização do trabalho na determinação do processo de adoecer e sofrer no trabalho. II. Deve buscar o envolvimento dos trabalhadores como sujeitos capazes de contribuir com o seu conhecimento para o avanço da compreensão do impacto do trabalho sobre o processo saúde-doença. III. Deve enfatizar a dimensão biológica do processo do adoecimento, valorizando a visão médico-farmacológica do adoecer. Está correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.21"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2025-psicologia-t1-059",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 59
+  },
+  "parte": "especificos",
+  "enunciado": "Lucas é psicólogo da Secretaria de Saúde da Prefeitura do Município Alfa há 10 anos e atende na Clínica de Saúde da Família com hora marcada. Devido à perda de numerosos profissionais em decorrência da defasagem salarial, o funcionalismo municipal decidiu entrar em greve. Sobre a adesão de Lucas ao movimento grevista, de acordo com o Código de Ética Profissional do Psicólogo, assinale a afirmativa correta.",
+  "alternativas": [
+   "Pode aderir à greve, mas deve comunicar previamente aos pacientes que atende.",
+   "Deve participar da greve, mas antes precisa comunicar à sua chefia imediata.",
+   "Não pode participar da greve, pois tem um dever ético de atender aos pacientes.",
+   "Não deve participar da greve antes de ter a anuência do chefe do serviço.",
+   "Deve participar da greve, pois não tem nenhum impedimento ético."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.23",
+   "edital-13.6"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2025-psicologia-t1-060",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 60
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre a escuta psicológica no contexto hospitalar, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. (   ) A demanda de atendimento psicológico pode ocorrer por meio dos agentes de saúde que solicitam a avaliação e o acompanhamento psicológico do paciente, para identificar sintomas emocionais que podem interferir na evolução clínica. (   ) A escuta clínica da(o) psicóloga(o) hospitalar está restrita ao sujeito adoecido, que sofre e se desestabiliza emocionalmente no decorrer da hospitalização. (   ) O setting terapêutico criado pela(o) psicóloga(o) na atenção à pacientes hospitalizados garante um espaço para a escuta do sofrimento psíquico, sem desconsiderar as interfaces com os processos biológicos e socioculturais que se apresentam naquele momento. As afirmativas são, respectivamente,",
+  "alternativas": [
+   "V – V – V.",
+   "F – V – V.",
+   "V – F – V.",
+   "V – V – F.",
+   "V – F – F. "
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.5",
+   "edital-13.9"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2025-psicologia-t1-061",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 61
+  },
+  "parte": "especificos",
+  "enunciado": "Lúcia, psicóloga clínica, foi procurada pelo casal Alberto e Joana, que está adotando Alice, de 12 anos, para atender a menina. No decorrer do atendimento Alice falou sobre suas angústias na separação da família biológica e sobre sua ambivalência frente à adoção, pois ama e odeia a nova família. Diante dessa dinâmica, Lúcia",
+  "alternativas": [
+   "só pode falar qualquer coisa se for autorizada pela adolescente.",
+   "está submetida irrestritamente ao dever de sigilo profissional, que não pode ser rompido.",
+   "deve falar aos pais tudo que ocorre no setting terapêutico, pois Alice ainda é adolescente.",
+   "deve comunicar aos pais o estritamente essencial para que se promovam medidas em benefício de Alice.",
+   "precisa buscar saber primeiro como está o processo legal da adoção, pois o que ela falar pode prejudicar o vínculo."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.23",
+   "edital-13.6"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 13
+ },
+ {
+  "id": "enare-2025-psicologia-t1-062",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 62
+  },
+  "parte": "especificos",
+  "enunciado": "O Art. 21 do Código de Ética Profissional do Psicólogo estabelece que as transgressões dos preceitos deste Código constituem infração disciplinar, com a aplicação, na forma dos dispositivos legais ou regimentais, entre outras, das seguintes penalidades:",
+  "alternativas": [
+   "advertência; prestação de serviços à comunidade e perda de bens e valores.",
+   "multa; censura pública e suspensão do exercício profissional, por até 60 dias.",
+   "censura pública; suspensão do exercício profissional, por até 30 dias e cassação do exercício profissional.",
+   "advertência; prestação de serviços à comunidade e cassação do exercício profissional.",
+   "suspensão do exercício profissional, por até 45 dias; limitação de fim de semana e advertência."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.23",
+   "edital-13.6"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 13,
+  "pegadinha": {
+   "letra": "B",
+   "atracao": 0.57
+  }
+ },
+ {
+  "id": "enare-2025-psicologia-t1-063",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 63
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre as formas de atuação multiprofissional da(o) psicóloga(o) na área da Alta Complexidade da Proteção Social Especial, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. (   ) Atender às famílias em grupo nas eMulti, facilitando os processos pessoais e interpessoais de reflexão. (   ) Participar na construção e nas ações do Plano Individual de Acolhimento (PIA). (   ) Considerar a condição de risco pessoal e social, bem como o rompimento de vínculos dos usuários em acolhimento institucional. As afirmativas são, respectivamente,",
+  "alternativas": [
+   "V – V – F.",
+   "F – V – V.",
+   "F – F – V.",
+   "V – V – V.",
+   "V – F – V."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.1"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 13
+ },
+ {
+  "id": "enare-2025-psicologia-t1-064",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 64
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a opção que apresenta, corretamente, o que Freud afirmou sobre o luto no texto Luto e Melancolia.",
+  "alternativas": [
+   "O luto envolve afastamentos daquilo que constitui a atitude normal para com a vida, revelando-se como uma condição patológica.",
+   "O trabalho realizado pelo luto consiste em perceber que o objeto amado só existe internamente, passando a exigir que a libido seja mantida na relação com aquele objeto.",
+   "Quando o trabalho do luto se conclui, o ego fica livre do objeto amado inconsciente que foi perdido, que passa a ser integrado na consciência.",
+   "O luto pode se dar em relação à perda de um ente querido ou à perda do que ocupou o lugar de um ente querido, como o país ou a liberdade.",
+   "No luto há uma diminuição extraordinária da autoestima subjetiva, um empobrecimento e esvaziamento do ego em grande escala."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.8"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 13
+ },
+ {
+  "id": "enare-2025-psicologia-t1-065",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 65
+  },
+  "parte": "especificos",
+  "enunciado": "Com relação ao tema Saúde do Trabalhador, as afirmativas a seguir estão corretas, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "A Saúde do Trabalhador configura um campo de conhecimentos e de práticas que objetiva o estudo, a análise e a intervenção nas relações entre trabalho e saúde-doença.",
+   "A Saúde do Trabalhador agrega conhecimentos de diversas disciplinas, como a Clínica Médica, a Medicina do Trabalho, a Sociologia, a Epidemiologia Social, a Engenharia, a Psicologia, a Psiquiatria e a Ergonomia.",
+   "A Saúde do Trabalhador é uma política pública em saúde que demanda articulações intersetoriais (como saúde, previdência social, educação, trabalho e emprego e meio ambiente).",
+   "A Saúde Ocupacional e a Medicina do Trabalho são fundamentais para o campo da Saúde do Trabalhador, pois buscam a eficiência e a produtividade do trabalhador, enquanto ferramentas de gestão da força de trabalho.",
+   "Evita-se o “psicologismo” que reduz os eventos sociais a aspectos psíquicos individuais ou a abordagem de tipo band-aid, por meio de medidas reativas, como aconselhamento de trabalhadores estressados, psicoterapia individual, relaxamento ou biofeedback."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.21"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 13
+ },
+ {
+  "id": "enare-2025-psicologia-t1-066",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 66
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre escuta clínica, instrumento essencial e indispensável ao fazer psicológico, analise as afirmativas a seguir. I. Permite a construção de novas narrativas pelo paciente já que, por meio dela, há a possibilidade de ressignificação de experiências e reelaboração das histórias vividas. II. Auxilia no processo de elaboração e cura do paciente, pois permite que ele se escute e inicie um processo de transformação emocional. III. Incentiva e promove o protagonismo do paciente no processo terapêutico, implicando-o em sua própria história. Está correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III. "
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.5"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 13,
+  "pegadinha": {
+   "letra": "E",
+   "atracao": 0.97
+  }
+ },
+ {
+  "id": "enare-2025-psicologia-t1-067",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 67
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a opção que apresenta as principais características da oferta de cuidados dos Centros de Atenção Psicossocial Álcool e Drogas (CAPSad).",
+  "alternativas": [
+   "O acolhimento, a atenção integral e o estímulo à integração social e familiar dos usuários de álcool e outras drogas.",
+   "A adoção da lógica de abstinência total, como estratégia para o êxito das ações desenvolvidas por estas unidades de saúde.",
+   "A centralização das ações na unidade de forma a constituir uma relação de pertença e confiança entre os usuários e o serviço.",
+   "A defesa do princípio da desterritorialização, enquanto tática de articulação entre todas as unidades da rede de atenção integral aos usuários de álcool e outras drogas.",
+   "O funcionamento subsidiário aos CAPS durante os finais de semana e feriados, de forma a atender às demandas em horários diferentes daqueles serviços."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.24"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2025-psicologia-t1-068",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 68
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre a inserção da Psicologia no campo das emergências e dos desastres, assinale a afirmativa correta.",
+  "alternativas": [
+   "Concentra-se atualmente nos efeitos estressantes dos desastres, a partir do dimensionamento da experiência traumática individual.",
+   "Pensa as consequências do desastre na perspectiva de que o fato ocorrido tem uma única causalidade evidente e específica.",
+   "Entende as emergências e os desastres como eventos complexos e multidimensionais em que as causas estruturais e os impactos psicossociais devem ser considerados.",
+   "Pesquisas indicam que os desastres sempre produzem consequências positivas, gerando forte sensação de equilíbrio no desenvolvimento de condutas resilientes.",
+   "Estuda a persistência, que sempre é de longa duração, dos efeitos negativos nos sobreviventes que desenvolvem problemas psicológicos e psiquiátricos crônicos."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.27"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2025-psicologia-t1-069",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 69
+  },
+  "parte": "especificos",
+  "enunciado": "Karina é psicóloga e vem se especializando no atendimento psicológico domiciliar. A respeito desse tipo de intervenção, assinale a afirmativa correta.",
+  "alternativas": [
+   "Uma das razões para que seja feito em domicílio é o barateamento do serviço cobrado nos consultórios e/ou ambulatórios.",
+   "Apesar do atendimento no espaço domiciliar, a família não deve ser inserida no atendimento, sob o risco de quebra de confiança com o paciente.",
+   "Deve-se estar atento à orientação e acolhimento do cuidador, pois, muitas vezes, ele se vincula ao paciente e pode deprimir com sua piora ou morte.",
+   "É parte comum da estratégia para que a hospitalização do paciente aconteça, pois cabe sensibilizar o paciente sobre a necessidade de internação no hospital.",
+   "Foca nas funções afetadas pela patologia, na confrontação com as sequelas da doença e na preparação para o desenlace da vida física."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.2"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2025-psicologia-t1-070",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 70
+  },
+  "parte": "especificos",
+  "enunciado": "O Conselho Federal de Psicologia conceitua avaliação psicológica como um processo estruturado de investigação de fenômenos psicológicos, composto de métodos, técnicas e instrumentos, com o objetivo de prover informações à tomada de decisão, no âmbito individual, grupal ou institucional, com base em demandas, condições e finalidades específicas. Nesse contexto, no que se refere à entrevista psicológica, assinale a afirmativa correta.",
+  "alternativas": [
+   "É o instrumento profissional que identifica, descreve, qualifica e mensura características psicológicas.",
+   "É o resultado de um processo de avaliação psicológica, que subsidie decisões relacionadas à demanda.",
+   "É o documento escrito que registra, objetiva e sucintamente, informações sobre um serviço.",
+   "É o documento escrito que considera os condicionantes históricos e sociais da pessoa atendida.",
+   "É a conversação dirigida a um propósito definido de avaliação."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.15"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2025-psicologia-t1-071",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 71
+  },
+  "parte": "especificos",
+  "enunciado": "A ideia de substituir, nos cursos de Psicologia, as disciplinas e os conteúdos programáticos por diretrizes curriculares baseadas em competências e habilidades profissionais, visa melhorar o desempenho que se espera dos novos profissionais. Como exemplo, podemos pensar na estudante de Psicologia que ingressou recentemente em um estágio. Ocorre que no campo de trabalho, a estagiária permaneceu todo o dia mexendo no celular, sem interagir com as pessoas e, ao ser chamada pela supervisora para avaliar os atendimentos e as leituras, ela se mostrou desinteressada, expressando, pela postura, que não estava atenta ao que foi dito. Nessa hipótese, falta à estagiária desenvolver a competência",
+  "alternativas": [
+   "comunicação.",
+   "tomada de decisões.",
+   "liderança.",
+   "administração.",
+   "atenção à saúde."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.31",
+   "edital-13.3"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2025-psicologia-t1-072",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 72
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre o matriciamento em saúde mental, analise as afirmativas a seguir. I. Um novo modo de produzir saúde em que duas ou mais equipes, num processo de construção compartilhada, criam uma proposta de intervenção pedagógico-terapêutica. II. Uma ferramenta importante para a construção de um sistema de saúde mais integrado, resolutivo e acolhedor, em que a saúde mental é vista como parte indissociável da saúde geral da pessoa e da comunidade. III. Um dispositivo que reconhece a importância da fragmentação do cuidado, respeitando e endossando as diferenças do atendimento do leito hospitalar, da Clínica de Saúde da Família e do Consultório na Rua. Está correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III. "
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.21"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2025-psicologia-t1-073",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 73
+  },
+  "parte": "especificos",
+  "enunciado": "João é órfão, tem severo déficit cognitivo e transtorno global de desenvolvimento, não tendo como se manter ou realizar tarefas cotidianas para seu autocuidado. Ele está acolhido desde a infância e, em breve, completará 18 anos. A rede de proteção reuniu-se com diversos atores para pensar formas de saída de João do acolhimento de adolescentes. Assinale a opção que apresenta a solução considerada mais indicada para João.",
+  "alternativas": [
+   "O atendimento em um hospital psiquiátrico.",
+   "A obtenção de uma vaga com leito no CAPS III.",
+   "A ida para um serviço residencial terapêutico.",
+   "O internamento em um leito em hospital geral.",
+   "A disponibilidade de uma vaga no CAPSi."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.20",
+   "edital-13.19"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2025-psicologia-t1-074",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 74
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre a criação das eMulti, estratégia importante para a melhoria da atenção à saúde da população brasileira, assinale a afirmativa correta.",
+  "alternativas": [
+   "Visa integrar práticas de assistência, prevenção, promoção da saúde, vigilância e formação em saúde na Atenção Primária à Saúde.",
+   "Visa auxiliar no desenvolvimento integral dos estudantes ao criar um ambiente escolar saudável, por meio da prevenção, da intervenção e da avaliação nas escolas.",
+   "Visa promover o bem-estar mental e emocional dos idosos acamados, através de avaliações, intervenções terapêuticas individuais e em grupo.",
+   "Visa acolher e apoiar psicologicamente crianças e adolescentes que estiverem acolhidos, buscando promover seu desenvolvimento e bem-estar.",
+   "Visa avaliar comportamentos e elaborar relatórios que auxiliem na tomada de decisões sobre os cuidados cabíveis para crianças e mulheres em situação de risco."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.5"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2025-psicologia-t1-075",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 75
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a opção que indica a denominação dada à abordagem psicoterápica, que tem como técnicas a derreflexão, a intenção paradoxal e o diálogo socrático, centralizando-se na busca pelo sentido.",
+  "alternativas": [
+   "Daseinsanálise.",
+   "Psicologia Analítica.",
+   "Psicoterapia Corporal.",
+   "Logoterapia.",
+   "Terapia Positiva."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.13"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2025-psicologia-t1-076",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 76
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre os objetivos dos cuidados paliativos oferecidos por psicólogos aos pacientes oncológicos, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. (   ) Ajudam na comunicação entre paciente, família e equipe de saúde. (   ) Auxiliam na ressignificação da experiência da doença e da morte. (   ) Oferecem um espaço seguro para que o paciente se expresse sobre os temores do tratamento e da possível morte. As afirmativas são, respectivamente,",
+  "alternativas": [
+   "V – F – V.",
+   "F – V – V.",
+   "V – V – F.",
+   "V – V – V.",
+   "F – F – V."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.4"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2025-psicologia-t1-077",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 77
+  },
+  "parte": "especificos",
+  "enunciado": "Helena é empresária e sempre foi considerada uma pessoa de difícil trato, pois se mostra muito arrogante na relação interpessoal, acreditando-se superior às demais pessoas e demandando por um atendimento diferenciado em quaisquer lugares que vá, pois crê que seja seu direito. Além disso, acredita que as demais pessoas a invejam, além de não conseguir desenvolver empatia diante da dor do outro. Apesar da complexidade de uma avaliação diagnóstica, é correto considerar que os comportamentos de Helena sejam sugestivos de transtorno de",
+  "alternativas": [
+   "espectro autista.",
+   "personalidade narcisista.",
+   "personalidade borderline.",
+   "personalidade antissocial.",
+   "personalidade dependente."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.28",
+   "edital-13.13"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2025-psicologia-t1-078",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 78
+  },
+  "parte": "especificos",
+  "enunciado": "Leonardo é psicólogo de uma sociedade empresarial, atuando na contratação e desligamento dos trabalhadores, aplicando testes e fazendo avaliações. Assinale a opção que indica por quanto tempo, no mínimo, ele deve manter arquivados esses registros profissionais.",
+  "alternativas": [
+   "Um ano.",
+   "Dois anos.",
+   "Três anos.",
+   "Quatro anos.",
+   "Cinco anos."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.12"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2025-psicologia-t1-079",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 79
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre a Abordagem Centrada na Pessoa, técnica psicoterápica desenvolvida por Carl Rogers na década de 1940, analise as afirmativas a seguir. I. Enfatiza a importância da empatia, da aceitação incondicional e da congruência na relação terapêutica. II. Trata-se de uma abordagem não diretiva, que valoriza a experiência do paciente, pois entende que cada pessoa deseja e é capaz de crescer. III. Facilita o crescimento e o desenvolvimento pessoal, aumentando a autoestima e potencializando a abertura para novas experiências. Está correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III. "
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.13"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2025-psicologia-t1-080",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 80
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre alguns dos conceitos criados por Melanie Klein, uma das principais teóricas da psicanálise, analise as afirmativas a seguir. I. A importância da internalização das relações objetais (como o seio materno), enquanto base para o desenvolvimento psíquico do bebê. II. A percepção fragmentada do mundo pelo bebê na fase inicial do seu desenvolvimento, característica da posição esquizoparanoide, quando ele divide os objetos em bons e maus. III. O desenvolvimento da criança em quatro estágios distintos: o sensório-motor, o pré-operacional, o operacional concreto e o operacional formal. Está correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.13"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2025-psicologia-t1-081",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 81
+  },
+  "parte": "especificos",
+  "enunciado": "Sándor Ferenczi foi bastante inovador no campo da técnica psicanalítica. Ele propôs que, em alguns tratamentos, o psicanalista não deve se limitar a fazer interpretações e sim formular ordens e proibições em relação a determinados comportamentos repetitivos dos pacientes, sobretudo aqueles que proporcionam satisfações que obstaculizam a rememoração e o avanço do tratamento. Essa técnica era denominada de",
+  "alternativas": [
+   "ativa.",
+   "acting-out.",
+   "sublimação.",
+   "desmentido.",
+   "contra transferência."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.13"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2025-psicologia-t1-082",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 82
+  },
+  "parte": "especificos",
+  "enunciado": "Jacques Lacan conferiu um lugar decisivo à dimensão do tempo no manejo clínico, introduzindo um artifício técnico que era polêmico na época que foi criado, a saber, a sessão do tempo variável. A duração das sessões não seria mais pautada por um intervalo de tempo fixo e sim, pelas intervenções do analista no sentido do corte no discurso do analisando. O ato analítico seria, portanto, impelido pela asserção da certeza antecipada, cujo corte permite dar acesso à verdade inconsciente do sujeito. Para Lacan, trata-se do tempo",
+  "alternativas": [
+   "lógico.",
+   "libidinal.",
+   "mortífero.",
+   "imaginário.",
+   "cronológico."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.13",
+   "edital-13.5"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2025-psicologia-t1-083",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 83
+  },
+  "parte": "especificos",
+  "enunciado": "Para Sigmund Freud, a entrada na adolescência e, por consequência, na vida adulta, ocorre após o período de latência. Este período tem origem no declínio do complexo de Édipo, pois a criança interioriza as exigências e interdições parentais, enriquecidas posteriormente pelas exigências sociais e culturais, donde surge a instância psíquica cujo papel é similar à de um juiz ou de um censor. Essa instância, herdeira do complexo de Édipo e necessária para o ingresso do sujeito na vida adulta, é chamada de",
+  "alternativas": [
+   "id.",
+   "eu real.",
+   "super eu.",
+   "narcisismo.",
+   "princípio de realidade."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.13",
+   "edital-13.29"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2025-psicologia-t1-084",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 84
+  },
+  "parte": "especificos",
+  "enunciado": "Marcelle atende como psicóloga num ambulatório público e, passados dois anos depois de encerrados os atendimentos de um usuário, este solicita acesso ao seu prontuário. De acordo com a Resolução CFP 001/2009, Marcelle deve",
+  "alternativas": [
+   "negar acesso ao prontuário, como forma de resguardar o sigilo profissional.",
+   "permitir o acesso integral às informações registradas, pela psicóloga, no prontuário.",
+   "solicitar autorização formal ao Conselho de Classe antes de liberar o acesso ao prontuário.",
+   "negar acesso ao prontuário, caso avalie que o usuário não esteja psicologicamente apto para receber as impressões profissionais a seu respeito.",
+   "permitir acesso de forma limitada, apenas as informações referentes à identificação, à avaliação da demanda e ao registro de encaminhamento/encerramento."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.25"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 16,
+  "pegadinha": {
+   "letra": "E",
+   "atracao": 0.58
+  }
+ },
+ {
+  "id": "enare-2025-psicologia-t1-085",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 85
+  },
+  "parte": "especificos",
+  "enunciado": "Flávia trabalhava como psicóloga em um ambulatório público, mas pediu demissão em razão de melhor oportunidade de trabalho. Contudo, aguardou a admissão de outra psicóloga para substituí- la em seu cargo e iniciar as atividades profissionais. Segundo o Código de Ética Profissional do Psicólogo, assinale a opção que indica o destino a ser dado por Flávia aos arquivos confidenciais oriundos de seus atendimentos.",
+  "alternativas": [
+   "Deve repassar todo o material à psicóloga que vier a substituí- la.",
+   "Deve levar consigo e manter a guarda do material no prazo de cinco anos.",
+   "Deve destruí-los, visando manter a confidencialidade dos atendimentos.",
+   "Deve permitir o acesso parcial, apenas aos casos que ainda estejam em curso de atendimento.",
+   "Deve lacrá-los para que o acesso aos arquivos pela profissional que a substituiu seja autorizado pela administração superior da Unidade. "
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.23",
+   "edital-13.6"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2025-psicologia-t1-086",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 86
+  },
+  "parte": "especificos",
+  "enunciado": "A escuta das manifestações inconscientes do paciente é orientada por uma técnica criada por Freud, na qual o psicanalista deve escutar seu paciente sem privilegiar nenhum elemento do discurso deste. Assinale a opção que indica como essa regra técnica é denominada.",
+  "alternativas": [
+   "Ato analítico.",
+   "Associação livre.",
+   "Escuta empática.",
+   "Atenção flutuante.",
+   "Escuta qualificada."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.5",
+   "edital-13.13"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2025-psicologia-t1-087",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 87
+  },
+  "parte": "especificos",
+  "enunciado": "O psicólogo Mateus atua em um contexto multiprofissional, e sua equipe foi solicitada a produzir um relatório. Em relação a tal documento, analise as afirmativas a seguir. I. No item “Descrição da demanda”, Mateus deve descrever as informações sobre o que motivou a busca pelo processo de trabalho multiprofissional, indicando quem forneceu as informações e as demandas que levaram à solicitação do documento. II. No item “Análise”, cada profissional deve fazer sua análise separadamente, identificando, com subtítulo, o nome e a categoria profissional. III. A conclusão do relatório multiprofissional deve ser realizada separadamente, mesmo nos casos de um processo de trabalho interdisciplinar. Está correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "III, apenas.",
+   "I e II, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.12",
+   "edital-13.25"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 17,
+  "pegadinha": {
+   "letra": "D",
+   "atracao": 0.74
+  }
+ },
+ {
+  "id": "enare-2025-psicologia-t1-088",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 88
+  },
+  "parte": "especificos",
+  "enunciado": "Amanda é psicóloga hospitalar e atende a um setor de pacientes portadores de doença crônica. Considerando as recomendações técnicas para a atuação de psicólogos(as) nos serviços hospitalares do SUS, Amanda deve",
+  "alternativas": [
+   "conduzir uma abordagem terapêutica no modelo clínico tradicional.",
+   "considerar que os objetivos da Medicina são os mesmos da Psicologia.",
+   "limitar a sua abordagem exclusivamente ao tempo específico da internação.",
+   "identificar reações emocionais próprias do adoecimento que possam interferir na adesão ao tratamento.",
+   "oferecer individualmente aos pacientes um setting terapêutico distante dos processos biológicos do adoecimento."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.9"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2025-psicologia-t1-089",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 89
+  },
+  "parte": "especificos",
+  "enunciado": "Em comparação à tradicional noção de saúde pública, assinale a opção que apresenta corretamente a noção de saúde coletiva.",
+  "alternativas": [
+   "Destaca as dimensões simbólica, ética e política, de forma a ratificar o discurso cientificista da saúde pública.",
+   "Questiona o poder instituinte da vida social, nos seus vários planos e instituições, sobrepondo-se à saúde pública.",
+   "Constitui um discurso crítico sobre a noção de saúde pública, enfrentando o monopólio da perspectiva biologicista.",
+   "Promove o centramento do Estado enquanto instância reguladora da vida, indo de encontro à noção de saúde pública.",
+   "Constituiu-se por meio da crítica sistemática ao universalismo naturalista do saber médico, tal qual a concepção de saúde pública."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.1"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2025-psicologia-t1-090",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 90
+  },
+  "parte": "especificos",
+  "enunciado": "Desde as reformas sanitária e psiquiátrica, a concepção de território tornou-se fundamental para a organização dos processos de trabalho no campo da saúde no Brasil. Com relação ao conceito de território, assinale a afirmativa correta.",
+  "alternativas": [
+   "É sinônimo de área ou região, cujo uso se restringe a modular ações da vigilância sanitária e epidemiológica.",
+   "Supera o risco de sujeição a valores hegemônicos quando dirigido àqueles que tentam se inserir socialmente.",
+   "Conforma fluxos ascendentes no sistema de saúde, fortalecendo a lógica de encaminhamento para serviços especializados.",
+   "Garante a inclusão social dos usuários da saúde mental nos processos de desinstitucionalização de equipamentos manicomiais.",
+   "Deve ser considerado de forma ampla e intersetorial, num processo de articulação permanente que visa ao fortalecimento da rede."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.20",
+   "edital-1.2"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2025-psicologia-t1-091",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 91
+  },
+  "parte": "especificos",
+  "enunciado": "Em pesquisa realizada com 416 sujeitos de uma comunidade rural e outra urbana do Ceará, Estanislau e Ximenes (2016) revelaram que os serviços de saúde se configuram como o principal espaço em que as pessoas pobres se sentem humilhadas. Tendo em vista este cenário e sob uma perspectiva crítica, assinale a opção que apresenta corretamente fundamentos teóricos para o direcionamento ético da atuação do Psicólogo na Saúde.",
+  "alternativas": [
+   "Os sentimentos de humilhação e de vergonha são sintomas de dimensões individuais, evidenciadas pelas teorias da personalidade.",
+   "A interseccionalidade aponta o imbricamento de opressões, tendo a noção de raça primazia sobre as dimensões de gênero, de classe social e de etnia.",
+   "A capilarização da biopolítica nos serviços de saúde produz culpabilização individual e moralização, que podem repercutir nos sentimentos de humilhação.",
+   "A determinação social dos processos de saúde e doença oferece uma visão causal das implicações da pobreza, sendo o sentimento de humilhação uma consequência.",
+   "O cuidado em saúde se sobrepõe às relações sociais de poder, podendo ser consolidado com a escolha de técnicas assistenciais eficazes que neutralizem os mecanismos de dominação. "
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.10",
+   "edital-1.4"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2025-psicologia-t1-092",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 92
+  },
+  "parte": "especificos",
+  "enunciado": "A consolidação do Sistema Único de Saúde (SUS) contribuiu para a transformação da psicologia brasileira. Sobre a atuação do Psicólogo na Atenção Básica, assinale a afirmativa correta.",
+  "alternativas": [
+   "Implementa grupos psicoterápicos como substitutivos das práticas clínicas individuais.",
+   "Produz diagnósticos que justifiquem a medicalização como principal recurso terapêutico.",
+   "Dissemina a concepção de que o cuidado em saúde mental é exclusivo do profissional “psi”.",
+   "Adapta as práticas clínicas individuais à rotina do SUS, contribuindo para atenuar os sintomas de sofrimento.",
+   "Busca práticas interdisciplinares, com foco no sujeito e nas suas relações com os diversos contextos em que está inserido."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.7"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 18
+ },
+ {
+  "id": "enare-2025-psicologia-t1-093",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 93
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a opção que apresenta, corretamente, aspectos problemáticos do trabalho dos psicólogos no Sistema Único de Saúde (SUS).",
+  "alternativas": [
+   "A descentralização do trabalho nos municípios e a restrição das suas responsabilidades.",
+   "As condições de trabalho e o atravessamento da atuação das equipes pelo excesso de demanda.",
+   "A gestão dos processos de trabalho no cotidiano e a falta de metas que possam quantificar a oferta de cuidado.",
+   "A organização dos serviços com base na integralidade do cuidado, em detrimento do fazer técnico e da padronização de condutas.",
+   "A graduação em Psicologia e a educação permanente no SUS, voltadas para a compreensão da subjetividade no processo saúde-doença."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.7"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 18
+ },
+ {
+  "id": "enare-2025-psicologia-t1-094",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 94
+  },
+  "parte": "especificos",
+  "enunciado": "Na atenção psicossocial no Brasil, diversos estudos têm indicado a necessidade de dar mais suporte às famílias e aos cuidadores. Com relação à inclusão das famílias na atenção psicossocial, analise as afirmativas a seguir. I. Há familiares que não se sentem preparados para cuidar, sendo ainda comum a sobrecarga das mulheres. II. É importante que os serviços ofertem informações consistentes aos familiares sobre as condições de saúde dos usuários e sobre a rede assistencial. III. É necessário considerar a incorporação dos saberes dos familiares no processo de cuidado. Está correto o que se afirma em",
+  "alternativas": [
+   "III, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.14"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 18
+ },
+ {
+  "id": "enare-2025-psicologia-t1-095",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 95
+  },
+  "parte": "especificos",
+  "enunciado": "Como Canguilhem afirmou na famosa conferência “O que é a psicologia?” (1956), ao não se situar em relação às circunstâncias históricas e sociais, “o psicólogo não quer ser senão um instrumento, sem preocupar saber de que ou de quem ele é um instrumento.” Sobre a reflexão proposta pelo autor, assinale a opção que articula corretamente as principais correntes da reforma psiquiátrica com a psicologia, a partir de um ponto de vista crítico.",
+  "alternativas": [
+   "A antipsiquiatria restituiu o valor do saber médico na explicação e tratamento das doenças mentais, fortalecendo o papel do profissional “psi”.",
+   "A psiquiatria clássica possibilitou a patologização do louco, gerando um estatuto de cientificidade à psicologia para a sua atuação e enfrentamento de lógicas de exclusão.",
+   "A perspectiva antimanicomial pode contribuir para que a psicologia esteja implicada no exercício ético de se posicionar enquanto agente transformador frente às relações de opressão.",
+   "O preventivismo, ao postular que a doença mental significa distúrbio e marginalidade, instrumentalizou a psicologia para práticas de promoção e prevenção na saúde, diminuindo a demanda asilar.",
+   "A psicoterapia institucional, paradigma que considerou que as próprias instituições têm características doentias e que devem ser tratadas, criticou a pedagogia da sociabilidade das comunidades terapêuticas."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.20",
+   "edital-13.19"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 18
+ },
+ {
+  "id": "enare-2025-psicologia-t1-096",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 96
+  },
+  "parte": "especificos",
+  "enunciado": "No campo da saúde mental, álcool e outras drogas, a noção de crise possui diversas interpretações, fundamentando diferentes alternativas interventivas. Considerando a perspectiva da integralidade do cuidado, assinale a opção que aborda corretamente a atenção à crise das pessoas que usam álcool e outras drogas.",
+  "alternativas": [
+   "Deve considerar o vínculo com o usuário, evitando abordagens restritivas.",
+   "Deve priorizar práticas de contenção e isolamento em razão da periculosidade da crise.",
+   "Deve ser manejada exclusivamente pelos Centros de Atenção Psicossocial Álcool e outras Drogas.",
+   "Requer respostas punitivas por constituir situação de ruptura nas relações entre os sujeitos envolvidos.",
+   "Deve mitigar as ações violentas que emergem de usuários em crise através das práticas disciplinares tradicionais."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.24"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 18
+ },
+ {
+  "id": "enare-2025-psicologia-t1-097",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 97
+  },
+  "parte": "especificos",
+  "enunciado": "A partir da perspectiva da redução de danos, Lancetti (2015) empregou o conceito de contrafissura para abordar a relação que se estabelece com pessoas que fazem uso de drogas no processo de cuidado. Acerca da noção de contrafissura, assinale a afirmativa correta.",
+  "alternativas": [
+   "Denota o efeito acentuadamente maior com o uso continuado da mesma quantidade de substância.",
+   "Identifica-se com as abordagens que defendem o cuidado em liberdade, denunciando a violação de direitos.",
+   "Refere-se à diminuição da fissura, isto é, do desejo intenso ou mesmo da necessidade de usar a substância.",
+   "Reflete como o trabalhador da saúde pode ser afetado com a temática, impondo respostas simplificadoras.",
+   "Apoia-se na mídia para o seu enfrentamento, haja vista a desconstrução de visões sensacionalistas sobre o tema das drogas. "
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.24"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 18,
+  "pegadinha": {
+   "letra": "B",
+   "atracao": 0.32
+  }
+ },
+ {
+  "id": "enare-2025-psicologia-t1-098",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 98
+  },
+  "parte": "especificos",
+  "enunciado": "Instituída por meio da portaria n° 3088/2011, a Rede de Atenção Psicossocial (RAPS) visa garantir o acesso e ampliar a qualidade dos serviços no campo da saúde mental. No que concerne à RAPS, assinale a afirmativa correta.",
+  "alternativas": [
+   "Instituiu lógicas de trabalho ambulatorizadas, que valorizam o modelo biomédico e as práticas baseadas em evidências.",
+   "A Atenção Básica, porta de entrada obrigatória para os serviços da RAPS, é um componente fundamental para a articulação com o território.",
+   "Os Centros de Atenção Psicossocial constituem o seu núcleo, e as equipes devem ter garantida composição multidisciplinar e modo de funcionamento disciplinar.",
+   "Propõe a organização dos serviços em rede de atenção à saúde regionalizada, com estabelecimento de ações intersetoriais para garantir a integralidade do cuidado.",
+   "Articula o cuidado por meio do Projeto Terapêutico Singular, que valoriza a lógica de trabalho multidisciplinar, prescindindo da participação do usuário e familiares."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-1.3",
+   "edital-13.20"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 19
+ },
+ {
+  "id": "enare-2025-psicologia-t1-100",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2025/2026",
+   "banca": "FGV",
+   "prova": "PSICOLOGIA-T1",
+   "numero": 100
+  },
+  "parte": "especificos",
+  "enunciado": "Considerando a clínica no campo da atenção psicossocial, assinale a opção que define corretamente os fundamentos dos cuidados relativos às crianças e aos adolescentes no âmbito dos Centros de Atenção Psicossocial Infanto-juvenil.",
+  "alternativas": [
+   "A criança e o adolescente são sujeitos e, como tal, detentores de lugares autênticos de fala.",
+   "Os tratamentos e as abordagens terapêuticas são construídas de forma homogênea e prescritiva.",
+   "A criança e o adolescente são sujeitos em desenvolvimento e devem ser desimplicadas em suas demandas e seus sintomas.",
+   "O estabelecimento de vínculo objetiva as relações de tutela estatal dirigida às crianças e aos adolescentes em situação irregular.",
+   "O acolhimento universal estabelece que os serviços de saúde e de saúde mental devem atender e acompanhar todos os casos que acessam o serviço."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "edital-13.13",
+   "edital-13.20"
+  ],
+  "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
+  "pdf_pagina": 19
+ }
+]

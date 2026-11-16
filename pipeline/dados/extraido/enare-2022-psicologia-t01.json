@@ -1,0 +1,1664 @@
+[
+ {
+  "id": "enare-2022-psicologia-t01-001",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 1
+  },
+  "parte": "gerais",
+  "enunciado": "Considerando a ‘integralidade’ como eixo prioritário de uma política de saúde e como meio de concretizar a saúde como uma questão de cidadania, assinale a alternativa correta sobre o tema.",
+  "alternativas": [
+   "Tem como foco principal a especialização crescente dos profissionais de saúde.",
+   "É o princípio organizativo do Sistema Único de Saúde que estabelece os níveis crescentes de complexidade.",
+   "Compreende o espaço físico, social, profissional e de relações interpessoais que deve estar em sintonia com um projeto de saúde voltado para a atenção acolhedora, resolutiva e humana.",
+   "O sistema de saúde deve estar preparado para ouvir o usuário, entendê-lo inserido em seu contexto social e, a partir daí, atender às demandas e necessidades dessa pessoa.",
+   "Implica a capacidade dos serviços em oferecer a determinada população todas as modalidades de assistência, com ênfase nas tecnologias duras para a humanização da assistência."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.2",
+   "edital-1.7"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 2,
+  "pegadinha": {
+   "letra": "C",
+   "atracao": 0.29
+  }
+ },
+ {
+  "id": "enare-2022-psicologia-t01-002",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 2
+  },
+  "parte": "gerais",
+  "enunciado": "No contexto histórico das políticas públicas no Brasil, no início dos anos 1990, as relações internas ao Sistema Único de Saúde passaram a ser subordinadas por normas técnicas publicadas em Portarias Ministeriais. As Normas Operacionais Básicas, conhecidas como NOBs, foram o principal instrumento legal para a",
+  "alternativas": [
+   "participação comunitária no SUS por meio da criação das conferências de saúde.",
+   "descentralização das ações de saúde, particularmente as de atenção básica.",
+   "regionalização e hierarquização efetiva dos serviços de saúde.",
+   "habilitação plena dos municípios de pequeno porte para serviços de alta complexidade.",
+   "contratualização da rede de serviços do SUS nas regiões de saúde."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.2",
+   "edital-1.1"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 2
+ },
+ {
+  "id": "enare-2022-psicologia-t01-003",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 3
+  },
+  "parte": "gerais",
+  "enunciado": "A participação institucionalizada da sociedade civil na política de saúde foi concebida como controle social, ou seja, como intervenção da sociedade organizada nas ações do Estado na gestão do gasto público. Assim, pode-se afirmar que, atualmente, configura-se como um dos canais institucionais de participação social na política de saúde o(a)",
+  "alternativas": [
+   "conselho de saúde.",
+   "plenária de saúde.",
+   "gestão plena de assistência à saúde.",
+   "formação dos centros de controle em saúde.",
+   "auditoria participativa em saúde."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.2"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 2
+ },
+ {
+  "id": "enare-2022-psicologia-t01-004",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 4
+  },
+  "parte": "gerais",
+  "enunciado": "Em relação à Lei nº 8.080/90, é correto afirmar que",
+  "alternativas": [
+   "está incluída, no campo de atuação do Sistema Único de Saúde (SUS), a execução das ações de assistência terapêutica integral, exceto a farmacêutica.",
+   "a assistência às pessoas, por intermédio de ações de promoção, proteção e recuperação da saúde, não contará com a participação da iniciativa privada.",
+   "as conferências de saúde devem ter 50% de representação de prestadores de serviços e 50% de representação dos usuários.",
+   "são competências prioritariamente municipais a elaboração e a atualização bimestral do plano de saúde.",
+   "as populações indígenas devem ter acesso garantido ao SUS, em âmbito local, regional e de centros especializados, de acordo com suas necessidades."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.2"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 2
+ },
+ {
+  "id": "enare-2022-psicologia-t01-005",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 5
+  },
+  "parte": "gerais",
+  "enunciado": "Marina, 20 anos de idade, deu entrada em uma unidade de saúde sozinha, andando, visivelmente angustiada e queixando-se de dor abdominal. Após 40 minutos esperando, voltou à recepção relatando aumento da dor, mas foi reconduzida para que esperasse a sua vez na fila. Depois de 30 minutos, caiu desacordada, sendo levada em seguida para o atendimento. Marina foi conduzida ao Hospital onde passou por uma laparotomia de emergência. Considerando o caso, a Política Nacional de Humanização e o acolhimento nos serviços de saúde, são objetivos a serem alcançados, EXCETO",
+  "alternativas": [
+   "melhoria do acesso dos usuários aos serviços de saúde, estruturando a forma tradicional de entrada por filas e ordem de chegada.",
+   "humanização das relações entre profissionais de saúde e pessoa usuária do serviço de saúde, com escuta de suas demandas.",
+   "mudança de objeto (da doença para o sujeito).",
+   "aumento da responsabilização dos profissionais de saúde em relação às pessoas que utilizam os serviços e aumento do vínculo e da confiança entre eles.",
+   "aumento do grau de autonomia e de protagonismo dos usuários no processo de produção de saúde, considerando o vínculo terapêutico."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.7"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 3
+ },
+ {
+  "id": "enare-2022-psicologia-t01-006",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 6
+  },
+  "parte": "gerais",
+  "enunciado": "A educação interprofissional (EIP) orientada para o trabalho em equipe é apontada como componente de uma ampla reforma do modelo de formação profissional e de atenção à saúde. Nesse sentido, é correto afirmar que",
+  "alternativas": [
+   "a EIP é sinalizada como um processo de socialização no qual os estudantes passam a criar uma identidade com a profissão escolhida, os seus valores, a cultura, os papéis e os conhecimentos específicos.",
+   "na EIP, as atividades educativas ocorrem entre estudantes de duas ou mais profissões conjuntamente, no entanto, de forma paralela, sem haver necessariamente interação entre eles.",
+   "na EIP, duas ou mais profissões de saúde aprendem uma sobre a outra, aprimorando atitudes, conhecimento, habilidades e comportamentos para a prática colaborativa.",
+   "a educação profissional em saúde pode ser interdisciplinar com base na interação e na integração das diferentes disciplinas de cada área, sendo sinônimo de interprofissionalidade.",
+   "a formação dos profissionais de saúde pautada na EIP é embasada no modelo de ensino por disciplinas e enfatiza a dimensão biológica e o substrato anatomopatológico do processo saúde- doença."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.11"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 3
+ },
+ {
+  "id": "enare-2022-psicologia-t01-007",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 7
+  },
+  "parte": "gerais",
+  "enunciado": "Dentre os componentes das Redes de Atenção em Saúde, o registro eletrônico em saúde, o prontuário clínico, os sistemas de acesso regulado à atenção e os sistemas de transporte em saúde são exemplos de sistemas",
+  "alternativas": [
+   "de apoio.",
+   "de governança.",
+   "logísticos.",
+   "intermediários.",
+   "de informação."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.3"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 3
+ },
+ {
+  "id": "enare-2022-psicologia-t01-008",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 8
+  },
+  "parte": "gerais",
+  "enunciado": "Foi realizado um estudo clínico randomizado (ECR) com mães de neonatos prematuros com peso ≤ 1.750 g. Essas mães foram submetidas a sessões de musicoterapia três vezes por semana durante 60 minutos. Os desfechos foram os índices de aleitamento materno na ocasião da alta hospitalar do bebê e em consultas de seguimento (7-15 dias, 30 e 60 dias após a alta). Sobre esse tipo de estudo epidemiológico, é correto afirmar que",
+  "alternativas": [
+   "permite que a natureza determine o seu curso: o investigador mede, mas não intervém na pesquisa.",
+   "avalia a relação entre as doenças e outras variáveis de interesse que existem em uma população definida (exposição e desfecho são medidos no mesmo momento).",
+   "a incidência da doença é comparada entre dois ou mais grupos que diferem quanto à exposição a um possível fator de risco.",
+   "contempla uma série de casos (descrição de uma série de pacientes) ou relatos de caso (descrições de pacientes individuais).",
+   "se baseia na comparação entre duas ou mais intervenções, as quais são controladas pelos pesquisadores e aplicadas de forma aleatória em um grupo de participantes."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.31",
+   "edital-1.8"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2022-psicologia-t01-009",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 9
+  },
+  "parte": "gerais",
+  "enunciado": "Supondo que, no ano de 2018, no Brasil, ocorreram 1.862 mortes de mulheres por causas relacionadas à gravidez, ao parto e ao puerpério, sendo que o número de nascidos vivos foi de 2.944.932, a Razão de Mortalidade Materna desse ano é de, aproximadamente,",
+  "alternativas": [
+   "6,3.",
+   "630.",
+   "63,2.",
+   "1,5.",
+   "15,8."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.8"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2022-psicologia-t01-010",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 10
+  },
+  "parte": "gerais",
+  "enunciado": "A Organização Mundial da Saúde emitiu alerta sobre casos de Monkeypox em países não endêmicos. Dessa forma, em 23 de maio de 2022, foi ativada a Sala de Situação de Monkeypox. Sobre a Sala de Situação, assinale a alternativa INCORRETA.",
+  "alternativas": [
+   "São espaços de inteligência em saúde, dotados de visão integral e intersetorial que, partindo da análise e da avaliação permanente da situação de saúde, atuam como instância integradora da informação que gera a vigilância em saúde.",
+   "Constitui-se como um órgão de assessoria direta capaz de aportar informação oportuna e relevante para apoiar, com uma base técnico- científica, o processo de tomada de decisões.",
+   "Tem atuado na padronização das informações e na orientação dos fluxos de notificação e investigação para as secretarias de saúde estaduais, municipais e distrito federal, bem como para os laboratórios centrais e de referência de saúde pública.",
+   "A Sala de Situação em Saúde é o espaço físico destinado a atender pessoas com sintomas relacionados à doença e realizar os testes necessários para comprovação dela, quando existe alerta epidemiológico.",
+   "Permite detectar casos, avaliar os riscos e impactos à saúde e monitorar e analisar os dados para subsidiar a tomada de decisão dos gestores e técnicos nas orientações estratégicas adequadas e oportunas para o enfrentamento do evento de saúde pública."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.8"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2022-psicologia-t01-011",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 11
+  },
+  "parte": "gerais",
+  "enunciado": "Considere que um profissional de saúde, ao prestar assistência a um paciente internado por complicações relacionadas à Covid-19, utilize os seguintes Equipamentos de Proteção Individual: máscara tipo PFF2; touca descartável; protetor facial; avental e luvas. Após assistência, ao proceder à desparamentação, o último EPI a ser removido deve ser",
+  "alternativas": [
+   "a máscara tipo PFF2.",
+   "a touca descartável.",
+   "o protetor facial.",
+   "o avental.",
+   "as luvas."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.12"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2022-psicologia-t01-012",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 12
+  },
+  "parte": "gerais",
+  "enunciado": "Analisando sob a ótica das implicações bioéticas e das atuais discussões diante da vacinação em massa contra Covid-19, um dos principais argumentos dos grupos relacionados à hesitação ou recusa vacinal – o movimento antivacina – está pautado em qual princípio bioético principialista?",
+  "alternativas": [
+   "Justiça.",
+   "Equidade.",
+   "Autonomia.",
+   "Não maleficência.",
+   "Beneficência."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.9"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2022-psicologia-t01-013",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 13
+  },
+  "parte": "gerais",
+  "enunciado": "Um grupo de acadêmicos da residência multiprofissional organizou, em uma Unidade de Saúde, “A semana de promoção à saúde do trabalhador”. Considerando as características conceituais da “Promoção em Saúde”, uma das ações realizadas poderia ser",
+  "alternativas": [
+   "a coleta de preventivo das trabalhadoras.",
+   "a verificação de pressão arterial.",
+   "a vacinação.",
+   "a coleta de exames de sangue.",
+   "orientações quanto à alimentação adequada e saudável."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.2",
+   "edital-13.21"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2022-psicologia-t01-014",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 14
+  },
+  "parte": "gerais",
+  "enunciado": "Lucas é gestor de uma unidade de saúde de grande porte que tem destaque como modelo de trabalho em equipe no cenário estadual. Os comportamentos gerenciais de Lucas procuram transformar os liderados e os inspiram a ir além das expectativas, transcendendo o interesse pessoal pelo bem da organização. Lucas, como gestor, apresenta os seguintes comportamentos: influência idealizada, motivação inspiradora, estimulação intelectual e consideração individualizada, investindo tempo em atividades de mentoria e reconhecendo que os liderados têm desejos e necessidades diferentes. Diante dos aspectos descritos, é correto afirmar que Lucas se aproxima do estilo de liderança",
+  "alternativas": [
+   "autocrático.",
+   "transformacional.",
+   "intuitivo.",
+   "construtivo.",
+   "corporativo."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.31"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2022-psicologia-t01-015",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 15
+  },
+  "parte": "gerais",
+  "enunciado": "A “segurança do paciente” é um dos atributos da qualidade da assistência à saúde e está relacionada",
+  "alternativas": [
+   "à otimização do uso dos equipamentos de saúde.",
+   "à qualidade da assistência sem distinção de características pessoais, como gênero e etnia.",
+   "à utilização abrangente de tecnologias duras para diagnósticos precisos.",
+   "a evitar lesões e danos nos pacientes, decorrentes do cuidado que tem como objetivo ajudá-los.",
+   "a diminuir atrasos que tenham efetivo potencial de dano para quem presta o cuidado."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.10"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2022-psicologia-t01-016",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 16
+  },
+  "parte": "gerais",
+  "enunciado": "Conforme Artigo 3° da Política Nacional da Atenção Básica (Portaria nº 2.436/17), é uma diretriz do SUS e da RAS, a ser operacionalizada na Atenção Básica, a",
+  "alternativas": [
+   "integralidade do cuidado.",
+   "equidade / justiça social.",
+   "ordenação da rede.",
+   "igualdade.",
+   "centralidade no trabalhador de saúde."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.5"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 5,
+  "pegadinha": {
+   "letra": "A",
+   "atracao": 0.27
+  }
+ },
+ {
+  "id": "enare-2022-psicologia-t01-017",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 17
+  },
+  "parte": "gerais",
+  "enunciado": "Luiz tem 50 anos e, há 10 anos, foi diagnosticado com Hipertensão Arterial Sistêmica e Diabetes tipo 2. Ano passado, foi submetido à cirurgia de revascularização do miocárdio e, mais tarde, sofreu um acidente vascular encefálico, permanecendo com sequelas motoras. Considerando o Modelo de Atenção às Condições Crônicas (MACC) e a pirâmide de risco, a forma de resposta adequada à condição descrita é",
+  "alternativas": [
+   "intervenções de prevenção à saúde.",
+   "gestão de caso.",
+   "autocuidado apoiado.",
+   "gerenciamento de risco.",
+   "cuidados intermediários."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.3"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2022-psicologia-t01-018",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 18
+  },
+  "parte": "gerais",
+  "enunciado": "A estratégia Consultório de Rua visa ampliar o acesso da população em situação de rua aos serviços de saúde. Sobre as Equipes de Consultório de Rua (eCR), assinale a alternativa correta.",
+  "alternativas": [
+   "As equipes são formadas minimamente por seis profissionais de nível superior.",
+   "As atividades da eCR não incluem a busca ativa e o cuidado aos usuários de álcool e outras drogas.",
+   "O agente social, quando houver na eCR, será considerado equivalente ao profissional de nível superior.",
+   "As modalidades de eCR não poderão agregar Agentes Comunitários de Saúde, complementando suas ações.",
+   "As eCRs desempenham suas atividades in loco, de forma itinerante, desenvolvendo ações integradas às Unidades Básicas de Saúde."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.4"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2022-psicologia-t01-019",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 19
+  },
+  "parte": "gerais",
+  "enunciado": "De acordo com a Norma Regulamentadora 32 (NR 32), a classificação dos agentes biológicos, que distribui os agentes em classes de risco de 1 a 4, considera que é uma das características da Classe de risco 4",
+  "alternativas": [
+   "a não existência de profilaxia e tratamento eficaz.",
+   "o risco individual baixo.",
+   "o risco coletivo moderado.",
+   "o risco de propagação à coletividade baixo.",
+   "o risco individual moderado."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.12"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2022-psicologia-t01-020",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 20
+  },
+  "parte": "gerais",
+  "enunciado": "Realizada com indicadores que reflitam a forma de atuação, consiste em conhecer, supervisionar e garantir a qualidade do processo de prestação de serviços de acordo com padrões de excelência técnica. A sua execução envolve, por exemplo, auditoria de prontuários. As considerações fazem referência à avaliação de",
+  "alternativas": [
+   "processo.",
+   "estrutura.",
+   "pares.",
+   "integração.",
+   "perfil."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.2",
+   "edital-13.12"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2022-psicologia-t01-021",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 21
+  },
+  "parte": "especificos",
+  "enunciado": "Em relação à elaboração de documentos escritos produzidos pelo psicólogo no exercício profissional, assinale a alternativa correta.",
+  "alternativas": [
+   "Por razões que envolvem o dever do psicólogo em respeitar o sigilo, visando proteger, por meio da confidencialidade, a intimidade de pessoas, grupos ou organizações a que tenha acesso no exercício profissional, é obrigatório o registro documental sob a forma exclusiva de prontuário psicológico.",
+   "O registro documental em papel ou informatizado tem caráter sigiloso e constitui-se em um conjunto de informações que tem por objetivo contemplar, de forma sucinta, o trabalho prestado, a descrição e a evolução da atividade e os procedimentos técnico-científicos adotados.",
+   "A guarda do registro documental é de responsabilidade exclusiva do psicólogo. O período de guarda deve ser de, no máximo, 05 anos. Esse prazo pode ser ampliado nos casos previstos em lei, por determinação judicial, ou ainda em casos específicos em que seja necessária a manutenção da guarda por maior tempo.",
+   "Em serviço multiprofissional, o registro deve ser realizado em prontuário único. Nesse prontuário multiprofissional, o psicólogo, em respeito à preservação do sigilo, deve registrar apenas as informações relacionadas à identificação do usuário; ao registro de presença/ausência nos atendimentos; aos encaminhamentos e ao encerramento do acompanhamento.",
+   "Os documentos resultantes da aplicação de instrumentos de avaliação psicológica deverão ser arquivados junto ao registro documental multiprofissional, garantindo o importante acesso e compartilhamento dos saberes da Psicologia aos demais profissionais das equipes multiprofissionais."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.12"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 6,
+  "pegadinha": {
+   "letra": "D",
+   "atracao": 0.19
+  }
+ },
+ {
+  "id": "enare-2022-psicologia-t01-022",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 22
+  },
+  "parte": "especificos",
+  "enunciado": "Joana é uma senhora de 94 anos, apresenta-se debilitada pelo envelhecimento, porém com autonomia relativa. Consegue caminhar dentro da própria casa, alimentar-se sozinha, fazer crochê e assistir à novela todos os dias. Mora com uma neta de 25 anos e uma cuidadora. Recebe a visita dos filhos e dos demais netos aos finais de semana. Nos últimos meses, estava se sentindo muito cansada e apresentando muita tosse. A neta levou Joana ao hospital e, ao serem realizados os exames, foi detectado um tumor pulmonar avançado. Diante do diagnóstico, a equipe informou à família que haveria dois caminhos: o tratamento cirúrgico e quimioterápico ou a inserção dela no protocolo de cuidados paliativos, uma vez que os riscos cirúrgicos eram significativos, e os efeitos da quimioterapia poderiam ser devastadores, oferecendo mínimas chances de aumentar o tempo de vida da paciente. Em vista do exposto, assinale a alternativa que NÃO se configura como uma técnica de cuidado paliativo.",
+  "alternativas": [
+   "Informar à paciente sobre o seu quadro de forma gentil e cuidadosa e permitir que ela realize a escolha sobre os cuidados que deseja receber.",
+   "Ofertar acompanhamento multiprofissional home care articulado com cuidados da Atenção Básica em Saúde.",
+   "Ofertar apoio psicossocial à família para auxiliá-la no manejo das emoções mobilizadas pela proximidade da finitude da matriarca.",
+   "Internar a paciente para monitoramento dos sinais vitais e oxigenoterapia.",
+   "Prescrever medicação oral para controle e alívio das dores."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.4"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2022-psicologia-t01-023",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 23
+  },
+  "parte": "especificos",
+  "enunciado": "O fenômeno psíquico da transferência é um elemento muito importante para a psicanálise. A transferência, segundo conceitos psicanalíticos, ocorre quando se projeta, em pessoas do convívio presente, afetos correspondentes às importantes figuras do passado. Esse processo acontece de maneira inconsciente e simbólica, sendo de grande relevância para o processo terapêutico. Quando, em uma relação terapêutica, o paciente se apaixona pelo terapeuta, tem-se um fenômeno conhecido como Amor Transferencial. De acordo com Freud, qual é a principal função do Amor Transferencial?",
+  "alternativas": [
+   "Possibilitar maior confiança do paciente no terapeuta.",
+   "Impedir que o paciente desista do tratamento.",
+   "Apresentar-se como resistência ao processo terapêutico.",
+   "Testar os valores morais do terapeuta e sua capacidade de abstinência.",
+   "Facilitar a sugestão do terapeuta sobre o paciente."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.13"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2022-psicologia-t01-024",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 24
+  },
+  "parte": "especificos",
+  "enunciado": "Imagine que você é psicólogo de uma Unidade Básica de Saúde (UBS) e recebe a ligação do psicólogo de um serviço de Emergência Psiquiátrica. Na ligação, o profissional relata que uma moradora do território de abrangência da sua UBS está internada naquele serviço e que receberá alta em uma semana e gostaria que a Unidade realizasse a continuidade do cuidado. A paciente é Margarida, 34 anos, mora com seus dois filhos, de 10 e 8 anos. Os pais de Margarida são falecidos, e ela tem uma irmã mais velha que mora fora do país há 3 anos. Margarida é divorciada do pai dos filhos. Tem diagnóstico de Transtorno Afetivo Bipolar e, sempre que entra em crise, acaba sendo internada. Nessas situações, os filhos ficam com os seus avós paternos, que são a única rede de apoio de Margarida. Nessa semana que antecede a alta psiquiátrica, qual das seguintes intervenções é mais coerente a partir da lógica de atenção psicossocial?",
+  "alternativas": [
+   "Conversar com os avós dos filhos de Margarida e orientá-los sobre a importância deles no processo de reabilitação da ex-nora, incluindo-os no plano de cuidados.",
+   "Buscar contato com a irmã de Margarida, tendo em vista que é o único familiar que ela possui, a fim de responsabilizá-la pelos cuidados da paciente.",
+   "Agendar uma consulta psicológica para Margarida para o dia seguinte da alta.",
+   "Convocar os avós dos filhos de Margarida para compreender a situação das crianças e alertá-los sobre os riscos de elas voltarem a ficar sob os cuidados da mãe, protegendo, assim, essas crianças.",
+   "Encaminhar Margarida para o CAPS, tendo em vista que a complexidade do caso demanda um serviço especializado."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.13",
+   "edital-13.14"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2022-psicologia-t01-025",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 25
+  },
+  "parte": "especificos",
+  "enunciado": "Considerando os eixos fundamentais da Clínica Ampliada e Compartilhada, analise as assertivas e assinale a alternativa que aponta as corretas. I. A Clínica Ampliada busca construir sínteses singulares tensionando os limites de cada matriz disciplinar, visando evitar uma abordagem que privilegie excessivamente algum conhecimento específico. II. O reconhecimento da necessidade de construção compartilhada dos diagnósticos e das terapêuticas é um eixo fundamental dessa Clínica. Esse compartilhamento vai tanto na direção da equipe de saúde, dos serviços de saúde e da ação intersetorial como no sentido dos usuários. III. A lógica psicossocial de cuidado, em contraposição à lógica biomédica, postula que o objeto de trabalho de qualquer profissional de saúde deve considerar a pessoa em suas dimensões psicológicas e sociais. A proposta da Clínica Ampliada é a de se constituir como ferramenta de articulação desses dois principais enfoques, a saber: o psicológico e o social. IV. A Clínica Ampliada requer meios de trabalho e dispositivos de gestão que privilegiem uma comunicação transversal na equipe e entre equipes. Essa Clínica requer técnicas relacionais que valorizem a capacidade de escuta do outro e de si mesmo.",
+  "alternativas": [
+   "Apenas I e II.",
+   "Apenas II e IV.",
+   "Apenas I e III.",
+   "Apenas I, II e III.",
+   "Apenas I, II e IV."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.7"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2022-psicologia-t01-026",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 26
+  },
+  "parte": "especificos",
+  "enunciado": "O psicólogo e a assistente social do CAPS II acompanharam Moacir, usuário do serviço, em sua primeira visita à cooperativa de fabricação de vassouras. Durante a visita, os profissionais mediaram o diálogo entre Moacir e os participantes do empreendimento de economia solidária. No final da conversa, Moacir expressou o seu interesse, e os cooperados o aceitaram como novo membro da cooperativa. Qual estratégia/procedimento psicossocial foi utilizado pelos profissionais do CAPS II?",
+  "alternativas": [
+   "Promoção de contratualidade.",
+   "Fortalecimento do protagonismo de usuários e de familiares.",
+   "Ações de articulação de redes intra e intersetoriais.",
+   "Matriciamento de equipes dos pontos de atenção no território.",
+   "Ações de redução de danos."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.13",
+   "edital-13.20"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2022-psicologia-t01-027",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 27
+  },
+  "parte": "especificos",
+  "enunciado": "O trabalho com grupos é um recurso fundamental no processo de cuidado em saúde mental. Sobre o trabalho com grupos, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta. (   )  Os grupos realizados na Atenção Básica são os de educação em saúde dentro da proposta de promoção e de prevenção. Nesse contexto, o profissional de Psicologia deve construir grupos pautados somente nesse modelo, realizando palestras, abordando as principais psicopatologias e os problemas de saúde mais prevalentes. (   )  A participação do profissional de psicologia junto aos demais profissionais da equipe, em coordenação conjunta, facilita o aprendizado desses últimos quanto ao manejo dos aspectos subjetivos do processo grupal. A coordenação conjunta é um importante recurso para as trocas de saberes. (   )  Os grupos têm mecanismos terapêuticos próprios, que contribuem para o processo de cuidado em saúde mental. Dentre esses mecanismos terapêuticos, é possível destacar o estabelecimento de identificações entre os participantes do processo grupal. (   )  Os grupos podem se configurar como importantes espaços de apoio social, em que o diálogo, os debates e a troca de informações geram condições para a aprendizagem interpessoal.",
+  "alternativas": [
+   "V – V – F – F.",
+   "F – V – V – V.",
+   "F – V – V – F.",
+   "F – F – V – V.",
+   "V – F – V – V."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.11"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2022-psicologia-t01-028",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 28
+  },
+  "parte": "especificos",
+  "enunciado": "Na última semana, Carla, 18 anos, buscou atendimento na Unidade de Pronto Atendimento (UPA) em três ocasiões. Nesses atendimentos, relatou falta de ar, coração acelerado, medo de ter um ataque cardíaco e de morrer, formigamento pelo corpo e a sensação de estranheza em relação a si mesma. A avaliação da equipe da UPA descartou problemas orgânicos no sistema cardiorrespiratório. Diante do quadro, a Assistente Social desse serviço enviou contrarreferência à Unidade Básica de Saúde (UBS), solicitando acompanhamento e posterior envio de informações sobre o caso. A psicóloga enviou documento escrito comunicando a realização da visita domiciliar em conjunto com a enfermeira da UBS, no qual informou à UPA a realização de acolhimento e orientações à Carla. Em campo separado da enfermeira, a psicóloga apresentou informações sobre a evolução do seu trabalho. Na conclusão do documento, em conjunto, psicóloga e enfermeira justificaram teórica e tecnicamente a necessidade de continuidade do acolhimento e o envolvimento de outros profissionais da equipe da Estratégia de Saúde da Família no cuidado à Carla. Considerando as regras para a elaboração de documentos escritos, é correto afirmar que o referido documento produzido pela psicóloga em seu exercício profissional trata-se de um(a)",
+  "alternativas": [
+   "Relatório de Atividade.",
+   "Relatório Psicológico.",
+   "Relatório Multiprofissional.",
+   "Declaração Psicológica.",
+   "Declaração Psicossocial."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.25"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2022-psicologia-t01-029",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 29
+  },
+  "parte": "especificos",
+  "enunciado": "A técnica que orienta o paciente a dizer tudo o que passa na sua mente, incluindo pensamentos que ele deseja rechaçar ou que pareçam irrelevantes, representa o que se conhece como “regra psicanalítica fundamental”. A referida técnica é",
+  "alternativas": [
+   "a interpretação da Transferência.",
+   "o manejo da Contratransferência.",
+   "a Regressão.",
+   "a Livre-Associação.",
+   "a Repetição Terapêutica."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.13"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2022-psicologia-t01-030",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 30
+  },
+  "parte": "especificos",
+  "enunciado": "A psicóloga da Unidade Básica de Saúde (UBS) recebe a informação de que, no território de sua UBS, há uma adolescente de 16 anos chamada Luciana, negra, vivendo em isolamento social. Ela mora com a sua mãe e duas irmãs mais novas. De acordo com informações do prontuário, Luciana recebeu um diagnóstico de fobia social quando estava com doze anos. A psicóloga, em conjunto com a equipe, decidiu agendar um horário para o acolhimento da adolescente e de sua mãe. Na data marcada, Luciana compareceu sozinha ao atendimento. A profissional decidiu realizar o acolhimento, mesmo sem a presença da genitora. Luciana relatou que sua rotina é restrita ao smartphone, não trabalha, tem amigos apenas virtuais e não retornou ao ensino presencial na escola. Mencionou que desistiu de estudar, pois sempre foi hostilizada. Sentia-se frequentemente mal por conta dos comentários sobre a sua aparência. Muito emocionada, ela contou que tentava vestir as roupas certas, usar as palavras certas e apresentar o cabelo certo, mas, ainda assim, era muito maltratada. Em reunião de equipe, a psicóloga informou a ausência da responsável à diretora da UBS, debateu as possíveis implicações do racismo no sofrimento psíquico da população e discutiu os critérios para o diagnóstico de fobia social. A partir da decisão da equipe, a psicóloga realizou visita domiciliar, em conjunto com a assistente social e com a agente comunitária de saúde. Durante a visita, a equipe conheceu as outras moradoras da casa, houve acolhimento e orientações. Considerando os princípios da Atenção Básica e o código de ética do profissional de psicologia, assinale a alternativa correta.",
+  "alternativas": [
+   "A psicóloga cometeu infração disciplinar, uma vez que é vedado ao profissional realizar atendimento não eventual de criança, adolescente ou interdito, sem a autorização de ao menos um de seus responsáveis.",
+   "A profissional não respeitou os limites do sigilo profissional, uma vez que expôs, em reunião com outros profissionais, informações da intimidade de Luciana às quais teve acesso em seu exercício profissional.",
+   "O Código de Ética elenca apenas três penalidades para o profissional que comete infração disciplinar: advertência; suspensão do exercício profissional por até 180 (cento e oitenta) dias; e cassação do exercício profissional, decidida em reunião ordinária do Conselho Regional de Psicologia.",
+   "A visita domiciliar conjunta demonstra a potência de um trabalho construído em rede, no âmbito de uma abordagem territorial. O acesso à genitora é fundamental em um caso como o descrito, que envolve transtorno mental, uma vez que os responsáveis devem autorizar e receber detalhadamente todas as informações referentes ao atendimento psicológico de seus filhos.",
+   "A psicóloga trabalhou em consonância com o princípio fundamental da profissão de que trabalhará visando promover a saúde e a qualidade de vida das pessoas e das coletividades e contribuirá para a eliminação de quaisquer formas de negligência, discriminação, exploração, violência, crueldade e opressão. Para tanto, utilizou importantes ferramentas para o cuidado na AB, como a visita domiciliar conjunta e a discussão de caso."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.23"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2022-psicologia-t01-031",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 31
+  },
+  "parte": "especificos",
+  "enunciado": "Em relação à Rede de Atenção Psicossocial (RAPS), assinale a alternativa INCORRETA.",
+  "alternativas": [
+   "A Rede de Atenção Psicossocial tem por finalidade a criação, ampliação e articulação de pontos de atenção à saúde para pessoas com sofrimento ou transtorno mental e com necessidades decorrentes do uso de crack, álcool e outras drogas, no âmbito do Sistema Único de Saúde.",
+   "Dentre seus objetivos específicos, a RAPS visa promover a reabilitação e a reinserção das pessoas com transtorno mental e com necessidades decorrentes do uso de crack, álcool e outras drogas na sociedade por meio do acesso ao trabalho, renda e moradia.",
+   "A Rede de Atenção Psicossocial é constituída por componentes setoriais, como: Unidade Básica de Saúde (UBS), Serviço de Atendimento Móvel de Urgência (SAMU) e Centro de Atenção Psicossocial, em suas diferentes modalidades.",
+   "O CAPS II atende pessoas com transtornos mentais graves e persistentes. Proporciona serviços de atenção contínua, com funcionamento vinte e quatro horas, incluindo feriados e finais de semana, ofertando retaguarda clínica e acolhimento noturno a outros serviços de saúde mental, inclusive CAPS Ad.",
+   "A Atenção Hospitalar às pessoas com sofrimento ou transtorno mental e com necessidades decorrentes do uso de crack, álcool e outras drogas pode ocorrer por meio de enfermaria especializada em Hospital Geral."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.3"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2022-psicologia-t01-032",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 32
+  },
+  "parte": "especificos",
+  "enunciado": "Antônio, 32 anos, atualmente apresenta intensificação de seu sofrimento persistente, marcado por sentimento persecutório, alucinações auditivas, lentificação psicomotora, discurso desorganizado e redução de sua capacidade laboral e afetiva. Considerando a organização da Rede de Atenção à Saúde, assinale a alternativa correta.",
+  "alternativas": [
+   "Antônio deve buscar atendimento no Centro de Atenção Psicossocial (CAPS), pois esse Centro constitui-se como porta prioritária e como principal ordenador do cuidado às pessoas em sofrimento mental.",
+   "Para chegar ao CAPS, Antônio deverá ser encaminhado pela Unidade Básica de Saúde (UBS). Como dispositivo especializado em Atenção Psicossocial, o CAPS somente atende pessoas referenciadas pelas Portas de Entrada do sistema.",
+   "Os serviços da Atenção Básica são Portas de Entrada exclusivas às ações e aos serviços nas Redes de Atenção à Saúde.",
+   "O acesso universal e igualitário às ações e aos serviços de saúde será ordenado pela atenção primária. Dessa forma, cabe orientar Antônio para que busque atendimento em UBS.",
+   "A Região de Saúde, que abarca a UBS em que Antônio é adstrito, deve conter, além da Atenção Primária, no mínimo, ações e serviços de Atenção Psicossocial e de Atenção Hospitalar."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.3"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 11,
+  "pegadinha": {
+   "letra": "E",
+   "atracao": 0.19
+  }
+ },
+ {
+  "id": "enare-2022-psicologia-t01-033",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 33
+  },
+  "parte": "especificos",
+  "enunciado": "No hospital, o sujeito precisa lidar com situações de grande sofrimento psíquico. Por essa razão, a presença do psicólogo na instituição hospitalar faz-se extremamente necessária. Perante situações de experiências disruptivas e traumáticas vivenciadas dentro de uma instituição hospitalar, qual intervenção deve ser realizada prioritariamente?",
+  "alternativas": [
+   "Proporcionar uma escuta que favoreça ao sujeito em sofrimento o processo de elaboração dessa dor e de produção de sentido para tais experiências.",
+   "Colocar-se como mediador da relação entre o sujeito adoecido e a equipe hospitalar.",
+   "Compreender a psicodinâmica do sujeito para utilizar as técnicas psicoterapêuticas mais adequadas.",
+   "Elaborar um psicodiagnóstico e apresentar prognóstico em Saúde Mental.",
+   "Identificar os aspectos da psicodinâmica que podem estar relacionados aos sintomas apresentados, avaliando a possibilidade de uma origem psicossomática."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.9",
+   "edital-13.5"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2022-psicologia-t01-034",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 34
+  },
+  "parte": "especificos",
+  "enunciado": "A equipe da Atenção Básica entra em contato com a equipe do Centro de Atenção Psicossocial (CAPS) para informar as dificuldades no processo de cuidado do crescente número de usuários do território que apresentam intensa instabilidade emocional, comportamentos impulsivos e prejuízos em suas relações sociais e laborais. A partir dessa conversa, ocorreram as seguintes ações: 01) atendimento compartilhado entre o psiquiatra do CAPS e o médico da AB; 02) discussão entre as equipes do caso atendido e elaboração do Projeto Terapêutico Singular (PTS). A partir desse caso e considerando os fundamentos do Matriciamento, assinale a alternativa correta.",
+  "alternativas": [
+   "A equipe da AB funciona como a equipe matriz, responsável por ordenar o cuidado longitudinal na sede sanitária. A equipe do CAPS é definida como equipe de referência especializada.",
+   "A primeira ação, que é o atendimento compartilhado, pode ser definida como um instrumento do processo de Matriciamento. Esse encontro de profissionais de distintas áreas, saberes e visões permite que se construa uma compreensão integral do processo de saúde e doença, facilitando a troca de conhecimentos e a construção de PTS.",
+   "O caso apontado não pode ser definido como Matriciamento. Este deve proporcionar a retaguarda especializada da assistência, garantindo o processo de transferência de responsabilidade do cuidado do usuário da AB em direção à atenção especializada por meio do encaminhamento ao CAPS ou do atendimento do usuário pelo profissional especializado.",
+   "Somente a segunda ação pode ser caracterizada como Matriciamento, pois demonstra o caráter técnico-pedagógico fundante desse processo. Diferente do Matriciamento, o contato direto com o usuário, como no atendimento compartilhado, caracteriza-se como intervenção assistencial.",
+   "A consulta conjunta, no campo da saúde mental, é contraproducente, uma vez que uma consulta individual realizada com a presença de mais de um profissional não otimiza os escassos recursos do setor."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.21"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2022-psicologia-t01-035",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 35
+  },
+  "parte": "especificos",
+  "enunciado": "O profissional de saúde, em contato com o sofrimento nas suas diversas dimensões, vive conflitos sobre como se posicionar diante da dor, que nem sempre consegue aliviar. O contexto hospitalar é marcado por esses conflitos, que podem levar, muitas vezes, ao adoecimento do profissional. Esse convívio com dor, perda e morte traz ao profissional a vivência de seus processos internos, suas fragilidades, vulnerabilidades, medos e incertezas e nem sempre há espaços para compartilhar. O psicólogo hospitalar também pode estar comprometido com essa demanda de cuidado. Dentre as alternativas a seguir, qual NÃO representa uma prática coerente do Psicólogo Hospitalar?",
+  "alternativas": [
+   "Legitimar o sofrimento vivenciado pelos profissionais sem naturalizar os fatos vivenciados.",
+   "Orientar os profissionais a se distanciarem emocionalmente dos pacientes para evitar os sofrimentos decorrentes desses vínculos.",
+   "Criar espaços institucionais de escuta para os profissionais de saúde.",
+   "Ofertar formação continuada sobre temas emergentes.",
+   "Articular com a rede de saúde projetos de cuidado da saúde do trabalhador."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.21"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2022-psicologia-t01-036",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 36
+  },
+  "parte": "especificos",
+  "enunciado": "A equipe da abordagem à população em situação de rua da Assistência Social ligou para a equipe da Unidade Básica de Saúde (UBS) pedindo avaliação de um usuário desconhecido, deitado, há alguns dias, em uma rua próxima à UBS. A profissional da UBS informou que a Atenção Básica é responsável apenas pelas pessoas adstritas e orientou que procurassem a equipe do Consultório na Rua (CNR). Acionada, ao chegar ao local, a equipe do CNR encontrou o usuário confuso, com higiene precária e com sinais de pneumonia. Ele foi levado até a Unidade de Pronto Atendimento (UPA), mas a equipe desse serviço se recusou a atendê-lo, pois ele não tinha documentos que comprovassem o seu domicílio ou seu cadastro no Sistema Único de Saúde. A equipe do CNR se responsabilizou pelo usuário, conseguindo que ele fosse avaliado, medicado e internado. Diariamente, a equipe do CNR visitou o paciente, que teve seu estado físico e mental melhorado, o que permitiu sua identificação. O seu primeiro nome era Douglas e tinha 38 anos. Durante o acompanhamento após a alta, Douglas relatou que retomou o uso diário de bebida alcoólica e que não pretendia cessá-lo. A equipe continuou o acompanhamento, realizou escuta ativa e apresentou orientações sobre locais na cidade que oferecem alimentação e água potável, bem como explicou a importância da hidratação e da alimentação para a saúde. Considerando os fundamentos do cuidado à saúde junto à população em situação de rua, assinale a alternativa correta.",
+  "alternativas": [
+   "A conduta da profissional da UBS é correta, uma vez que a adstrição e o cuidado longitudinal dos usuários são fundamentos da AB. O cuidado especializado, como exigido no caso, é de responsabilidade da Atenção Secundária.",
+   "A equipe da UPA agiu corretamente ao exigir a corresponsabilização da equipe do CNR, uma vez que é vedado o atendimento nos serviços públicos de saúde à pessoa sem documentos que comprovem o seu domicílio.",
+   "Como no caso descrito, o consumo de drogas está inserido no cotidiano de grande parte das pessoas que estão em situação de rua. Nesse contexto, as estratégias de redução de danos tornam-se uma importante ferramenta para enriquecer o cuidado das equipes que trabalham com essa população.",
+   "Em função da prevalência do uso de substâncias psicoativas pela população em situação de rua, a equipe do Consultório na Rua é considerada uma equipe especializada da Atenção Secundária, diretamente vinculada ao Centro de Atenção Psicossocial para Álcool e outras Drogas (CAPS AD).",
+   "A população em situação de rua apresenta especificidades, como a ausência de documentos ou de cadastro no SUS, que justificam o CNR como a Porta de Entrada exclusiva aos serviços de saúde."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.4"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 13
+ },
+ {
+  "id": "enare-2022-psicologia-t01-037",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 37
+  },
+  "parte": "especificos",
+  "enunciado": "Leia o poema a seguir para responder a questão: Por muito tempo achei que a ausência é falta. E lastimava, ignorante, a falta. Hoje não a lastimo. Não há falta na ausência. A ausência é um estar em mim. E sinto-a, branca, tão pegada, aconchegada nos meus braços, que rio e danço e invento exclamações alegres, porque a ausência, essa ausência assimilada, ninguém a rouba mais de mim. Nesse sensível poema, escrito por Carlos Drummond de Andrade, é possível perceber que o autor refere-se ao processo de elaboração de um luto. O termo “ausência assimilada” refere-se, no campo psicanalítico, a qual processo psíquico?",
+  "alternativas": [
+   "Projeção.",
+   "Introjeção.",
+   "Negação.",
+   "Identificação Projetiva.",
+   "Cisão."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.8"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 13
+ },
+ {
+  "id": "enare-2022-psicologia-t01-038",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 38
+  },
+  "parte": "especificos",
+  "enunciado": "Gabriel, 22 anos, solteiro, relatou ao psicólogo a presença de sentimentos de vergonha, de tristeza e de solidão, nos últimos dois meses, em decorrência de término de relacionamento amoroso. Essa ruptura foi marcada por traição e humilhação pública. Informou que essa relação amorosa gerou a deterioração em suas relações sociais e hoje vive distante de seus amigos e familiares, contando apenas com o apoio de sua mãe. Mencionou que, no dia anterior à consulta, realizou autolesão, visando apenas ao alívio da dor. Questionado pelo profissional, Gabriel comentou a sua tentativa de suicídio logo após o término do namoro, bem como a escolha de novo método e de local em que pretende executar a própria morte. Não revelou data para a execução do plano. A partir dos fundamentos sobre o atendimento às pessoas em risco de suicídio, assinale a alternativa INCORRETA.",
+  "alternativas": [
+   "A presença de fatores de risco como tentativa de suicídio prévia, planejamento de ato suicida, evento estressor, dor psíquica intensa e suporte social reduzido permite afirmar que Gabriel apresenta alto risco de suicídio.",
+   "A formulação de risco não é uma predição sobre quem consumará o suicídio, mas trata-se de um julgamento clínico, que permite priorizar ações coerentes com a condição do paciente.",
+   "A epidemiologia brasileira relacionada ao suicídio revela que o gênero, a idade e o estado civil de Gabriel são fatores sociodemográficos pouco relevantes para o suicídio.",
+   "O psicólogo deverá realizar notificação por meio do preenchimento da ficha de notificação de violência interpessoal e autoprovocada.",
+   "O principal objetivo da internação, em caso de risco de suicídio, é a proteção da vida da pessoa. Deve focar em reduzir o risco imediato e criar condições para prosseguir o tratamento nos dispositivos extra-hospitalares."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.29"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2022-psicologia-t01-039",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 39
+  },
+  "parte": "especificos",
+  "enunciado": "Para Freud, após a perda de um objeto de amor, real ou imaginário, pode ocorrer um processo de luto. Esse processo poderia ter dois destinos possíveis: a elaboração do trabalho de luto (elaboração bem-sucedida) ou a queda na melancolia (fracasso no processo de elaboração). Inicialmente as características desses estados são bastante parecidas e apresentam muitos sintomas em comum. Todavia alguns sinais podem indicar uma complicação no processo de elaboração, sendo características apenas da melancolia. Qual das alternativas a seguir representa uma característica apenas da melancolia?",
+  "alternativas": [
+   "Perda do interesse pelo mundo externo.",
+   "Profundo desânimo.",
+   "Inibição da atividade em geral.",
+   "Diminuição da autoestima, acompanhada de intensas autoacusações.",
+   "Anedonia."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.8"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2022-psicologia-t01-040",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 40
+  },
+  "parte": "especificos",
+  "enunciado": "Durante a pandemia, muitas pessoas relataram ao profissional de Psicologia sentimento de tristeza, de falta de controle perante as incertezas do momento, sensação de desesperança, de estado de alerta frequente e de intensa preocupação. Sobre as possibilidades de atuação do psicólogo no contexto da pandemia por Covid-19, assinale a alternativa correta.",
+  "alternativas": [
+   "Mesmo em situações de emergências e desastres, o profissional da psicologia não poderá intervir na prestação de serviços psicológicos efetuados por outro psicólogo.",
+   "Em situações de emergências e desastres, o psicólogo realizará registro documental das atividades gerais, sendo dispensada a necessidade de registro dos atendimentos individuais realizados nesse contexto.",
+   "Diante das características da pandemia, o Conselho Federal de Psicologia suspendeu a orientação de que o atendimento, por meios tecnológicos de comunicação a distância, é inadequado em situações de urgência e emergência.",
+   "Durante a Pandemia de Covid-19, o CFP autorizou a realização de serviços psicológicos por meios tecnológicos da informação e comunicação, sem a necessidade de cadastro na plataforma e-Psi.",
+   "Cabe ao psicólogo que atua em situações de emergência ter cautela em possíveis participações na mídia para não popularizar o saber da psicologia por meio da divulgação de conhecimentos específicos da profissão."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.27"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2022-psicologia-t01-041",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 41
+  },
+  "parte": "especificos",
+  "enunciado": "No Brasil, entre cada dez habitantes, nove enfrentam uma doença grave antes de morrer, o que pode significar um longo e cruel percurso de sofrimento físico, emocional, familiar, social e espiritual. Nesse contexto, é possível concluir que a grande maioria da população, em algum momento, necessitará de cuidados paliativos. Qual das alternativas a seguir melhor define o que são cuidados paliativos?",
+  "alternativas": [
+   "É a substituição do tratamento convencional por tratamento alternativo.",
+   "É um cuidado que abrange todos os recursos diagnósticos e terapêuticos disponíveis visando a um suporte amplo à qualidade de vida do paciente e do seu entorno.",
+   "É a possibilidade de ofertar ao paciente uma morte natural sem intervenções invasivas.",
+   "É um cuidado que prepara o paciente para a própria morte.",
+   "É mudar o foco do cuidado do âmbito biológico para o psicológico."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.4"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2022-psicologia-t01-042",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 42
+  },
+  "parte": "especificos",
+  "enunciado": "José tem 40 anos, é divorciado, mora com a mãe já idosa e com dois irmãos. Faz uso de cerveja desde os 13 anos de idade, mas o constante desemprego aumentou a sua presença no bar e tornou o consumo da bebida, nos últimos dois anos, mais intenso e frequente. José relata fracasso em suas tentativas de reduzir ou regular o consumo dessa substância. Explica que grande parte de suas atividades diárias gira em torno da bebida. Comenta que, no último ano, envolveu-se em brigas, afastou-se dos filhos e da ex- companheira, abandonou os jogos de futebol no bairro, onde era muito respeitado, bem como os estudos no Centro de Educação Básica para Jovens e Adultos (CEBJA). Considerando os critérios diagnósticos, assinale a alternativa correta.",
+  "alternativas": [
+   "José apresenta quadro de dependência de álcool, também definido como transtorno por uso de álcool.",
+   "Os sintomas apresentados justificam o diagnóstico de delirium tremens.",
+   "O quadro indica consumo de baixo risco de bebida alcoólica.",
+   "Os critérios diagnósticos indicam embriaguez patológica.",
+   "José realiza binge drinking, que significa beber grande quantidade de álcool por longo período de tempo."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.24"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2022-psicologia-t01-043",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 43
+  },
+  "parte": "especificos",
+  "enunciado": "O Conselho Federal de Psicologia especifica e qualifica a Psicoterapia como prática do psicólogo. Assinale a alternativa que melhor defina o motivo pelo qual a Psicoterapia deve compor o arsenal de práticas do psicólogo.",
+  "alternativas": [
+   "A Psicoterapia centra-se em ajudar as pessoas a adquirir e a desenvolver um pensamento positivo e otimista de maneira que possam alcançar os seus objetivos em consonância com a missão do psicólogo.",
+   "A Psicoterapia é o principal recurso que o psicólogo tem para promover a saúde mental da população e propiciar condições para o enfrentamento de conflitos e/ou transtornos psíquicos de indivíduos ou grupos.",
+   "A Psicoterapia se constitui em uma técnica e, conceitualmente, um processo científico de compreensão, análise e intervenção que se realiza através da aplicação sistematizada e controlada de métodos e técnicas psicológicas reconhecidos pela ciência, pela prática e pela ética profissional.",
+   "A Psicoterapia é uma prática privativa do psicólogo, portanto garante ao indivíduo atendido mais segurança e resolutividade, diferenciando- se de outras modalidades terapêuticas que se propõem a tratar da saúde mental.",
+   "A Psicoterapia tem como único potencial apoiar o indivíduo a descobrir, criar, alcançar seus objetivos e sustentar o que ele mais quer e, profundamente, deseja para sua vida."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.11",
+   "edital-13.13"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 15,
+  "pegadinha": {
+   "letra": "B",
+   "atracao": 0.18
+  }
+ },
+ {
+  "id": "enare-2022-psicologia-t01-044",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 44
+  },
+  "parte": "especificos",
+  "enunciado": "Uma paciente, durante acolhimento na Unidade Básica de Saúde, entrega à psicóloga documento de solicitação de avaliação psicológica para cirurgia bariátrica enviado pela equipe médica do hospital. No documento, a equipe solicita celeridade na avaliação psicológica pré- operatória, dado que a cirurgia está agendada para o próximo mês. Além disso, nesse documento, a equipe requer que a avaliação seja construída a partir da utilização da Escala de Inteligência Wechsler para adultos (WAIS III), bem como do relatório da equipe multiprofissional da Atenção Básica. Em consulta ao prontuário, a psicóloga identifica que a paciente não é uma usuária frequente na Unidade, sendo que o seu último atendimento ocorreu há três anos. Sobre o processo de avaliação psicológica, assinale a alternativa correta.",
+  "alternativas": [
+   "A aplicação do WAIS é compulsória, uma vez que a limitação intelectual significativa, em pacientes com suporte familiar adequado, é critério de contraindicação para cirurgia bariátrica.",
+   "É atribuição da psicóloga da UBS realizar a avaliação psicológica pré-operatória para todos os usuários do seu território em processo de cirurgia bariátrica. O cuidado longitudinal é exigido apenas no pós-cirúrgico.",
+   "A psicóloga não pode utilizar o relatório da equipe multiprofissional na construção da avaliação psicológica, dado que deve basear sua decisão exclusivamente em testes, entrevistas e protocolos aprovados pelo Conselho Federal de Psicologia.",
+   "A avaliação psicológica para cirurgia bariátrica não é obrigatória por se tratar de um procedimento cirúrgico de pequeno impacto na vida da pessoa e da coletividade.",
+   "A psicóloga possui autonomia para decidir sobre a realização da avaliação psicológica, considerando que deve assumir responsabilidades profissionais somente por atividades para as quais esteja capacitada pessoal, teórica e tecnicamente."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.16"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2022-psicologia-t01-045",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 45
+  },
+  "parte": "especificos",
+  "enunciado": "Entre as modalidades de cuidado em saúde mental, o cuidado em grupo é uma medida extremamente rica e potente. Em relação a essa temática, destaca-se o conceito de Grupo Operativo, modalidade terapêutica bastante utilizada na lógica da atenção psicossocial. Sobre o Grupo Operativo, assinale a alternativa correta.",
+  "alternativas": [
+   "É uma forma de psicoterapia grupal em que está presente uma meta terapêutica, como o alívio ou a eliminação de sintomas, o desenvolvimento de comportamentos mais saudáveis, o autoconhecimento e o desenvolvimento pessoal.",
+   "Um grupo operativo está centrado na tarefa e tem por finalidade aprender a pensar em termos das dificuldades criadas e manifestadas no campo grupal e não em cada um de seus integrantes. A tarefa pode ser a cura, no caso da psicoterapia, a resolução de um problema institucional, a aprendizagem, a construção de um projeto etc. A liderança do grupo não é exercida pelo coordenador ou por qualquer outra pessoa, e sim pela tarefa.",
+   "Configura-se como uma união de interioridades, sendo que cada membro unifica os demais, e o papel de terceiro unificador circula entre os membros do grupo. É possível unificar os outros em um todo objetivo.",
+   "O grupo oferece técnicas de socialização que envolvem o desenvolvimento de habilidades sociais básicas e permitem aos membros colocar à prova uma série de habilidades ou abordagens novas.",
+   "Compreende o grupo como um sistema que age como um todo, e o que afeta uma parte afeta o todo, como um organismo dotado do princípio da autorregulação, que é um instinto grupal, um espaço em que a pessoa encontra oportunidade de se regular com o ambiente para satisfazer suas necessidades e eliminar suas tensões."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.11",
+   "edital-13.13"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2022-psicologia-t01-046",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 46
+  },
+  "parte": "especificos",
+  "enunciado": "Um homem de aproximadamente 25 anos entra no Centro de Atenção Psicossocial II (CAPS II) aparentemente desorientado, falando sozinho, com roupas desalinhadas e cabelos despenteados. Na recepção, pergunta à atendente se pode conversar com a psicóloga do CAPS. A atendente lhe informa que precisará marcar um horário para o acolhimento e que só terá vaga na semana seguinte. O homem se irrita e diz que precisa falar com a psicóloga imediatamente, pois precisa de ajuda. A atendente diz que não pode fazer nada a respeito, uma vez que o CAPS não é serviço de urgência e sugere um horário na próxima terça-feira. Ele fica cada vez mais alterado, grita e ofende os funcionários, derruba o material que está sobre o balcão e sai do CAPS. Considerando situações de crise como a descrita, assinale a alternativa correta.",
+  "alternativas": [
+   "Diante do alvoroço, da desorganização, da confusão e do comportamento violento do usuário, características das situações de crise em saúde mental, a conduta correta da atendente seria acionar o SAMU para direcionar o usuário à internação psiquiátrica.",
+   "O CAPS II possui apenas duas estratégias/procedimentos para o cuidado à pessoa em crise, quais sejam, o acolhimento inicial e o acolhimento noturno.",
+   "É impossível estabelecer o acolhimento de um usuário desorganizado, como esse caso. Por esse motivo, os sintomas devem ser primeiramente suprimidos para ocorrer o acolhimento adequadamente.",
+   "O psicólogo pode contribuir com a equipe multiprofissional do CAPS, compartilhando o saber de que a situação de crise deve ser compreendida como condição pessoal e localizada no interior da pessoa que a manifesta.",
+   "Não há serviço de saúde específico e unicamente responsável por acolher as situações de crise. É importante que a abordagem das situações de crise seja realizada no ambiente do CAPS, no domicílio ou em outros espaços do território que façam sentido aos usuários e favoreçam a construção e a preservação de vínculos."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.13"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2022-psicologia-t01-047",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 47
+  },
+  "parte": "especificos",
+  "enunciado": "A partir do resgate histórico da relação entre a Reforma Psiquiátrica e a Psicologia, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta. (   ) Desde a instituição do SUS, há uma significativa ampliação da presença de psicólogos nas políticas públicas de saúde e uma importante implicação da categoria com a garantia do direito à atenção integral à saúde por meio de sua participação nas lutas e no trabalho cotidiano do SUS. (   ) O processo da Reforma Psiquiátrica pode ser dividido em quatro eixos, referindo-se ao campo teórico-conceitual, técnico- assistencial, jurídico-político e sociocultural. (   ) Entre os anos de 1988 e 1994, ocorreram avanços institucionais na Reforma Psiquiátrica. Esse período é marcado por uma expressiva diminuição dos leitos psiquiátricos, pela criação da Rede de Atenção Psicossocial e por mudanças no arcabouço legal. (   ) É essencial que os psicólogos que atuam nos CAPS conheçam o território no qual o usuário está inserido, mapeando demandas e problemáticas acerca da saúde mental, identificando serviços, instituições e formas de organização social existentes naquela localidade, além de estabelecerem contato com outros dispositivos no território através de Matriciamento e outras atividades em conjunto.",
+  "alternativas": [
+   "V – V – F – V.",
+   "V – V – F – F.",
+   "F – V – V – V.",
+   "F – F – V – V.",
+   "V – F – F – V."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.20"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2022-psicologia-t01-048",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 48
+  },
+  "parte": "especificos",
+  "enunciado": "Eduardo, 8 anos, foi levado por sua mãe ao Centro de Atenção Psicossocial Infantojuvenil (CAPSi) com um encaminhamento da escola, solicitando a realização de eletroencefalograma por suspeita de Transtorno de Déficit de Atenção e Hiperatividade (TDAH). Durante o acolhimento, a mãe de Eduardo informou que a escola reclama das dificuldades de concentração e da constante agitação do filho. Em casa, apresenta-se tranquilo, ficando horas na frente do celular. Eduardo relatou que todos em sua sala são agitados. Após levantamento, a equipe do CAPSi constatou que ele era a oitava criança encaminhada pela mesma escola naquela semana. Considerando os fundamentos do cuidado infantojuvenil em saúde mental, assinale a alternativa correta.",
+  "alternativas": [
+   "O caso demonstra como o acolhimento inicial é uma estratégia importante para o estabelecimento de vínculos, para a escuta respeitosa das questões que preocupam a família, para a escuta do que a própria criança tem a dizer ou transmitir.",
+   "Diante da solicitação, cabe à equipe do CAPSi realizar o encaminhamento ao neurologista infantil, uma vez que é necessário descartar as causas clínicas para iniciar o cuidado psicossocial.",
+   "A intersetorialidade é um princípio importante do trabalho em saúde mental com crianças e jovens. O CAPSi deve estabelecer parceria com a escola de Eduardo para informar que a dificuldade dos alunos em manter atenção sustentada é de responsabilidade da unidade educacional por se tratar de uma queixa escolar.",
+   "A escola deve ser vista pelo CAPSi como ponto de saúde ampliado, onde é possível observar os problemas in loco e realizar atendimentos aos alunos com problemas escolares.",
+   "Não é recomendada a participação da criança no primeiro contato da família com o CAPSi. A escuta dedicada ao adulto pode ser determinante para o sucesso do tratamento, além de evitar a exposição da criança."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.13",
+   "edital-1.4"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 18
+ },
+ {
+  "id": "enare-2022-psicologia-t01-049",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 49
+  },
+  "parte": "especificos",
+  "enunciado": "Considerando a defesa de que a autonomia deve constituir-se como uma das finalidades centrais da política, da gestão e do trabalho em saúde, analise as assertivas e assinale a alternativa que aponta as corretas. I. No âmbito da Saúde Coletiva, a autonomia poderia ser traduzida em um processo de constituição de uma maior capacidade de os sujeitos compreenderem e agirem sobre si mesmos e sobre o seu contexto. Nesse sentido, a autonomia pode ser entendida como a capacidade de o sujeito lidar com a sua rede de dependências. II. Na Saúde Coletiva, a autonomia é entendida em sua forma relativa, em gradientes passíveis de terem seus limites sempre tencionados, mudados. Nesses termos, não há uma autonomia pronta a priori para todos nem para qualquer situação. III. A Saúde Coletiva trata de autonomia e independência como termos correlatos, uma vez que o sujeito será mais autônomo, quanto mais independente de tantas coisas puder ser, pois a liberdade amplia as possibilidades de estabelecimento de novas normas para a vida. IV. É preciso reconhecer que a clínica tradicional, tal como desenvolvida pela medicina a partir do século XIX, tem apresentado especial contribuição ao processo de ampliação do grau de autonomia dos pacientes.",
+  "alternativas": [
+   "Apenas I e II.",
+   "Apenas II e III.",
+   "Apenas III e IV.",
+   "Apenas I, II e III.",
+   "Apenas I, II e IV."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.7",
+   "edital-1.9"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 18
+ },
+ {
+  "id": "enare-2022-psicologia-t01-050",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 50
+  },
+  "parte": "especificos",
+  "enunciado": "Maria, 62 anos, moradora de um bairro pobre, trabalha como diarista na limpeza de casas. É regularmente atendida na Unidade Básica de Saúde (UBS) com queixas de hipertensão e dores nas costas e nos joelhos. Recentemente perdeu algumas diárias em decorrência das constantes dores. Apresenta episódios de choro e de desânimo e relata sentimento de desvalia com a redução de sua renda. Joana destaca sua necessidade de aumentar o seu cuidado com o marido, que se encontra em um estado inicial de diabetes tipo 02. Além do companheiro, também se preocupa com seus três filhos adultos, que moram em sua casa. Diante desse caso, considerando os princípios da Atenção Básica (AB), assinale a alternativa que apresenta a conduta INCORRETA em relação ao trabalho do psicólogo na Atenção Básica.",
+  "alternativas": [
+   "Realizar atendimento compartilhado para Joana com outro profissional da UBS, como médico e/ou enfermeira. A construção de agendas compartilhadas com os demais profissionais da equipe de AB contribui para a maior inserção do psicólogo nas ações dentro do território e do cotidiano da UBS.",
+   "Convidar Joana para um grupo de mulheres a fim de discutir questões que envolvam  dificuldades compartilhadas pelas mulheres que vivem em seu bairro. O reconhecimento de que o fazer do psicólogo é permanentemente afetado pelos atravessamentos sociais, culturais, econômicos e comunitários abre espaço para os enfrentamentos coletivos de questões como violência, desemprego, pobreza, gênero, relações raciais, diversidade sexual e processos de adoecimento.",
+   "Fazer visita domiciliar compartilhada com a Agente Comunitária de Saúde, com o objetivo de conhecer o cotidiano da família e traçar uma estratégia de cuidado conjunta, valorizando a rede ampliada de apoio.",
+   "Apoiar a equipe da AB na construção de projetos terapêuticos singulares para Joana e seus familiares. O psicólogo pode instrumentalizar os profissionais de outras áreas com o saber da Psicologia, possibilitando maior corresponsabilização no cuidado, a partir da melhor compreensão do sofrimento psíquico e de sua relação com os determinantes sociais presentes na condição de adoecimento dessa família.",
+   "Realizar psicodiagnóstico para classificar a situação de Joana em baixa, média ou alta prioridade para o cuidado em psicoterapia individual. A partir desse exercício de equidade, o psicólogo inclui outras classes sociais no acesso à Psicologia, promovendo uma deselitização e democratização do acesso à psicoterapia."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.18"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 19
+ },
+ {
+  "id": "enare-2022-psicologia-t01-051",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 51
+  },
+  "parte": "especificos",
+  "enunciado": "Considerando o contexto da pandemia por Covid-19 e a avaliação psicológica na prática profissional remota, assinale a alternativa correta.",
+  "alternativas": [
+   "Não é obrigatório ao profissional o monitoramento audiovisual remoto durante todo o período de administração do teste, em especial em atividades síncronas.",
+   "No que se refere aos documentos decorrentes de avaliação psicológica, não é recomendável que constem informações que indiquem que a avalição foi realizada durante o período de pandemia.",
+   "Diante do contexto de pandemia e do baixo número de testes nas modalidades virtuais ou remotas, o Conselho Federal de Psicologia (CFP) autorizou a utilização de Testes Psicológicos ainda não avaliados pelo Sistema de Avaliação de Instrumentos Psicológicos (Satepsi).",
+   "O CFP diferencia os testes de aplicação informatizada (mediados por computador) e remota (on-line), bem como destaca que cabe ao psicólogo a responsabilidade de todo processo de avaliação psicológica.",
+   "A avaliação psicológica remota somente pode ocorrer por meio de atividades síncronas em que a interação ocorre simultaneamente."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.16",
+   "edital-13.2"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 19
+ },
+ {
+  "id": "enare-2022-psicologia-t01-052",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 52
+  },
+  "parte": "especificos",
+  "enunciado": "A psicóloga e a terapeuta ocupacional do CAPS organizaram um grupo com o objetivo de ampliar a autonomia dos usuários do serviço por meio do exercício da autogestão, da participação democrática e do desenvolvimento de técnicas de produção e comercialização. Com base nesses exercícios, o grupo democraticamente decidiu iniciar a produção coletiva de puffs a partir de pneus usados encontrados aos montes no fundo de vale do bairro.  A autonomia dos usuários foi aumentando, bem como a sua capacidade produtiva, a ponto de constituírem, fora do CAPS, uma cooperativa de fabricação e venda de pufes e mesas de centro a partir de material reciclado, em especial pneu. Considerando os fundamentos da Reabilitação Psicossocial, assinale a alternativa correta em relação ao caso descrito.",
+  "alternativas": [
+   "Nesse exemplo, pode-se observar que a formação de uma oficina terapêutica de geração de trabalho e renda no âmbito do CAPS é contraproducente, pois as cooperativas sociais são os melhores empreendimentos para os usuários.",
+   "A produção cooperativa de produtos a partir de pneus usados é coerente com os fundamentos da Economia Solidária, que, contrapondo-se à competição e à hierarquização, valoriza a confecção de produtos e vínculos mais éticos.",
+   "O empreendimento de Economia Solidária deve ser considerado no PTS somente quando esgotadas todas as possibilidades de acesso do usuário ao mercado formal de trabalho.",
+   "A participação das técnicas do CAPS na cooperativa é obrigatória, uma vez que as novas trocas sociais exigem a mediação profissional para evitar conflitos entre os usuários e possíveis recaídas.",
+   "A economia solidária é composta exclusivamente por oficinas de geração de trabalho e renda e por cooperativas sociais."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.20",
+   "edital-13.13"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 20
+ },
+ {
+  "id": "enare-2022-psicologia-t01-053",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 53
+  },
+  "parte": "especificos",
+  "enunciado": "A doença crônica tem um impacto sobre a vida do sujeito e do seu familiar/cuidador. Nesse contexto, é possível inferir que a família é um “agente de extensão” no tratamento oncológico e também um alicerce de suporte psicossocial. Considerando o campo da psico-oncologia, assinale a alternativa correta sobre a atuação do psicólogo junto às famílias.",
+  "alternativas": [
+   "A intervenção do psicólogo tem por finalidade auxiliar a família a desenvolver pensamentos positivos em relação ao tratamento, pois a esperança é necessária para o sucesso do tratamento.",
+   "A intervenção do psicólogo tem por finalidade oferecer suporte emocional para que a família possa enfrentar, de forma menos dolorosa possível, a situação. O psicólogo deve buscar reforçar os vínculos afetivos entre família e paciente, facilitando o diálogo e capacitando-os para o compartilhamento de experiências e emoções.",
+   "A intervenção do psicólogo visa somente permitir a elaboração saudável do luto, tendo em vista a gravidade da doença e as limitações do prognóstico.",
+   "A intervenção do psicólogo deve estar pautada na terapia familiar sistêmica.",
+   "A intervenção do psicólogo deve ter como foco a pessoa e não a doença. Por esse motivo, deve trabalhar outras temáticas e evitar falar sobre o câncer e suas consequências."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.14"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 20
+ },
+ {
+  "id": "enare-2022-psicologia-t01-054",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 54
+  },
+  "parte": "especificos",
+  "enunciado": "A psicóloga e a assistente social do CAPS, a partir da parceria estabelecida com a Secretaria de Cultura do município, levaram os usuários do serviço a realizar duas oficinas de teatro no Centro Cultural Municipal. Cada oficina teve duração média de quatro meses. Como fechamento dessa atividade, os usuários elaboraram e apresentaram esquetes teatrais no Teatro Municipal, com a presença, na plateia, de familiares, usuários e trabalhadores. Qual estratégia/procedimento psicossocial melhor define a atividade desenvolvida pelas profissionais do CAPS?",
+  "alternativas": [
+   "Práticas corporais.",
+   "Atendimento em grupo.",
+   "Matriciamento.",
+   "Práticas expressivas e comunicativas.",
+   "Fortalecimento do protagonismo de usuários e de familiares."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.13",
+   "edital-13.20"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 20,
+  "pegadinha": {
+   "letra": "E",
+   "atracao": 0.27
+  }
+ },
+ {
+  "id": "enare-2022-psicologia-t01-055",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 55
+  },
+  "parte": "especificos",
+  "enunciado": "O suicídio não é tão somente uma tragédia no âmbito pessoal. Ele também representa um sério problema de saúde pública. A prevenção do suicídio faz-se por meio do reforço dos fatores ditos protetores e da diminuição dos fatores de risco tanto no nível individual como coletivo. A esse respeito, assinale a alternativa que apresenta apenas fatores de risco.",
+  "alternativas": [
+   "Transtornos mentais, perdas recentes, bons vínculos afetivos, personalidade com fortes traços de impulsividade e agressividade, doenças crônicas incapacitantes, ter acesso fácil a meios letais.",
+   "Personalidade com fortes traços de impulsividade e agressividade, sensação de estar integrado a um grupo ou comunidade, doenças crônicas incapacitantes, perdas de figuras parentais na infância, dinâmica familiar conturbada.",
+   "Bons vínculos afetivos, religiosidade, estar em união afetiva estável, ter filhos pequenos.",
+   "Transtornos mentais, perdas recentes, perdas de figuras parentais na infância, estar casado ou com companheiro fixo, ter filhos pequenos, personalidade com fortes traços de impulsividade e agressividade, doenças crônicas incapacitantes, ter acesso fácil a meios letais.",
+   "Transtornos mentais, perdas recentes, dinâmica familiar conturbada, personalidade com fortes traços de impulsividade e agressividade, doenças crônicas incapacitantes, ter acesso fácil a meios letais."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.29"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 21
+ },
+ {
+  "id": "enare-2022-psicologia-t01-056",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 56
+  },
+  "parte": "especificos",
+  "enunciado": "Jonas recebeu o diagnóstico de esquizofrenia aos 19 anos. Atualmente encontra-se com 22 anos e apresenta-se muito apático e com baixo interesse na realização de suas atividades cotidianas. Relata diminuição em sua capacidade de experimentar e sentir prazer. Esse quadro tem gerado descuido com a aparência e higiene, problemas em seu trabalho e um processo progressivo de isolamento social. Jonas refere ouvir vozes que comandam a sua ação, bem como sentimento de estar sendo perseguido. Os familiares dizem que ele parece mais lento e menos expressivo do que o normal. Relatam ainda dificuldade em entender a conversa de Jonas, pois as ideias parecem desorganizadas. Considerando os principais grupos de sintomas da esquizofrenia, assinale a alternativa correta.",
+  "alternativas": [
+   "Jonas apresenta alucinações auditivas e ideias delirantes, que são classificadas como sintomas negativos, na medida em que geram distorção da realidade e indicam uma perda marcante da delimitação entre o eu/self em relação ao mundo.",
+   "A lentificação e o empobrecimento psicomotor são classificados como sintomas de desorganização e devem ser tratados com antipsicóticos.",
+   "A apatia, a anedonia e a redução na volição apresentadas por Jonas compõem o grupo de sintomas negativos. Os sintomas negativos na esquizofrenia caracterizam-se pelo empobrecimento global da vida afetiva, cognitiva e social do indivíduo.",
+   "A identificação de conjuntos de sintomas e comportamentos foi superada pela teoria dos subtipos clínicos. A partir dessa teoria, Jonas pode ser diagnosticado com esquizofrenia hebefrênica.",
+   "O pensamento progressivamente desorganizado de Jonas é considerado um sintoma positivo, uma vez que possibilita o surgimento de neologismos e novas formas de expressão no esquizofrênico."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.28",
+   "edital-13.13"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 21
+ },
+ {
+  "id": "enare-2022-psicologia-t01-057",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 57
+  },
+  "parte": "especificos",
+  "enunciado": "O quadro psicopatológico em que um dos responsáveis, na maior parte das vezes a mãe, simulava sinais e sintomas na criança, levando-a a repetidas internações e exposição a exames e tratamentos invasivos e desnecessários com o objetivo de chamar atenção para ela própria, é uma cena conhecida em Pronto Atendimento Pediátrico e serviços gerais de saúde. O referido quadro configura-se em uma forma grave e específica de abuso infantil que exige muita atenção da equipe de saúde a fim de garantir os direitos da criança e elaborar um plano de cuidados adequado tanto para a vítima como para o agressor. Essa apresentação de sofrimento humano é conhecida como",
+  "alternativas": [
+   "Transtorno de Personalidade Borderline.",
+   "Síndrome de Munchausen por Procuração.",
+   "Transtorno de Personalidade Narcisista.",
+   "Síndrome do Impostor.",
+   "Transtorno Hipocondríaco."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.13",
+   "edital-13.28"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 22
+ },
+ {
+  "id": "enare-2022-psicologia-t01-058",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 58
+  },
+  "parte": "especificos",
+  "enunciado": "Andréia, 28 anos, casada, acabou de ter seu primeiro filho há 15 dias. Ela chega ao ambulatório para seu retorno pós-operatório. Durante a consulta médica, o obstetra diz que a recuperação cirúrgica está indo bem, mas percebe Andréia desanimada e emotiva e sugere que ela passe por um acolhimento com a psicóloga da equipe. Nesse acolhimento, relata que a sua gestação foi desejada e planejada e que até o parto tudo ocorreu exatamente como ela planejou. Mas, desde o parto, as coisas estão muito difíceis para ela. Menciona que se preparou durante a gestação inteira para um parto vaginal natural, todavia, depois de muitas horas em trabalho de parto, foi necessária uma intervenção cirúrgica. Refere também que teve muita dificuldade com a amamentação, muitas fissuras mamárias e precisou, na primeira semana, complementar o aleitamento com fórmula infantil. Conta ainda que o bebê acorda de 4 em 4 horas e que, durante a noite, chora muito. Andréia sente- se culpada, pois deveria estar mais feliz e curtindo esse momento que tanto desejou viver. Refere que chora todos os dias desde que teve alta do hospital, e que as crises de choro ocorrem principalmente no início da noite. Durante o atendimento, Andréia fez questão de mostrar fotos e vídeos do filho no seu celular. Diz que a melhor parte dos seus dias é a hora de dar banho no bebê, sente prazer em dar banho, trocar e arrumar o filho. Relata que a tristeza começa no final do dia, quando começa a se sentir extremamente cansada. De acordo com as informações apresentadas, pode-se entender que o que acontece com Andréia configura-se como",
+  "alternativas": [
+   "Transtorno Afetivo Bipolar.",
+   "Depressão Secundária ou Orgânica.",
+   "Depressão Atípica.",
+   "Tristeza Puerperal ou Baby Blues.",
+   "Depressão Pós-Parto."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.30"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 22
+ },
+ {
+  "id": "enare-2022-psicologia-t01-059",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 59
+  },
+  "parte": "especificos",
+  "enunciado": "Durante a pandemia de Covid-19 no Brasil, emergiram inúmeras pandemias paralelas em decorrência da primeira. O retorno às escolas e, consequentemente, o acesso à rede de proteção têm evidenciado inúmeros sinais de violência contra crianças e adolescentes. Entre elas, destaca-se a violência sexual, que é uma grave violação dos direitos humanos. Trata-se de um fenômeno complexo e multifacetado que ocorre em todo o mundo e está ligado a fatores culturais, sociais e econômicos. Profissionais das mais diferentes áreas que lidam com crianças e adolescentes em seu cotidiano devem estar preparados para reconhecer sinais de maus-tratos e de abuso. Nesse contexto, é fundamental que os profissionais ofertem uma escuta qualificada às vítimas e suas famílias. Na ausência de uma escuta qualificada, corre-se o risco de submeter crianças e adolescentes a procedimentos desnecessários, repetitivos, que levem vítimas ou testemunhas a reviver a situação de violência ou outras situações que gerem sofrimento, estigmatização ou exposição de sua imagem. Esse tipo de violência é denominado",
+  "alternativas": [
+   "negligência.",
+   "exposição.",
+   "revitimização.",
+   "violência psicológica.",
+   "abuso de poder."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-1.4"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 23
+ },
+ {
+  "id": "enare-2022-psicologia-t01-060",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2022/2023",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-T01",
+   "numero": 60
+  },
+  "parte": "especificos",
+  "enunciado": "Milena, 25 anos, vem apresentando alterações significativas no seu estado geral de saúde. Seus últimos exames de rotina apontaram uma acidose metabólica que preocupou bastante a equipe. Na última consulta, solicitou encaminhamento para odontologia, pois seus dentes estavam perdendo o esmalte dentário, e ela estava bastante incomodada com essas alterações. A equipe questionou Milena sobre hábitos, rotina e outros sintomas que pudesse perceber. Ela disse que estava fazendo uma dieta bastante restrita e que treina Cross Fit duas vezes por dia, todos os dias da semana, pois se sente muito incomodada com o peso corporal e deseja muito emagrecer. Ao descrever a rotina de alimentação, mostrou-se um pouco agitada e, depois de bastante suporte e acolhimento da equipe, acabou contando que a dieta restrita é com frequência interrompida por episódios de compulsão alimentar. Milena conta que levanta de madrugada para comer, pois, nesse horário, ninguém pode observá-la. Com algum esforço, conseguiu dizer para a equipe que, após esses episódios de hiperfagia, surgem sentimentos de culpa e autorrecriminação muito intensos e que tenta amenizá-los induzindo o vômito. Questionada, afirma que esses episódios ocorrem, em média, 2 vezes por dia, todos os dias da semana e que vêm acontecendo há 2 anos. A partir das informações levantadas pela equipe, é possível concluir que o caso de Milena se trata de",
+  "alternativas": [
+   "Bulimia Nervosa Leve.",
+   "Bulimia Nervosa Moderada.",
+   "Bulimia Nervosa Grave.",
+   "Anorexia Nervosa.",
+   "Transtorno Hipocondríaco."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "provisorio",
+  "topicos": [
+   "edital-13.13",
+   "edital-13.28"
+  ],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
+  "pdf_pagina": 23
+ }
+]
