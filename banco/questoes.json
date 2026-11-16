@@ -21,7 +21,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.1"
   ],
   "subtema": "História do SUS e 8ª Conferência Nacional de Saúde (1986)",
   "comentario": {
@@ -61,7 +61,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.2"
   ],
   "subtema": "Decreto nº 7.508/2011 e COAP",
   "comentario": {
@@ -101,7 +101,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.3"
   ],
   "subtema": "Portaria de Consolidação nº 3/2017 — Redes Temáticas da RAS",
   "comentario": {
@@ -141,7 +141,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.3"
   ],
   "subtema": "Rede de Atenção à Saúde (RAS) — Conceito e Pontos de Atenção",
   "comentario": {
@@ -181,7 +181,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.8"
   ],
   "subtema": "Resolução CNS nº 588/2018 — Política Nacional de Vigilância em Saúde",
   "comentario": {
@@ -225,7 +225,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.8"
   ],
   "subtema": "Financiamento da Vigilância em Saúde (Resolução CNS nº 588/2018)",
   "comentario": {
@@ -265,7 +265,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.5"
   ],
   "subtema": "NASF-AB / Equipes Multiprofissionais na Atenção Básica",
   "comentario": {
@@ -305,7 +305,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.5"
   ],
   "subtema": "PNAB — Infraestrutura e Ambiência das UBS",
   "comentario": {
@@ -345,7 +345,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.7"
   ],
   "subtema": "Política Nacional de Humanização (PNH) — Princípios",
   "comentario": {
@@ -385,7 +385,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.4"
   ],
   "subtema": "Política Nacional de Saúde da Pessoa Idosa (Portaria nº 2.528/2006)",
   "comentario": {
@@ -425,7 +425,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.7"
   ],
   "subtema": "Humanização no SUS — Dimensão Subjetiva das Práticas em Saúde",
   "comentario": {
@@ -465,7 +465,8 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.5",
+   "edital-1.4"
   ],
   "subtema": "Consultório na Rua (eCR) e Registro no SISAB",
   "comentario": {
@@ -505,7 +506,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.10"
   ],
   "subtema": "Segurança do Paciente — RDC nº 36/2013 (Evento Adverso)",
   "comentario": {
@@ -545,7 +546,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.6"
   ],
   "subtema": "Política Nacional de Educação Permanente em Saúde (Portaria nº 1.996/2007)",
   "comentario": {
@@ -585,7 +586,8 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.2",
+   "edital-1.11"
   ],
   "subtema": "Tecnologias do Trabalho em Saúde (Emerson Merhy)",
   "comentario": {
@@ -625,7 +627,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.5"
   ],
   "subtema": "Equipes Multiprofissionais na APS (eMulti — Portaria GM/MS nº 635/2023)",
   "comentario": {
@@ -665,7 +667,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.4"
   ],
   "subtema": "População em Situação de Rua e Consultório na Rua (eCR)",
   "comentario": {
@@ -705,7 +707,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.4"
   ],
   "subtema": "Política Nacional de Atenção Integral à Saúde do Homem (PNAISH)",
   "comentario": {
@@ -749,7 +751,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp"
+   "edital-1.9"
   ],
   "subtema": "Bioética Principialista (Beauchamp e Childress)",
   "comentario": {
@@ -789,7 +791,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp"
+   "edital-13.23"
   ],
   "subtema": "Avaliação Psicológica, SATEPSI e Responsabilidade Ética",
   "comentario": {
@@ -833,7 +835,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp"
+   "edital-13.23"
   ],
   "subtema": "Vedações Éticas na Produção e Aplicação de Testes Psicológicos",
   "comentario": {
@@ -873,7 +875,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp"
+   "edital-13.25"
   ],
   "subtema": "Resolução CFP nº 06/2019 — Modalidades de Documentos (Parecer Psicológico)",
   "comentario": {
@@ -913,7 +915,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp"
+   "edital-1.4"
   ],
   "subtema": "Atuação do Psicólogo no Processo Transexualizador e Despatologização",
   "comentario": {
@@ -953,7 +955,8 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp"
+   "edital-13.23",
+   "edital-13.6"
   ],
   "subtema": "Código de Ética Profissional do Psicólogo — Publicidade Profissional (Art. 20)",
   "comentario": {
@@ -993,7 +996,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.7",
+   "edital-13.10"
   ],
   "subtema": "Inserção Histórica da Psicologia na Saúde Pública Brasileira",
   "comentario": {
@@ -1037,7 +1041,8 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.7",
+   "edital-13.10"
   ],
   "subtema": "Conceitos Estruturantes da Psicologia na Saúde Pública",
   "comentario": {
@@ -1077,7 +1082,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-1.2"
   ],
   "subtema": "Princípio da Integralidade no Cuidado",
   "comentario": {
@@ -1117,7 +1122,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.13",
+   "edital-13.20"
   ],
   "subtema": "Projeto Terapêutico Singular (PTS) e Reabilitação Psicossocial no TEA",
   "comentario": {
@@ -1157,7 +1163,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-1.3",
+   "edital-13.13"
   ],
   "subtema": "Rede de Atenção Psicossocial (RAPS) — Estrutura e Abrangência",
   "comentario": {
@@ -1197,7 +1204,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.13"
   ],
   "subtema": "Clínica Ampliada e PTS em Situação de Crise no CAPS",
   "comentario": {
@@ -1237,7 +1244,8 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-1.11",
+   "edital-1.5"
   ],
   "subtema": "Construção do Projeto Terapêutico Singular (PTS) e Território",
   "comentario": {
@@ -1277,7 +1285,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.21"
   ],
   "subtema": "Matriciamento / Apoio Matricial — Instrumentos",
   "comentario": {
@@ -1317,7 +1325,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.21"
   ],
   "subtema": "Saúde Mental na Atenção Básica e Apoio Matricial",
   "comentario": {
@@ -1357,7 +1365,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-1.11"
   ],
   "subtema": "Trabalho em Equipe Multiprofissional na Saúde Mental",
   "comentario": {
@@ -1397,7 +1405,8 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.13",
+   "edital-13.19"
   ],
   "subtema": "Medicalização do Sofrimento Psíquico e Determinantes Sociais",
   "comentario": {
@@ -1437,7 +1446,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-1.3"
   ],
   "subtema": "Objetivos Gerais e Funcionamento da RAPS (Portaria nº 3.088/2011)",
   "comentario": {
@@ -1481,7 +1490,8 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.20",
+   "edital-13.13"
   ],
   "subtema": "Centros de Convivência e Cultura na RAPS",
   "comentario": {
@@ -1521,7 +1531,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.20"
   ],
   "subtema": "Reforma Psiquiátrica e Clínica Ampliada",
   "comentario": {
@@ -1561,7 +1571,8 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.13",
+   "edital-13.26"
   ],
   "subtema": "Acolhimento à Crise no CAPS",
   "comentario": {
@@ -1601,7 +1612,8 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.13",
+   "edital-13.20"
   ],
   "subtema": "Acompanhamento Terapêutico (AT), Clínica e Território",
   "comentario": {
@@ -1641,7 +1653,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.13"
   ],
   "subtema": "Abordagem do Delírio na Clínica dos Serviços Territoriais",
   "comentario": {
@@ -1681,7 +1693,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.20"
   ],
   "subtema": "Saúde Mental Infantojuvenil no SUS e Diagnóstico Situacional",
   "comentario": {
@@ -1721,7 +1733,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.21"
   ],
   "subtema": "Saúde do Trabalhador e Síndrome de Burnout na Residência",
   "comentario": {
@@ -1761,7 +1773,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.24"
   ],
   "subtema": "Clínica Psicossocial em Álcool e Outras Drogas — Direitos e Pertencimento",
   "comentario": {
@@ -1801,7 +1813,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.27"
   ],
   "subtema": "Psicologia das Emergências e Desastres — Fase de Prevenção",
   "comentario": {
@@ -1841,7 +1853,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.24"
   ],
   "subtema": "Estratégias de Redução de Danos (RD) na Prática do Psicólogo",
   "comentario": {
@@ -1881,7 +1893,8 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-1.4",
+   "edital-13.14"
   ],
   "subtema": "Tipologia da Violência — Violência Interpessoal Intrafamiliar",
   "comentario": {
@@ -1921,7 +1934,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.23",
+   "edital-1.4"
   ],
   "subtema": "Notificação Compulsória de Violência contra Criança e Adolescente (ECA)",
   "comentario": {
@@ -1961,7 +1975,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.21"
   ],
   "subtema": "Saúde do Trabalhador e Clínica da Atividade / Ergonomia (Saber Operário)",
   "comentario": {
@@ -2005,7 +2019,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.27"
   ],
   "subtema": "Primeiros Cuidados Psicológicos em Emergências e Desastres",
   "comentario": {
@@ -2045,7 +2059,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.24"
   ],
   "subtema": "Princípios Ético-Políticos da Redução de Danos",
   "comentario": {
@@ -2085,7 +2099,8 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.1",
+   "edital-13.9"
   ],
   "subtema": "Conceito e Especificidade da Psicologia Hospitalar (Simonetti / Angerami-Camon)",
   "comentario": {
@@ -2125,7 +2140,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.16"
   ],
   "subtema": "Avaliação Psicológica e Acompanhamento em Cirurgia Bariátrica",
   "comentario": {
@@ -2165,7 +2180,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.3"
   ],
   "subtema": "Comunicação de Más Notícias e Reunião Familiar em Cuidados Paliativos",
   "comentario": {
@@ -2205,7 +2220,8 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.4",
+   "edital-1.9"
   ],
   "subtema": "Diretivas Antecipadas de Vontade (DAV) em Cuidados Paliativos",
   "comentario": {
@@ -2245,7 +2261,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.26"
   ],
   "subtema": "Urgências Subjetivas no Contexto Hospitalar (Clínica Psicanalítica no Hospital)",
   "comentario": {
@@ -2289,7 +2305,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.9"
   ],
   "subtema": "Referências Técnicas do CFP para Atuação em Serviços Hospitalares do SUS (2019)",
   "comentario": {
@@ -2329,7 +2345,8 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.2",
+   "edital-13.28"
   ],
   "subtema": "Diagnóstico do Transtorno do Espectro Autista (DSM-5) — Níveis de Suporte",
   "comentario": {
@@ -2369,7 +2386,8 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.13",
+   "edital-13.28"
   ],
   "subtema": "Transtornos da Personalidade — Personalidade Borderline",
   "comentario": {
@@ -2409,7 +2427,8 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.28",
+   "edital-13.2"
   ],
   "subtema": "Avaliação Neuropsicológica — Funções Executivas e Disfunção Executiva",
   "comentario": {
@@ -2449,7 +2468,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.28"
   ],
   "subtema": "Semiologia Psicopatológica — Alterações da Sensopercepção (Alucinação Auditiva)",
   "comentario": {
@@ -2489,7 +2508,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicanalise"
+   "edital-13.13"
   ],
   "subtema": "Conceitos Fundamentais da Psicanálise — Compulsão à Repetição",
   "comentario": {
@@ -2533,7 +2552,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicanalise"
+   "edital-13.8"
   ],
   "subtema": "Freud — Luto e Melancolia (1917)",
   "comentario": {
@@ -2573,7 +2592,8 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicanalise"
+   "edital-13.9",
+   "edital-13.5"
   ],
   "subtema": "Michael Balint — Relação Médico-Paciente ('O Médico como Remédio')",
   "comentario": {
@@ -2613,7 +2633,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicanalise"
+   "edital-13.13"
   ],
   "subtema": "Sándor Ferenczi — Elasticidade da Técnica e Tato Psicológico (Empatia)",
   "comentario": {
@@ -2657,7 +2677,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.6"
   ],
   "subtema": "Política Nacional de Educação Permanente em Saúde (Portaria nº 198/2004)",
   "comentario": {
@@ -2697,7 +2717,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.5"
   ],
   "subtema": "Equipe de Saúde da População Ribeirinha (eSFR — Portaria nº 837/2014)",
   "comentario": {
@@ -2741,7 +2761,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.12"
   ],
   "subtema": "Biossegurança e NR 32 — Classificação de Risco dos Agentes Biológicos (Classe 2)",
   "comentario": {
@@ -2781,7 +2801,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.12"
   ],
   "subtema": "NR 32 — Definição de Agentes Biológicos",
   "comentario": {
@@ -2825,7 +2845,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.10"
   ],
   "subtema": "Programa Nacional de Segurança do Paciente (PNSP) — Identificação do Paciente",
   "comentario": {
@@ -2865,7 +2885,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicanalise"
+   "edital-13.13"
   ],
   "subtema": "Depressão na Adolescência e Problemática dos Vínculos / Apego",
   "comentario": {
@@ -2909,7 +2929,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.28",
+   "edital-13.2"
   ],
   "subtema": "Deficiência Intelectual (DSM-5) / Transtorno do Desenvolvimento Intelectual (CID-11)",
   "comentario": {
@@ -2953,7 +2974,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicanalise"
+   "edital-13.30"
   ],
   "subtema": "Psicanálise e Gestação — Ansiedades da Parturiente (Raquel Soifer)",
   "comentario": {
@@ -2993,7 +3014,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.16",
+   "edital-13.2"
   ],
   "subtema": "Anamnese na Avaliação Neuropsicológica",
   "comentario": {
@@ -3033,7 +3055,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.13"
   ],
   "subtema": "Clínica Psicanalítica no Transtorno do Espectro Autista (TEA)",
   "comentario": {
@@ -3073,7 +3095,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.13"
   ],
   "subtema": "Intervenção Comportamental no TEA — Análise do Comportamento Aplicada (ABA)",
   "comentario": {
@@ -3113,7 +3135,8 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-1.4",
+   "edital-13.29"
   ],
   "subtema": "Cuidado Integral à Pessoa Idosa com Dor Crônica (Fibromialgia) e Depressão",
   "comentario": {
@@ -3153,7 +3176,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.21"
   ],
   "subtema": "Saúde do Trabalhador e Transtorno de Estresse Pós-Traumático (TEPT)",
   "comentario": {
@@ -3193,7 +3216,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.21"
   ],
   "subtema": "Formação do Psicólogo em Saúde do Trabalhador (CFP/CREPOP, 2008)",
   "comentario": {
@@ -3233,7 +3256,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.21"
   ],
   "subtema": "Sociologia Clínica do Trabalho — Ideologia Gerencialista (Vincent de Gaulejac)",
   "comentario": {
@@ -3277,7 +3300,8 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.5",
+   "edital-13.13"
   ],
   "subtema": "Acolhimento e Vínculo no CAPS com Usuário e Família",
   "comentario": {
@@ -3317,7 +3341,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp"
+   "edital-1.9"
   ],
   "subtema": "Comitês de Ética Hospitalar e Bioética Principialista (Beauchamp & Childress)",
   "comentario": {
@@ -3357,7 +3381,8 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.14",
+   "edital-13.13"
   ],
   "subtema": "Dinâmica Familiar nos Transtornos Mentais — Codependência",
   "comentario": {
@@ -3397,7 +3422,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicanalise"
+   "edital-13.30"
   ],
   "subtema": "Psicanálise e Parentalidade — Transmissão Psíquica e Fantasias Infantis",
   "comentario": {
@@ -3437,7 +3462,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.13",
+   "edital-13.28"
   ],
   "subtema": "Classificação Internacional de Doenças (CID-10) — Transtornos Somatoformes",
   "comentario": {
@@ -3481,7 +3507,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.9"
   ],
   "subtema": "Psicologia Hospitalar — Paciente Crônico e Ganho Secundário na Hospitalização",
   "comentario": {
@@ -3521,7 +3547,8 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.13",
+   "edital-13.9"
   ],
   "subtema": "Conceito de Resiliência em Boris Cyrulnik ('Os Patinhos Feios')",
   "comentario": {
@@ -3561,7 +3588,8 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.10",
+   "edital-1.5"
   ],
   "subtema": "Violência nos Territórios e Impactos sobre os Serviços do SUS",
   "comentario": {
@@ -3601,7 +3629,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.1"
   ],
   "subtema": "Inserção do Psicanalista nas Equipes de Saúde Hospitalares",
   "comentario": {
@@ -3641,7 +3669,8 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.9",
+   "edital-13.1"
   ],
   "subtema": "Psicanálise e Medicina no Hospital (Lugar de Extraterritorialidade — Clavreul / Moretto)",
   "comentario": {
@@ -3681,7 +3710,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.2"
   ],
   "subtema": "Especificidades da Avaliação Psicológica no Contexto Hospitalar",
   "comentario": {
@@ -3721,7 +3750,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.2"
   ],
   "subtema": "Diferença entre Sintoma e Sofrimento na Avaliação Hospitalar",
   "comentario": {
@@ -3761,7 +3790,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicanalise"
+   "edital-13.8"
   ],
   "subtema": "Luto Antecipatório, Escrita e Testemunho na Clínica Psicanalítica",
   "comentario": {
@@ -3805,7 +3834,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.1"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -3844,7 +3873,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.1"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -3887,7 +3916,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.1"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -3930,7 +3959,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.2"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -3969,7 +3998,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.2"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4008,7 +4037,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.2"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4047,7 +4076,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.2"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4086,7 +4115,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.3"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4125,7 +4154,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.8"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4164,7 +4193,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.8"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4203,7 +4232,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.8"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4242,7 +4271,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.5"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4281,7 +4310,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.5"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4320,7 +4349,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.6"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4359,7 +4388,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.7"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4398,7 +4427,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.4"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4437,7 +4466,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.2",
+   "edital-13.10"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4476,7 +4506,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.10"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4515,7 +4545,8 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.2",
+   "edital-1.5"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4554,7 +4585,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes"
+   "edital-1.9"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4593,7 +4624,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.20"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4632,7 +4663,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.7"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4675,7 +4706,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp"
+   "edital-13.25"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4718,7 +4749,8 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.9",
+   "edital-13.1"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4761,7 +4793,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-1.3"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4804,7 +4836,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.8"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4843,7 +4875,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.13"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4886,7 +4918,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.2",
+   "edital-13.18"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4925,7 +4958,8 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.2",
+   "edital-13.1"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -4964,7 +4998,8 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-1.9",
+   "edital-13.6"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5007,7 +5042,8 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.13",
+   "edital-1.11"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5046,7 +5082,8 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.13",
+   "edital-13.17"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "pegadinha": {
@@ -5089,7 +5126,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.28"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "pegadinha": {
@@ -5132,7 +5169,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia"
+   "edital-13.29"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5171,7 +5208,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicanalise"
+   "edital-13.8"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "pegadinha": {
@@ -5214,7 +5251,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.4"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5253,7 +5290,7 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.4"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5292,7 +5329,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar"
+   "edital-13.9"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5331,7 +5368,8 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp"
+   "edital-13.1",
+   "edital-13.7"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5370,7 +5408,8 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "aps-pnh"
+   "edital-1.6",
+   "edital-1.11"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "pegadinha": {
@@ -5413,8 +5452,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps",
-   "aps-pnh"
+   "edital-13.1",
+   "edital-13.5"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5453,7 +5492,8 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp"
+   "edital-13.23",
+   "edital-13.6"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5492,8 +5532,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp",
-   "aps-pnh"
+   "edital-1.4"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5532,8 +5571,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "psicopato-neuro",
-   "etica-cfp"
+   "edital-13.14",
+   "edital-13.11"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5572,8 +5611,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps",
-   "psicopato-neuro"
+   "edital-13.28"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5612,8 +5650,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "sus-redes",
-   "aps-pnh"
+   "edital-1.4"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5652,8 +5689,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "ad-violencia",
-   "aps-pnh"
+   "edital-1.4"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5692,8 +5728,8 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp",
-   "ad-violencia"
+   "edital-1.4",
+   "edital-13.1"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "pegadinha": {
@@ -5736,8 +5772,7 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar",
-   "aps-pnh"
+   "edital-13.3"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5776,8 +5811,8 @@
   "gabarito": "D",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps",
-   "psicopato-neuro"
+   "edital-13.14",
+   "edital-13.18"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "pegadinha": {
@@ -5820,7 +5855,7 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.13"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "pegadinha": {
@@ -5863,8 +5898,8 @@
   "gabarito": "C",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps",
-   "hospitalar"
+   "edital-13.11",
+   "edital-13.13"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5903,7 +5938,7 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "raps-caps"
+   "edital-13.20"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -5942,8 +5977,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar",
-   "aps-pnh"
+   "edital-13.1",
+   "edital-1.11"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "pegadinha": {
@@ -5986,8 +6021,8 @@
   "gabarito": "E",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp",
-   "hospitalar"
+   "edital-13.25",
+   "edital-13.12"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -6026,8 +6061,8 @@
   "gabarito": "B",
   "gabarito_status": "definitivo",
   "topicos": [
-   "etica-cfp",
-   "psicopato-neuro"
+   "edital-13.16",
+   "edital-13.2"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "pegadinha": {
@@ -6070,8 +6105,7 @@
   "gabarito": "A",
   "gabarito_status": "definitivo",
   "topicos": [
-   "hospitalar",
-   "sus-redes"
+   "edital-1.8"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
   "comentario": {
@@ -6110,7 +6144,7 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.8"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6149,7 +6183,7 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.10"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6188,7 +6222,7 @@
   "gabarito": "A",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.8"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "pegadinha": {
@@ -6231,7 +6265,8 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.3",
+   "edital-1.2"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6270,7 +6305,7 @@
   "gabarito": "A",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.1"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6309,7 +6344,7 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.2"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6348,7 +6383,8 @@
   "gabarito": "E",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.3",
+   "edital-1.5"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6387,7 +6423,7 @@
   "gabarito": "E",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.2"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6426,7 +6462,7 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.10"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6465,7 +6501,8 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.3",
+   "edital-1.2"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6504,7 +6541,7 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.8"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6543,7 +6580,7 @@
   "gabarito": "A",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.9"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6582,7 +6619,7 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.8"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6621,7 +6658,7 @@
   "gabarito": "E",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.11"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6660,7 +6697,7 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.8"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6699,7 +6736,8 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.5",
+   "edital-1.2"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6738,7 +6776,8 @@
   "gabarito": "A",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.2",
+   "edital-13.10"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6777,7 +6816,7 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.7"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6816,7 +6855,7 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "aps-pnh"
+   "edital-13.3"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6855,7 +6894,8 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "aps-pnh"
+   "edital-1.2",
+   "edital-1.6"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6894,7 +6934,8 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "etica-cfp"
+   "edital-13.23",
+   "edital-13.6"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6933,8 +6974,8 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "aps-pnh",
-   "hospitalar"
+   "edital-1.7",
+   "edital-1.11"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -6973,8 +7014,7 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps",
-   "psicopato-neuro"
+   "edital-13.13"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7013,7 +7053,7 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.2"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7052,7 +7092,7 @@
   "gabarito": "E",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps"
+   "edital-13.19"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "pegadinha": {
@@ -7095,7 +7135,8 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "etica-cfp"
+   "edital-13.16",
+   "edital-13.2"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "pegadinha": {
@@ -7138,7 +7179,8 @@
   "gabarito": "E",
   "gabarito_status": "provisorio",
   "topicos": [
-   "hospitalar"
+   "edital-13.1",
+   "edital-13.9"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7177,8 +7219,7 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps",
-   "ad-violencia"
+   "edital-13.24"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7217,8 +7258,8 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps",
-   "ad-violencia"
+   "edital-13.13",
+   "edital-13.19"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7257,8 +7298,7 @@
   "gabarito": "E",
   "gabarito_status": "provisorio",
   "topicos": [
-   "psicanalise",
-   "hospitalar"
+   "edital-13.8"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7297,7 +7337,8 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "aps-pnh"
+   "edital-13.31",
+   "edital-1.11"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7336,7 +7377,7 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "ad-violencia"
+   "edital-1.4"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7375,8 +7416,7 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "psicopato-neuro",
-   "hospitalar"
+   "edital-13.26"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7415,7 +7455,8 @@
   "gabarito": "A",
   "gabarito_status": "provisorio",
   "topicos": [
-   "etica-cfp"
+   "edital-13.23",
+   "edital-13.6"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7454,7 +7495,7 @@
   "gabarito": "E",
   "gabarito_status": "provisorio",
   "topicos": [
-   "etica-cfp"
+   "edital-13.23"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7493,7 +7534,8 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "aps-pnh"
+   "edital-1.2",
+   "edital-1.5"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7532,7 +7574,7 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps"
+   "edital-13.20"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7571,7 +7613,8 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps"
+   "edital-1.3",
+   "edital-13.13"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7610,7 +7653,7 @@
   "gabarito": "A",
   "gabarito_status": "provisorio",
   "topicos": [
-   "psicanalise"
+   "edital-13.11"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7649,7 +7692,7 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.28"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7688,7 +7731,7 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.15"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7727,8 +7770,7 @@
   "gabarito": "A",
   "gabarito_status": "provisorio",
   "topicos": [
-   "psicanalise",
-   "psicopato-neuro"
+   "edital-13.29"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7767,7 +7809,7 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps"
+   "edital-13.20"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7806,8 +7848,8 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "psicanalise",
-   "raps-caps"
+   "edital-13.13",
+   "edital-13.19"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "pegadinha": {
@@ -7850,7 +7892,7 @@
   "gabarito": "E",
   "gabarito_status": "provisorio",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.13"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7889,7 +7931,7 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps"
+   "edital-1.11"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7928,7 +7970,7 @@
   "gabarito": "D",
   "gabarito_status": "provisorio",
   "topicos": [
-   "psicanalise"
+   "edital-13.13"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -7967,7 +8009,8 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps"
+   "edital-13.13",
+   "edital-13.20"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "pegadinha": {
@@ -8010,8 +8053,7 @@
   "gabarito": "E",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps",
-   "ad-violencia"
+   "edital-13.24"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -8050,7 +8092,8 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps"
+   "edital-13.24",
+   "edital-13.20"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "pegadinha": {
@@ -8093,7 +8136,7 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "ad-violencia"
+   "edital-13.24"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "pegadinha": {
@@ -8136,7 +8179,8 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "etica-cfp"
+   "edital-13.25",
+   "edital-13.12"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "pegadinha": {
@@ -8179,7 +8223,7 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps"
+   "edital-13.14"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -8218,7 +8262,8 @@
   "gabarito": "E",
   "gabarito_status": "provisorio",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.13",
+   "edital-13.28"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "pegadinha": {
@@ -8261,7 +8306,7 @@
   "gabarito": "A",
   "gabarito_status": "provisorio",
   "topicos": [
-   "psicopato-neuro"
+   "edital-13.13"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -8300,8 +8345,7 @@
   "gabarito": "A",
   "gabarito_status": "provisorio",
   "topicos": [
-   "etica-cfp",
-   "raps-caps"
+   "edital-13.29"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -8340,7 +8384,8 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "raps-caps"
+   "edital-13.29",
+   "edital-13.27"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -8379,7 +8424,8 @@
   "gabarito": "C",
   "gabarito_status": "provisorio",
   "topicos": [
-   "hospitalar"
+   "edital-13.2",
+   "edital-13.9"
   ],
   "fonte_url": "https://arquivos.qconcursos.com/prova/arquivo_prova/146535/instituto-aocp-2023-ebserh-residencia-multiprofisisonal-e-em-area-profissional-da-saude-psicologia-prova.pdf",
   "comentario": {
@@ -8418,7 +8464,7 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.8"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2023-2024/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
   "figura": "figuras/enare-2023-psicologia-t01-002.png",
@@ -8462,7 +8508,8 @@
   "gabarito": "B",
   "gabarito_status": "provisorio",
   "topicos": [
-   "sus-redes"
+   "edital-1.2",
+   "edital-1.3"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2023-2024/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
   "figura": "figuras/enare-2023-psicologia-t01-006.png",

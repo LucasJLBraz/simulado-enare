@@ -1,50 +1,260 @@
 [
  {
-  "id": "sus-redes",
-  "nome": "Legislação do SUS, Redes de Atenção (RAS) e Vigilância",
-  "parte": "gerais",
-  "provisorio": true
+  "id": "edital-1.1",
+  "item": "1.1",
+  "nome": "História das políticas de saúde no Brasil e a Reforma sanitária brasileira",
+  "parte": "gerais"
  },
  {
-  "id": "aps-pnh",
-  "nome": "Atenção Primária (PNAB), eMulti/NASF, PNH, Biossegurança e Segurança do Paciente",
-  "parte": "especificos",
-  "provisorio": true
+  "id": "edital-1.2",
+  "item": "1.2",
+  "nome": "Sistema Único de Saúde (SUS): Princípios, diretrizes legislações estruturantes (Lei nº 8.080/1990, Lei nº 8.142/1990 e Decreto nº 7.508/2011); organização e funcionamento; controle social",
+  "parte": "gerais"
  },
  {
-  "id": "etica-cfp",
-  "nome": "Ética Profissional, Resolução CFP nº 06/2019, SATEPSI e Bioética",
-  "parte": "especificos",
-  "provisorio": true
+  "id": "edital-1.3",
+  "item": "1.3",
+  "nome": "Redes de Atenção à Saúde",
+  "parte": "gerais"
  },
  {
-  "id": "raps-caps",
-  "nome": "Reforma Psiquiátrica, RAPS, CAPS, PTS, Clínica Ampliada e Matriciamento",
-  "parte": "especificos",
-  "provisorio": true
+  "id": "edital-1.4",
+  "item": "1.4",
+  "nome": "Inclusão de grupos vulnerabilizados na saúde: crianças e adolescentes; idosos; LGBTQIA+; pessoas com deficiências; pessoas em situação de rua; povos originários; população negra; comunidades quilombolas e demais minorias sociais",
+  "parte": "gerais"
  },
  {
-  "id": "ad-violencia",
-  "nome": "Álcool e Drogas (Redução de Danos), Violência, Desastres e Saúde do Trabalhador",
-  "parte": "especificos",
-  "provisorio": true
+  "id": "edital-1.5",
+  "item": "1.5",
+  "nome": "Estratégia Saúde da Família e Política Nacional de Atenção Básica",
+  "parte": "gerais"
  },
  {
-  "id": "hospitalar",
-  "nome": "Psicologia Hospitalar, Cuidados Paliativos e Atuação em Saúde",
-  "parte": "especificos",
-  "provisorio": true
+  "id": "edital-1.6",
+  "item": "1.6",
+  "nome": "Política Nacional de Educação Permanente em Saúde (Portaria GM/ MS nº 198/2004 e suas alterações e atualizações)",
+  "parte": "gerais"
  },
  {
-  "id": "psicopato-neuro",
-  "nome": "Psicopatologia, Avaliação Neuropsicológica e TEA/Desenvolvimento",
-  "parte": "especificos",
-  "provisorio": true
+  "id": "edital-1.7",
+  "item": "1.7",
+  "nome": "Política Nacional de Humanização",
+  "parte": "gerais"
  },
  {
-  "id": "psicanalise",
-  "nome": "Teoria e Clínica Psicanalítica (Freud, Ferenczi, Balint, Parentalidade e Luto)",
-  "parte": "especificos",
-  "provisorio": true
+  "id": "edital-1.8",
+  "item": "1.8",
+  "nome": "Política Nacional de Vigilância em Saúde",
+  "parte": "gerais"
+ },
+ {
+  "id": "edital-1.9",
+  "item": "1.9",
+  "nome": "Bioética",
+  "parte": "gerais"
+ },
+ {
+  "id": "edital-1.10",
+  "item": "1.10",
+  "nome": "Programa Nacional de Segurança do Paciente",
+  "parte": "gerais"
+ },
+ {
+  "id": "edital-1.11",
+  "item": "1.11",
+  "nome": "Trabalho em equipe multidisciplinar",
+  "parte": "gerais"
+ },
+ {
+  "id": "edital-1.12",
+  "item": "1.12",
+  "nome": "NR 32 - Segurança e Saúde no Trabalho em Serviços de Saúde (PORTARIA Nº 485, de 11 de novembro de 2005",
+  "parte": "gerais"
+ },
+ {
+  "id": "edital-13.1",
+  "item": "13.1",
+  "nome": "Atuação do psicólogo e suas especialidades. Atuação em equipe multiprofissional",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.2",
+  "item": "13.2",
+  "nome": "Avaliação psicológica no contexto ambulatorial, hospitalar e domiciliar",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.3",
+  "item": "13.3",
+  "nome": "Comunicação",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.4",
+  "item": "13.4",
+  "nome": "Cuidados paliativos",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.5",
+  "item": "13.5",
+  "nome": "Escuta clínica",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.6",
+  "item": "13.6",
+  "nome": "Ética profissional do psicólogo",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.7",
+  "item": "13.7",
+  "nome": "Formação do psicólogo no contexto e práticas da saúde. Inserção e atuação do psicólogo no SUS",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.8",
+  "item": "13.8",
+  "nome": "Luto e perdas",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.9",
+  "item": "13.9",
+  "nome": "Psicologia clínico-hospitalar",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.10",
+  "item": "13.10",
+  "nome": "Psicólogo e o campo das Políticas Públicas de Saúde",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.11",
+  "item": "13.11",
+  "nome": "Psicoterapia: individual e em grupo",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.12",
+  "item": "13.12",
+  "nome": "Registros técnicos",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.13",
+  "item": "13.13",
+  "nome": "Saúde mental e atenção psicossocial. Teorias e técnicas psicoterápicas",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.14",
+  "item": "13.14",
+  "nome": "Trabalho do psicólogo junto à família",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.15",
+  "item": "13.15",
+  "nome": "Entrevista clínica psicológica na saúde",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.16",
+  "item": "13.16",
+  "nome": "Avaliação psicológica para procedimentos em saúde",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.17",
+  "item": "13.17",
+  "nome": "Psicologia nas redes de atenção à saúde e linha de cuidado",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.18",
+  "item": "13.18",
+  "nome": "Psicologia na saúde da família",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.19",
+  "item": "13.19",
+  "nome": "Serviços de saúde e paradigmas da saúde mental",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.20",
+  "item": "13.20",
+  "nome": "Reforma Psiquiátrica e a política nacional de saúde mental",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.21",
+  "item": "13.21",
+  "nome": "Psicologia e a Política Nacional de Saúde do Trabalhador e da Trabalhadora - saúde mental no trabalho em saúde, esgotamento profissional, matriciamento, notificação compulsória",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.22",
+  "item": "13.22",
+  "nome": "Psicologia e atuação na educação permanente em saúde",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.23",
+  "item": "13.23",
+  "nome": "Código de Ética Profissional do Psicólogo",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.24",
+  "item": "13.24",
+  "nome": "Atenção Integral a usuários de álcool e outras drogas",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.25",
+  "item": "13.25",
+  "nome": "Resolução CFP nº 1, de 30/03/2009 e Resolução CFP Nº 6, de 29 de março de 2019",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.26",
+  "item": "13.26",
+  "nome": "Urgência Subjetiva",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.27",
+  "item": "13.27",
+  "nome": "Intervenção psicológica em Emergências",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.28",
+  "item": "13.28",
+  "nome": "Exame Psíquico: funções psíquicas e suas alterações",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.29",
+  "item": "13.29",
+  "nome": "Suicídio: fatores de risco e intervenções. Teorias psicológicas da vida adulta e envelhecimento",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.30",
+  "item": "13.30",
+  "nome": "Aspectos emocionais da gravidez, parto e puerpério",
+  "parte": "especificos"
+ },
+ {
+  "id": "edital-13.31",
+  "item": "13.31",
+  "nome": "Habilidades e Atitudes constantes nas Diretrizes Curriculares Nacionais - DCN do curso de graduação em Psicologia que são passiveis de avaliação em prova teórica: Atenção à saúde Comunicação, Liderança, Tomada de decisões",
+  "parte": "especificos"
  }
 ]
