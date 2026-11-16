@@ -2,6 +2,7 @@ import { h, frag } from '../dom.js';
 import { ctx } from '../ctx.js';
 import { montar, edicoes, provaReal, MIN_POR_QUESTAO } from '../../logica/simulado.js';
 import { iniciar } from '../sessao.js';
+import { confirmarNova } from './comum.js';
 
 export function simuladoSetup() {
   const e = ctx.estado;
@@ -44,6 +45,7 @@ export function simuladoSetup() {
       h('p', { class: 'suave' }, `Dá cerca de ${+(total / 60 / (n() || 1)).toFixed(1)} minutos por questão.`),
       h('button', { class: 'btn prim', disabled: !n(), onclick: () => {
         const qs = lista();
+        if (!confirm(`São ${qs.length} questões e ${Math.round(total / 60)} minutos${s.modo === 'prova' ? ', sem pausa' : ''}. Começar?`) || !confirmarNova()) return;
         iniciar({ tipo: 'simulado', titulo: s.tipo === 'real' ? `Prova real ENARE ${s.edicao}` : 'Simulado montado',
           fila: qs.map((q) => q.id), modo: s.modo, feedback: 'fim', totalSeg: total, porQuestaoSeg: Math.round((total / qs.length)) });
         ctx.ir('#/questao');

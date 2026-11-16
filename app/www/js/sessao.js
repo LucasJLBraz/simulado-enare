@@ -37,6 +37,10 @@ export function registrarResposta(s, q, resp, conf) {
   const certo = resp === q.gabarito;
   s.respostas[q.id] = { resp, conf, seg, certo };
   const e = ctx.estado;
+  if (s.tipo === 'revisao') {
+    if (e.revisaoHoje?.data !== hojeISO()) e.revisaoHoje = { data: hojeISO(), feitas: 0 };
+    e.revisaoHoje.feitas++;
+  }
   const p = (e.progresso[q.id] ||= { respostas: [] });
   const hoje = hojeISO();
   p.respostas.push({ quando: hoje, resp, certo, conf, seg });

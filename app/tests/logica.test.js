@@ -47,7 +47,7 @@ test('domínio, estado e prioridade', () => {
   assert.equal(dominio([]), 0.5);
   // certeza+acerto=1, dúvida+acerto=0,5, chutei+acerto=0, erro=0 -> (1,5+1)/(4+2)
   assert.ok(Math.abs(dominio([r(true, 'certeza'), r(true, 'duvida'), r(true, 'chutei'), r(false, 'certeza')]) - 2.5 / 6) < 1e-12);
-  assert.equal(estado(0.9, 4), 'quase_la'); // n < 5 nunca domina nem é base fraca
+  assert.equal(estado(0.9, 4), 'sem_dados'); // n < 5 nunca domina nem é base fraca
   assert.equal(estado(0.8, 5), 'domina');
   assert.equal(estado(0.39, 5), 'base_fraca');
   assert.equal(estado(0.5, 50), 'quase_la');

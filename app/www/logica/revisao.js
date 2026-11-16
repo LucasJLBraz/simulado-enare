@@ -21,11 +21,12 @@ export function atualizarCaderno(entrada, { certo, conf }, hoje, diasAteProva) {
   return { proxima: somaDias(hoje, dias), destaque: !certo && conf === 'certeza' };
 }
 
-// Revisão do dia: ids no caderno com data de revisão hoje ou antes (mais atrasadas primeiro).
+// Revisão do dia: ids no caderno com data de revisão hoje ou antes.
+// Erros com certeza primeiro, depois os mais atrasados.
 export function revisaoDoDia(progresso, hoje) {
   return Object.entries(progresso)
     .filter(([, p]) => p.caderno && p.caderno.proxima <= hoje)
-    .sort((a, b) => a[1].caderno.proxima.localeCompare(b[1].caderno.proxima))
+    .sort((a, b) => (b[1].caderno.destaque ? 1 : 0) - (a[1].caderno.destaque ? 1 : 0) || a[1].caderno.proxima.localeCompare(b[1].caderno.proxima))
     .map(([id]) => id);
 }
 
@@ -65,4 +66,24 @@ export function resumoCaderno(progresso) {
 export function fraseCaderno({ n, proxima }, hoje) {
   if (!n) return null;
   return `No caderno: ${n} ${n === 1 ? 'questão' : 'questões'}. Próxima revisão: ${proxima <= hoje ? 'hoje' : dataCurta(proxima)}.`;
+}
+
+// Meta do dia: quantas já foram revisadas hoje de quantas venciam. rev: estado.revisaoHoje.
+export function metaHoje(rev, vencidas, hoje) {
+  const feitas = rev?.data === hoje ? rev.feitas : 0;
+  return { feitas, total: feitas + vencidas };
+}
+
+// O que muda amanhã depois da revisão. ids: questões da sessão; progresso já atualizado.
+export function fraseAmanha(progresso, ids, hoje) {
+  const amanha = somaDias(hoje, 1);
+  const voltam = ids.filter((id) => progresso[id]?.caderno).map((id) => progresso[id].caderno.proxima).sort();
+  const saem = ids.filter((id) => progresso[id] && !progresso[id].caderno).length;
+  const nAmanha = Object.values(progresso).filter((p) => p.caderno && p.caderno.proxima <= amanha).length;
+  const s = (n, um, varios) => `${n} ${n === 1 ? um : varios}`;
+  return [
+    saem && `${s(saem, 'questão saiu', 'questões saíram')} do caderno (acerto com certeza).`,
+    voltam.length && `${s(voltam.length, 'questão volta', 'questões voltam')} para revisão, a primeira ${voltam[0] <= amanha ? 'amanhã' : `em ${dataCurta(voltam[0])}`}.`,
+    nAmanha ? `Amanhã: ${s(nAmanha, 'questão', 'questões')} para revisar.` : 'Amanhã: nenhuma questão para revisar.',
+  ].filter(Boolean);
 }

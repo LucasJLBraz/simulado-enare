@@ -9,6 +9,7 @@ export const vazio = () => ({
   contestacoes: {}, // id -> { versao }
   confirmacoes: {}, // id -> { versao }
   historico: [], // sessões terminadas
+  revisaoHoje: { data: null, feitas: 0 }, // revisões do dia já respondidas hoje (meta "Hoje: X de N")
   sessao: null, // sessão em andamento ou pausada
 });
 

@@ -3,7 +3,7 @@ import { ctx } from '../ctx.js';
 import { sortear } from '../../logica/sorteio.js';
 import { iniciar } from '../sessao.js';
 import { diagnostico } from '../../logica/dominio.js';
-import { curto } from './comum.js';
+import { curto, confirmarNova } from './comum.js';
 
 export function miniSetup({ params }) {
   const e = ctx.estado;
@@ -44,6 +44,7 @@ export function miniSetup({ params }) {
       c.apostila && h('p', { class: 'suave' }, 'Questões de apostila aparecem sempre com um selo e não são do ENARE.'),
       p.length === 0 && h('p', { class: 'badge erro' }, 'Nenhuma questão para esta escolha.'),
       h('button', { class: 'btn prim', disabled: p.length === 0, onclick: () => {
+        if (!confirmarNova()) return;
         ctx.salvar();
         const fila = sortear(p, vistos, n).map((q) => q.id);
         const nome = c.topico === 'misturado' ? 'Misturado' : curto(ctx.topicos.find((t) => t.id === c.topico));

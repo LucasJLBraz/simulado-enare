@@ -16,6 +16,14 @@ export function questao() {
 
   const terminar = () => { const id = finalizar(s); ctx.ir(`#/resultado/${id}`); };
 
+  // Revisão do dia encerrada no meio volta ao Início sem tela de nota; as que faltam seguem vencidas.
+  const encerrar = () => {
+    if (s.tipo !== 'revisao') { if (confirm('Encerrar agora? As questões não respondidas ficam em branco.')) terminar(); return; }
+    if (!confirm('Encerrar a revisão? As questões que faltam continuam vencidas hoje.')) return;
+    if (Object.keys(s.respostas).length) finalizar(s); else { ctx.estado.sessao = null; ctx.salvar(); }
+    ctx.ir('#/');
+  };
+
   const avisar = (texto) => {
     const el = document.getElementById('aviso');
     el.textContent = texto; el.hidden = false;
@@ -40,7 +48,9 @@ export function questao() {
   const id2 = setInterval(() => ctx.salvar(), 5000);
   ctx.limpeza = () => {
     clearInterval(id1); clearInterval(id2);
-    if (ctx.estado.sessao) { ctx.estado.sessao.tickEm = Date.now(); ctx.salvar(); }
+    const sessao = ctx.estado.sessao;
+    if (sessao && sessao.modo !== 'prova') pausar(sessao); // sair da tela pausa (menos no modo prova)
+    else if (sessao) { sessao.tickEm = Date.now(); ctx.salvar(); }
   };
   const onHide = () => { if (document.hidden && ctx.estado.sessao) { ctx.estado.sessao.tickEm = Date.now(); ctx.salvar(); } };
   document.addEventListener('visibilitychange', onHide);
@@ -62,7 +72,8 @@ export function questao() {
     const oculto = ctx.estado.config.ocultarRelogio;
     const topo = h('div', { class: 'topo-questao' },
       h('div', { class: 'linha cabecalho' },
-        h('strong', {}, `Questão ${Math.min(feitas + (feedback ? 0 : 1), s.fila.length)} de ${s.fila.length}`),
+        h('strong', {}, s.tipo === 'simulado' ? `Respondidas ${feitas} de ${s.fila.length}`
+          : `Questão ${Math.min(feitas + (feedback ? 0 : 1), s.fila.length)} de ${s.fila.length}`),
         h('div', { class: 'barra' }, h('div', { style: `width:${(feitas / s.fila.length) * 100}%` })),
         comRelogio && !oculto && relogio,
         comRelogio && h('button', { class: 'btn pequeno discreto', 'aria-label': oculto ? 'Mostrar o relógio' : 'Esconder o relógio',
@@ -81,8 +92,8 @@ export function questao() {
           h('span', { class: 'letra' }, LETRAS[i]), h('span', {}, a)))),
         h('div', { class: 'linha' },
           h('button', { class: 'btn', onclick: () => { pular(s, id); proxima(); } }, 'Pular (volta no fim)'),
-          s.modo === 'treino' && h('button', { class: 'btn', onclick: () => { pausar(s); ctx.ir('#/'); } }, 'Pausar'),
-          h('button', { class: 'btn perigo', onclick: () => { if (confirm('Encerrar agora? As questões não respondidas ficam em branco.')) terminar(); } }, 'Encerrar')),
+          s.modo !== 'prova' && h('button', { class: 'btn', onclick: () => { pausar(s); ctx.ir('#/'); } }, 'Pausar'),
+          h('button', { class: 'btn perigo', onclick: encerrar }, 'Encerrar')),
         h('div', { class: 'rodape' },
           h('div', { class: 'escolha' }, Object.entries(ROTULO_CONF).map(([v, r]) =>
             h('button', { class: conf === v ? 'sel' : '', 'aria-pressed': conf === v, onclick: () => { conf = v; mostrar(); } }, r))),

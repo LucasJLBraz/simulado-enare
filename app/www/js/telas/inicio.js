@@ -1,27 +1,31 @@
-import { h, fmtSeg } from '../dom.js';
+import { h } from '../dom.js';
 import { ctx } from '../ctx.js';
-import { revisaoDoDia, minutosEstimados, resumoCaderno, fraseCaderno, hojeISO, diasEntre } from '../../logica/revisao.js';
+import { minutosEstimados, resumoCaderno, fraseCaderno, metaHoje, hojeISO, diasEntre } from '../../logica/revisao.js';
 import { diagnostico } from '../../logica/dominio.js';
+import { fraseProgresso } from '../../logica/progresso.js';
 import { iniciar, retomar } from '../sessao.js';
-import { curto } from './comum.js';
+import { curto, vencidasHoje, confirmarNova } from './comum.js';
 
 export function inicio() {
   const e = ctx.estado;
   const hoje = hojeISO();
-  const visivel = ([id]) => ctx.porId.has(id) && (e.config.mini.apostila || ctx.porId.get(id).origem.tipo === 'oficial');
-  const prog = Object.fromEntries(Object.entries(e.progresso).filter(visivel));
-  const ids = revisaoDoDia(prog, hoje);
+  const { prog, ids } = vencidasHoje(hoje);
   const caderno = fraseCaderno(resumoCaderno(prog), hoje);
-  const min = minutosEstimados(ids, e.progresso);
+  const meta = metaHoje(e.revisaoHoje, ids.length, hoje);
   const diag = diagnostico(ctx.questoes, ctx.topicos, e.progresso);
   const foco = diag[0];
   const dias = e.config.dataProva ? diasEntre(hoje, e.config.dataProva) : null;
   const s = e.sessao;
 
-  const comecarRevisao = () => {
-    iniciar({ tipo: 'revisao', titulo: 'Revisão do dia', fila: ids, feedback: 'cada', porQuestaoSeg: 180 });
+  const comecarRevisao = (n) => {
+    if (!confirmarNova()) return;
+    iniciar({ tipo: 'revisao', titulo: 'Revisão do dia', fila: ids.slice(0, n), feedback: 'cada', porQuestaoSeg: 180 });
     ctx.ir('#/questao');
   };
+  // 10, 25 ou todas; erros com certeza vêm primeiro (ordem de revisaoDoDia).
+  const tamanhos = [10, 25].filter((n) => n < ids.length).concat(ids.length);
+  const botao = (n, k) => h('button', { class: 'btn' + (k === 0 ? ' prim' : ''), onclick: () => comecarRevisao(n) },
+    tamanhos.length === 1 ? 'Começar revisão' : `Revisar ${n === ids.length ? `todas (${n})` : n}, cerca de ${minutosEstimados(ids.slice(0, n), e.progresso)} min`);
 
   return h('div', {},
     h('h1', {}, 'Olá, bons estudos'),
@@ -33,12 +37,13 @@ export function inicio() {
       h('button', { class: 'btn perigo', onclick: () => { if (confirm('Descartar esta sessão? As respostas já dadas continuam salvas.')) { e.sessao = null; ctx.salvar(); ctx.ir('#/'); } } }, 'Descartar sessão')),
     h('section', { class: 'card destaque' },
       h('h2', {}, 'Revisão do dia'),
+      meta.total > 0 && [h('p', {}, `Hoje: ${meta.feitas} de ${meta.total}`),
+        h('div', { class: 'barra' }, h('div', { style: `width:${(meta.feitas / meta.total) * 100}%` }))],
       ids.length
-        ? [h('div', { class: 'grande' }, `${ids.length} ${ids.length === 1 ? 'questão' : 'questões'}`),
-          h('p', { class: 'suave' }, `Cerca de ${min} minutos.`),
+        ? [h('div', { class: 'grande' }, `${ids.length} ${ids.length === 1 ? 'questão' : 'questões'} para revisar`),
           caderno && h('p', { class: 'suave' }, caderno),
-          h('button', { class: 'btn prim', onclick: comecarRevisao }, 'Começar revisão')]
-        : [h('p', {}, caderno ? 'Nada para revisar hoje.' : 'Nada para revisar hoje. Resolva um mini-simulado para alimentar o caderno de erros.'),
+          tamanhos.map((n, k) => botao(n, k))]
+        : [h('p', {}, meta.feitas ? 'Revisão do dia feita.' : caderno ? 'Nada para revisar hoje.' : 'Nada para revisar hoje. Resolva um mini-simulado para alimentar o caderno de erros.'),
           caderno && h('p', { class: 'suave' }, caderno)]),
     h('section', { class: 'card' },
       h('h2', {}, 'Mini-simulado'),
@@ -51,6 +56,10 @@ export function inicio() {
       h('h2', {}, 'Simulado completo'),
       h('p', { class: 'suave' }, 'Uma prova real do ENARE ou um simulado montado com várias edições, no tempo da prova.'),
       h('a', { class: 'btn', href: '#/simulado' }, 'Montar simulado')),
+    h('section', { class: 'card' },
+      h('h2', {}, 'Seu progresso'),
+      h('p', { class: 'suave' }, fraseProgresso(e.progresso, hoje)),
+      h('a', { class: 'btn', href: '#/progresso' }, 'Ver progresso')),
     h('section', { class: 'card' },
       h('h2', {}, 'O que estudar'),
       h('p', { class: 'suave' }, 'Tópicos em ordem de prioridade, com o motivo de cada um.'),

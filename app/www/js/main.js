@@ -10,11 +10,12 @@ import { simuladoSetup } from './telas/simulado.js';
 import { questao } from './telas/questao.js';
 import { resultado } from './telas/resultado.js';
 import { estudar } from './telas/estudar.js';
+import { progresso } from './telas/progresso.js';
 import { ajustes } from './telas/ajustes.js';
 
-const telas = { '': inicio, onboarding, mini: miniSetup, simulado: simuladoSetup, questao, resultado, estudar, ajustes };
-const comNav = new Set(['', 'estudar', 'ajustes']);
-const nav = [['#/', 'Início', ''], ['#/estudar', 'O que estudar', 'estudar'], ['#/ajustes', 'Ajustes', 'ajustes']];
+const telas = { '': inicio, onboarding, mini: miniSetup, simulado: simuladoSetup, questao, resultado, estudar, progresso, ajustes };
+const comNav = new Set(['', 'estudar', 'progresso', 'ajustes']);
+const nav = [['#/', 'Início', ''], ['#/estudar', 'O que estudar', 'estudar'], ['#/progresso', 'Progresso', 'progresso'], ['#/ajustes', 'Ajustes', 'ajustes']];
 
 function rota() {
   const [caminho, query = ''] = location.hash.replace(/^#\/?/, '').split('?');

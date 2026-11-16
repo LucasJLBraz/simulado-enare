@@ -90,3 +90,8 @@ summary { min-height: 48px; display: flex; flex-wrap: wrap; gap: 6px; align-item
 .btn.perigo.marcado { border-color: var(--erro); }
 .tela-cheia { display: flex; flex-direction: column; min-height: calc(100dvh - 112px); }
 .tela-cheia .rodape { margin-top: auto; }
+.linha-barra { display: flex; gap: 8px; align-items: center; margin: 4px 0; }
+.linha-barra .barra { flex: 1; }
+.linha-barra span:first-child { width: 3.5em; }
+.linha-barra span:last-child { width: 3em; text-align: right; }
+.item-sessao { display: flex; flex-direction: column; gap: 2px; color: var(--texto); text-decoration: none; }

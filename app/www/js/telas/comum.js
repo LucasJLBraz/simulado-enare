@@ -1,10 +1,33 @@
 import { h, badgesOrigem, frag } from '../dom.js';
 import { ctx } from '../ctx.js';
 import { contestacaoAtiva, marcar } from '../../logica/marcacoes.js';
+import { revisaoDoDia } from '../../logica/revisao.js';
+import { fraseAntesDepois } from '../../logica/progresso.js';
 
 export const LETRAS = ['A', 'B', 'C', 'D', 'E'];
 export const ROTULO_CONF = { chutei: 'Chutei', duvida: 'Dúvida', certeza: 'Certeza' };
 export const curto = (t) => t.curto || t.nome;
+
+// Questões vencidas hoje (apostila só se estiver ligada) e o progresso que as originou.
+export function vencidasHoje(hoje) {
+  const e = ctx.estado;
+  const prog = Object.fromEntries(Object.entries(e.progresso).filter(([id]) =>
+    ctx.porId.has(id) && (e.config.mini.apostila || ctx.porId.get(id).origem.tipo === 'oficial')));
+  return { prog, ids: revisaoDoDia(prog, hoje) };
+}
+
+// Começar sessão nova com outra pausada pede confirmação.
+export function confirmarNova() {
+  const s = ctx.estado.sessao;
+  return !s || confirm(`Você tem uma sessão pausada (${s.titulo}). Começar outra descarta essa, e as respostas já dadas continuam salvas. Continuar?`);
+}
+
+// Antes e depois do tópico: duas barras ou "poucas questões ainda".
+export function blocoAntesDepois(ad) {
+  if (!ad || ad.antes == null || ad.depois == null) return h('p', { class: 'suave' }, `Antes e depois: ${fraseAntesDepois(ad)}.`);
+  const linha = (r, v) => h('div', { class: 'linha-barra' }, h('span', { class: 'suave' }, r), h('div', { class: 'barra' }, h('div', { style: `width:${v}%` })), h('span', {}, `${v}%`));
+  return h('div', {}, h('p', { class: 'suave' }, `Domínio antes e nas últimas 2 semanas: ${fraseAntesDepois(ad)}.`), linha('Antes', ad.antes), linha('Agora', ad.depois));
+}
 
 // Gabarito, comentário por alternativa (só da marcada e da correta; as outras ficam recolhidas),
 // comentário geral, referência e marcação do comentário.

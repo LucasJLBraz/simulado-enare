@@ -6,11 +6,12 @@ export const dominio = (respostas) =>
   (respostas.reduce((s, r) => s + pontos(r), 0) + 1) / (respostas.length + 2);
 
 export function estado(dom, n) {
-  if (n >= 5 && dom >= 0.8) return 'domina';
-  if (n >= 5 && dom < 0.4) return 'base_fraca';
+  if (n < 5) return 'sem_dados';
+  if (dom >= 0.8) return 'domina';
+  if (dom < 0.4) return 'base_fraca';
   return 'quase_la';
 }
-export const ROTULO_ESTADO = { domina: 'Já domina', quase_la: 'Quase lá', base_fraca: 'Base fraca' };
+export const ROTULO_ESTADO = { domina: 'Já domina', quase_la: 'Quase lá', base_fraca: 'Base fraca', sem_dados: 'Ainda sem dados' };
 
 export const ehOficial = (q) => q.origem.tipo === 'oficial';
 
