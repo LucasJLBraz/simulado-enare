@@ -29,6 +29,19 @@
   "pegadinha": {
    "letra": "C",
    "atracao": 0.29
+  },
+  "comentario": {
+   "geral": "A integralidade, como eixo da política de saúde e da cidadania, exige que o sistema escute o usuário, o compreenda em seu contexto social e responda às suas demandas e necessidades. Esse é o sentido ampliado do princípio, que vai além da soma de procedimentos. A alternativa D traduz exatamente essa ideia de atenção centrada na pessoa em seu contexto. As demais confundem integralidade com especialização, com níveis de complexidade, com ambiência ou com ênfase em tecnologias duras.",
+   "alternativas": [
+    "Errada: o foco da integralidade é o cuidado integral da pessoa, e a especialização crescente fragmenta o cuidado.",
+    "Errada: os níveis crescentes de complexidade expressam a hierarquização, e não a integralidade como princípio.",
+    "Errada: a descrição de espaço físico, social e profissional em sintonia com atenção acolhedora refere-se à ambiência, e não ao conceito de integralidade.",
+    "Correta: o sistema deve ouvir o usuário, entendê-lo em seu contexto social e atender suas necessidades, o que é o núcleo da integralidade.",
+    "Errada: a humanização não se apoia na ênfase em tecnologias duras, e sim nas tecnologias leves das relações."
+   ],
+   "referencia": "Lei nº 8.080/1990, art. 7º, inciso II (integralidade de assistência); Constituição Federal, art. 198, inciso II.",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -57,7 +70,20 @@
    "edital-1.1"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 2
+  "pdf_pagina": 2,
+  "comentario": {
+   "geral": "As Normas Operacionais Básicas (NOBs), editadas por portarias ministeriais nos anos 1990, foram o instrumento que regulou a transferência de responsabilidades e recursos da União para estados e municípios. Seu eixo foi a descentralização das ações de saúde, em especial da atenção básica, por meio de condições de habilitação de gestão. Por isso a alternativa B é a correta. As conferências de saúde e a participação comunitária têm base na Lei nº 8.142/1990.",
+   "alternativas": [
+    "Errada: a participação comunitária e as conferências de saúde foram instituídas pela Lei nº 8.142/1990, e não pelas NOBs.",
+    "Correta: as NOBs foram o principal instrumento de descentralização das ações de saúde, em especial da atenção básica.",
+    "Errada: a regionalização e a hierarquização foram tratadas de forma mais explícita nas NOAS, a partir de 2001.",
+    "Errada: a habilitação plena não visava serviços de alta complexidade em municípios de pequeno porte, e as NOBs tinham como foco a descentralização.",
+    "Errada: a contratualização da rede nas regiões de saúde é tema posterior, associado ao Pacto pela Saúde e ao Decreto nº 7.508/2011."
+   ],
+   "referencia": "Normas Operacionais Básicas do SUS (NOB-SUS 01/93 e 01/96), editadas por portaria ministerial; Lei nº 8.142/1990.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-003",
@@ -84,7 +110,20 @@
    "edital-1.2"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 2
+  "pdf_pagina": 2,
+  "comentario": {
+   "geral": "A Lei nº 8.142/1990 define como instâncias colegiadas de participação da comunidade na gestão do SUS as conferências e os conselhos de saúde. Assim, o conselho de saúde é um canal institucional de controle social, de caráter permanente e deliberativo. A alternativa A é a correta. As demais opções não correspondem a instâncias de participação previstas na legislação.",
+   "alternativas": [
+    "Correta: o conselho de saúde é instância colegiada, permanente e deliberativa de participação social prevista em lei.",
+    "Errada: a plenária de saúde não é instância institucional de participação prevista na Lei nº 8.142/1990.",
+    "Errada: a gestão plena de assistência à saúde é uma condição de habilitação de gestão das NOBs, e não canal de participação social.",
+    "Errada: não existem centros de controle em saúde como instância institucional de participação social na lei.",
+    "Errada: a auditoria é função de controle do Sistema Nacional de Auditoria, e não instância colegiada de participação social."
+   ],
+   "referencia": "Lei nº 8.142/1990, art. 1º (conferências e conselhos de saúde).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-004",
@@ -111,7 +150,20 @@
    "edital-1.2"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 2
+  "pdf_pagina": 2,
+  "comentario": {
+   "geral": "A Lei nº 8.080/90 prevê, no art. 19-G e seguintes, a assistência terapêutica integral, inclusive farmacêutica, e trata da saúde das populações indígenas no Subsistema de Atenção à Saúde Indígena, com acesso garantido ao SUS em âmbito local, regional e de centros especializados. Por isso a alternativa E é a correta. As demais contradizem o texto da lei sobre participação privada, composição das conferências e competências municipais.",
+   "alternativas": [
+    "Errada: a assistência terapêutica integral inclui a farmacêutica, e não a exclui.",
+    "Errada: a iniciativa privada participa do SUS de forma complementar, conforme a lei.",
+    "Errada: nas conferências, os usuários têm representação paritária em relação ao conjunto dos demais segmentos, e não 50% contra prestadores apenas.",
+    "Errada: a lei não fixa atualização bimestral do plano de saúde, que é periodicidade incompatível com o planejamento do SUS.",
+    "Correta: a lei garante às populações indígenas acesso ao SUS em âmbito local, regional e de centros especializados, conforme suas necessidades."
+   ],
+   "referencia": "Lei nº 8.080/1990 e Lei nº 8.142/1990.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-005",
@@ -138,7 +190,20 @@
    "edital-1.7"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 3
+  "pdf_pagina": 3,
+  "comentario": {
+   "geral": "A questão pede o item que não é objetivo do acolhimento na Política Nacional de Humanização. O acolhimento visa melhorar o acesso e substituir a lógica de filas por ordem de chegada pela avaliação de risco e vulnerabilidade. A alternativa A fala em estruturar a forma tradicional de entrada por filas, o que contraria a proposta, e por isso é a exceção. As demais descrevem objetivos reais do acolhimento: escuta, mudança de foco da doença para o sujeito, responsabilização e vínculo, e autonomia.",
+   "alternativas": [
+    "Correta: o acolhimento propõe superar a entrada por filas e ordem de chegada, e não consolidá-la, por isso é a exceção pedida.",
+    "Errada: a humanização das relações com escuta das demandas é objetivo do acolhimento.",
+    "Errada: a mudança de objeto da doença para o sujeito é objetivo do acolhimento.",
+    "Errada: a responsabilização dos profissionais e o vínculo são objetivos do acolhimento.",
+    "Errada: o aumento da autonomia e do protagonismo dos usuários é objetivo do acolhimento."
+   ],
+   "referencia": "Política Nacional de Humanização (HumanizaSUS), diretriz do acolhimento, Ministério da Saúde.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-006",
@@ -165,7 +230,20 @@
    "edital-1.11"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 3
+  "pdf_pagina": 3,
+  "comentario": {
+   "geral": "A educação interprofissional, segundo a definição do CAIPE adotada pela OMS, ocorre quando estudantes de duas ou mais profissões aprendem juntos, uns com os outros e sobre os outros, para melhorar a colaboração e a qualidade do cuidado. A alternativa C expressa essa definição. As demais descrevem educação uniprofissional, aprendizagem paralela, confusão com interdisciplinaridade ou o modelo flexneriano.",
+   "alternativas": [
+    "Errada: essa descrição de socialização com identidade da própria profissão refere-se à formação uniprofissional.",
+    "Errada: a aprendizagem paralela, sem interação, é multiprofissional, e não interprofissional.",
+    "Correta: a EIP implica aprender uma sobre a outra, melhorando atitudes, habilidades e comportamentos para a prática colaborativa.",
+    "Errada: interdisciplinaridade, que é integração de disciplinas, não é sinônimo de interprofissionalidade.",
+    "Errada: a EIP rompe com o modelo biomédico por disciplinas e com a ênfase anatomopatológica."
+   ],
+   "referencia": "Organização Mundial da Saúde (2010), Framework for Action on Interprofessional Education and Collaborative Practice; definição do CAIPE.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-007",
@@ -192,7 +270,20 @@
    "edital-1.3"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 3
+  "pdf_pagina": 3,
+  "comentario": {
+   "geral": "Nas Redes de Atenção à Saúde, de Eugênio Vilaça Mendes, os sistemas logísticos incluem o registro eletrônico em saúde, o prontuário clínico, os sistemas de acesso regulado e os sistemas de transporte em saúde. Por isso a alternativa C é a correta. Os sistemas de apoio são diagnóstico, terapêutico e assistência farmacêutica, e o de governança organiza a gestão da rede.",
+   "alternativas": [
+    "Errada: os sistemas de apoio são de diagnóstico e terapia, assistência farmacêutica e informação em saúde, e não os itens listados.",
+    "Errada: o sistema de governança diz respeito à gestão e à coordenação da rede.",
+    "Correta: prontuário, registro eletrônico, regulação e transporte sanitário são os sistemas logísticos da rede.",
+    "Errada: intermediários não é um dos componentes dessa classificação das RAS.",
+    "Errada: embora o prontuário seja informação, no modelo das RAS esses exemplos compõem os sistemas logísticos."
+   ],
+   "referencia": "Mendes, E. V. As redes de atenção à saúde (OPAS/CONASS, 2011).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-008",
@@ -220,7 +311,20 @@
    "edital-1.8"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "O estudo descrito é um ensaio clínico randomizado: o investigador aplica uma intervenção (musicoterapia) e mede desfechos. A alternativa E define esse delineamento, com intervenções controladas pelos pesquisadores e alocadas de forma aleatória. As demais descrevem estudos observacionais (coorte, transversal, descritivos).",
+   "alternativas": [
+    "Errada: quando o investigador apenas mede e não intervém, o estudo é observacional, o que não é o caso do ensaio clínico.",
+    "Errada: a medida simultânea de exposição e desfecho define o estudo transversal.",
+    "Errada: a comparação de incidência entre grupos expostos e não expostos define a coorte.",
+    "Errada: série e relato de casos são estudos descritivos.",
+    "Correta: o ensaio clínico randomizado compara intervenções controladas e alocadas de forma aleatória."
+   ],
+   "referencia": "Texto de epidemiologia clínica (delineamentos de estudo); ex.: Medronho, Epidemiologia. Referência genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-009",
@@ -247,7 +351,20 @@
    "edital-1.8"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "A Razão de Mortalidade Materna é calculada pelo número de óbitos maternos dividido pelo número de nascidos vivos, multiplicado por 100.000. Assim, 1.862 dividido por 2.944.932 e multiplicado por 100.000 resulta em cerca de 63,2 por 100 mil nascidos vivos. A alternativa C é a correta.",
+   "alternativas": [
+    "Errada: 6,3 resulta de erro de uma casa decimal no cálculo.",
+    "Errada: 630 resulta de erro de uma casa decimal no sentido oposto.",
+    "Correta: a razão é 1.862/2.944.932 x 100.000, aproximadamente 63,2.",
+    "Errada: 1,5 não corresponde ao resultado do cálculo.",
+    "Errada: 15,8 não corresponde ao resultado do cálculo."
+   ],
+   "referencia": "Indicador padronizado de mortalidade materna (Ministério da Saúde/RIPSA), por 100.000 nascidos vivos.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-010",
@@ -274,7 +391,20 @@
    "edital-1.8"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "A questão pede a alternativa incorreta sobre a Sala de Situação. Trata-se de um espaço de inteligência em saúde que analisa informações, assessora decisões e orienta fluxos de notificação e investigação. Não é local de atendimento de pessoas nem de realização de testes. Por isso a D é incorreta e correta como resposta.",
+   "alternativas": [
+    "Errada: descrição correta: espaço de inteligência em saúde que integra informação para a vigilância.",
+    "Errada: descrição correta: assessoria técnico-científica à tomada de decisão.",
+    "Errada: descrição correta: padroniza informações e orienta fluxos de notificação e investigação.",
+    "Correta: a Sala de Situação não é espaço físico de atendimento nem de testagem, e sim instância de análise e decisão, por isso a afirmação é incorreta.",
+    "Errada: descrição correta: detecta casos, avalia riscos e subsidia decisões de gestores."
+   ],
+   "referencia": "Ministério da Saúde, Secretaria de Vigilância em Saúde, documentos sobre Salas de Situação em Saúde.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-011",
@@ -301,7 +431,20 @@
    "edital-1.12"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "Na desparamentação de paciente com Covid-19, a sequência recomendada remove primeiro luvas, depois avental, protetor facial e touca, e por último a máscara PFF2, já fora do quarto ou da área de risco. Assim, o último EPI a ser removido é a máscara PFF2, alternativa A, porque protege as vias aéreas até o fim do procedimento.",
+   "alternativas": [
+    "Correta: a PFF2 é retirada por último, fora da área de assistência, para proteger as vias aéreas durante toda a remoção dos demais.",
+    "Errada: a touca é retirada antes da máscara.",
+    "Errada: o protetor facial é retirado antes da máscara.",
+    "Errada: o avental é retirado antes do protetor facial e da máscara.",
+    "Errada: as luvas são o primeiro item a ser removido."
+   ],
+   "referencia": "Anvisa, Nota Técnica GVIMS/GGTES nº 04/2020 (orientações para serviços de saúde na Covid-19) e NR 32.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-012",
@@ -328,7 +471,20 @@
    "edital-1.9"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "Os grupos contrários à vacinação costumam invocar a autonomia, isto é, o direito de decidir sobre o próprio corpo e sobre intervenções médicas. A alternativa C é a correta. Justiça e equidade fundamentam a distribuição de vacinas, e beneficência e não maleficência sustentam a vacinação, e não a sua recusa.",
+   "alternativas": [
+    "Errada: justiça fundamenta a distribuição equitativa das vacinas e o benefício coletivo.",
+    "Errada: equidade é parte do princípio de justiça e não é o argumento central da recusa.",
+    "Correta: a recusa vacinal se apoia no direito individual de decidir, isto é, na autonomia.",
+    "Errada: a não maleficência apoia a vacinação, ao evitar danos da doença, embora haja o argumento de riscos de eventos adversos.",
+    "Errada: a beneficência apoia a vacinação por seu benefício à pessoa e à coletividade."
+   ],
+   "referencia": "Beauchamp e Childress, Princípios de Ética Biomédica (principialismo).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-013",
@@ -356,7 +512,20 @@
    "edital-13.21"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "A promoção da saúde trabalha determinantes e condições de vida por meio de ações educativas e de estímulo a hábitos saudáveis, antes do adoecimento. Orientações sobre alimentação adequada e saudável são ações de promoção, alternativa E. Coleta de preventivo, aferição de pressão, vacinação e exames de sangue são ações de prevenção ou de rastreamento e diagnóstico.",
+   "alternativas": [
+    "Errada: a coleta de preventivo é ação de prevenção secundária e rastreamento.",
+    "Errada: a verificação de pressão arterial é ação de rastreamento e controle.",
+    "Errada: a vacinação é ação de prevenção primária específica.",
+    "Errada: a coleta de exames de sangue é ação diagnóstica ou de rastreamento.",
+    "Correta: orientação sobre alimentação saudável é ação típica de promoção da saúde."
+   ],
+   "referencia": "Política Nacional de Promoção da Saúde (Portaria de Consolidação nº 2/2017, anexo I).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-014",
@@ -383,7 +552,20 @@
    "edital-13.31"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "Os quatro comportamentos descritos (influência idealizada, motivação inspiradora, estimulação intelectual e consideração individualizada) são os componentes da liderança transformacional, de Bass. O líder transforma os liderados e os leva a ir além do interesse pessoal. A alternativa B é a correta. Os demais estilos não têm esses quatro componentes.",
+   "alternativas": [
+    "Errada: o estilo autocrático centraliza decisões e não inspira nem estimula individualmente.",
+    "Correta: os quatro comportamentos descrevem a liderança transformacional.",
+    "Errada: liderança intuitiva não é o modelo associado a esses quatro componentes.",
+    "Errada: liderança construtiva não é a nomenclatura do modelo descrito.",
+    "Errada: liderança corporativa não é a nomenclatura do modelo descrito."
+   ],
+   "referencia": "Bass, B. M., teoria da liderança transformacional (quatro componentes).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-015",
@@ -410,7 +592,20 @@
    "edital-1.10"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "Segurança do paciente é a redução ao mínimo aceitável do risco de dano desnecessário associado ao cuidado. A alternativa D traduz esse conceito, ao falar de evitar lesões e danos decorrentes do cuidado que visa ajudar o paciente. As demais tratam de eficiência, equidade, tecnologia ou atrasos, que são outros atributos da qualidade.",
+   "alternativas": [
+    "Errada: otimizar equipamentos é atributo de eficiência.",
+    "Errada: atender sem distinção de gênero ou etnia é atributo de equidade.",
+    "Errada: tecnologias duras não definem segurança do paciente.",
+    "Correta: segurança é evitar lesões e danos causados pelo próprio cuidado.",
+    "Errada: reduzir atrasos é atributo de oportunidade, e o dano em questão é ao paciente, e não a quem presta o cuidado."
+   ],
+   "referencia": "Institute of Medicine, Crossing the Quality Chasm (2001); Portaria MS/GM nº 529/2013 (Programa Nacional de Segurança do Paciente).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-016",
@@ -441,6 +636,19 @@
   "pegadinha": {
    "letra": "A",
    "atracao": 0.27
+  },
+  "comentario": {
+   "geral": "O art. 3º da Portaria nº 2.436/2017 (PNAB) lista como diretrizes do SUS e da RAS a serem operacionalizadas na Atenção Básica: regionalização e hierarquização, territorialização, população adscrita, cuidado centrado na pessoa, resolutividade, longitudinalidade, coordenação do cuidado, ordenação da rede e participação da comunidade. A ordenação da rede, alternativa C, está entre elas. Integralidade, equidade e igualdade são princípios do SUS, e não essas diretrizes.",
+   "alternativas": [
+    "Errada: a integralidade é princípio do SUS, listado no art. 2º da PNAB, e não diretriz do art. 3º.",
+    "Errada: a equidade é princípio do SUS, listado no art. 2º.",
+    "Correta: a ordenação da rede é uma das diretrizes do art. 3º.",
+    "Errada: a igualdade não é diretriz listada no art. 3º.",
+    "Errada: a centralidade é no usuário e no cuidado centrado na pessoa, e não no trabalhador."
+   ],
+   "referencia": "Portaria GM/MS nº 2.436/2017 (PNAB), arts. 2º e 3º.",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -468,7 +676,20 @@
    "edital-1.3"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "No Modelo de Atenção às Condições Crônicas, a pirâmide de risco define a resposta por estrato. Luiz tem condição crônica complexa e de alto risco (múltiplas comorbidades, evento cardiovascular e sequela de AVE), o que corresponde ao nível 3, com gestão de caso. A alternativa B é a correta. Autocuidado apoiado e prevenção correspondem a estratos de menor risco.",
+   "alternativas": [
+    "Errada: prevenção é adequada ao nível de população geral e fatores de risco.",
+    "Correta: gestão de caso é a resposta ao nível 3, de condição crônica muito complexa e alto risco.",
+    "Errada: autocuidado apoiado serve aos níveis 1 e 2, de menor complexidade.",
+    "Errada: gerenciamento de risco é associado a fatores de risco biopsicológicos e de baixo risco.",
+    "Errada: cuidados intermediários não é o nome da resposta de nível 3 nesse modelo."
+   ],
+   "referencia": "Mendes, E. V. O cuidado das condições crônicas na atenção primária à saúde (CONASS/OPAS, 2012).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-018",
@@ -495,7 +716,20 @@
    "edital-1.4"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 6
+  "pdf_pagina": 6,
+  "comentario": {
+   "geral": "As equipes de Consultório na Rua desenvolvem suas atividades de forma itinerante, in loco, de modo integrado às Unidades Básicas de Saúde e aos demais serviços. A alternativa E é a correta. As demais afirmações contradizem a norma: a equipe inclui busca ativa e cuidado a usuários de álcool e outras drogas, e pode agregar agentes comunitários de saúde.",
+   "alternativas": [
+    "Errada: a composição mínima não exige seis profissionais de nível superior.",
+    "Errada: as eCR incluem a busca ativa e o cuidado aos usuários de álcool e outras drogas.",
+    "Errada: o agente social, quando existe, é profissional de nível médio, e não equivalente a nível superior.",
+    "Errada: as modalidades podem agregar agentes comunitários de saúde.",
+    "Correta: as eCR atuam in loco, de forma itinerante, e integradas às UBS."
+   ],
+   "referencia": "Portaria GM/MS nº 122/2011 e PNAB (Portaria nº 2.436/2017), sobre equipes de Consultório na Rua.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-019",
@@ -522,7 +756,20 @@
    "edital-1.12"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 6
+  "pdf_pagina": 6,
+  "comentario": {
+   "geral": "A NR 32 classifica os agentes biológicos em quatro classes de risco. A classe 4 reúne os agentes de maior risco, com elevado risco individual e coletivo, grande poder de transmissão e ausência de profilaxia ou tratamento eficaz. A alternativa A é a correta. As demais descrevem riscos baixos ou moderados, de classes inferiores.",
+   "alternativas": [
+    "Correta: a ausência de profilaxia e de tratamento eficaz caracteriza a classe 4.",
+    "Errada: risco individual baixo caracteriza a classe 1.",
+    "Errada: risco coletivo moderado não caracteriza a classe 4.",
+    "Errada: risco de propagação baixo não caracteriza a classe 4, que tem alta propagação.",
+    "Errada: risco individual moderado caracteriza classes intermediárias, e não a 4."
+   ],
+   "referencia": "Norma Regulamentadora nº 32 (NR 32) e classificação de agentes biológicos do Ministério do Trabalho.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-020",
@@ -550,7 +797,20 @@
    "edital-13.12"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 6
+  "pdf_pagina": 6,
+  "comentario": {
+   "geral": "A avaliação que verifica a forma de atuação e a qualidade do processo de prestação de serviços, por exemplo com auditoria de prontuários, é a avaliação de processo, no modelo de Donabedian (estrutura, processo e resultado). A alternativa A é a correta. Estrutura trata de recursos físicos e humanos, e resultado trata de efeitos.",
+   "alternativas": [
+    "Correta: a avaliação de processo examina como o cuidado é prestado, inclusive por auditoria de prontuários.",
+    "Errada: a avaliação de estrutura examina recursos físicos, humanos e organizacionais.",
+    "Errada: avaliação de pares não é o tipo descrito no enunciado.",
+    "Errada: avaliação de integração não é o tipo descrito.",
+    "Errada: avaliação de perfil não é o tipo descrito."
+   ],
+   "referencia": "Donabedian, A., tríade estrutura, processo e resultado na avaliação da qualidade em saúde.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-021",
@@ -581,6 +841,19 @@
   "pegadinha": {
    "letra": "D",
    "atracao": 0.19
+  },
+  "comentario": {
+   "geral": "A Resolução CFP nº 1/2009 e a Resolução CFP nº 1/2019 sobre registro documental dizem que o registro, em papel ou informatizado, é sigiloso e deve contemplar de forma sucinta o trabalho prestado, a evolução e os procedimentos adotados. A alternativa B reproduz essa ideia. As demais erram prazo de guarda, forma exclusiva de registro e conteúdo do prontuário multiprofissional.",
+   "alternativas": [
+    "Errada: o registro documental não se limita ao prontuário psicológico exclusivo.",
+    "Correta: o registro é sigiloso e contempla, de forma sucinta, o trabalho prestado e os procedimentos técnico-científicos adotados.",
+    "Errada: o prazo de guarda é de no mínimo cinco anos, e não de no máximo cinco anos, e a guarda não é exclusiva do psicólogo em todos os contextos.",
+    "Errada: no prontuário multiprofissional o psicólogo registra informações necessárias ao cuidado, sem a restrição absoluta descrita.",
+    "Errada: os documentos de instrumentos de avaliação psicológica não são arquivados junto ao prontuário multiprofissional por sua natureza sigilosa."
+   ],
+   "referencia": "Resolução CFP nº 1/2009 e Resolução CFP nº 6/2019 (elaboração de documentos).",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -608,7 +881,20 @@
    "edital-13.4"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 7
+  "pdf_pagina": 7,
+  "comentario": {
+   "geral": "Os cuidados paliativos buscam qualidade de vida e alívio do sofrimento, com abordagem multiprofissional, comunicação franca, apoio à família e controle de sintomas. Internar a paciente apenas para monitorar sinais vitais e oxigenoterapia não é técnica de cuidado paliativo, pois sugere abordagem hospitalar tecnicista. A alternativa D é a que NÃO se configura como técnica paliativa.",
+   "alternativas": [
+    "Errada: informar a paciente com cuidado e respeitar sua escolha é prática paliativa.",
+    "Errada: acompanhamento multiprofissional em home care articulado à Atenção Básica é prática paliativa.",
+    "Errada: apoio psicossocial à família é prática paliativa.",
+    "Correta: internação para monitorar sinais vitais não é técnica paliativa, que prioriza conforto e cuidado no ambiente da pessoa.",
+    "Errada: medicação oral para alívio da dor é controle de sintomas, prática paliativa."
+   ],
+   "referencia": "Definição de cuidados paliativos da Organização Mundial da Saúde; Resolução CIT nº 41/2018 (cuidados paliativos no SUS).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-023",
@@ -635,7 +921,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 7
+  "pdf_pagina": 7,
+  "comentario": {
+   "geral": "Para Freud, o amor de transferência surge na análise como resistência ao tratamento: o paciente satisfaz a pulsão no vínculo em vez de recordar e elaborar. A alternativa C é a correta. O fenômeno não é prova de confiança, nem teste moral do analista, nem facilitador da sugestão.",
+   "alternativas": [
+    "Errada: Freud não vê o amor transferencial como sinal de maior confiança.",
+    "Errada: impedir a desistência não é a função atribuída por Freud.",
+    "Correta: Freud descreve o amor transferencial como resistência ao tratamento.",
+    "Errada: Freud não o descreve como teste dos valores morais do analista.",
+    "Errada: facilitar a sugestão não é a função atribuída, e o método psicanalítico se afasta da sugestão."
+   ],
+   "referencia": "Freud, S. (1915). Observações sobre o amor transferencial.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-024",
@@ -663,7 +962,20 @@
    "edital-13.14"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 8
+  "pdf_pagina": 8,
+  "comentario": {
+   "geral": "Na lógica da atenção psicossocial, o cuidado se constrói com a rede de apoio e o território, sem culpabilizar a pessoa ou seus familiares. Conversar com os avós, valorizar seu papel e incluí-los no plano de cuidados fortalece a única rede de apoio de Margarida. A alternativa A é a mais coerente. As demais responsabilizam terceiros, adiam o cuidado, alertam contra a mãe ou encaminham sem avaliação do território.",
+   "alternativas": [
+    "Correta: incluir os avós no plano de cuidados fortalece a rede de apoio e a reabilitação psicossocial.",
+    "Errada: responsabilizar a irmã, que mora fora do país, é inviável e contraria a lógica psicossocial.",
+    "Errada: agendar consulta apenas um dia depois da alta é medida isolada e não constrói o cuidado em rede durante a semana anterior.",
+    "Errada: alertar os avós sobre riscos de a mãe cuidar dos filhos é estigmatizante e rompe a corresponsabilização.",
+    "Errada: o encaminhamento ao CAPS não é a única resposta, e o caso pode ser acompanhado na atenção básica com a rede."
+   ],
+   "referencia": "Lei nº 10.216/2001; Portaria nº 3.088/2011 (RAPS); diretrizes da atenção psicossocial.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-025",
@@ -690,7 +1002,20 @@
    "edital-1.7"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 8
+  "pdf_pagina": 8,
+  "comentario": {
+   "geral": "A Clínica Ampliada e Compartilhada, da Política Nacional de Humanização, busca sínteses singulares entre saberes (I), construção compartilhada de diagnósticos e terapêuticas com equipe, serviços, intersetor e usuários (II) e comunicação transversal e escuta (IV). A asserção III erra ao dizer que a proposta é articular apenas os enfoques psicológico e social, pois ela integra também o biológico, entre outras dimensões. Por isso apenas I, II e IV estão certas, alternativa E.",
+   "alternativas": [
+    "Errada: a alternativa deixa de fora a IV, que também é correta.",
+    "Errada: a alternativa deixa de fora a I, e a IV também é correta.",
+    "Errada: a alternativa inclui a III, que é incorreta.",
+    "Errada: a alternativa inclui a III, incorreta, e omite a IV.",
+    "Correta: I, II e IV estão certas, e a III é errada por restringir a clínica ao psicológico e ao social."
+   ],
+   "referencia": "Ministério da Saúde, Clínica Ampliada e Compartilhada (Política Nacional de Humanização, 2009); Campos, G. W. S.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-026",
@@ -718,7 +1043,20 @@
    "edital-13.20"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 9
+  "pdf_pagina": 9,
+  "comentario": {
+   "geral": "Ao mediar a inserção de Moacir em uma cooperativa de economia solidária, o CAPS promoveu sua contratualidade, isto é, a capacidade de trocar bens, afetos e mensagens e de ter poder de contratar no campo social. Esse é conceito de Kinoshita, central na reabilitação psicossocial. A alternativa A é a correta.",
+   "alternativas": [
+    "Correta: a mediação de inserção em trabalho e troca social promove a contratualidade.",
+    "Errada: o protagonismo trata da participação do usuário na gestão do cuidado, e o caso foca a inserção social e laboral.",
+    "Errada: articulação de redes é meio, e o resultado descrito é a inserção na cooperativa, isto é, contratualidade.",
+    "Errada: o matriciamento é apoio entre equipes, e não ocorre aqui.",
+    "Errada: a redução de danos trata do uso de substâncias, e o caso não aborda isso."
+   ],
+   "referencia": "Kinoshita, R. T., contratualidade e reabilitação psicossocial; Lei nº 10.216/2001.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-027",
@@ -745,7 +1083,20 @@
    "edital-13.11"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 9
+  "pdf_pagina": 9,
+  "comentario": {
+   "geral": "A primeira afirmação é falsa: na Atenção Básica o psicólogo não deve limitar-se a grupos educativos com palestras, e pode conduzir grupos de apoio, terapêuticos e operativos. As demais são verdadeiras: coordenação conjunta favorece trocas de saberes, grupos têm mecanismos terapêuticos próprios como a identificação, e são espaços de apoio social e aprendizagem interpessoal. A sequência F, V, V, V é a da alternativa B.",
+   "alternativas": [
+    "Errada: inicia com V na primeira, que é falsa.",
+    "Correta: a sequência F, V, V, V corresponde às afirmações.",
+    "Errada: marca como falsa a terceira, que é verdadeira, e a quarta, que também é verdadeira.",
+    "Errada: marca falsa a segunda, que é verdadeira.",
+    "Errada: marca como verdadeira a primeira, que restringe indevidamente os grupos a palestras."
+   ],
+   "referencia": "Yalom, I. D., fatores terapêuticos de grupos; Brasil, Cadernos de Atenção Básica nº 34 (saúde mental). Referência genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-028",
@@ -772,7 +1123,20 @@
    "edital-13.25"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 10
+  "pdf_pagina": 10,
+  "comentario": {
+   "geral": "O documento foi produzido em conjunto pela psicóloga e pela enfermeira, com campos separados para cada área e conclusão conjunta. Pelas normas do CFP, quando mais de um profissional de áreas distintas elabora um documento, ele é um relatório multiprofissional. A alternativa C é a correta.",
+   "alternativas": [
+    "Errada: relatório de atividade não é o tipo, pois há conclusão conjunta com outra categoria.",
+    "Errada: relatório psicológico é de autoria exclusiva do psicólogo.",
+    "Correta: há autoria de psicóloga e enfermeira, o que caracteriza relatório multiprofissional.",
+    "Errada: declaração psicológica apenas atesta informações pontuais e não traz evolução nem justificativa técnica.",
+    "Errada: declaração psicossocial não é um tipo de documento previsto."
+   ],
+   "referencia": "Resolução CFP nº 6/2019 (elaboração de documentos escritos pelo psicólogo).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-029",
@@ -799,7 +1163,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 10
+  "pdf_pagina": 10,
+  "comentario": {
+   "geral": "A regra fundamental da psicanálise pede ao paciente que diga tudo o que lhe vem à mente, sem censura, mesmo o que pareça irrelevante ou desagradável. Essa técnica é a livre associação, alternativa D. As demais são fenômenos ou manejos distintos.",
+   "alternativas": [
+    "Errada: a interpretação da transferência é uma intervenção do analista.",
+    "Errada: o manejo da contratransferência é do analista.",
+    "Errada: a regressão é um processo psíquico, e não uma técnica.",
+    "Correta: a livre associação é a regra fundamental da psicanálise.",
+    "Errada: a repetição terapêutica não é a técnica descrita."
+   ],
+   "referencia": "Freud, S. (1912). Recomendações aos médicos que exercem a psicanálise.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-030",
@@ -826,7 +1203,20 @@
    "edital-13.23"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 10
+  "pdf_pagina": 10,
+  "comentario": {
+   "geral": "A psicóloga atuou segundo o princípio fundamental do Código de Ética de promover saúde e qualidade de vida e contribuir para eliminar discriminações e opressões, como o racismo apontado no caso, usando visita domiciliar conjunta e discussão de caso. A alternativa E é a correta. As demais acusam infração inexistente, impõem acesso detalhado aos pais ou erram penalidades.",
+   "alternativas": [
+    "Errada: o acolhimento eventual de adolescente é permitido e não configura a infração citada.",
+    "Errada: o compartilhamento de informações necessárias à equipe não viola o sigilo, que deve se limitar ao indispensável.",
+    "Errada: o Código prevê outras penalidades além das citadas, como censura pública.",
+    "Errada: os responsáveis não devem receber detalhadamente todas as informações, e o sigilo do adolescente deve ser respeitado.",
+    "Correta: a atuação segue os princípios fundamentais do Código de Ética e ferramentas da Atenção Básica."
+   ],
+   "referencia": "Código de Ética Profissional do Psicólogo (Resolução CFP nº 10/2005), princípios fundamentais.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-031",
@@ -853,7 +1243,20 @@
    "edital-1.3"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 11
+  "pdf_pagina": 11,
+  "comentario": {
+   "geral": "A questão pede a alternativa incorreta sobre a RAPS. O CAPS II funciona em período diurno, com possibilidade de acolhimento noturno apenas no CAPS III, que opera 24 horas. A descrição de funcionamento 24 horas e retaguarda noturna é do CAPS III, e por isso a D é incorreta. As demais refletem a Portaria nº 3.088/2011.",
+   "alternativas": [
+    "Errada: descrição correta da finalidade da RAPS.",
+    "Errada: descrição correta dos objetivos de reabilitação e reinserção.",
+    "Errada: UBS, SAMU e CAPS são componentes da RAPS.",
+    "Correta: funcionamento 24 horas e acolhimento noturno caracterizam o CAPS III, e não o CAPS II.",
+    "Errada: a atenção hospitalar pode ocorrer em enfermaria especializada em hospital geral."
+   ],
+   "referencia": "Portaria nº 3.088/2011 (RAPS), consolidada na Portaria de Consolidação nº 3/2017.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-032",
@@ -884,6 +1287,19 @@
   "pegadinha": {
    "letra": "E",
    "atracao": 0.19
+  },
+  "comentario": {
+   "geral": "O acesso universal e igualitário às ações e serviços é ordenado pela atenção primária, e por isso Antônio deve ser orientado a procurar a UBS, alternativa D. O CAPS atende demanda espontânea, e as portas de entrada não são exclusivas da AB. Região de saúde exige mais serviços que os citados.",
+   "alternativas": [
+    "Errada: o CAPS não é a porta prioritária única nem o ordenador principal do cuidado.",
+    "Errada: o CAPS pode receber demanda espontânea, não só referenciada.",
+    "Errada: a AB é uma das portas de entrada, junto com urgência, atenção psicossocial e outras, e não exclusiva.",
+    "Correta: o acesso é ordenado pela atenção primária, e o usuário deve ser orientado a buscar a UBS.",
+    "Errada: a região de saúde deve conter pelo menos atenção primária, urgência e emergência, atenção psicossocial e atenção ambulatorial especializada e hospitalar, e não apenas os serviços citados."
+   ],
+   "referencia": "Decreto nº 7.508/2011, arts. 5º a 9º.",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -912,7 +1328,20 @@
    "edital-13.5"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 11
+  "pdf_pagina": 11,
+  "comentario": {
+   "geral": "Diante de experiências disruptivas no hospital, a prioridade do psicólogo é oferecer escuta que favoreça a elaboração do sofrimento e a produção de sentido. A alternativa A é a correta. As demais tratam de mediação, técnicas psicoterapêuticas, psicodiagnóstico ou origem psicossomática, que não são a prioridade.",
+   "alternativas": [
+    "Correta: a escuta que favorece elaboração e sentido é a intervenção prioritária.",
+    "Errada: mediar a relação com a equipe é papel possível, mas não prioritário diante da experiência traumática.",
+    "Errada: usar técnicas psicoterapêuticas após compreender a psicodinâmica não é a prioridade no contexto hospitalar.",
+    "Errada: psicodiagnóstico e prognóstico não são a intervenção prioritária.",
+    "Errada: avaliar origem psicossomática desloca o foco do sofrimento vivido."
+   ],
+   "referencia": "Simonetti, A. Manual de Psicologia Hospitalar. Referência genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-034",
@@ -939,7 +1368,20 @@
    "edital-13.21"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "No matriciamento de Chiaverini, o atendimento compartilhado é um instrumento de apoio matricial, pois integra saberes e permite construir o PTS. A alternativa B é a correta. A equipe de AB é a equipe de referência e o CAPS é a equipe de apoio matricial. O matriciamento não implica transferência de responsabilidade.",
+   "alternativas": [
+    "Errada: a AB é a equipe de referência, e o CAPS é a equipe de apoio matricial, e não o contrário.",
+    "Correta: o atendimento compartilhado é instrumento do matriciamento.",
+    "Errada: o caso é, sim, matriciamento, que não transfere a responsabilidade do cuidado.",
+    "Errada: as duas ações, e não só a segunda, caracterizam o matriciamento, que tem dimensão técnico-pedagógica e assistencial.",
+    "Errada: a consulta conjunta é recurso valioso do matriciamento."
+   ],
+   "referencia": "Chiaverini, D. H. (org.). Guia prático de matriciamento em saúde mental (Ministério da Saúde, 2011); Campos e Domitti (2007).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-035",
@@ -966,7 +1408,20 @@
    "edital-13.21"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "O psicólogo hospitalar deve legitimar o sofrimento dos profissionais, criar espaços de escuta, oferecer formação e articular cuidado em saúde do trabalhador. Orientar o distanciamento emocional dos pacientes para evitar sofrimento é defensivo e contraria o cuidado. A alternativa B é a prática não coerente.",
+   "alternativas": [
+    "Errada: legitimar sem naturalizar é prática coerente.",
+    "Correta: orientar o distanciamento emocional é prática incoerente, pois nega o vínculo, essencial ao cuidado.",
+    "Errada: criar espaços de escuta para profissionais é prática coerente.",
+    "Errada: formação continuada sobre temas emergentes é prática coerente.",
+    "Errada: articular com a rede projetos de saúde do trabalhador é prática coerente."
+   ],
+   "referencia": "Política Nacional de Humanização (cuidado dos trabalhadores); Simonetti, A. Referência genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-036",
@@ -993,7 +1448,20 @@
    "edital-1.4"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 13
+  "pdf_pagina": 13,
+  "comentario": {
+   "geral": "No caso, o consumo diário de álcool por pessoa em situação de rua exige estratégias de redução de danos, o que a equipe do CNR fez ao acompanhar sem exigir abstinência. A alternativa C é a correta. A recusa da UBS e da UPA foi indevida, pois o SUS é universal e não exige comprovante, e o CNR não é porta exclusiva.",
+   "alternativas": [
+    "Errada: a AB não responde apenas pelos adstritos, e atender pessoa em situação de rua é sua atribuição.",
+    "Errada: o atendimento não pode ser negado por falta de documento ou de cadastro.",
+    "Correta: a redução de danos é ferramenta central no cuidado de pessoas em situação de rua que usam drogas.",
+    "Errada: o CNR é equipe da Atenção Básica, e não da secundária vinculada ao CAPS AD.",
+    "Errada: o CNR não é porta de entrada exclusiva, pois as demais portas devem atender."
+   ],
+   "referencia": "Portaria nº 122/2011 (Consultório na Rua); PNAB (Portaria nº 2.436/2017); Política Nacional para a População em Situação de Rua (Decreto nº 7.053/2009).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-037",
@@ -1020,7 +1488,20 @@
    "edital-13.8"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 13
+  "pdf_pagina": 13,
+  "comentario": {
+   "geral": "Na psicanálise, a introjeção é o processo pelo qual o sujeito incorpora o objeto perdido ao mundo interno, o que corresponde à ausência assimilada do poema, em que a perda passa a ser um estar em mim. A alternativa B é a correta. As demais são defesas diferentes.",
+   "alternativas": [
+    "Errada: na projeção, o sujeito atribui ao exterior conteúdos seus, o oposto do poema.",
+    "Correta: a introjeção incorpora o objeto ao interior, como na ausência assimilada.",
+    "Errada: a negação recusa a realidade da perda, e o poema a reconhece.",
+    "Errada: a identificação projetiva envolve projetar partes do self no outro.",
+    "Errada: a cisão divide o objeto ou o ego, e não é o que o poema descreve."
+   ],
+   "referencia": "Freud, S. (1917). Luto e melancolia; Laplanche e Pontalis, Vocabulário da Psicanálise.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-038",
@@ -1047,7 +1528,20 @@
    "edital-13.29"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 14
+  "pdf_pagina": 14,
+  "comentario": {
+   "geral": "A questão pede a incorreta. Os dados sociodemográficos de Gabriel (sexo masculino, adulto jovem, solteiro) são relevantes como fatores de risco para suicídio na epidemiologia brasileira. A afirmação de que são pouco relevantes é incorreta, e a C é a resposta. As demais são corretas sobre avaliação de risco, notificação e internação.",
+   "alternativas": [
+    "Errada: a presença desses fatores permite afirmar alto risco.",
+    "Errada: o risco é um julgamento clínico, e não uma predição.",
+    "Correta: gênero, idade e estado civil são fatores sociodemográficos relevantes, por isso a afirmação é incorreta.",
+    "Errada: a notificação de violência autoprovocada é compulsória.",
+    "Errada: a internação visa proteger a vida e reduzir o risco imediato."
+   ],
+   "referencia": "Ministério da Saúde, Agenda de Ações Estratégicas para a Vigilância e Prevenção do Suicídio; Portaria nº 1.271/2014 (notificação compulsória); Lei nº 13.819/2019.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-039",
@@ -1074,7 +1568,20 @@
    "edital-13.8"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 14
+  "pdf_pagina": 14,
+  "comentario": {
+   "geral": "Em Luto e melancolia, Freud distingue o luto da melancolia pela diminuição da autoestima acompanhada de autoacusações, ausente no luto normal. A alternativa D é a correta. Desânimo, perda de interesse no mundo, inibição e anedonia aparecem em ambos.",
+   "alternativas": [
+    "Errada: a perda de interesse pelo mundo externo ocorre no luto e na melancolia.",
+    "Errada: o profundo desânimo ocorre em ambos.",
+    "Errada: a inibição da atividade ocorre em ambos.",
+    "Correta: a queda da autoestima com autoacusações é exclusiva da melancolia.",
+    "Errada: a anedonia ocorre em ambos."
+   ],
+   "referencia": "Freud, S. (1917). Luto e melancolia.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-040",
@@ -1101,7 +1608,20 @@
    "edital-13.27"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 14
+  "pdf_pagina": 14,
+  "comentario": {
+   "geral": "O CFP, na pandemia, suspendeu a restrição ao atendimento on-line em urgência e emergência e manteve o cadastro prévio na plataforma e-Psi. A alternativa C é a correta. As demais erram o cadastro, o registro dos atendimentos, a intervenção entre colegas e a participação na mídia.",
+   "alternativas": [
+    "Errada: em emergências, o psicólogo pode, em situações específicas, atuar em articulação com outros psicólogos.",
+    "Errada: o registro dos atendimentos individuais não é dispensado.",
+    "Correta: o CFP suspendeu a restrição ao atendimento on-line em urgência e emergência durante a pandemia.",
+    "Errada: o cadastro no e-Psi era exigido.",
+    "Errada: a divulgação de conhecimento psicológico pela mídia é permitida e incentivada com cautela, sem restrição de popularização."
+   ],
+   "referencia": "Resolução CFP nº 4/2020 (serviços por tecnologias de informação e comunicação durante a pandemia) e plataforma e-Psi.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-041",
@@ -1128,7 +1648,20 @@
    "edital-13.4"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 15
+  "pdf_pagina": 15,
+  "comentario": {
+   "geral": "Cuidados paliativos são abordagem que abrange todos os recursos diagnósticos e terapêuticos disponíveis para melhorar a qualidade de vida de pacientes e familiares diante de doenças que ameaçam a vida. A alternativa B é a correta. Eles não substituem o tratamento convencional, não se resumem a evitar intervenções, nem a preparar para a morte.",
+   "alternativas": [
+    "Errada: não substituem o tratamento convencional por alternativo.",
+    "Correta: abrangem todos os recursos disponíveis para suporte amplo à qualidade de vida do paciente e de seu entorno.",
+    "Errada: não se limitam a oferecer morte natural sem intervenções, podendo usar intervenções para conforto.",
+    "Errada: não se limitam a preparar para a morte, e valorizam a vida.",
+    "Errada: o cuidado integra as dimensões física, psicológica, social e espiritual, e não troca o biológico pelo psicológico."
+   ],
+   "referencia": "Definição de cuidados paliativos da OMS (2002); Academia Nacional de Cuidados Paliativos.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-042",
@@ -1155,7 +1688,20 @@
    "edital-13.24"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 15
+  "pdf_pagina": 15,
+  "comentario": {
+   "geral": "José apresenta perda de controle sobre o uso, tentativas fracassadas de reduzir, tempo gasto em torno da bebida, abandono de atividades e prejuízos sociais. Isso preenche critérios de dependência de álcool, hoje transtorno por uso de álcool. A alternativa A é a correta. Delirium tremens, embriaguez patológica e consumo de baixo risco não se aplicam.",
+   "alternativas": [
+    "Correta: o quadro preenche critérios de dependência, ou transtorno por uso de álcool.",
+    "Errada: delirium tremens é síndrome de abstinência grave, e não descrita no caso.",
+    "Errada: o padrão e os prejuízos descritos não indicam baixo risco.",
+    "Errada: a embriaguez patológica é reação desproporcional a pequena quantidade e não corresponde ao caso.",
+    "Errada: binge drinking é consumo episódico de grande quantidade em curto período, e não prolongado."
+   ],
+   "referencia": "DSM-5 e CID-10/CID-11, critérios de transtorno por uso de álcool.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-043",
@@ -1187,6 +1733,19 @@
   "pegadinha": {
    "letra": "B",
    "atracao": 0.18
+  },
+  "comentario": {
+   "geral": "Pela Resolução CFP nº 10/2000 (psicoterapia), a psicoterapia é um processo científico de compreensão, análise e intervenção por aplicação sistematizada e controlada de métodos e técnicas psicológicas reconhecidos pela ciência, pela prática e pela ética. A alternativa C reproduz essa ideia. As demais restringem o conceito ou fazem afirmações indevidas.",
+   "alternativas": [
+    "Errada: a psicoterapia não se restringe a promover pensamento positivo.",
+    "Errada: a psicoterapia não é o principal recurso para promover saúde mental da população.",
+    "Correta: a psicoterapia é processo científico de compreensão, análise e intervenção por métodos e técnicas reconhecidos.",
+    "Errada: a psicoterapia não é prática privativa do psicólogo, e a comparação com outras modalidades é indevida.",
+    "Errada: a psicoterapia não tem como único potencial o que a alternativa descreve."
+   ],
+   "referencia": "Lei nº 4.119/1962 e normas do Conselho Federal de Psicologia.",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -1214,7 +1773,20 @@
    "edital-13.16"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 16
+  "pdf_pagina": 16,
+  "comentario": {
+   "geral": "O Código de Ética do psicólogo determina assumir responsabilidades profissionais somente por atividades para as quais esteja capacitado pessoal, teórica e técnica. Assim a psicóloga tem autonomia para decidir sobre a avaliação. A alternativa E é a correta. O WAIS não é compulsório, a avaliação não é atribuição de todos os casos da UBS e deve usar fontes variadas.",
+   "alternativas": [
+    "Errada: o WAIS não é compulsório e a escolha de instrumentos cabe ao psicólogo.",
+    "Errada: a avaliação não é atribuição da UBS para todos os usuários, e o cuidado longitudinal vale também antes da cirurgia.",
+    "Errada: a avaliação pode usar fontes complementares, incluindo documentos de outros profissionais.",
+    "Errada: a avaliação psicológica é recomendada em cirurgia bariátrica, que tem grande impacto.",
+    "Correta: a psicóloga decide com autonomia, assumindo responsabilidade apenas por atividades para as quais esteja capacitada."
+   ],
+   "referencia": "Código de Ética Profissional do Psicólogo (Resolução CFP nº 10/2005), art. 1º, alínea b; Resolução CFP nº 31/2022 (avaliação psicológica).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-045",
@@ -1242,7 +1814,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 16
+  "pdf_pagina": 16,
+  "comentario": {
+   "geral": "No grupo operativo de Pichon-Rivière, o grupo se centra na tarefa e aprende a pensar as dificuldades que surgem no campo grupal, e a liderança é exercida pela tarefa. A alternativa B é a correta. As demais descrevem psicoterapia de grupo, a ideia de interioridades unificadas, o treino de habilidades sociais e a Gestalt.",
+   "alternativas": [
+    "Errada: descreve psicoterapia de grupo com meta terapêutica, e não o grupo operativo.",
+    "Correta: o grupo operativo é centrado na tarefa e a liderança é da tarefa.",
+    "Errada: a união de interioridades unificadas não corresponde ao conceito.",
+    "Errada: o treino de habilidades sociais é de grupos cognitivo-comportamentais.",
+    "Errada: a visão do grupo como organismo autorregulado remete à teoria gestáltica ou de campo."
+   ],
+   "referencia": "Pichon-Rivière, E. O processo grupal.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-046",
@@ -1269,7 +1854,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 17
+  "pdf_pagina": 17,
+  "comentario": {
+   "geral": "A crise em saúde mental não é atribuição exclusiva de um serviço nem de um local. A RAPS e os CAPS devem acolher a crise no próprio serviço, no domicílio ou em espaços do território, preservando vínculos. A alternativa E é a correta porque afirma exatamente essa lógica territorial e de rede. As demais reduzem a crise a violência, internação, supressão de sintomas ou causa individual.",
+   "alternativas": [
+    "Errada: a crise não se resolve por padrão com SAMU e internação; o cuidado prioriza acolhimento e manejo no território.",
+    "Errada: o CAPS dispõe de mais estratégias, como acolhimento diurno, atenção domiciliar e projeto terapêutico, além do acolhimento noturno em alguns modelos.",
+    "Errada: o acolhimento é possível na desorganização e é justamente a porta para o cuidado, sem exigir supressão prévia dos sintomas.",
+    "Errada: a crise é compreendida como fenômeno relacional e contextual, não como condição localizada apenas no interior da pessoa.",
+    "Correta: nenhum serviço é o único responsável pela crise, e o cuidado deve ocorrer no CAPS, no domicílio ou no território, preservando vínculos."
+   ],
+   "referencia": "Ministério da Saúde, cadernos e diretrizes da Rede de Atenção Psicossocial (Portaria de Consolidação nº 3/2017, RAPS) e Lei nº 10.216/2001.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-047",
@@ -1296,7 +1894,20 @@
    "edital-13.20"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 17
+  "pdf_pagina": 17,
+  "comentario": {
+   "geral": "Os itens I, II e IV são verdadeiros e o item III é falso, daí a sequência V – V – F – V (alternativa A). A presença do psicólogo cresceu com o SUS, a Reforma se organiza em quatro dimensões (teórico-conceitual, técnico-assistencial, jurídico-político e sociocultural) e o território é central na atuação nos CAPS. O item III é falso porque a RAPS foi instituída em 2011, fora do período 1988–1994.",
+   "alternativas": [
+    "Correta: V – V – F – V reflete que o item III é falso, pois a RAPS não foi criada entre 1988 e 1994.",
+    "Errada: classifica o item IV como falso, mas conhecer o território e fazer matriciamento é atribuição esperada do psicólogo no CAPS.",
+    "Errada: considera falso o item I e verdadeiro o III, invertendo o que está correto.",
+    "Errada: marca como falsos os itens I e II, que descrevem fatos corretos sobre a Psicologia no SUS e as dimensões da Reforma.",
+    "Errada: marca o item II como falso, mas as quatro dimensões da Reforma Psiquiátrica são as descritas."
+   ],
+   "referencia": "Amarante, P. (dimensões da Reforma Psiquiátrica); Portaria nº 3.088/2011 (RAPS).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-048",
@@ -1324,7 +1935,20 @@
    "edital-1.4"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 18
+  "pdf_pagina": 18,
+  "comentario": {
+   "geral": "O caso mostra a escolha de um serviço de acolhimento que escute a criança e a família antes de qualquer patologização. A oitava criança encaminhada da mesma escola na semana sugere queixa escolar coletiva, não um problema individual. Por isso A é a correta: o acolhimento inicial é estratégia para vínculo e escuta de todos. As demais medicalizam o caso, culpam a escola ou excluem a criança.",
+   "alternativas": [
+    "Correta: o acolhimento inicial estabelece vínculo e escuta a família e a própria criança, que tem o que dizer.",
+    "Errada: não é necessário descartar causas clínicas antes do cuidado psicossocial, e o encaminhamento reproduz a medicalização da queixa escolar.",
+    "Errada: a intersetorialidade pede construção conjunta com a escola, não atribuir-lhe a culpa pela queixa.",
+    "Errada: a escola é parceira intersetorial, mas não é ponto de saúde do CAPSi nem local de atendimento clínico.",
+    "Errada: a participação da criança desde o primeiro contato é recomendada, pois sua escuta é parte central do cuidado."
+   ],
+   "referencia": "Ministério da Saúde, diretrizes da atenção psicossocial infantojuvenil e Portaria nº 3.088/2011.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-049",
@@ -1352,7 +1976,20 @@
    "edital-1.9"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 18
+  "pdf_pagina": 18,
+  "comentario": {
+   "geral": "A autonomia na Saúde Coletiva é relativa e processual: capacidade de lidar com a própria rede de dependências e de agir sobre si e sobre o contexto, em gradientes. Os itens I e II descrevem isso. O III é falso porque autonomia não é sinônimo de independência. O IV é falso porque a clínica tradicional tende a reduzir a autonomia, e não a ampliá-la. Logo a alternativa A (apenas I e II) é a correta.",
+   "alternativas": [
+    "Correta: I e II descrevem a autonomia como capacidade relativa e gradual de lidar com dependências.",
+    "Errada: inclui o item III, que trata autonomia e independência como sinônimos, o que o conceito da Saúde Coletiva rejeita.",
+    "Errada: inclui III e IV, ambos falsos, e exclui I e II, que estão corretos.",
+    "Errada: inclui o item III, que confunde autonomia com independência.",
+    "Errada: inclui o item IV, mas a clínica tradicional é criticada por tutelar e reduzir a autonomia dos pacientes."
+   ],
+   "referencia": "Campos, G. W. S. (clínica ampliada e autonomia); Política Nacional de Humanização.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-050",
@@ -1379,7 +2016,20 @@
    "edital-13.18"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 19
+  "pdf_pagina": 19,
+  "comentario": {
+   "geral": "A questão pede a conduta incorreta. As opções A, B, C e D descrevem práticas coerentes com a Atenção Básica: atendimento compartilhado, grupos, visita domiciliar com agente comunitário e apoio matricial/PTS. A alternativa E é a incorreta porque propõe psicodiagnóstico para classificar prioridade de psicoterapia individual, o que desconsidera a lógica de território, vínculo e cuidado coletivo, e equipara equidade a triagem diagnóstica.",
+   "alternativas": [
+    "Errada: o atendimento compartilhado é conduta adequada na AB, portanto não é a incorreta.",
+    "Errada: o grupo de mulheres trabalha determinantes sociais coletivamente e é conduta adequada.",
+    "Errada: a visita domiciliar compartilhada com o agente comunitário é conduta adequada.",
+    "Errada: apoiar a equipe na construção de PTS é conduta adequada ao psicólogo na AB.",
+    "Correta: é a conduta incorreta, pois reduz a atuação a psicodiagnóstico e fila de psicoterapia individual, contrariando os princípios da Atenção Básica."
+   ],
+   "referencia": "Política Nacional de Atenção Básica (Portaria nº 2.436/2017) e diretrizes do NASF/apoio matricial.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-051",
@@ -1407,7 +2057,20 @@
    "edital-13.2"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 19
+  "pdf_pagina": 19,
+  "comentario": {
+   "geral": "O CFP orienta que serviços psicológicos mediados por tecnologia diferenciem aplicação informatizada (mediada por computador, presencial) e remota (on-line), e mantém a responsabilidade de todo o processo de avaliação com o psicólogo. A alternativa D reproduz essa orientação. As demais contradizem as regras do CFP e do Satepsi sobre monitoramento, documentos, testes avaliados e modalidades.",
+   "alternativas": [
+    "Errada: a orientação do CFP era manter monitoramento audiovisual durante a aplicação remota.",
+    "Errada: os documentos devem registrar as condições de realização, inclusive a modalidade remota.",
+    "Errada: o CFP não autorizou o uso de testes sem parecer favorável no Satepsi.",
+    "Correta: o CFP distingue aplicação informatizada e remota e atribui ao psicólogo a responsabilidade por todo o processo.",
+    "Errada: a avaliação remota não se limita a atividades síncronas, pois também admite atividades assíncronas conforme o caso."
+   ],
+   "referencia": "Resoluções e notas técnicas do Conselho Federal de Psicologia sobre avaliação psicológica mediada por tecnologia e Satepsi (não cito número específico).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-052",
@@ -1435,7 +2098,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 20
+  "pdf_pagina": 20,
+  "comentario": {
+   "geral": "A reabilitação psicossocial busca ampliar autonomia e trocas sociais, e a economia solidária (autogestão, cooperação, valorização do trabalho coletivo) é uma de suas estratégias. A cooperativa de reciclagem de pneus é coerente com esses fundamentos, por isso B é a correta. As demais afirmam exclusividade, obrigatoriedade ou hierarquia entre estratégias que não existem.",
+   "alternativas": [
+    "Errada: as oficinas de geração de renda no CAPS são etapa legítima e não contrapõem as cooperativas sociais.",
+    "Correta: a produção cooperativa com material reciclado é coerente com a economia solidária, que se opõe à competição e à hierarquia.",
+    "Errada: a economia solidária é opção do PTS desde o início, sem exigir esgotar o acesso ao mercado formal.",
+    "Errada: a participação técnica não é obrigatória, pois o objetivo é a autonomia e a autogestão do grupo.",
+    "Errada: a economia solidária inclui outras formas, como empreendimentos e redes, e não só oficinas e cooperativas sociais."
+   ],
+   "referencia": "Lei nº 9.867/1999 (cooperativas sociais); Política Nacional de Economia Solidária e diretrizes da reabilitação psicossocial (Saraceno).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-053",
@@ -1462,7 +2138,20 @@
    "edital-13.14"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 20
+  "pdf_pagina": 20,
+  "comentario": {
+   "geral": "Na psico-oncologia o foco com a família é suporte emocional, fortalecimento de vínculos e facilitação do diálogo e do compartilhamento de emoções. A alternativa B descreve essa finalidade. As demais restringem a intervenção a pensamento positivo, luto, uma única abordagem ou evitação do tema, o que empobrece o cuidado.",
+   "alternativas": [
+    "Errada: impor pensamento positivo ignora a ambivalência de sentimentos e responsabiliza a família pelo resultado do tratamento.",
+    "Correta: oferece suporte emocional, reforça vínculos e facilita o diálogo e o compartilhamento de emoções.",
+    "Errada: a intervenção não visa somente o luto, pois acompanha toda a trajetória da doença.",
+    "Errada: não há exigência de que a intervenção se paute exclusivamente na terapia familiar sistêmica.",
+    "Errada: evitar falar sobre o câncer nega a realidade vivida; a intervenção deve acolher esse tema."
+   ],
+   "referencia": "Literatura em psico-oncologia (Instituto Nacional de Câncer, diretrizes de suporte psicossocial); referência genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-054",
@@ -1494,6 +2183,19 @@
   "pegadinha": {
    "letra": "E",
    "atracao": 0.27
+  },
+  "comentario": {
+   "geral": "As oficinas de teatro com apresentação final trabalham expressão e comunicação por meio da arte. Entre as estratégias psicossociais dos CAPS, isso corresponde às práticas expressivas e comunicativas (alternativa D). As outras estratégias citadas têm foco diferente: corpo, grupo, apoio técnico a equipes ou protagonismo político.",
+   "alternativas": [
+    "Errada: práticas corporais tratam do movimento e do corpo, o que não caracteriza a atividade de teatro e apresentação.",
+    "Errada: atendimento em grupo é modalidade terapêutica, e a atividade descrita é uma oficina artística.",
+    "Errada: matriciamento é apoio entre equipes, não atividade com usuários.",
+    "Correta: oficinas de teatro e esquetes são práticas expressivas e comunicativas.",
+    "Errada: o protagonismo envolve participação nas decisões e na gestão do serviço, o que não é o foco da atividade."
+   ],
+   "referencia": "Ministério da Saúde, Portaria nº 3.088/2011 e Portaria nº 336/2002 (CAPS); cadernos da atenção psicossocial.",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -1521,7 +2223,20 @@
    "edital-13.29"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 21
+  "pdf_pagina": 21,
+  "comentario": {
+   "geral": "Os fatores de risco de suicídio incluem transtornos mentais, perdas recentes, dinâmica familiar conturbada, impulsividade e agressividade, doenças crônicas incapacitantes e acesso a meios letais. Bons vínculos, integração a um grupo, união estável e filhos pequenos são fatores protetores. A alternativa E é a única lista que contém apenas fatores de risco.",
+   "alternativas": [
+    "Errada: inclui bons vínculos afetivos, que são fator protetor.",
+    "Errada: inclui a sensação de integração a um grupo ou comunidade, fator protetor.",
+    "Errada: contém apenas fatores protetores.",
+    "Errada: inclui estar casado e ter filhos pequenos, que são fatores protetores.",
+    "Correta: todos os itens listados são fatores de risco reconhecidos."
+   ],
+   "referencia": "Organização Mundial da Saúde e Ministério da Saúde, manuais de prevenção do suicídio (genérico).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-056",
@@ -1549,7 +2264,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 21
+  "pdf_pagina": 21,
+  "comentario": {
+   "geral": "Na esquizofrenia, apatia, anedonia e redução da volição compõem os sintomas negativos, que se caracterizam por empobrecimento afetivo, cognitivo e social. Alucinações e delírios são sintomas positivos. Desorganização do pensamento forma um grupo próprio. Por isso C é a correta, e as demais classificam sintomas de forma incorreta.",
+   "alternativas": [
+    "Errada: alucinações e delírios são sintomas positivos, não negativos.",
+    "Errada: lentificação e empobrecimento psicomotor aparecem entre os sintomas negativos, não de desorganização.",
+    "Correta: apatia, anedonia e abulia compõem os sintomas negativos.",
+    "Errada: os subtipos clínicos foram abandonados no DSM-5, e a sintomatologia por dimensões é que prevalece.",
+    "Errada: a desorganização do pensamento não é sintoma positivo; é um grupo distinto e traz prejuízo, não enriquecimento."
+   ],
+   "referencia": "DSM-5 (esquizofrenia, dimensões de sintomas).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-057",
@@ -1577,7 +2305,20 @@
    "edital-13.28"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 22
+  "pdf_pagina": 22,
+  "comentario": {
+   "geral": "Quando um responsável, em geral a mãe, simula ou provoca sintomas na criança para obter atenção para si, trata-se de Síndrome de Munchausen por procuração, hoje denominada transtorno factício imposto a outro. É forma grave de abuso infantil, o que confirma a alternativa B. Os demais transtornos não envolvem simulação de doença em outra pessoa.",
+   "alternativas": [
+    "Errada: o transtorno borderline envolve instabilidade afetiva e de relações, não simulação de sintomas em terceiros.",
+    "Correta: Munchausen por procuração é simulação de doença em outra pessoa, com exposição a procedimentos desnecessários.",
+    "Errada: o transtorno narcisista tem outro padrão, de grandiosidade e necessidade de admiração.",
+    "Errada: a síndrome do impostor é sentimento de fraude pessoal, não transtorno com vítima.",
+    "Errada: o transtorno hipocondríaco envolve preocupação do próprio sujeito com doença, não da criança."
+   ],
+   "referencia": "DSM-5 (transtorno factício imposto a outro) e Estatuto da Criança e do Adolescente (Lei nº 8.069/1990).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-058",
@@ -1604,7 +2345,20 @@
    "edital-13.30"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 22
+  "pdf_pagina": 22,
+  "comentario": {
+   "geral": "Andréia tem tristeza e choro no puerpério recente (15 dias), com choro no fim do dia, prazer preservado com o bebê e sem comprometimento global. Esse quadro corresponde à tristeza puerperal (baby blues), transitória e autolimitada, alternativa D. A depressão pós-parto exigiria sintomas mais intensos, persistentes e com perda de prazer.",
+   "alternativas": [
+    "Errada: não há episódios maníacos ou hipomaníacos que sugiram transtorno bipolar.",
+    "Errada: não há causa orgânica identificada que fundamente depressão secundária.",
+    "Errada: a depressão atípica exige padrão específico de humor reativo e sintomas, o que não é descrito.",
+    "Correta: sintomas leves, precoces, com prazer preservado e piora no fim do dia, típicos de baby blues.",
+    "Errada: a depressão pós-parto tem intensidade e persistência maiores e perda de prazer, o que Andréia não apresenta."
+   ],
+   "referencia": "DSM-5 (episódio depressivo com início no periparto) e literatura de saúde mental perinatal.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-059",
@@ -1631,7 +2385,20 @@
    "edital-1.4"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 23
+  "pdf_pagina": 23,
+  "comentario": {
+   "geral": "Submeter crianças e adolescentes a procedimentos repetitivos, que os façam reviver a violência, causando sofrimento, estigma ou exposição, é revitimização. A alternativa C nomeia esse conceito. As demais são outras formas de violência ou conceitos que não descrevem a repetição institucional da situação.",
+   "alternativas": [
+    "Errada: negligência é omissão de cuidado, não repetição de procedimentos que fazem reviver a violência.",
+    "Errada: exposição não é o termo que define o conjunto do fenômeno descrito.",
+    "Correta: revitimização é a violência institucional ao repetir procedimentos que reativam o sofrimento.",
+    "Errada: violência psicológica é outra forma, ligada a humilhação e ameaça por quem agride.",
+    "Errada: abuso de poder não nomeia esse fenômeno específico."
+   ],
+   "referencia": "Lei nº 13.431/2017 (escuta especializada e depoimento especial; conceito de revitimização).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2022-psicologia-t01-060",
@@ -1659,6 +2426,19 @@
    "edital-13.28"
   ],
   "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2022-2023/provas/area-uni-e-multiprofissional/psicologia-t049-tipo-1.pdf",
-  "pdf_pagina": 23
+  "pdf_pagina": 23,
+  "comentario": {
+   "geral": "Milena tem compulsões alimentares seguidas de vômito autoinduzido e exercício, com culpa, há 2 anos, o que caracteriza bulimia nervosa. Pelo DSM-5 a gravidade se define pela frequência semanal dos comportamentos compensatórios, e o gabarito oficial a classifica como grave (alternativa C). Anorexia e hipocondria não explicam o ciclo compulsão-purgação.",
+   "alternativas": [
+    "Errada: a gravidade leve corresponde a poucos episódios compensatórios por semana, o que não condiz com o relato.",
+    "Errada: a gravidade moderada corresponde a frequência menor que a relatada.",
+    "Correta: a frequência de episódios com vômito diários, durante 2 anos, enquadra-se como bulimia nervosa grave.",
+    "Errada: na anorexia há restrição e baixo peso, e o quadro descrito é de compulsão com compensação.",
+    "Errada: hipocondria envolve preocupação com doenças, não o ciclo compulsão-purgação."
+   ],
+   "referencia": "DSM-5 (bulimia nervosa e especificadores de gravidade).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  }
 ]

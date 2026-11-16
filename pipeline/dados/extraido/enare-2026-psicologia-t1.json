@@ -3551,7 +3551,20 @@
    "edital-13.18"
   ],
   "fonte_url": "https://enare2026.conhecimento.fgv.br/docs/32fa57ca8c68813da99cd37512bddd79.pdf",
-  "pdf_pagina": 17
+  "pdf_pagina": 17,
+  "comentario": {
+   "geral": "Na Atenção Básica, o psicólogo atua com foco na promoção da saúde, na prevenção e no cuidado no território, em equipe e com ações coletivas. Rodas de conversa e grupos de convivência para promover hábitos saudáveis e manejar o estresse são exemplos dessas práticas, o que torna a alternativa E a correta. As demais citam atividades que não definem a atuação na AB: testagem de aptidão, clínica de consultório, seleção para pesquisas e manejo medicamentoso, que cabe ao prescritor.",
+   "alternativas": [
+    "Errada: a testagem de capacidade e aptidão diante de estresse e trauma remete à avaliação psicológica em outros contextos e não é a atuação típica do psicólogo na AB.",
+    "Errada: o atendimento de consultório com base psicanalítica reproduz o modelo clínico tradicional, ao passo que na AB a atuação é territorial, coletiva e interdisciplinar.",
+    "Errada: selecionar perfis para participar de estudos é atividade de pesquisa, e não ação de cuidado da AB.",
+    "Errada: o psicólogo não faz manejo medicamentoso, que é atribuição de prescritores; a escuta na AB visa o cuidado psicossocial.",
+    "Correta: rodas de conversa e grupos de convivência são ações de promoção da saúde típicas do psicólogo na Atenção Básica."
+   ],
+   "referencia": "Política Nacional de Atenção Básica; Referências Técnicas para atuação de psicólogas(os) na Atenção Básica (CREPOP/CFP). Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2026-psicologia-t1-091",

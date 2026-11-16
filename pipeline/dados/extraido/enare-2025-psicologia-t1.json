@@ -24,7 +24,20 @@
    "edital-1.1"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 3
+  "pdf_pagina": 3,
+  "comentario": {
+   "geral": "O Departamento Nacional de Saúde Pública, reorganizado por Carlos Chagas em 1920, ampliou a atuação federal em saúde, incluindo a produção e a fiscalização de soros e vacinas. Por isso a alternativa D é a correta. Política de vacinação infantil, PNI e Fiocruz não foram atribuições ou criações do DNSP, e o controle sanitário dos portos foi mantido.",
+   "alternativas": [
+    "Errada: a política sistemática de vacinação infantil não foi atribuição do DNSP.",
+    "Errada: o Programa Nacional de Imunizações foi criado muito depois, em 1973.",
+    "Errada: a Fiocruz tem origem no Instituto Soroterápico Federal, criado em 1900, antes do DNSP.",
+    "Correta: o DNSP passou a fornecer e fiscalizar o preparo de soros e vacinas.",
+    "Errada: o DNSP não suprimiu, mas ampliou o controle sanitário dos portos."
+   ],
+   "referencia": "História da saúde pública no Brasil: reforma de Carlos Chagas e criação do DNSP em 1920 (genérico).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-002",
@@ -51,7 +64,20 @@
    "edital-1.1"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 3
+  "pdf_pagina": 3,
+  "comentario": {
+   "geral": "A Reforma Sanitária foi protagonizada por movimentos sociais e profissionais da saúde, que propuseram universalização do acesso e democratização das políticas de saúde, o que levou ao SUS. A alternativa C descreve corretamente esse papel. As demais atribuem a liderança a setores privados, empresariais, corporativos e militares, que não conduziram a proposta.",
+   "alternativas": [
+    "Errada: os grandes hospitais privados não lideraram a unificação dos sistemas.",
+    "Errada: setores empresariais não defenderam financiamento integral pelo Estado.",
+    "Correta: movimentos sociais articularam universalização e democratização.",
+    "Errada: corporações médicas tradicionais não lideraram a descentralização.",
+    "Errada: setores do regime militar não conduziram a expansão pública fora da lógica de mercado."
+   ],
+   "referencia": "Movimento da Reforma Sanitária; 8ª Conferência Nacional de Saúde (1986) e Constituição Federal de 1988.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-003",
@@ -82,6 +108,19 @@
   "pegadinha": {
    "letra": "B",
    "atracao": 0.6
+  },
+  "comentario": {
+   "geral": "O Decreto nº 7.508/2011 define a Região de Saúde como referência para as transferências de recursos entre os entes federativos (alternativa A). As portas de entrada incluem atenção primária, urgência e emergência, atenção psicossocial e serviços especiais de acesso aberto, e não só duas. Os demais itens distorcem competências.",
+   "alternativas": [
+    "Correta: as Regiões de Saúde são referência para as transferências de recursos entre os entes.",
+    "Errada: as portas de entrada não se limitam a atenção primária e urgência, pois incluem também atenção psicossocial e serviços especiais de acesso aberto.",
+    "Errada: serviços ambulatoriais especializados não são portas de entrada.",
+    "Errada: as diretrizes das redes são pactuadas pelos entes federativos nas comissões intergestores, não só pelas secretarias municipais.",
+    "Errada: a Relação Nacional de Medicamentos Essenciais e os protocolos cabem ao Ministério da Saúde, não ao Ministério da Educação."
+   ],
+   "referencia": "Decreto nº 7.508/2011, que regulamenta a Lei nº 8.080/1990.",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -113,6 +152,19 @@
   "pegadinha": {
    "letra": "D",
    "atracao": 0.3
+  },
+  "comentario": {
+   "geral": "O paciente com câncer de laringe precisa do conjunto de ações e serviços de diferentes níveis, da biópsia à quimio e radioterapia. Esse acesso contínuo a todos os níveis necessários corresponde à integralidade (alternativa C). Equidade, universalidade, hierarquização e justiça social têm outro foco.",
+   "alternativas": [
+    "Errada: equidade trata de tratar desigualmente os desiguais, o que não é o foco do encaminhamento.",
+    "Errada: universalidade é o direito de todos ao acesso, sem relação direta com o encaminhamento entre níveis.",
+    "Correta: integralidade é o acesso ao conjunto de ações necessário, da promoção à alta complexidade.",
+    "Errada: hierarquização trata da organização por níveis, mas não fundamenta o tratamento completo do caso.",
+    "Errada: justiça social não é princípio específico do SUS."
+   ],
+   "referencia": "Lei nº 8.080/1990, art. 7º (princípios do SUS) e Constituição Federal, art. 198.",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -140,7 +192,20 @@
    "edital-1.2"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 3
+  "pdf_pagina": 3,
+  "comentario": {
+   "geral": "A Lei nº 8.142/1990 condiciona os repasses ao Fundo Municipal, ao conselho, ao plano de saúde e ao relatório de gestão. Se o município não cumprir os requisitos, os recursos são administrados pelo Estado ou pela União, conforme o caso, o que corresponde à alternativa C.",
+   "alternativas": [
+    "Errada: a lei não prevê repasse com restrição ao custeio.",
+    "Errada: não há previsão de repasse parcial proporcional.",
+    "Correta: sem os requisitos, os recursos passam a ser administrados pela esfera imediatamente superior.",
+    "Errada: não há previsão de devolução anual de valores.",
+    "Errada: a lei não prevê suspensão apenas de transferências estaduais."
+   ],
+   "referencia": "Lei nº 8.142/1990 (art. 4º, parágrafo único).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-006",
@@ -167,7 +232,20 @@
    "edital-1.3"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 3
+  "pdf_pagina": 3,
+  "comentario": {
+   "geral": "Integração vertical é a articulação entre diferentes níveis de atenção, da básica à alta complexidade. O encaminhamento da UBS ao atendimento especializado e depois à alta complexidade é o exemplo (alternativa D). As outras opções cooperam entre serviços de mesmo nível, ou seja, integração horizontal.",
+   "alternativas": [
+    "Errada: laboratórios de municípios vizinhos se integram horizontalmente.",
+    "Errada: CAPS do mesmo tipo pactuando ações é integração horizontal.",
+    "Errada: dois hospitais gerais cooperando é integração horizontal.",
+    "Correta: encaminhamento da UBS ao especializado e à alta complexidade articula níveis diferentes.",
+    "Errada: duas UBS compartilhando equipe é integração horizontal."
+   ],
+   "referencia": "Mendes, E. V. (Redes de Atenção à Saúde); Portaria nº 4.279/2010.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-007",
@@ -194,7 +272,20 @@
    "edital-1.3"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "As RAS têm como atributos a adscrição de clientela e a continuidade do cuidado por referência e contrarreferência. Os dois primeiros itens são verdadeiros. O terceiro é falso porque a Atenção Primária é o centro de comunicação e coordenadora da rede, não sua periferia. Assim a sequência V – V – F (alternativa D) é a correta.",
+   "alternativas": [
+    "Errada: marca como falso o item sobre adscrição, que é verdadeiro.",
+    "Errada: marca falso o primeiro item e verdadeiro o terceiro, invertendo ambos.",
+    "Errada: marca como falso o item de referência e contrarreferência, que é verdadeiro.",
+    "Correta: V – V – F, pois a APS ocupa posição central e coordena a rede.",
+    "Errada: marca como verdadeiro o item que coloca a APS na periferia, o que é falso."
+   ],
+   "referencia": "Portaria nº 4.279/2010 (RAS) e Mendes, E. V.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-008",
@@ -221,7 +312,20 @@
    "edital-1.4"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "As Equipes de Consultório na Rua atuam por busca ativa e vão até onde a população em situação de rua está, sem exigir comprovação, encaminhamento ou cadastro prévios. A alternativa D descreve esse funcionamento. As demais impõem barreiras de acesso que contrariam a universalidade e o acesso facilitado.",
+   "alternativas": [
+    "Errada: não há exigência de comprovar nacionalidade.",
+    "Errada: o atendimento não depende da procura ativa do usuário pela unidade.",
+    "Errada: não é exigido encaminhamento formal da atenção primária.",
+    "Correta: a identificação ocorre por abordagem ativa das equipes no território.",
+    "Errada: não se exige cadastro prévio em programas sociais."
+   ],
+   "referencia": "Política Nacional de Atenção Básica (Portaria nº 2.436/2017) e Política Nacional para a População em Situação de Rua.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-009",
@@ -248,7 +352,20 @@
    "edital-1.4"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "A Portaria nº 2.803/2013 propõe atenção integral, com equipes interdisciplinares e multiprofissionais e entrada pela Atenção Básica com acolhimento sem discriminação. O item I é falso porque a integralidade não centraliza a meta terapêutica em cirurgias. Os itens II e III são verdadeiros, daí F – V – V (alternativa A).",
+   "alternativas": [
+    "Correta: I falso, II e III verdadeiros.",
+    "Errada: considera verdadeiro o item I, mas a meta não se centraliza em cirurgias e intervenções somáticas.",
+    "Errada: marca II como verdadeiro mas III como falso e I como falso, e o III é verdadeiro.",
+    "Errada: marca I como verdadeiro e II como falso, o que inverte o correto.",
+    "Errada: marca II como falso, mas o atendimento por equipes interdisciplinares é diretriz."
+   ],
+   "referencia": "Portaria nº 2.803/2013, do Ministério da Saúde (Processo Transexualizador no SUS).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-010",
@@ -275,7 +392,20 @@
    "edital-1.5"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "Longitudinalidade é o acompanhamento contínuo do usuário ao longo do tempo, com vínculo com a mesma equipe. O acompanhamento de um hipertenso por anos pela mesma equipe exemplifica esse atributo (alternativa E). As outras opções ilustram promoção da saúde, integralidade, resolutividade ou planejamento epidemiológico.",
+   "alternativas": [
+    "Errada: ações educativas em grupo ilustram promoção da saúde, não a continuidade do cuidado.",
+    "Errada: integrar níveis é integralidade ou coordenação.",
+    "Errada: encaminhamento imediato não exemplifica vínculo continuado.",
+    "Errada: planejamento por indicadores ilustra território e epidemiologia.",
+    "Correta: acompanhamento contínuo pela mesma equipe ao longo dos anos."
+   ],
+   "referencia": "Starfield, B. (atributos da atenção primária) e Política Nacional de Atenção Básica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-011",
@@ -306,6 +436,19 @@
   "pegadinha": {
    "letra": "B",
    "atracao": 0.17
+  },
+  "comentario": {
+   "geral": "Na PNAB 2017, a União deve apoiar financeiramente a AB com critérios de equidade, o que inclui dar mais a quem tem maior necessidade. Dirigir mais repasses a municípios de maior densidade populacional, sem esse critério, viola a responsabilidade federal (alternativa A). As demais descrevem ações compatíveis com as responsabilidades de estado, município, equipes e conselhos.",
+   "alternativas": [
+    "Correta: direcionar mais recursos pela densidade populacional contraria a equidade que orienta os repasses federais.",
+    "Errada: metas escalonadas de expansão pelo estado são compatíveis com suas responsabilidades.",
+    "Errada: usar os sistemas oficiais de informação é atribuição das equipes.",
+    "Errada: ampliar gradualmente a infraestrutura é responsabilidade do município.",
+    "Errada: conselhos organizando encontros com a comunidade exercem o controle social."
+   ],
+   "referencia": "Portaria nº 2.436/2017 (PNAB), responsabilidades de cada esfera de governo.",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -333,7 +476,20 @@
    "edital-1.5"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 4
+  "pdf_pagina": 4,
+  "comentario": {
+   "geral": "Na PNAB 2017, o profissional da ESF não precisa ser especialista em medicina de família ou saúde da família, embora isso seja desejável. Por isso C é a correta. Saúde bucal é opcional na composição mínima, a cobertura deve ser de 100%, e a carga horária não é de 10 horas.",
+   "alternativas": [
+    "Errada: o profissional de saúde bucal não é obrigatório, podendo compor a equipe.",
+    "Errada: a cobertura de 75% não é regra para áreas de risco, pois a meta é 100% da população adscrita.",
+    "Correta: médicos e enfermeiros não precisam ser especialistas na área.",
+    "Errada: a carga horária de 10 horas semanais não corresponde à regra, que é de 40 horas semanais.",
+    "Errada: a distribuição da carga horária é definida pela gestão e pela equipe, não por cada profissional por conta própria."
+   ],
+   "referencia": "Portaria nº 2.436/2017 (PNAB).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-013",
@@ -360,7 +516,20 @@
    "edital-1.6"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "A PNEPS propõe aprender no trabalho, a partir dos problemas reais do serviço e com participação dos trabalhadores. Encontros periódicos para elaborar estratégias a partir da realidade local expressam isso (alternativa B). Capacitações pré-definidas ou treinamentos externos são educação continuada tradicional.",
+   "alternativas": [
+    "Errada: capacitações verticais de planos pré-definidos são educação continuada.",
+    "Correta: reunião da equipe para qualificar o cuidado a partir da realidade local é educação permanente.",
+    "Errada: cursos presenciais técnicos genéricos não partem da realidade do serviço.",
+    "Errada: oficinas sobre gestão administrativa sem partir dos problemas locais não configuram educação permanente.",
+    "Errada: treinamentos por empresa contratada com protocolos padronizados são educação continuada."
+   ],
+   "referencia": "Política Nacional de Educação Permanente em Saúde (Portaria GM/MS nº 198/2004).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-014",
@@ -387,7 +556,20 @@
    "edital-1.7"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "Reorganizar a escala de trabalho (gestão) e implantar acolhimento com classificação de risco (atenção) em conjunto ilustra a indissociabilidade entre atenção e gestão, princípio da PNH. A alternativa E é a correta. Os demais princípios tratam de participação, articulação entre saberes e corresponsabilidade.",
+   "alternativas": [
+    "Errada: protagonismo trata da participação dos usuários, não do caso de reorganização do serviço.",
+    "Errada: transversalidade trata de articular saberes e práticas entre áreas.",
+    "Errada: corresponsabilidade trata do compromisso compartilhado de trabalhadores e usuários.",
+    "Errada: autonomia dos sujeitos e coletivos trata da ampliação da capacidade de decisão, não da reorganização do serviço.",
+    "Correta: a mudança na gestão da escala e a implantação do acolhimento com classificação de risco unem gestão e atenção."
+   ],
+   "referencia": "Política Nacional de Humanização (HumanizaSUS), princípios orientadores.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-015",
@@ -414,7 +596,20 @@
    "edital-1.8"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "A Portaria nº 1.378/2013 define as responsabilidades das esferas na vigilância em saúde. À Anvisa cabe regular, controlar e fiscalizar procedimentos, produtos, substâncias e serviços de saúde e de interesse para a saúde (alternativa B). As demais atribuições pertencem ao Ministério da Saúde.",
+   "alternativas": [
+    "Errada: a coordenação do PNI cabe ao Ministério da Saúde.",
+    "Correta: regular, controlar e fiscalizar produtos e serviços é atribuição da Anvisa.",
+    "Errada: coordenar a resposta a emergências em saúde pública cabe ao Ministério da Saúde.",
+    "Errada: prover insumos para IST é atribuição do Ministério da Saúde.",
+    "Errada: prover insumos para doenças de vetores é atribuição do Ministério da Saúde."
+   ],
+   "referencia": "Portaria GM/MS nº 1.378/2013.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-016",
@@ -441,7 +636,20 @@
    "edital-1.8"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "A PNVS abrange vigilância epidemiológica, sanitária, ambiental e em saúde do trabalhador. Inspeção sanitária, vacinação, saúde do trabalhador e monitoramento da água e do ar estão no escopo. Vistoria de equipamentos hospitalares com foco em controle de custos é função de gestão e auditoria, não de vigilância (alternativa E).",
+   "alternativas": [
+    "Errada: inspeção sanitária de estabelecimentos é vigilância sanitária.",
+    "Errada: campanhas de vacinação integram a vigilância epidemiológica.",
+    "Errada: a saúde do trabalhador é componente da PNVS.",
+    "Errada: monitorar água e ar é vigilância ambiental.",
+    "Correta: vistoria com foco em controle de custos é gestão financeira, fora do escopo da PNVS."
+   ],
+   "referencia": "Política Nacional de Vigilância em Saúde (Resolução CNS nº 588/2018).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-017",
@@ -472,6 +680,19 @@
   "pegadinha": {
    "letra": "A",
    "atracao": 0.89
+  },
+  "comentario": {
+   "geral": "Associações: a cirurgia sem informação viola a autonomia (1). Prescrever medicamento com toxicidade maior que o benefício viola a beneficência (4). Priorizar pacientes de convênio sobre os do SUS viola a justiça (2). Manter tratamento sem benefício em paciente terminal expõe a dano, o que viola a não maleficência (3). A sequência é 1, 4, 2 e 3 (alternativa B).",
+   "alternativas": [
+    "Errada: associa o segundo exemplo à não maleficência e o quarto à beneficência, trocando os dois.",
+    "Correta: 1, 4, 2 e 3 associa cada exemplo ao princípio violado.",
+    "Errada: começa com beneficência para o consentimento, que é questão de autonomia.",
+    "Errada: começa com justiça para o procedimento sem informação, que é questão de autonomia.",
+    "Errada: começa com beneficência para o procedimento sem informação, o que é incorreto."
+   ],
+   "referencia": "Beauchamp e Childress, Princípios de Ética Biomédica (quatro princípios).",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -499,7 +720,20 @@
    "edital-1.10"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 5
+  "pdf_pagina": 5,
+  "comentario": {
+   "geral": "O Programa Nacional de Segurança do Paciente exige que os serviços de saúde constituam Núcleos de Segurança do Paciente, responsáveis pelo plano de segurança. Por isso D é a correta. As demais propostas contrariam o programa, que valoriza participação do paciente, comunicação clara e notificação.",
+   "alternativas": [
+    "Errada: o programa não obriga visitas irrestritas em UTI.",
+    "Errada: não prioriza intervenções off-label sem notificação, e a notificação é valorizada.",
+    "Errada: o programa estimula a participação de pacientes e acompanhantes.",
+    "Correta: a instituição do Núcleo de Segurança do Paciente é obrigatória.",
+    "Errada: a comunicação deve ser clara, e não exclusivamente técnica."
+   ],
+   "referencia": "Portaria MS nº 529/2013 (PNSP) e RDC Anvisa nº 36/2013.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-019",
@@ -526,7 +760,20 @@
    "edital-1.12"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 6
+  "pdf_pagina": 6,
+  "comentario": {
+   "geral": "Risco biológico é a exposição a microrganismos. Contato com sangue contaminado na coleta de amostras é o exemplo (alternativa D). Gases anestésicos, formaldeído, óxido nitroso e glutaraldeído são agentes químicos.",
+   "alternativas": [
+    "Errada: gases anestésicos são risco químico.",
+    "Errada: formaldeído é risco químico.",
+    "Errada: óxido nitroso é risco químico.",
+    "Correta: sangue contaminado envolve agentes biológicos.",
+    "Errada: glutaraldeído é risco químico."
+   ],
+   "referencia": "Norma Regulamentadora nº 32 (NR-32), Ministério do Trabalho.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-020",
@@ -553,7 +800,20 @@
    "edital-1.11"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 6
+  "pdf_pagina": 6,
+  "comentario": {
+   "geral": "O paciente recebeu orientações de três profissionais que atuaram isoladamente, sem integração das condutas nem explicação conjunta. Isso caracteriza a fragmentação do cuidado multiprofissional (alternativa A). Comunicação, sobrecarga, hierarquia e vínculos trabalhistas não aparecem no caso.",
+   "alternativas": [
+    "Correta: ações paralelas e desarticuladas deixam o paciente sem compreensão do plano de cuidado.",
+    "Errada: o texto não descreve falha de comunicação entre os profissionais, mas ausência de integração do cuidado.",
+    "Errada: não há menção a sobrecarga de trabalho.",
+    "Errada: não há indício de hierarquia entre as profissões.",
+    "Errada: o texto não trata de vínculos de trabalho."
+   ],
+   "referencia": "Peduzzi, M. (trabalho em equipe e integração do cuidado); referência genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-021",
@@ -580,7 +840,20 @@
    "edital-1.9"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 6
+  "pdf_pagina": 6,
+  "comentario": {
+   "geral": "As diretivas antecipadas de vontade expressam a autonomia do paciente sobre tratamentos em caso de incapacidade e devem ser respeitadas por equipe e família. O documento escrito de próprio punho do Sr. Mário vale como manifestação de vontade, o que confirma a alternativa A. As demais impõem exigências, tutela ou obrigação de preservar a vida que a norma não prevê.",
+   "alternativas": [
+    "Correta: as diretivas antecipadas devem ser respeitadas.",
+    "Errada: o testamento vital não exige procuração registrada em cartório.",
+    "Errada: a idade avançada não retira a capacidade de decidir.",
+    "Errada: o ordenamento não obriga a esgotar todos os recursos, e a ortotanásia é admitida.",
+    "Errada: o psicólogo não certifica condições para distanásia, que é a prolongação artificial que o paciente recusou."
+   ],
+   "referencia": "Resolução CFM nº 1.995/2012 (diretivas antecipadas de vontade).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-022",
@@ -611,6 +884,19 @@
   "pegadinha": {
    "letra": "A",
    "atracao": 0.5
+  },
+  "comentario": {
+   "geral": "Diante de um quadro agudo com risco, a Reforma Psiquiátrica e a RAPS preveem cuidado em serviços abertos, com leitos de saúde mental em hospital geral como componente da rede para crises. A alternativa B é a correta. CAPS AD é para substâncias, hospital de custódia é para medida de segurança, residências não recebem internação compulsória e domicílio isolado não dá conta do risco.",
+   "alternativas": [
+    "Errada: o CAPS AD atende álcool e drogas e o tratamento ambulatorial não responde ao quadro agudo com risco.",
+    "Correta: leito de saúde mental em hospital geral é o componente da RAPS para crise aguda com risco.",
+    "Errada: hospital de custódia é para medida de segurança penal, não para quadro agudo sem infração.",
+    "Errada: serviço residencial terapêutico é moradia, não local de internação compulsória.",
+    "Errada: tratamento domiciliar por um único profissional não responde ao risco agudo."
+   ],
+   "referencia": "Lei nº 10.216/2001 e Portaria nº 3.088/2011 (RAPS).",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -639,7 +925,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 6
+  "pdf_pagina": 6,
+  "comentario": {
+   "geral": "Segundo o DSM-5, o diagnóstico de esquizofrenia exige dois ou mais sintomas entre delírios, alucinações, discurso desorganizado, comportamento desorganizado ou catatônico e sintomas negativos, sendo ao menos um entre delírios, alucinações e discurso desorganizado. A alternativa D traz dois sintomas do Critério A. As demais misturam itens de outros quadros.",
+   "alternativas": [
+    "Errada: ideação suicida não compõe o critério A.",
+    "Errada: humor hipomaníaco não é critério de esquizofrenia.",
+    "Errada: delirium tremens é quadro de abstinência alcoólica.",
+    "Correta: discurso desorganizado e alucinações são sintomas do Critério A.",
+    "Errada: obsessões e compulsões são critérios do transtorno obsessivo-compulsivo."
+   ],
+   "referencia": "DSM-5, critérios diagnósticos da esquizofrenia (Critério A).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-024",
@@ -666,7 +965,20 @@
    "edital-13.24"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 6
+  "pdf_pagina": 6,
+  "comentario": {
+   "geral": "Apenas o item II é correto. Tolerância é a necessidade de doses crescentes para o mesmo efeito. O item I é falso porque a morfina é depressora e a cocaína é estimulante, e nenhuma é perturbadora. O item III é falso porque o uso recreativo de opioides provoca síndrome de abstinência. A alternativa A é a correta.",
+   "alternativas": [
+    "Correta: apenas a afirmação sobre a tolerância é verdadeira.",
+    "Errada: inclui o item I, pois cocaína é estimulante, e morfina é depressora.",
+    "Errada: inclui I e III, ambos falsos.",
+    "Errada: inclui o item III, que é falso, pois a interrupção de opioides produz abstinência.",
+    "Errada: inclui I e III, que são falsos."
+   ],
+   "referencia": "DSM-5 (transtornos relacionados a opioides, tolerância e abstinência) e farmacologia clássica das drogas psicoativas.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-025",
@@ -693,7 +1005,20 @@
    "edital-13.14"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 7
+  "pdf_pagina": 7,
+  "comentario": {
+   "geral": "O genograma é um mapa gráfico da família ao longo de gerações, usado na terapia sistêmica para identificar padrões de comportamento, conflitos, alianças e eventos significativos. A alternativa C descreve essa função. As demais atribuem ao instrumento usos de outras abordagens ou de genética médica.",
+   "alternativas": [
+    "Errada: aferir prontidão para mudança é objetivo de instrumentos motivacionais, não do genograma.",
+    "Errada: homenagem aos antepassados faz parte de outra prática, a constelação familiar.",
+    "Correta: o genograma mapeia padrões, conflitos, alianças e eventos entre gerações.",
+    "Errada: rastrear doenças hereditárias é função do heredograma em genética médica.",
+    "Errada: abreviar a terapia com metas e prazos não é função do genograma."
+   ],
+   "referencia": "McGoldrick, M. e Gerson, R., Genogramas na avaliação familiar.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-026",
@@ -720,7 +1045,20 @@
    "edital-13.8"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 7
+  "pdf_pagina": 7,
+  "comentario": {
+   "geral": "Kübler-Ross descreve cinco fases: negação, raiva, barganha, depressão e aceitação. Os pais, ao fazerem promessas em templo religioso pela cura da filha, vivem a fase de barganha ou negociação (alternativa D). As outras opções atribuem fases a pessoas erradas ou a sentimentos que o caso não mostra.",
+   "alternativas": [
+    "Errada: o caso não descreve a impotência ou a depressão de Cecília, mas as reações dos pais.",
+    "Errada: o texto não mostra raiva ou revolta da família.",
+    "Errada: promessas pela cura indicam que o casal não aceitou a finitude.",
+    "Correta: as promessas por milagres são negociação típica da barganha.",
+    "Errada: a negação é fase do paciente ou da família, não dos médicos."
+   ],
+   "referencia": "Kübler-Ross, E., Sobre a Morte e o Morrer.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-027",
@@ -747,7 +1085,20 @@
    "edital-13.16"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 7
+  "pdf_pagina": 7,
+  "comentario": {
+   "geral": "As normativas do CFP tratam a avaliação psicológica em procedimentos cirúrgicos como processo de acompanhamento, com decisão informada, preparo emocional, expectativas e discussão em equipe. A alternativa E é a exceção porque a testagem para laudo de aptidão mental não é atribuição prevista para essa finalidade. As demais são atribuições legítimas.",
+   "alternativas": [
+    "Errada: orientar para decisão informada é atribuição do psicólogo.",
+    "Errada: preparar emocionalmente para a cirurgia é atribuição do psicólogo.",
+    "Errada: abordar expectativas sobre os resultados é atribuição do psicólogo.",
+    "Errada: avaliar a demanda com a equipe é atribuição do psicólogo.",
+    "Correta: é a exceção, pois a atuação não se limita a testagem para laudo de aptidão mental."
+   ],
+   "referencia": "Resoluções do Conselho Federal de Psicologia sobre avaliação psicológica e atuação em procedimentos cirúrgicos (não cito número).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-028",
@@ -774,7 +1125,20 @@
    "edital-13.30"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 7
+  "pdf_pagina": 7,
+  "comentario": {
+   "geral": "A entrega voluntária de filho para adoção é direito da gestante e deve ser acompanhada pela Justiça da Infância e Juventude, protegendo mãe e bebê. A alternativa D é a correta. As demais criminalizam, patologizam ou naturalizam o amor materno, sem base no caso.",
+   "alternativas": [
+    "Errada: a entrega voluntária por meio da Justiça não é crime nem erro a ser persuadido.",
+    "Errada: a rejeição não decorre necessariamente de depressão puerperal.",
+    "Errada: o amor materno não é instintivo, e não se deve forçar a amamentação.",
+    "Correta: a entrega em adoção é direito e requer encaminhamento e acompanhamento da Justiça.",
+    "Errada: não há dados de psicose puerperal no caso."
+   ],
+   "referencia": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), arts. 19-A e seguintes (entrega voluntária).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-029",
@@ -802,7 +1166,20 @@
    "edital-13.11"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 7
+  "pdf_pagina": 7,
+  "comentario": {
+   "geral": "Entre os fatores terapêuticos dos grupos de ajuda mútua, descritos por Yalom, está a aprendizagem interpessoal. A alternativa B é a correta. Redução de danos, dessensibilização, pré-contemplação e codependência não são fatores terapêuticos desses grupos.",
+   "alternativas": [
+    "Errada: redução de danos é abordagem distinta da abstinência dos grupos de ajuda mútua.",
+    "Correta: a aprendizagem interpessoal é fator terapêutico do trabalho em grupo.",
+    "Errada: dessensibilização sistemática é técnica comportamental.",
+    "Errada: pré-contemplação é estágio do modelo transteórico, não fator terapêutico.",
+    "Errada: codependência é problema, não fator terapêutico."
+   ],
+   "referencia": "Yalom, I. D., fatores terapêuticos em psicoterapia de grupo.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-030",
@@ -829,7 +1206,20 @@
    "edital-13.27"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 7
+  "pdf_pagina": 7,
+  "comentario": {
+   "geral": "Os primeiros cuidados psicológicos priorizam necessidades básicas, conforto e proteção, sem forçar relato nem tratar transtornos. Os itens I e II descrevem isso. O item III é errado porque incentivar a falar para tratar TEPT não é primeiro cuidado e pode fazer mal. A alternativa B (I e II) é a correta.",
+   "alternativas": [
+    "Errada: omite o item II, que também é verdadeiro.",
+    "Correta: I e II são verdadeiros e III é falso.",
+    "Errada: inclui o item III, que impõe relato e tratamento de TEPT.",
+    "Errada: exclui o item I e inclui o III.",
+    "Errada: inclui o item III, que é falso."
+   ],
+   "referencia": "Organização Mundial da Saúde, Primeiros Cuidados Psicológicos: guia para trabalhadores de campo (2015).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-031",
@@ -856,7 +1246,20 @@
    "edital-13.21"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 8
+  "pdf_pagina": 8,
+  "comentario": {
+   "geral": "A Portaria GM/MS nº 5.201/2024 atualizou a lista de doenças e agravos de notificação compulsória e incluiu transtornos mentais relacionados ao trabalho. Estão certas as asserções I (burnout), II (ansiedade em trabalhadores noturnos por abuso de estimulantes) e III (depressão decorrente de assédio organizacional). As asserções IV (doenças osteomusculares e LER/DORT) e V (TDAH) não são transtornos mentais relacionados ao trabalho: a primeira é osteomuscular e a segunda é do neurodesenvolvimento. Por isso a alternativa A é a correta.",
+   "alternativas": [
+    "Correta: a lista de transtornos mentais relacionados ao trabalho inclui burnout, ansiedade em trabalhadores noturnos e depressão por assédio organizacional.",
+    "Errada: inclui a IV, que é agravo osteomuscular e não transtorno mental, e deixa de fora a II.",
+    "Errada: inclui IV e V, que não são transtornos mentais relacionados ao trabalho, e omite I e III.",
+    "Errada: a IV (LER/DORT) é doença osteomuscular, não transtorno mental, mesmo sendo ocupacional.",
+    "Errada: a IV e a V não pertencem ao grupo; o TDAH é transtorno do neurodesenvolvimento, sem relação causal com o trabalho."
+   ],
+   "referencia": "Portaria GM/MS nº 5.201/2024 (Lista de Notificação Compulsória).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-032",
@@ -883,7 +1286,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 8
+  "pdf_pagina": 8,
+  "comentario": {
+   "geral": "A reestruturação cognitiva é a técnica central da TCC para trabalhar pensamentos automáticos disfuncionais. Cláudia antecipa ser desmascarada e ridicularizada, o que é um pensamento automático negativo e distorcido (catastrofização, leitura mental, medo de fraude). A técnica ajuda a identificar, testar a evidência e substituir por pensamentos mais realistas, o que corresponde à alternativa B.",
+   "alternativas": [
+    "Errada: descreve técnicas operantes (reforço e punição), próprias da análise do comportamento, não a reestruturação cognitiva.",
+    "Correta: a reestruturação cognitiva atua sobre pensamentos e crenças.",
+    "Errada: descreve a exposição gradual com relaxamento (dessensibilização sistemática), outra técnica comportamental.",
+    "Errada: descreve a troca de papéis do psicodrama, abordagem distinta da TCC.",
+    "Errada: descreve a análise da transferência, procedimento psicanalítico."
+   ],
+   "referencia": "Beck, J. S. Terapia Cognitivo-Comportamental: teoria e prática (referência geral da TCC).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-033",
@@ -910,7 +1326,20 @@
    "edital-13.7"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 8
+  "pdf_pagina": 8,
+  "comentario": {
+   "geral": "A Atenção Básica tem como eixos a promoção da saúde, a prevenção de agravos e o cuidado, em equipe multiprofissional. O psicólogo, portanto, integra a equipe e atua também na prevenção e promoção em saúde, como diz a alternativa C. As demais afirmam o assistencialismo como pauta, atribuem o matriciamento à equipe de Saúde da Família ou descrevem atuação em outros pontos da rede.",
+   "alternativas": [
+    "Errada: o psicólogo atua com base em princípios de integralidade e promoção, e não com atuação meramente assistencialista.",
+    "Errada: quem faz o apoio matricial em saúde mental é a equipe de apoio (NASF/eMulti), e não a equipe de Saúde da Família.",
+    "Correta: o psicólogo integra a equipe multiprofissional e atua na prevenção e promoção da saúde na Atenção Básica.",
+    "Errada: a afirmação trata de outro ponto da rede (CAPSi) e não da Atenção Básica, foco da pergunta, e não responde ao comando.",
+    "Errada: a afirmação trata de urgência (UPA), ponto distinto da Atenção Básica focalizada no comando."
+   ],
+   "referencia": "Política Nacional de Atenção Básica (Portaria GM/MS nº 2.436/2017).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-034",
@@ -937,7 +1366,20 @@
    "edital-13.29"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 8
+  "pdf_pagina": 8,
+  "comentario": {
+   "geral": "Os fatores de risco para suicídio ligados a transtornos psiquiátricos incluem transtorno bipolar, depressão maior, abuso de substâncias e transtorno de personalidade borderline. A orientação sexual homoafetiva não é transtorno psiquiátrico nem fator de risco em si, pois a homossexualidade não é patologia. O risco observado em populações LGBT decorre de estigma e violência, não da orientação. Por isso a exceção é a alternativa C.",
+   "alternativas": [
+    "Errada: é transtorno psiquiátrico associado a maior risco de suicídio.",
+    "Errada: é transtorno psiquiátrico fortemente associado ao comportamento suicida.",
+    "Correta: a orientação sexual não é transtorno psiquiátrico; é a exceção pedida.",
+    "Errada: o abuso de substâncias psicoativas é fator de risco reconhecido.",
+    "Errada: o transtorno borderline associa-se a autolesão e tentativas de suicídio."
+   ],
+   "referencia": "Ministério da Saúde e OMS, materiais de prevenção do suicídio; CFM/ABP, Suicídio: informando para prevenir.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-035",
@@ -964,7 +1406,20 @@
    "edital-13.29"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 8
+  "pdf_pagina": 8,
+  "comentario": {
+   "geral": "Entre os fatores de risco para suicídio na pessoa idosa estão a perda de vínculos e papéis sociais (I) e a dependência física, o sentimento de sobrecarga e a violência ou negligência familiar (II). A asserção III mistura lutos e perdas com transtornos do neurodesenvolvimento, que não são fator de risco típico do envelhecimento. Estão certas I e II, alternativa B.",
+   "alternativas": [
+    "Errada: incompleta: a II também é fator de risco.",
+    "Correta: a III inclui transtornos do neurodesenvolvimento, que não caracterizam risco específico em idosos.",
+    "Errada: a III está errada e a II, que é correta, foi omitida.",
+    "Errada: a I está certa e deve constar; a III está errada.",
+    "Errada: a III contém item incorreto e portanto não pode ser aceita."
+   ],
+   "referencia": "Ministério da Saúde, Agenda de ações estratégicas para prevenção do suicídio (referência geral).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-036",
@@ -991,7 +1446,20 @@
    "edital-13.29"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 9
+  "pdf_pagina": 9,
+  "comentario": {
+   "geral": "Proteção psicológica na rede para a pessoa idosa envolve fortalecer vínculos e participação social. Os grupos de convivência ofertados pelas equipes da Estratégia Saúde da Família fazem isso no território, o que corresponde à alternativa C. Nas demais, o serviço citado não existe, não é adequado ou não pertence à Rede de Atenção à Saúde.",
+   "alternativas": [
+    "Errada: não existe CAPS do Idoso; o CAPSi é para crianças e adolescentes.",
+    "Errada: UBS não realiza internação; a internação é feita em hospital.",
+    "Correta: grupos de convivência pela ESF promovem vínculo e participação social no território.",
+    "Errada: atividades religiosas e filantrópicas não constituem estratégia da Rede de Atenção à Saúde.",
+    "Errada: palestras no CRAS pertencem à assistência social, não à Rede de Atenção à Saúde, e são ação pontual."
+   ],
+   "referencia": "Política Nacional de Saúde da Pessoa Idosa (Portaria GM/MS nº 2.528/2006).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-037",
@@ -1018,7 +1486,20 @@
    "edital-1.9"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 9
+  "pdf_pagina": 9,
+  "comentario": {
+   "geral": "Nos dilemas bioéticos, o princípio da não maleficência busca evitar danos desnecessários. No caso de gestação de feto anencéfalo com risco, a mulher pode optar pela interrupção, considerando os riscos físicos e emocionais, conforme o STF (ADPF 54). Por isso a alternativa C é a correta. As demais confundem autonomia com imposição, desrespeitam o sigilo e a decisão da gestante ou transferem a decisão ao médico.",
+   "alternativas": [
+    "Errada: o médico deve informar a gestante; o sigilo é dela e a omissão fere a autonomia.",
+    "Errada: autonomia significa que Luciana decide, não que deva interromper.",
+    "Correta: a não maleficência evita danos à mulher e sustenta a possibilidade de optar pela interrupção.",
+    "Errada: a beneficência não impõe a continuação da gestação, e a anencefalia é incompatível com a vida extrauterina.",
+    "Errada: a decisão cabe à gestante, não ao médico por suas crenças."
+   ],
+   "referencia": "STF, ADPF 54 (anencefalia); Beauchamp e Childress, Princípios de ética biomédica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-038",
@@ -1046,7 +1527,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 9
+  "pdf_pagina": 9,
+  "comentario": {
+   "geral": "Resiliência, na Psicologia Positiva, é a capacidade de se adaptar e se recuperar de adversidades, traumas ou estresse, mantendo o equilíbrio emocional. É o que traz a alternativa E. As demais descrevem engajamento, sentido ou propósito, autoconhecimento e manejo de conflitos, que são outros conceitos.",
+   "alternativas": [
+    "Errada: descreve engajamento e relações sociais.",
+    "Errada: descreve sentido e propósito na vida.",
+    "Errada: descreve autoconhecimento e autoavaliação.",
+    "Errada: descreve manejo construtivo de conflitos, não resiliência.",
+    "Correta: define resiliência como adaptação e recuperação diante de adversidades."
+   ],
+   "referencia": "Seligman, M. (Psicologia Positiva).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-039",
@@ -1073,7 +1567,20 @@
    "edital-13.21"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 9
+  "pdf_pagina": 9,
+  "comentario": {
+   "geral": "A Política Nacional de Saúde do Trabalhador e da Trabalhadora orienta a vigilância dos ambientes e processos de trabalho, buscando identificar e corrigir os fatores organizacionais e ambientais que adoecem. No caso, o adoecimento coletivo sugere causa organizacional, o que corresponde à alternativa E. As demais focam em gestão de pessoas, ações individuais ou pontuais.",
+   "alternativas": [
+    "Errada: retenção de talentos e turnover são interesses de gestão e não de saúde do trabalhador.",
+    "Errada: revisar seleção e treinamento não aborda as condições que adoecem.",
+    "Errada: avaliação de desempenho não trata os determinantes do adoecimento.",
+    "Errada: palestras e gestão do estresse são medidas individualizantes, que a política evita como resposta única.",
+    "Correta: intervém sobre os fatores organizacionais e ambientais que adoecem, como preconiza a política."
+   ],
+   "referencia": "Política Nacional de Saúde do Trabalhador e da Trabalhadora (Portaria GM/MS nº 1.823/2012).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-040",
@@ -1101,7 +1608,20 @@
    "edital-1.2"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 9
+  "pdf_pagina": 9,
+  "comentario": {
+   "geral": "A atenção humanizada valoriza o acolhimento e a consideração das dimensões psicológicas e sociais do usuário. Por isso, o avanço descrito está na alternativa B. As demais restringem a humanização à qualidade técnica, ao foco na doença, ao poder do médico ou à padronização.",
+   "alternativas": [
+    "Errada: humanização vai além da qualidade técnica dos exames.",
+    "Correta: preconiza acolhimento empático e atenção aos aspectos psicológicos e sociais.",
+    "Errada: desloca o foco da doença para o sujeito.",
+    "Errada: não fortalece a centralidade do médico, mas o cuidado compartilhado.",
+    "Errada: valoriza a singularidade, não a padronização que ignora diferenças."
+   ],
+   "referencia": "Lei nº 8.080/1990 e Política Nacional de Humanização (HumanizaSUS).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-041",
@@ -1129,7 +1649,20 @@
    "edital-13.24"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 9
+  "pdf_pagina": 9,
+  "comentario": {
+   "geral": "Para pessoa em situação de rua com uso de álcool e crack, a atenção primária no território é feita pelo Consultório na Rua, equipe multiprofissional que leva o cuidado até onde a pessoa está. Corresponde à alternativa A. As demais são serviços de outro nível, de caráter religioso, socioassistencial, de urgência ou socioeducativo.",
+   "alternativas": [
+    "Correta: o Consultório na Rua é equipe da atenção primária que cuida no território.",
+    "Errada: comunidade terapêutica não integra a atenção primária e a abordagem religiosa foge do cuidado em rede.",
+    "Errada: CREAS e Centro POP são da assistência social, não da atenção primária em saúde.",
+    "Errada: o SAMU atende urgência, não oferece cuidados globais no território.",
+    "Errada: atendimento socioeducativo destina-se a adolescentes em medida socioeducativa."
+   ],
+   "referencia": "Política Nacional de Atenção Básica (Portaria GM/MS nº 2.436/2017), Consultório na Rua.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-042",
@@ -1156,7 +1689,20 @@
    "edital-13.21"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 10
+  "pdf_pagina": 10,
+  "comentario": {
+   "geral": "Márcia é chefe e sofre afrontas e zombarias de subordinados, ou seja, de baixo para cima, o que caracteriza assédio moral vertical ascendente. Há o componente de gênero, mas a relação hierárquica define o tipo. Alternativa E.",
+   "alternativas": [
+    "Errada: etarismo refere-se à idade, que não está em jogo.",
+    "Errada: gaslighting e ghosting não descrevem a situação.",
+    "Errada: assédio sexual não ocorre no caso, apenas deboche sobre a competência.",
+    "Errada: a psicodinâmica do trabalho é uma abordagem teórica, não um tipo de situação.",
+    "Correta: subordinados atacam a chefe, o que é assédio moral vertical ascendente."
+   ],
+   "referencia": "Cartilha de assédio moral do Ministério do Trabalho (referência geral).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-043",
@@ -1183,7 +1729,20 @@
    "edital-13.31"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 10
+  "pdf_pagina": 10,
+  "comentario": {
+   "geral": "As Diretrizes Curriculares Nacionais de Psicologia tratam a comunicação eficaz como expressão clara, respeitosa e assertiva, adequada ao contexto e ao interlocutor. A alternativa D é a correta. As demais distorcem ética, empatia, inteligência emocional e trabalho em equipe.",
+   "alternativas": [
+    "Errada: o sigilo tem exceções previstas no Código de Ética.",
+    "Errada: empatia é compreender o outro, não compartilhar sentimentos.",
+    "Errada: inteligência emocional não é aferida por resultados acadêmicos.",
+    "Correta: descreve corretamente a comunicação eficaz.",
+    "Errada: o trabalho em equipe interdisciplinar não se limita a colegas psicólogos."
+   ],
+   "referencia": "Diretrizes Curriculares Nacionais dos cursos de Psicologia (MEC/CNE).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-044",
@@ -1210,7 +1769,20 @@
    "edital-13.28"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 10
+  "pdf_pagina": 10,
+  "comentario": {
+   "geral": "Obnubilação é rebaixamento leve do nível de consciência, com pensamento lento e confusão, e pode ser causada por intoxicação por substâncias. Alternativa A. As demais citam alterações de percepção, TDAH, demência ou desorientação por memória e linguagem.",
+   "alternativas": [
+    "Correta: a obnubilação é alteração do nível de consciência, com intoxicação como causa possível.",
+    "Errada: não se trata de alteração da percepção nem quadro psicótico.",
+    "Errada: lentidão e confusão aguda não são típicos do TDAH.",
+    "Errada: obnubilação não é sinal inicial de demência.",
+    "Errada: a desorientação não é a definição de obnubilação."
+   ],
+   "referencia": "Dalgalarrondo, P. Psicopatologia e semiologia dos transtornos mentais.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-045",
@@ -1237,7 +1809,20 @@
    "edital-13.19"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 10
+  "pdf_pagina": 10,
+  "comentario": {
+   "geral": "O paradigma psicossocial substitui o modelo asilar por serviços comunitários e abertos, como os CAPS. Alternativa D. As demais descrevem traços do paradigma asilar/manicomial.",
+   "alternativas": [
+    "Errada: a estigmatização é traço do modelo asilar.",
+    "Errada: medicalização e internação caracterizam o modelo asilar.",
+    "Errada: a supremacia do saber psiquiátrico é traço do modelo hospitalocêntrico.",
+    "Correta: caracteriza o paradigma psicossocial, com serviços territoriais abertos.",
+    "Errada: equipes só de médicos contrariam a multiprofissionalidade do modelo psicossocial."
+   ],
+   "referencia": "Lei nº 10.216/2001 (Reforma Psiquiátrica).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-046",
@@ -1265,7 +1850,20 @@
    "edital-13.17"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 10
+  "pdf_pagina": 10,
+  "comentario": {
+   "geral": "Nicole se isola, faz cortes nos braços e restringe a alimentação, o que indica risco de autolesão. A resposta é a notificação compulsória de violência autoprovocada, e a alternativa C, que trata do matriciamento, corresponde ao gabarito oficial: a UBS, sem serviço especializado de saúde mental próprio, solicita apoio ao CAPSi para o caso. As demais são inadequadas ao caso ou fogem do papel da UBS.",
+   "alternativas": [
+    "Errada: encaminhar apenas a mãe ao atendimento familiar não protege a adolescente em risco.",
+    "Errada: a internação involuntária não é medida inicial e depende de laudo e critérios legais.",
+    "Correta: o matriciamento com o CAPSi apoia a equipe da UBS no caso de saúde mental infantojuvenil.",
+    "Errada: o Conselho Tutelar é acionado em suspeita de maus tratos, que não é a hipótese do enunciado.",
+    "Errada: contrarreferência é o retorno do especializado à atenção básica, não o encaminhamento descrito."
+   ],
+   "referencia": "Lei nº 10.216/2001 e Portaria GM/MS nº 3.088/2011 (RAPS), matriciamento.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-047",
@@ -1293,7 +1891,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 10
+  "pdf_pagina": 10,
+  "comentario": {
+   "geral": "A prevenção primária atua antes do adoecimento, por educação e promoção. Palestras, capacitação de professores, ações com famílias e grupos de convivência são exemplos. O acompanhamento psicoterápico com foco no tratamento de anorexia e bulimia já trata o transtorno instalado, portanto é prevenção terciária ou secundária. Alternativa C.",
+   "alternativas": [
+    "Errada: palestras informativas são prevenção primária.",
+    "Errada: capacitar professores para bullying é prevenção primária.",
+    "Correta: tratar anorexia e bulimia já instaladas não é prevenção primária; é a exceção.",
+    "Errada: ações com famílias sobre comunicação são prevenção primária.",
+    "Errada: grupos de convivência sobre autoestima são prevenção primária."
+   ],
+   "referencia": "Caplan, G. (níveis de prevenção); Leavell e Clark.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-048",
@@ -1321,7 +1932,20 @@
    "edital-13.18"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 11
+  "pdf_pagina": 11,
+  "comentario": {
+   "geral": "O quadro sugere violência doméstica: Regina deixou o grupo, atendeu assustada e o marido, ríspido, controla a saída dela. A legislação exige notificação compulsória diante de suspeita fundamentada, e não apenas de caso confirmado. Alternativa D.",
+   "alternativas": [
+    "Errada: o abandono do tratamento não é objeto de notificação compulsória.",
+    "Errada: o pedido de intervenção não ocorreu no caso.",
+    "Errada: a notificação não exige confirmação, e nada confirma violência física ou sexual.",
+    "Correta: a suspeita fundamentada de violência contra a mulher é de notificação compulsória.",
+    "Errada: a notificação não depende de autorização da equipe multidisciplinar."
+   ],
+   "referencia": "Lei nº 10.778/2003 (notificação compulsória de violência contra a mulher).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-049",
@@ -1349,7 +1973,20 @@
    "edital-13.9"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 11
+  "pdf_pagina": 11,
+  "comentario": {
+   "geral": "A paciente apresenta sintomas persistentes sem causa orgânica e sangue na urina em quantidade crescente. A hipótese que o enunciado sugere é a adulteração dos exames, em busca de atenção e cuidado, característica do transtorno factício. Alternativa D. Somatização, conversão, hipocondria e Munchausen por procuração não se ajustam.",
+   "alternativas": [
+    "Errada: somatização envolve sintomas sem produção intencional de achados.",
+    "Errada: o transtorno conversivo envolve déficits neurológicos, não sangue na urina.",
+    "Errada: hipocondria é o medo de doença, sem adulteração de exames.",
+    "Correta: a adulteração de exames em busca de atenção é compatível com transtorno factício.",
+    "Errada: Munchausen por procuração envolve produzir doença em outra pessoa, o que não ocorre."
+   ],
+   "referencia": "DSM-5-TR, transtorno factício.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-050",
@@ -1376,7 +2013,20 @@
    "edital-13.23"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 11
+  "pdf_pagina": 11,
+  "comentario": {
+   "geral": "Violência sexual contra a mulher inclui impedir o uso de contraceptivo e forçar gravidez, o que é coerção reprodutiva. Alternativa E, conforme a Lei Maria da Penha. As demais correspondem a violência patrimonial, institucional, psicológica e moral.",
+   "alternativas": [
+    "Errada: destruir roupas e acessórios é violência patrimonial.",
+    "Errada: negar profilaxia é violência institucional.",
+    "Errada: stalking é violência psicológica.",
+    "Errada: difamação é violência moral.",
+    "Correta: impedir contracepção e forçar gravidez é violência sexual."
+   ],
+   "referencia": "Lei nº 11.340/2006 (Lei Maria da Penha), art. 7º.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-051",
@@ -1404,7 +2054,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 11
+  "pdf_pagina": 11,
+  "comentario": {
+   "geral": "Na Psicologia Analítica de Jung, a sombra reúne os aspectos reprimidos e não aceitos da personalidade. Jorge passa a manifestar os comportamentos que condenava, o que ilustra a emergência da sombra. Alternativa A.",
+   "alternativas": [
+    "Correta: a sombra explica o surgimento dos comportamentos antes reprimidos e criticados.",
+    "Errada: sonhos são via de acesso ao inconsciente, mas não explicam a mudança.",
+    "Errada: a persona é a máscara social, e o caso mostra seu enfraquecimento.",
+    "Errada: imago Dei é conceito de Imago do divino, estranho ao caso.",
+    "Errada: a Grande Mãe refere-se ao arquétipo materno, que não está em jogo."
+   ],
+   "referencia": "Jung, C. G. (conceito de sombra).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-052",
@@ -1431,7 +2094,20 @@
    "edital-13.30"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 11
+  "pdf_pagina": 11,
+  "comentario": {
+   "geral": "As três afirmativas estão certas: a ambivalência é comum na gravidez (I), há alterações do desejo e do desempenho sexual no período (II), e o baby blues é estado depressivo mais brando, com hiperemotividade e sentimentos de incapacidade (III). Alternativa E.",
+   "alternativas": [
+    "Errada: I está certa, mas II e III também.",
+    "Errada: II está certa, mas I e III também.",
+    "Errada: III está certa, mas I e II também.",
+    "Errada: I e III estão certas, mas II também.",
+    "Correta: todas as afirmativas estão corretas."
+   ],
+   "referencia": "Maldonado, M. T. Psicologia da gravidez, parto e puerpério.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-053",
@@ -1458,7 +2134,20 @@
    "edital-13.29"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 11
+  "pdf_pagina": 11,
+  "comentario": {
+   "geral": "A questão pede a incorreta. A afirmativa D diz que há uma explicação universal para o suicídio, o que contradiz a multicausalidade do fenômeno, descrito nas demais. Alternativa D.",
+   "alternativas": [
+    "Errada: fatores de risco incluem transtorno psiquiátrico e perda de emprego, corretos.",
+    "Errada: o suicídio é prevenível, afirmação correta.",
+    "Errada: a interação de fatores individuais, sociais e culturais é correta.",
+    "Correta: afirma explicação universal, incompatível com a multicausalidade; é a incorreta.",
+    "Errada: o suicídio sempre existiu com sentidos variáveis, afirmação correta."
+   ],
+   "referencia": "OMS, Prevenção do suicídio: um recurso para conselheiros.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-054",
@@ -1486,7 +2175,20 @@
    "edital-13.28"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "Após um assalto com sequestro, Elisa tem insônia, pesadelos, evitação do local e reação física ao lembrar. Esse é o quadro do transtorno de estresse pós-traumático. Alternativa D.",
+   "alternativas": [
+    "Errada: hipomania é elevação do humor, não traumática.",
+    "Errada: não há sintomas psicóticos.",
+    "Errada: labilidade afetiva é oscilação de humor e não explica o quadro.",
+    "Correta: reexperiência, evitação e hiperexcitação após trauma configuram TEPT.",
+    "Errada: não há padrão de instabilidade bipolar."
+   ],
+   "referencia": "DSM-5-TR, TEPT.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-055",
@@ -1514,7 +2216,20 @@
    "edital-13.11"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "Os grupos terapêuticos na atenção psicossocial oferecem escuta, troca de experiências, reflexão e empatia, em oposição ao modelo manicomial. Alternativa D. As demais associam o grupo ao paradigma manicomial, à medicalização, ao poder centralizado do coordenador ou do médico.",
+   "alternativas": [
+    "Errada: alinha o acolhimento ao paradigma manicomial, que a atenção psicossocial supera.",
+    "Errada: a medicalização como estratégia principal contraria a lógica psicossocial.",
+    "Errada: a centralização do coordenador contradiz a horizontalidade do grupo.",
+    "Correta: escuta, troca de experiências e empatia são o cuidado grupal psicossocial.",
+    "Errada: centrar o poder nos médicos contradiz o processo democrático."
+   ],
+   "referencia": "Lei nº 10.216/2001 e Portaria GM/MS nº 3.088/2011.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-056",
@@ -1541,7 +2256,20 @@
    "edital-13.31"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "Susana escuta, valoriza a equipe e promove colaboração (democrática), dá feedback e mantém o engajamento (motivadora), e atende às necessidades individuais (comportamental). Por isso a alternativa C. Estilos autocrático e liberal não se ajustam.",
+   "alternativas": [
+    "Errada: liberal não condiz com quem assume responsabilidades.",
+    "Errada: autocrática contraria escuta e colaboração.",
+    "Correta: democrática, motivadora e comportamental descrevem a conduta de Susana.",
+    "Errada: autocrática contraria o ambiente colaborativo.",
+    "Errada: liberal contraria a condução ativa descrita."
+   ],
+   "referencia": "Teorias de liderança (estilos autocrático, democrático e liberal).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-057",
@@ -1568,7 +2296,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "O sociodrama foi desenvolvido por Jacob Moreno, criador do psicodrama e da sociometria. Alternativa D. Boal criou o Teatro do Oprimido, Vygotsky a teoria histórico-cultural, Reich a vegetoterapia e Stanislavski um método teatral.",
+   "alternativas": [
+    "Errada: Boal criou o Teatro do Oprimido.",
+    "Errada: Vygotsky desenvolveu a teoria histórico-cultural.",
+    "Errada: Reich desenvolveu a análise do caráter e a vegetoterapia.",
+    "Correta: Moreno desenvolveu o psicodrama e o sociodrama.",
+    "Errada: Stanislavski criou método de atuação teatral."
+   ],
+   "referencia": "Moreno, J. L. (psicodrama e sociodrama).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-058",
@@ -1595,7 +2336,20 @@
    "edital-13.21"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "Na saúde do trabalhador, a Psicologia avalia condicionantes sociais e organização do trabalho (I) e valoriza o trabalhador como sujeito do conhecimento (II). A III, que enfatiza a dimensão biológica e a visão médico-farmacológica, contraria esse campo. Alternativa B.",
+   "alternativas": [
+    "Errada: incompleta: a II também está correta.",
+    "Correta: a III está errada.",
+    "Errada: a III está errada.",
+    "Errada: a I também está correta; a III errada.",
+    "Errada: a III contraria o enfoque psicossocial do campo."
+   ],
+   "referencia": "Política Nacional de Saúde do Trabalhador e da Trabalhadora (Portaria GM/MS nº 1.823/2012).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-059",
@@ -1623,7 +2377,20 @@
    "edital-13.6"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "De acordo com o Código de Ética do Psicólogo, o psicólogo pode aderir à greve, direito dos trabalhadores, mas deve comunicar previamente aos pacientes para evitar prejuízo. Alternativa A.",
+   "alternativas": [
+    "Correta: pode aderir, comunicando previamente os pacientes.",
+    "Errada: comunicar à chefia não é o dever apontado pelo código.",
+    "Errada: a greve é um direito, não há proibição ética.",
+    "Errada: não há exigência de anuência do chefe.",
+    "Errada: há o dever de zelar pelos pacientes, que inclui comunicá-los."
+   ],
+   "referencia": "Código de Ética Profissional do Psicólogo (Resolução CFP nº 010/2005).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-060",
@@ -1651,7 +2418,20 @@
    "edital-13.9"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 12
+  "pdf_pagina": 12,
+  "comentario": {
+   "geral": "A primeira afirmativa é verdadeira, pois a demanda pode partir de outros profissionais da saúde. A segunda é falsa, pois a escuta hospitalar inclui família e equipe, não só o doente. A terceira é verdadeira. Sequência V, F, V, alternativa C.",
+   "alternativas": [
+    "Errada: a segunda é falsa.",
+    "Errada: a primeira é verdadeira e a segunda falsa.",
+    "Correta: V, F, V é a sequência correta.",
+    "Errada: a terceira é verdadeira.",
+    "Errada: a terceira é verdadeira."
+   ],
+   "referencia": "Simonetti, A. Manual de psicologia hospitalar.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-061",
@@ -1679,7 +2459,20 @@
    "edital-13.6"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 13
+  "pdf_pagina": 13,
+  "comentario": {
+   "geral": "O sigilo do psicólogo não é absoluto. Havendo risco à criança ou adolescente, comunica-se apenas o estritamente essencial para que se promovam medidas em seu benefício. Alternativa D.",
+   "alternativas": [
+    "Errada: o sigilo tem exceções.",
+    "Errada: o sigilo admite exceções previstas no código.",
+    "Errada: não se deve revelar tudo, apenas o essencial.",
+    "Correta: o dever é comunicar o estritamente essencial em benefício de Alice.",
+    "Errada: a condução ética não depende do processo legal."
+   ],
+   "referencia": "Código de Ética Profissional do Psicólogo (Resolução CFP nº 010/2005), arts. 9º e 10.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-062",
@@ -1711,6 +2504,19 @@
   "pegadinha": {
    "letra": "B",
    "atracao": 0.57
+  },
+  "comentario": {
+   "geral": "O Código de Ética prevê as penalidades de advertência, multa, censura pública, suspensão do exercício profissional por até 30 dias e cassação do exercício. Alternativa C, que lista censura pública, suspensão por até 30 dias e cassação.",
+   "alternativas": [
+    "Errada: prestação de serviços e perda de bens não estão previstas.",
+    "Errada: a suspensão é de até 30 dias, não 60.",
+    "Correta: reúne penalidades previstas no código.",
+    "Errada: prestação de serviços não está prevista.",
+    "Errada: limitação de fim de semana não está prevista e a suspensão é de até 30 dias."
+   ],
+   "referencia": "Código de Ética Profissional do Psicólogo (Resolução CFP nº 010/2005), art. 21 (conforme o gabarito oficial).",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -1738,7 +2544,20 @@
    "edital-13.1"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 13
+  "pdf_pagina": 13,
+  "comentario": {
+   "geral": "Na alta complexidade da Proteção Social Especial, a psicóloga participa do Plano Individual de Acolhimento (V) e considera o risco e o rompimento de vínculos dos acolhidos (V). A primeira afirmativa é falsa, pois eMulti pertence à atenção primária à saúde, e não à proteção social. Alternativa B.",
+   "alternativas": [
+    "Errada: a primeira é falsa.",
+    "Correta: F, V, V é a sequência correta.",
+    "Errada: a segunda também é verdadeira.",
+    "Errada: a primeira é falsa, pois eMulti é da saúde.",
+    "Errada: a segunda é verdadeira."
+   ],
+   "referencia": "Tipificação Nacional de Serviços Socioassistenciais; Orientações técnicas do CFP para atuação no SUAS.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-064",
@@ -1765,7 +2584,20 @@
    "edital-13.8"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 13
+  "pdf_pagina": 13,
+  "comentario": {
+   "geral": "Em Luto e Melancolia, Freud afirma que o luto pode ser reação à perda de um ente querido ou de uma abstração que ocupou seu lugar, como pátria ou liberdade. Alternativa D.",
+   "alternativas": [
+    "Errada: Freud afirma que o luto não é patológico.",
+    "Errada: no luto a libido é retirada do objeto, não mantida.",
+    "Errada: o objeto é perdido de forma consciente no luto.",
+    "Correta: cita pátria e liberdade como substitutos do ente querido.",
+    "Errada: o empobrecimento do ego é da melancolia."
+   ],
+   "referencia": "Freud, S. Luto e melancolia (1917).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-065",
@@ -1792,7 +2624,20 @@
    "edital-13.21"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 13
+  "pdf_pagina": 13,
+  "comentario": {
+   "geral": "A questão pede a exceção. A afirmativa D diz que a Saúde Ocupacional e a Medicina do Trabalho são fundamentais por buscarem eficiência e produtividade, o que não corresponde ao campo da Saúde do Trabalhador, que prioriza a saúde e não a gestão da força de trabalho. Alternativa D.",
+   "alternativas": [
+    "Errada: define corretamente o campo.",
+    "Errada: descreve corretamente a interdisciplinaridade.",
+    "Errada: descreve corretamente a política intersetorial.",
+    "Correta: é a exceção: a Saúde do Trabalhador é crítica à lógica de produtividade.",
+    "Errada: descreve corretamente a crítica ao psicologismo."
+   ],
+   "referencia": "Política Nacional de Saúde do Trabalhador e da Trabalhadora (Portaria GM/MS nº 1.823/2012).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-066",
@@ -1823,6 +2668,19 @@
   "pegadinha": {
    "letra": "E",
    "atracao": 0.97
+  },
+  "comentario": {
+   "geral": "A questão cobra o conceito de escuta clínica como ferramenta central do fazer psicológico, de matriz psicanalítica (Freud: associação livre e atenção flutuante) e também humanista (Rogers: escuta empática e centrada na pessoa). Nessas tradições, a escuta do profissional abre espaço para que o paciente reorganize sua história, produza novos sentidos e se reconheça como sujeito ativo do processo, e é isso que as afirmativas I e III descrevem. A afirmativa II desloca a escuta para o próprio paciente (que 'se escute') e a associa a 'cura', o que a banca considerou imprecisa: a escuta clínica é uma postura do psicólogo e o trabalho psicológico não se define como promessa de cura. Por isso o gabarito é a letra C (I e III, apenas).",
+   "alternativas": [
+    "Errada: a afirmativa III também é verdadeira, pois a escuta clínica implica o paciente em sua própria história e favorece seu protagonismo; assinalar só a I deixa de fora um item correto.",
+    "Errada: inclui a afirmativa II, que o gabarito considera incorreta por atribuir a escuta ao próprio paciente e por vinculá-la a 'cura', enquanto a escuta clínica é instrumento do psicólogo; além disso, exclui a III, que é correta.",
+    "Correta: a I está certa porque a escuta permite ao paciente narrar de outro modo suas experiências e ressignificá-las, e a III está certa porque a escuta convoca o paciente como sujeito e protagonista de sua história no processo terapêutico.",
+    "Errada: reúne a II, tida como incorreta no gabarito (a escuta clínica é a do profissional, e o texto a trata como via de 'cura'), e deixa de fora a I, que é correta, pois a escuta favorece a construção de novas narrativas.",
+    "Errada: considera correta a II, que o gabarito não aceita por descrever a escuta como algo que o paciente faz de si e por empregar a ideia de cura; por isso não é possível marcar as três afirmativas."
+   ],
+   "referencia": "Freud, textos sobre técnica psicanalítica (associação livre e atenção flutuante); Carl Rogers, abordagem centrada na pessoa (escuta empática); Conselho Federal de Psicologia, Código de Ética Profissional do Psicólogo (de forma geral, sobre o fazer psicológico).",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -1850,7 +2708,20 @@
    "edital-13.24"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 14
+  "pdf_pagina": 14,
+  "comentario": {
+   "geral": "O CAPSad oferece acolhimento, atenção integral e estímulo à integração social e familiar, com base na redução de danos. Alternativa A. As demais citam abstinência total, centralização, desterritorialização e funcionamento subsidiário.",
+   "alternativas": [
+    "Correta: descreve corretamente o cuidado do CAPSad.",
+    "Errada: a política adota redução de danos, não abstinência total.",
+    "Errada: o CAPS atua no território.",
+    "Errada: o CAPS trabalha com base territorial.",
+    "Errada: o CAPSad tem funcionamento próprio, não subsidiário."
+   ],
+   "referencia": "Portaria GM/MS nº 3.088/2011 (RAPS); Política do Ministério da Saúde para atenção integral a usuários de álcool e outras drogas.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-068",
@@ -1877,7 +2748,20 @@
    "edital-13.27"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 14
+  "pdf_pagina": 14,
+  "comentario": {
+   "geral": "A Psicologia das emergências e desastres entende esses eventos como complexos e multidimensionais, com causas estruturais e impactos psicossociais. Alternativa C.",
+   "alternativas": [
+    "Errada: não se limita ao trauma individual.",
+    "Errada: desastres têm múltiplas causas.",
+    "Correta: descreve a perspectiva multidimensional.",
+    "Errada: desastres não produzem consequências sempre positivas.",
+    "Errada: os efeitos nem sempre são crônicos."
+   ],
+   "referencia": "CFP, Psicologia nas emergências e desastres (referência técnica).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-069",
@@ -1904,7 +2788,20 @@
    "edital-13.2"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 14
+  "pdf_pagina": 14,
+  "comentario": {
+   "geral": "No atendimento domiciliar, deve-se acolher o cuidador, que se vincula ao paciente e pode adoecer com a piora ou morte dele. Alternativa C.",
+   "alternativas": [
+    "Errada: o motivo não é baratear o serviço.",
+    "Errada: a família deve ser incluída.",
+    "Correta: acolher o cuidador é parte do atendimento domiciliar.",
+    "Errada: a internação não é parte comum do atendimento domiciliar.",
+    "Errada: a descrição restringe o foco à patologia e a um tipo específico de paciente."
+   ],
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-070",
@@ -1931,7 +2828,20 @@
    "edital-13.15"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 14
+  "pdf_pagina": 14,
+  "comentario": {
+   "geral": "A entrevista psicológica é a conversação dirigida a um propósito definido de avaliação, alternativa E. As demais descrevem o teste psicológico, o resultado da avaliação e documentos.",
+   "alternativas": [
+    "Errada: descreve o teste psicológico.",
+    "Errada: descreve o resultado da avaliação.",
+    "Errada: descreve um documento escrito, não a entrevista.",
+    "Errada: descreve documento, não a entrevista.",
+    "Correta: a entrevista é conversação dirigida com propósito de avaliação."
+   ],
+   "referencia": "Resolução CFP nº 31/2022 (avaliação psicológica).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-071",
@@ -1959,7 +2869,20 @@
    "edital-13.3"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 14
+  "pdf_pagina": 14,
+  "comentario": {
+   "geral": "A estagiária desinteressada, sem interagir e sem atenção, não desenvolveu a competência comunicação (escuta, interação). Alternativa A.",
+   "alternativas": [
+    "Correta: comunicação envolve escuta e interação.",
+    "Errada: tomada de decisões não é o ponto.",
+    "Errada: liderança não está em jogo.",
+    "Errada: administração não está em jogo.",
+    "Errada: atenção à saúde refere-se ao cuidado, não ao comportamento descrito."
+   ],
+   "referencia": "Diretrizes Curriculares Nacionais dos cursos de Psicologia.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-072",
@@ -1986,7 +2909,20 @@
    "edital-13.21"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 14
+  "pdf_pagina": 14,
+  "comentario": {
+   "geral": "O matriciamento é construção compartilhada entre equipes (I) e ferramenta de integração e resolutividade (II). A III é falsa, pois o matriciamento combate a fragmentação do cuidado. Alternativa B.",
+   "alternativas": [
+    "Errada: incompleta: a II é correta.",
+    "Correta: I e II estão corretas.",
+    "Errada: a III está errada.",
+    "Errada: a III está errada.",
+    "Errada: a III contradiz o conceito."
+   ],
+   "referencia": "Chiaverini, D. H. (org.). Guia prático de matriciamento em saúde mental (Ministério da Saúde, 2011).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-073",
@@ -2014,7 +2950,20 @@
    "edital-13.19"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 15
+  "pdf_pagina": 15,
+  "comentario": {
+   "geral": "João tem déficit grave, não tem família e não consegue se manter. A solução indicada ao completar 18 anos é o serviço residencial terapêutico. Alternativa C.",
+   "alternativas": [
+    "Errada: hospital psiquiátrico contraria a reforma psiquiátrica.",
+    "Errada: CAPS III oferece acolhimento noturno temporário, não moradia.",
+    "Correta: a residência terapêutica é moradia no território.",
+    "Errada: hospital geral não é moradia.",
+    "Errada: o CAPSi atende crianças e adolescentes, e João fará 18 anos."
+   ],
+   "referencia": "Portaria GM/MS nº 3.090/2011 (Serviços Residenciais Terapêuticos).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-074",
@@ -2041,7 +2990,20 @@
    "edital-1.5"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 15
+  "pdf_pagina": 15,
+  "comentario": {
+   "geral": "As eMulti integram assistência, prevenção, promoção, vigilância e formação na atenção primária. Alternativa A.",
+   "alternativas": [
+    "Correta: integra práticas na Atenção Primária à Saúde.",
+    "Errada: descreve a saúde escolar, não as eMulti.",
+    "Errada: descreve atenção a idosos acamados, não a finalidade das eMulti.",
+    "Errada: descreve serviço de acolhimento institucional.",
+    "Errada: descreve avaliação pericial, não as eMulti."
+   ],
+   "referencia": "Portaria GM/MS nº 635/2023 (eMulti).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-075",
@@ -2068,7 +3030,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 15
+  "pdf_pagina": 15,
+  "comentario": {
+   "geral": "A logoterapia, de Viktor Frankl, é centrada na busca de sentido e usa derreflexão, intenção paradoxal e diálogo socrático. Alternativa D.",
+   "alternativas": [
+    "Errada: a Daseinsanálise é de base heideggeriana.",
+    "Errada: a Psicologia Analítica é de Jung.",
+    "Errada: a psicoterapia corporal tem outra base.",
+    "Correta: a logoterapia usa essas técnicas.",
+    "Errada: a terapia positiva tem outro foco."
+   ],
+   "referencia": "Frankl, V. E. Em busca de sentido.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-076",
@@ -2095,7 +3070,20 @@
    "edital-13.4"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 15
+  "pdf_pagina": 15,
+  "comentario": {
+   "geral": "Os cuidados paliativos em oncologia têm abordagem interdisciplinar e centrada no paciente e na família. O psicólogo facilita a comunicação entre paciente, família e equipe, auxilia na ressignificação da doença e da finitude e oferece escuta acolhedora para os medos relacionados ao tratamento e à morte. As três afirmativas são verdadeiras, portanto a sequência V – V – V, alternativa D, é a correta.",
+   "alternativas": [
+    "Errada: a sequência marca a segunda afirmativa como falsa, mas ressignificar a experiência da doença e da morte é objetivo central do trabalho psicológico em paliativos.",
+    "Errada: marca a primeira como falsa, mas mediar a comunicação entre paciente, família e equipe é atribuição reconhecida do psicólogo em cuidados paliativos.",
+    "Errada: marca a terceira como falsa, mas o espaço seguro para falar de temores do tratamento e da morte é justamente um dos objetivos da atuação.",
+    "Correta: as três afirmativas descrevem objetivos reconhecidos da atuação psicológica em cuidados paliativos oncológicos.",
+    "Errada: marca as duas primeiras como falsas, embora comunicação e ressignificação sejam objetivos clássicos da atuação do psicólogo."
+   ],
+   "referencia": "Definição de cuidados paliativos da Organização Mundial da Saúde (abordagem interdisciplinar, com apoio psicossocial e espiritual). Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-077",
@@ -2123,7 +3111,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 15
+  "pdf_pagina": 15,
+  "comentario": {
+   "geral": "O quadro descrito (arrogância, crença de superioridade, exigência de tratamento especial, convicção de ser invejada e falta de empatia) corresponde aos traços centrais do transtorno de personalidade narcisista, caracterizado por grandiosidade, necessidade de admiração e déficit de empatia. Por isso a alternativa B é a correta. Os demais transtornos têm outros núcleos: prejuízo social e comunicacional, instabilidade afetiva, desrespeito a normas e direitos alheios ou submissão.",
+   "alternativas": [
+    "Errada: o espectro autista envolve déficits persistentes de comunicação e interação social e padrões restritos e repetitivos, não grandiosidade e exigência de privilégios.",
+    "Correta: grandiosidade, senso de merecimento especial, crença de ser invejada e ausência de empatia são critérios típicos do transtorno de personalidade narcisista.",
+    "Errada: o transtorno borderline marca-se por instabilidade de afeto, de autoimagem e de relações, impulsividade e medo de abandono, o que não aparece no caso.",
+    "Errada: o transtorno antissocial envolve desrespeito persistente a normas e a direitos alheios, com engano e impulsividade, e não a grandiosidade e a necessidade de admiração descritas.",
+    "Errada: o transtorno de personalidade dependente envolve submissão e necessidade excessiva de ser cuidado, o oposto da postura de superioridade de Helena."
+   ],
+   "referencia": "DSM-5-TR, transtornos da personalidade (Grupo B, transtorno da personalidade narcisista).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-078",
@@ -2150,7 +3151,20 @@
    "edital-13.12"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 15
+  "pdf_pagina": 15,
+  "comentario": {
+   "geral": "O registro documental do atendimento psicológico deve ser guardado por prazo mínimo definido pelo Conselho Federal de Psicologia. Esse prazo é de cinco anos, o que vale também para registros de avaliação psicológica feitos em contexto organizacional, como seleção e desligamento. Por isso a alternativa E é a correta. Os prazos menores não atendem ao mínimo normativo.",
+   "alternativas": [
+    "Errada: um ano é menor que o mínimo fixado pela norma do CFP para guarda de registros.",
+    "Errada: dois anos também é inferior ao prazo mínimo normativo.",
+    "Errada: três anos não alcança o prazo mínimo de guarda dos registros documentais.",
+    "Errada: quatro anos fica abaixo do mínimo de cinco anos.",
+    "Correta: o prazo mínimo de guarda dos registros documentais do psicólogo é de cinco anos."
+   ],
+   "referencia": "Resolução CFP nº 001/2009 (registro documental), prazo mínimo de cinco anos; norma mantida em resoluções posteriores do CFP sobre o tema.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-079",
@@ -2177,7 +3191,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 15
+  "pdf_pagina": 15,
+  "comentario": {
+   "geral": "A Abordagem Centrada na Pessoa, de Carl Rogers, tem como condições facilitadoras a empatia, a aceitação positiva incondicional e a congruência (I). É não diretiva e parte da tendência atualizante, a crença de que toda pessoa é capaz de crescer (II). O processo favorece o desenvolvimento pessoal, a autoestima e a abertura à experiência (III). As três afirmativas estão certas, logo a alternativa E é a correta.",
+   "alternativas": [
+    "Errada: I está certa, mas II e III também descrevem corretamente a abordagem.",
+    "Errada: I e II estão certas, mas III também é correta, pois a abordagem visa crescimento, autoestima e abertura à experiência.",
+    "Errada: I e III estão certas, mas II também é correta: a abordagem é não diretiva e confia na tendência atualizante.",
+    "Errada: II e III estão certas, mas I, sobre empatia, aceitação incondicional e congruência, também está.",
+    "Correta: as três afirmativas descrevem corretamente a abordagem de Rogers."
+   ],
+   "referencia": "Carl Rogers, obras sobre a terapia centrada no cliente e a Abordagem Centrada na Pessoa (condições facilitadoras e tendência atualizante).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-080",
@@ -2204,7 +3231,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 16
+  "pdf_pagina": 16,
+  "comentario": {
+   "geral": "Melanie Klein descreveu a internalização de objetos parciais, como o seio, como base da vida psíquica (I) e a posição esquizoparanoide, com cisão do objeto em bom e mau (II). A afirmativa III descreve os estágios do desenvolvimento cognitivo de Jean Piaget, não de Klein. Estão certas I e II, alternativa B.",
+   "alternativas": [
+    "Errada: I está certa, mas II também é conceito kleiniano: a posição esquizoparanoide dividia os objetos em bons e maus.",
+    "Correta: I e II são conceitos de Klein (relações objetais internalizadas e posição esquizoparanoide) e III é de Piaget.",
+    "Errada: inclui a III, que descreve os estágios de Piaget, e exclui a II, que é kleiniana.",
+    "Errada: inclui a III, de Piaget, e exclui a I, que é kleiniana.",
+    "Errada: inclui a III, que pertence à teoria cognitiva de Piaget e não à de Klein."
+   ],
+   "referencia": "Melanie Klein, textos sobre posições esquizoparanoide e depressiva; Jean Piaget, estágios do desenvolvimento cognitivo.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-081",
@@ -2231,7 +3271,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 16
+  "pdf_pagina": 16,
+  "comentario": {
+   "geral": "Sándor Ferenczi propôs a técnica ativa: em certos casos o analista formula ordens e proibições para comportamentos repetitivos que dão satisfação e impedem a rememoração e o avanço da análise. O enunciado descreve exatamente isso, por isso a alternativa A é a correta. Os demais termos designam outros fenômenos ou conceitos da psicanálise.",
+   "alternativas": [
+    "Correta: técnica ativa é o nome dado por Ferenczi às injunções e proibições do analista diante de comportamentos que sustentam a resistência.",
+    "Errada: acting-out é a atuação do paciente em vez de recordar, não uma técnica do analista.",
+    "Errada: sublimação é um destino pulsional que desvia a meta sexual para fins valorizados socialmente, não um procedimento técnico.",
+    "Errada: desmentido é conceito de Ferenczi ligado ao trauma (a negação do adulto diante do relato da criança), não a técnica de ordens e proibições.",
+    "Errada: contratransferência designa as reações do analista ao paciente, não a técnica de prescrever e proibir comportamentos."
+   ],
+   "referencia": "Sándor Ferenczi, textos sobre a técnica ativa (década de 1920). Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-082",
@@ -2259,7 +3312,20 @@
    "edital-13.5"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 16
+  "pdf_pagina": 16,
+  "comentario": {
+   "geral": "Lacan formulou o tempo lógico (instante de ver, tempo de compreender e momento de concluir) e a asserção da certeza antecipada, que fundamenta o corte da sessão de duração variável. O corte marca o momento de concluir e permite acesso à verdade do sujeito. Por isso a alternativa A é a correta. As demais noções de tempo não se ligam à asserção da certeza antecipada.",
+   "alternativas": [
+    "Correta: tempo lógico é a noção lacaniana em que a asserção da certeza antecipada funda o ato e o corte na sessão.",
+    "Errada: tempo libidinal não é a categoria lacaniana da asserção da certeza antecipada.",
+    "Errada: tempo mortífero não é a noção lacaniana ligada à sessão de duração variável.",
+    "Errada: o tempo imaginário remete ao registro do imaginário, não ao tempo lógico do corte.",
+    "Errada: o tempo cronológico é justamente o fixo, do relógio, que a sessão variável procura superar."
+   ],
+   "referencia": "Jacques Lacan, \"O tempo lógico e a asserção da certeza antecipada\" (1945).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-083",
@@ -2287,7 +3353,20 @@
    "edital-13.29"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 16
+  "pdf_pagina": 16,
+  "comentario": {
+   "geral": "Na teoria freudiana, o declínio do complexo de Édipo leva à interiorização das exigências e interdições parentais, e dela surge o supereu, instância de juiz ou censor. Ele é herdeiro do Édipo e permite a passagem à vida adulta. Por isso a alternativa C é a correta. As demais não correspondem à instância herdeira do Édipo.",
+   "alternativas": [
+    "Errada: o id é o polo pulsional, anterior ao Édipo, e não instância de censura herdeira dele.",
+    "Errada: eu real não é a instância herdeira do Édipo; refere-se a uma fase do desenvolvimento do eu, ligada à realidade.",
+    "Correta: o supereu é a instância herdeira do complexo de Édipo e exerce a função de juiz ou censor.",
+    "Errada: narcisismo é investimento libidinal no eu, não instância psíquica.",
+    "Errada: princípio de realidade é regulador do funcionamento psíquico, não instância."
+   ],
+   "referencia": "Sigmund Freud, \"O ego e o id\" (1923) e \"A dissolução do complexo de Édipo\" (1924).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-084",
@@ -2318,6 +3397,19 @@
   "pegadinha": {
    "letra": "E",
    "atracao": 0.58
+  },
+  "comentario": {
+   "geral": "Segundo o gabarito oficial, a Resolução CFP 001/2009 garante ao usuário o acesso às informações registradas pelo psicólogo sobre ele. Os registros pertencem ao âmbito do cuidado ao usuário, e o tempo decorrido (dois anos) não impede a solicitação, pois o prazo de guarda é de cinco anos. A alternativa B é a correta. As demais criam restrições, como recusa, autorização do Conselho ou limitação do conteúdo.",
+   "alternativas": [
+    "Errada: o sigilo protege o usuário contra terceiros, não contra ele próprio, então não justifica a negativa.",
+    "Correta: o usuário tem direito de acesso às informações registradas pela psicóloga a seu respeito.",
+    "Errada: não há exigência de autorização do Conselho de Classe para o psicólogo fornecer ao usuário o próprio prontuário.",
+    "Errada: a avaliação subjetiva do psicólogo sobre a aptidão do usuário não é fundamento para negar acesso.",
+    "Errada: a restrição às informações de identificação, demanda e encerramento não consta como limite ao acesso do usuário segundo o gabarito oficial."
+   ],
+   "referencia": "Resolução CFP nº 001/2009 (registro documental). Citação genérica, sem artigo.",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -2346,7 +3438,20 @@
    "edital-13.6"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 16
+  "pdf_pagina": 16,
+  "comentario": {
+   "geral": "O Código de Ética Profissional do Psicólogo prevê que, em caso de interrupção do trabalho, o psicólogo zele pelo destino dos arquivos confidenciais. Na demissão ou exoneração, o material deve ser repassado ao psicólogo que o substituir, que também fica obrigado ao sigilo. Por isso a alternativa A é a correta. Levar, destruir, restringir ou lacrar o material contraria a continuidade do cuidado.",
+   "alternativas": [
+    "Correta: na demissão, o material é repassado ao psicólogo que a substituir, que assume o dever de sigilo.",
+    "Errada: o material do serviço público não é levado pelo profissional que sai, pois a continuidade do cuidado cabe ao serviço.",
+    "Errada: destruir os arquivos prejudicaria a continuidade do atendimento e o registro documental exigido.",
+    "Errada: o repasse não se limita aos casos em curso, pois a norma trata do material como um todo.",
+    "Errada: o acesso da substituta não depende de autorização da administração; a norma determina o repasse ao psicólogo substituto."
+   ],
+   "referencia": "Código de Ética Profissional do Psicólogo (Resolução CFP nº 010/2005), art. 15 (destino dos arquivos confidenciais na interrupção do trabalho).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-086",
@@ -2374,7 +3479,20 @@
    "edital-13.13"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 17
+  "pdf_pagina": 17,
+  "comentario": {
+   "geral": "A regra técnica freudiana em que o analista escuta sem privilegiar nenhum elemento do discurso é a atenção flutuante, contrapartida da associação livre do paciente. Por isso a alternativa D é a correta. A associação livre é a regra do paciente, e as demais expressões não designam a regra técnica de escuta do analista.",
+   "alternativas": [
+    "Errada: ato analítico é conceito lacaniano sobre a intervenção do analista, não a regra de escuta sem privilégios.",
+    "Errada: associação livre é a regra fundamental dirigida ao paciente, que diz tudo o que lhe vier à mente.",
+    "Errada: escuta empática vem de abordagens humanistas, não é técnica criada por Freud.",
+    "Correta: atenção flutuante é a escuta do analista, sem privilegiar elementos do discurso do paciente.",
+    "Errada: escuta qualificada é termo de políticas de saúde, não regra técnica freudiana."
+   ],
+   "referencia": "Sigmund Freud, \"Recomendações aos médicos que exercem a psicanálise\" (1912).",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-087",
@@ -2406,6 +3524,19 @@
   "pegadinha": {
    "letra": "D",
    "atracao": 0.74
+  },
+  "comentario": {
+   "geral": "Pela Resolução CFP sobre documentos psicológicos, no relatório multiprofissional a descrição da demanda traz o que motivou o trabalho, quem forneceu as informações e as demandas da solicitação (I, certa). A análise e a conclusão são pensadas conforme o tipo de trabalho: em processo interdisciplinar elas são elaboradas em conjunto, de modo que II e III, que impõem separação, estão erradas. Só a I está correta, alternativa A.",
+   "alternativas": [
+    "Correta: só a afirmativa I está correta, pois a descrição da demanda traz motivo, informantes e demandas.",
+    "Errada: a análise em separado, com subtítulo por profissional, não é regra geral, já que no trabalho interdisciplinar ela é conjunta.",
+    "Errada: a conclusão em separado contraria o caráter interdisciplinar, em que a equipe conclui em conjunto.",
+    "Errada: inclui a II, cuja imposição de análise separada não corresponde à orientação normativa.",
+    "Errada: inclui II e III, ambas incorretas."
+   ],
+   "referencia": "Resolução CFP nº 06/2019 (elaboração de documentos escritos pelo psicólogo), orientações sobre relatório multiprofissional. Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -2433,7 +3564,20 @@
    "edital-13.9"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 17
+  "pdf_pagina": 17,
+  "comentario": {
+   "geral": "As referências técnicas para atuação de psicólogos em serviços hospitalares do SUS enfatizam a atuação voltada ao sujeito adoecido, não ao modelo clínico tradicional. Entre as tarefas está identificar reações emocionais próprias do adoecimento que interferem na adesão ao tratamento. Por isso a alternativa D é a correta.",
+   "alternativas": [
+    "Errada: o modelo clínico tradicional de consultório não se transpõe ao hospital, que exige adaptação de setting e de tempo.",
+    "Errada: os objetivos da Medicina e da Psicologia não coincidem; a Psicologia olha para a subjetividade e o sofrimento.",
+    "Errada: o cuidado não se limita ao tempo da internação, pois há continuidade na rede.",
+    "Correta: o psicólogo identifica reações emocionais do adoecimento que interferem na adesão ao tratamento.",
+    "Errada: o setting hospitalar acontece junto ao leito e aos processos do adoecimento, e não distante deles."
+   ],
+   "referencia": "Referências técnicas para atuação de psicólogas(os) nos serviços hospitalares do SUS (CREPOP/CFP). Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-089",
@@ -2460,7 +3604,20 @@
    "edital-1.1"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 17
+  "pdf_pagina": 17,
+  "comentario": {
+   "geral": "A saúde coletiva surge como campo crítico à saúde pública tradicional, questionando o monopólio da perspectiva biologicista e incorporando dimensões sociais, políticas e simbólicas. Por isso a alternativa C é a correta. As demais afirmam que ela ratifica o discurso cientificista, se sobrepõe à vida social, centra no Estado regulador ou repete o universalismo naturalista da saúde pública.",
+   "alternativas": [
+    "Errada: a dimensão simbólica, ética e política contesta, e não ratifica, o discurso cientificista da saúde pública.",
+    "Errada: a saúde coletiva reconhece o poder instituinte da vida social e não o questiona.",
+    "Correta: a saúde coletiva é discurso crítico à saúde pública tradicional, enfrentando o monopólio do olhar biologicista.",
+    "Errada: a saúde coletiva não promove o centramento no Estado regulador da vida; essa é característica atribuída à saúde pública tradicional.",
+    "Errada: a crítica sistemática ao universalismo naturalista distingue a saúde coletiva da saúde pública, não a aproxima."
+   ],
+   "referencia": "Campo da saúde coletiva brasileira (por exemplo, textos de Madel Luz e de Paim e Almeida Filho). Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-090",
@@ -2488,7 +3645,20 @@
    "edital-1.2"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 17
+  "pdf_pagina": 17,
+  "comentario": {
+   "geral": "Na reforma sanitária e na psiquiátrica, território é espaço vivo de relações, e não apenas área geográfica. Deve ser pensado de forma ampla e intersetorial, com articulação permanente para fortalecer a rede, alternativa E. As demais reduzem o conceito a região de vigilância, atribuem-lhe garantia automática de inclusão ou o ligam a encaminhamentos ao especializado.",
+   "alternativas": [
+    "Errada: território não é sinônimo de área ou região restrita à vigilância; envolve relações, atores e recursos do cotidiano.",
+    "Errada: o território não supera por si só os valores hegemônicos, pois exige trabalho crítico permanente.",
+    "Errada: a lógica territorial favorece o cuidado no território e a corresponsabilização, não a de encaminhamento ascendente ao especializado.",
+    "Errada: o território não garante por si a inclusão social; ela depende de ações e articulação.",
+    "Correta: o território deve ser tomado de forma ampla e intersetorial, com articulação permanente da rede."
+   ],
+   "referencia": "Princípios do SUS e da Reforma Psiquiátrica (Lei nº 10.216/2001); Milton Santos sobre território usado. Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-091",
@@ -2516,7 +3686,20 @@
    "edital-1.4"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 17
+  "pdf_pagina": 17,
+  "comentario": {
+   "geral": "Sob perspectiva crítica, a humilhação nos serviços de saúde não é sintoma individual, e sim produto de relações sociais de poder. A biopolítica, ao se capilarizar nos serviços, produz culpabilização individual e moralização, o que pode repercutir em sentimentos de humilhação. Por isso a alternativa C é a correta.",
+   "alternativas": [
+    "Errada: humilhação e vergonha, nessa leitura, são fenômenos sociais e políticos, e não sintomas explicados por teorias da personalidade.",
+    "Errada: a interseccionalidade trata do imbricamento de opressões sem dar primazia a raça sobre gênero, classe e etnia.",
+    "Correta: a biopolítica capilarizada nos serviços produz culpabilização e moralização individual, que podem alimentar a humilhação.",
+    "Errada: a determinação social não oferece visão causal linear em que a humilhação seria mera consequência da pobreza.",
+    "Errada: o cuidado não se sobrepõe às relações de poder, e técnicas eficazes por si só não neutralizam a dominação."
+   ],
+   "referencia": "Estanislau e Ximenes (2016), citados no enunciado; literatura sobre biopolítica (Foucault). Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-092",
@@ -2543,7 +3726,20 @@
    "edital-13.7"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 18
+  "pdf_pagina": 18,
+  "comentario": {
+   "geral": "Na Atenção Básica, o psicólogo trabalha de modo interdisciplinar, com foco no sujeito e em suas relações com os contextos em que vive, em linha com o SUS. Por isso a alternativa E é a correta. As demais reduzem a atuação a grupos psicoterápicos substitutivos, à medicalização, ao monopólio do cuidado psi ou à adaptação da clínica individual.",
+   "alternativas": [
+    "Errada: os grupos não substituem a clínica individual; são uma entre várias estratégias.",
+    "Errada: a atuação psicossocial não produz diagnósticos para justificar a medicalização como recurso principal.",
+    "Errada: a concepção correta é a de que o cuidado em saúde mental é compartilhado pela equipe, não exclusivo do profissional psi.",
+    "Errada: apenas adaptar a clínica individual para atenuar sintomas não expressa a mudança de paradigma exigida pelo SUS.",
+    "Correta: o psicólogo busca práticas interdisciplinares, com foco no sujeito e em seus contextos."
+   ],
+   "referencia": "Política Nacional de Atenção Básica; Referências Técnicas para atuação de psicólogas(os) na Atenção Básica (CREPOP/CFP). Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-093",
@@ -2570,7 +3766,20 @@
    "edital-13.7"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 18
+  "pdf_pagina": 18,
+  "comentario": {
+   "geral": "Os problemas do trabalho dos psicólogos no SUS apontados na literatura incluem condições de trabalho precárias e excesso de demanda que atravessa as equipes. Por isso a alternativa B é a correta. As demais citam como problemas aspectos que são princípios ou avanços do SUS, como a descentralização, a integralidade e a educação permanente.",
+   "alternativas": [
+    "Errada: a descentralização municipal é diretriz do SUS e não constitui, nesses termos, um problema.",
+    "Correta: condições de trabalho e excesso de demanda são aspectos problemáticos do trabalho do psicólogo no SUS.",
+    "Errada: a ausência de metas não é apontada como problema; o desafio costuma ser o oposto, a produtividade quantitativa.",
+    "Errada: a integralidade é princípio do SUS e não se contrapõe ao fazer técnico.",
+    "Errada: a educação permanente e a compreensão da subjetividade no processo saúde-doença são avanços, não problemas."
+   ],
+   "referencia": "Estudos do CREPOP/CFP sobre psicologia no SUS. Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-094",
@@ -2597,7 +3806,20 @@
    "edital-13.14"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 18
+  "pdf_pagina": 18,
+  "comentario": {
+   "geral": "A atenção psicossocial reconhece a família como parceira do cuidado. Familiares podem não se sentir preparados e há sobrecarga feminina (I). Os serviços devem informar sobre as condições do usuário e sobre a rede (II), e os saberes dos familiares devem ser incorporados ao cuidado (III). As três afirmativas estão certas, alternativa E.",
+   "alternativas": [
+    "Errada: apenas a III está certa na alternativa, mas I e II também estão.",
+    "Errada: I e II estão certas, mas III também é correta.",
+    "Errada: I e III estão certas, mas II também é correta.",
+    "Errada: II e III estão certas, mas I também é correta.",
+    "Correta: as três afirmativas descrevem corretamente a inclusão da família na atenção psicossocial."
+   ],
+   "referencia": "Lei nº 10.216/2001 e diretrizes da atenção psicossocial no SUS. Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-095",
@@ -2625,7 +3847,20 @@
    "edital-13.19"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 18
+  "pdf_pagina": 18,
+  "comentario": {
+   "geral": "O enunciado remete à crítica de Canguilhem ao psicólogo como mero instrumento. Em ponto de vista crítico, a perspectiva antimanicomial permite à psicologia posicionar-se eticamente como agente transformador diante das relações de opressão. Por isso a alternativa C é a correta. As demais atribuem a correntes da reforma psiquiátrica efeitos que não lhes correspondem.",
+   "alternativas": [
+    "Errada: a antipsiquiatria criticou o saber médico sobre a loucura, e não restituiu o seu valor.",
+    "Errada: a psiquiatria clássica patologizou o louco e fortaleceu lógicas de exclusão, não as enfrentou.",
+    "Correta: a perspectiva antimanicomial contribui para a psicologia exercer posição ética transformadora frente às opressões.",
+    "Errada: o preventivismo não define a doença mental como marginalidade nos termos descritos, nem diminuiu por si a demanda asilar.",
+    "Errada: a psicoterapia institucional criticou as instituições psiquiátricas, não tratou as comunidades terapêuticas como solução em crítica à pedagogia da sociabilidade, segundo o gabarito."
+   ],
+   "referencia": "Georges Canguilhem, \"O que é a psicologia?\" (1956); Amarante sobre reforma psiquiátrica. Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-096",
@@ -2652,7 +3887,20 @@
    "edital-13.24"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 18
+  "pdf_pagina": 18,
+  "comentario": {
+   "geral": "Na perspectiva da integralidade do cuidado a pessoas que usam álcool e outras drogas, a atenção à crise deve se apoiar no vínculo e evitar abordagens restritivas, em oposição à contenção, ao isolamento e à punição. Por isso a alternativa A é a correta. A crise não é de exclusividade do CAPS AD e deve ser manejada pela rede.",
+   "alternativas": [
+    "Correta: o vínculo com o usuário orienta o manejo da crise, evitando abordagens restritivas.",
+    "Errada: a contenção e o isolamento não são prioridade; a crise não implica periculosidade que os justifique.",
+    "Errada: a crise não é manejada exclusivamente pelo CAPS AD, pois envolve toda a rede de atenção.",
+    "Errada: respostas punitivas contrariam a integralidade e a lógica de cuidado em liberdade.",
+    "Errada: práticas disciplinares tradicionais reproduzem a lógica de controle, contrária à do cuidado."
+   ],
+   "referencia": "Política do Ministério da Saúde para a atenção integral a usuários de álcool e outras drogas (2003); Lei nº 10.216/2001. Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-097",
@@ -2683,6 +3931,19 @@
   "pegadinha": {
    "letra": "B",
    "atracao": 0.32
+  },
+  "comentario": {
+   "geral": "Lancetti (2015) usa contrafissura para a relação do trabalhador de saúde com o tema das drogas: assim como o usuário sente fissura, o profissional pode ser afetado e impor respostas simplificadoras. Por isso a alternativa D é a correta. A contrafissura não é efeito da substância, nem diminuição da fissura, nem estratégia de mídia.",
+   "alternativas": [
+    "Errada: descreve tolerância, não contrafissura.",
+    "Errada: a defesa do cuidado em liberdade é uma posição da redução de danos, mas não define a contrafissura.",
+    "Errada: contrafissura não é diminuição da fissura do usuário.",
+    "Correta: contrafissura refere-se ao modo como o trabalhador é afetado pela temática e responde de forma simplificadora.",
+    "Errada: contrafissura não se apoia na mídia, e não se refere à desconstrução do sensacionalismo."
+   ],
+   "referencia": "Antonio Lancetti, \"Contrafissura e plasticidade psíquica\" (2015).",
+   "status": "nao_revisado",
+   "versao": 1
   }
  },
  {
@@ -2711,7 +3972,20 @@
    "edital-13.20"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 19
+  "pdf_pagina": 19,
+  "comentario": {
+   "geral": "A RAPS, instituída pela Portaria nº 3.088/2011, organiza serviços em rede de atenção à saúde regionalizada, com ações intersetoriais que garantam a integralidade do cuidado. Por isso a alternativa D é a correta. As demais descrevem a RAPS de modo contrário aos princípios da atenção psicossocial.",
+   "alternativas": [
+    "Errada: a RAPS não instituiu lógica ambulatorial centrada no modelo biomédico, pois propõe o cuidado territorial e psicossocial.",
+    "Errada: a Atenção Básica é componente importante, mas não porta de entrada obrigatória e exclusiva.",
+    "Errada: os CAPS não têm funcionamento disciplinar e sim interdisciplinar.",
+    "Correta: a RAPS propõe organização em rede regionalizada, com ações intersetoriais para a integralidade do cuidado.",
+    "Errada: o Projeto Terapêutico Singular valoriza a participação do usuário e da família, e não prescinde deles."
+   ],
+   "referencia": "Portaria de Consolidação nº 3/2017 (originalmente Portaria GM/MS nº 3.088/2011), que institui a RAPS.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  },
  {
   "id": "enare-2025-psicologia-t1-100",
@@ -2739,6 +4013,19 @@
    "edital-13.20"
   ],
   "fonte_url": "https://storage.googleapis.com/website-enare-2025/assets/provas/res-multi/multi-psicologia-cns011-tipo-1.pdf",
-  "pdf_pagina": 19
+  "pdf_pagina": 19,
+  "comentario": {
+   "geral": "No CAPS infanto-juvenil, a clínica da atenção psicossocial concebe a criança e o adolescente como sujeitos, com lugar autêntico de fala. Por isso a alternativa A é a correta. As demais propõem tratamentos homogêneos, a desimplicação do sujeito, a tutela estatal ou o acolhimento de todos os casos.",
+   "alternativas": [
+    "Correta: crianças e adolescentes são sujeitos de direitos, com lugar autêntico de fala.",
+    "Errada: os tratamentos são singulares, construídos com cada criança e família, e não homogêneos e prescritivos.",
+    "Errada: o sujeito em desenvolvimento deve ser implicado em suas demandas e sintomas, não desimplicado.",
+    "Errada: o vínculo visa ao cuidado e não à tutela estatal da situação irregular, doutrina ultrapassada pelo ECA.",
+    "Errada: o acolhimento não obriga o serviço a acompanhar todos os casos; há avaliação e encaminhamento na rede."
+   ],
+   "referencia": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990); Ministério da Saúde, Caminhos para uma política de saúde mental infanto-juvenil (2005). Citação genérica.",
+   "status": "nao_revisado",
+   "versao": 1
+  }
  }
 ]
