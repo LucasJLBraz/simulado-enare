@@ -2,9 +2,9 @@ import { h, fmtMin, origemTexto, figura } from '../dom.js';
 import { ctx } from '../ctx.js';
 import { ritmo } from '../../logica/ritmo.js';
 import { SEG_PADRAO } from '../../logica/revisao.js';
-import { cartaoGabarito, ROTULO_CONF } from './comum.js';
+import { cartaoGabarito, ROTULO_CONF, curto } from './comum.js';
 
-const tema = (q) => `${q.enunciado.replace(/\s+/g, ' ').slice(0, 80)}${q.enunciado.length > 80 ? "…" : ""} (${q.topicos.map((t) => ctx.topicos.find((x) => x.id === t)?.nome ?? t).join(', ')})`;
+const tema = (q) => `${q.enunciado.replace(/\s+/g, ' ').slice(0, 80)}${q.enunciado.length > 80 ? "…" : ""} (${q.topicos.map((t) => curto(ctx.topicos.find((x) => x.id === t) ?? { nome: t })).join(', ')})`;
 
 export function resultado({ arg }) {
   const r = ctx.estado.historico.find((x) => String(x.id) === arg);

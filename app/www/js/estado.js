@@ -3,7 +3,7 @@ export const CHAVE = 'simulado-enare:v1';
 
 export const vazio = () => ({
   versao: 1,
-  config: { dataProva: null, lembrete: { ativo: false, hora: '20:00' }, onboardingVisto: false,
+  config: { dataProva: null, lembrete: { ativo: false, hora: '20:00' }, onboardingVisto: false, ocultarRelogio: false,
     mini: { n: 10, topico: 'misturado', feedback: 'cada', timer: false, apostila: false } },
   progresso: {}, // id -> { respostas: [{quando, resp, certo, conf, seg}], caderno?: {proxima, destaque} }
   contestacoes: {}, // id -> { versao }

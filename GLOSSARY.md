@@ -77,7 +77,7 @@ Quanto a estudante confia na resposta, marcado antes de ver o gabarito: chutei, 
 _Avoid_: certeza, segurança
 
 **Caderno de erros**:
-Conjunto de questões que a estudante errou ou acertou sem confiança e que voltam para revisão em intervalos crescentes.
+Conjunto de questões que a estudante errou ou acertou sem confiança e que voltam para revisão. O primeiro erro, ou o acerto sem certeza, volta depois de 15% dos dias até a prova (entre 1 e 30 dias; 7 sem data). Errar de novo uma questão que já está no caderno a traz no dia seguinte. Acertar com certeza tira a questão do caderno.
 _Avoid_: lista de erros, revisão
 
 ## Diagnóstico

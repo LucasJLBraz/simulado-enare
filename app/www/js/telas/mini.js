@@ -2,11 +2,14 @@ import { h, frag } from '../dom.js';
 import { ctx } from '../ctx.js';
 import { sortear } from '../../logica/sorteio.js';
 import { iniciar } from '../sessao.js';
+import { diagnostico } from '../../logica/dominio.js';
+import { curto } from './comum.js';
 
 export function miniSetup({ params }) {
   const e = ctx.estado;
   const c = e.config.mini;
-  if (params.topico) c.topico = params.topico;
+  // Abre no tópico pedido ou, sem pedido, no sugerido (o primeiro de O que estudar).
+  c.topico = params.topico || diagnostico(ctx.questoes, ctx.topicos, e.progresso)[0]?.id || c.topico;
   const vistos = new Set(Object.keys(e.progresso).filter((id) => e.progresso[id].respostas?.length));
   const raiz = h('div');
 
@@ -27,7 +30,8 @@ export function miniSetup({ params }) {
       h('label', { class: 'campo' }, 'Tópico'),
       h('select', { onchange: (ev) => { c.topico = ev.target.value; desenhar(); } },
         h('option', { value: 'misturado', selected: c.topico === 'misturado' }, 'Misturado'),
-        ctx.topicos.map((t) => h('option', { value: t.id, selected: c.topico === t.id }, t.nome))),
+        ctx.topicos.map((t) => h('option', { value: t.id, selected: c.topico === t.id }, curto(t)))),
+      c.topico !== 'misturado' && h('p', { class: 'suave' }, `No edital: ${ctx.topicos.find((t) => t.id === c.topico)?.nome}`),
       h('p', { class: 'suave' }, `${p.length} questões disponíveis, ${ineditas} ainda inéditas. Inéditas vêm primeiro.`),
       h('label', { class: 'campo' }, 'Gabarito'),
       h('div', { class: 'escolha' },
@@ -42,7 +46,7 @@ export function miniSetup({ params }) {
       h('button', { class: 'btn prim', disabled: p.length === 0, onclick: () => {
         ctx.salvar();
         const fila = sortear(p, vistos, n).map((q) => q.id);
-        const nome = c.topico === 'misturado' ? 'Misturado' : ctx.topicos.find((t) => t.id === c.topico)?.nome;
+        const nome = c.topico === 'misturado' ? 'Misturado' : curto(ctx.topicos.find((t) => t.id === c.topico));
         iniciar({ tipo: 'mini', titulo: `Mini-simulado: ${nome}`, fila, feedback: c.feedback, totalSeg: c.timer ? fila.length * 180 : null });
         ctx.ir('#/questao');
       } }, `Começar com ${n} ${n === 1 ? 'questão' : 'questões'}`),

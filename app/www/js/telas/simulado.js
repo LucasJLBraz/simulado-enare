@@ -40,9 +40,8 @@ export function simuladoSetup() {
         h('button', { class: s.modo === 'treino' ? 'sel' : '', onclick: () => { s.modo = 'treino'; desenhar(); } }, 'Modo treino')),
       h('p', { class: 'suave' }, s.modo === 'prova' ? 'Tempo corrido, sem pausa, como no dia.' : 'Você pode pausar e continuar depois.'),
       h('label', { class: 'campo' }, 'Tempo total (minutos)'),
-      h('input', { type: 'number', min: 1, value: Math.round(total / 60), onchange: (ev) => { s.total = Math.max(60, Math.round(+ev.target.value * 60)); s.porQ = s.total / 60 / (n() || 1); desenhar(); } }),
-      h('label', { class: 'campo' }, 'Tempo por questão (minutos)'),
-      h('input', { type: 'number', min: 0.5, step: 0.5, value: +(total / 60 / (n() || 1)).toFixed(1), onchange: (ev) => { s.porQ = Math.max(0.5, +ev.target.value); s.total = Math.round(n() * s.porQ * 60); desenhar(); } }),
+      h('input', { type: 'number', min: 1, value: Math.round(total / 60), onchange: (ev) => { s.total = Math.max(60, Math.round(+ev.target.value * 60)); desenhar(); } }),
+      h('p', { class: 'suave' }, `Dá cerca de ${+(total / 60 / (n() || 1)).toFixed(1)} minutos por questão.`),
       h('button', { class: 'btn prim', disabled: !n(), onclick: () => {
         const qs = lista();
         iniciar({ tipo: 'simulado', titulo: s.tipo === 'real' ? `Prova real ENARE ${s.edicao}` : 'Simulado montado',

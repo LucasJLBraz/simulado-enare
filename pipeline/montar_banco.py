@@ -3,7 +3,7 @@
   uv run python montar_banco.py [--dry-run]
 Ids nunca mudam. Questão já no banco mantém tudo; só o comentário é trocado se o novo tem versao maior.
 """
-import argparse, datetime, json, sys
+import argparse, datetime, json, re, sys
 from collections import Counter
 from pathlib import Path
 
@@ -47,6 +47,25 @@ def validar(qs, topicos_ids=None):
     return erros
 
 
+# Afirmativas "I. ... II. ..." começam em linha própria (só se o texto tem I e II em sequência).
+_AFIRM = re.compile(r"(?<=[.:;?!)])\s+(?=(?:I{1,3}|IV|V|VI)\.\s+[A-ZÀ-Ú\"“])")
+# Comentário por alternativa: "Errada. x", "Correta. x", "(B) Incorreta. x" viram "Errada: x" / "Correta: x".
+_PREFIXO = re.compile(r"^(?:\([A-E]\)\s*)?(Errada|Incorreta|Correta)\.\s+")
+
+
+def limpar_questao(q):
+    """Limpeza de texto, idempotente: U+F020 (espaço da fonte Symbol), afirmativas em linhas e prefixo dos comentários."""
+    q = json.loads(json.dumps(q).replace("\\uf020", ""))
+    q["alternativas"] = [a.strip() for a in q.get("alternativas", [])]
+    e = q.get("enunciado", "")
+    if re.search(r"(?<=[.:;?!)])\s+I\.\s", e) and re.search(r"(?<=[.:;?!)])\s+II\.\s", e):
+        q["enunciado"] = _AFIRM.sub("\n", e)
+    alts = (q.get("comentario") or {}).get("alternativas")
+    if alts:
+        q["comentario"]["alternativas"] = [_PREFIXO.sub(lambda m: ("Correta" if m[1] == "Correta" else "Errada") + ": ", a) for a in alts]
+    return q
+
+
 def mesclar(existentes, novas):
     """Devolve (banco, adicionadas, comentarios_atualizados). Não altera as entradas."""
     banco = [dict(q) for q in existentes]
@@ -81,6 +100,9 @@ def main():
         if not f.name.endswith((".rejeitadas.json", ".conferencia.json")):
             novas += json.loads(f.read_text())
     banco, add, upd = mesclar(existentes, novas)
+    antes = banco
+    banco = [limpar_questao(q) for q in banco]
+    limpas = sum(a != b for a, b in zip(antes, banco))
     erros = validar(banco, topicos)
     if erros:
         print(f"{len(erros)} erros; banco NÃO gravado:")
@@ -88,8 +110,8 @@ def main():
         sys.exit(1)
     sem_topico = sum(not q.get("topicos") for q in banco)
     sem_com = sum(not q.get("comentario") for q in banco)
-    print(f"{add} adicionadas, {upd} comentários atualizados, total {len(banco)}; sem tópico={sem_topico} sem comentário={sem_com}")
-    if a.dry_run or (not add and not upd):
+    print(f"{add} adicionadas, {upd} comentários atualizados, {limpas} questões limpas, total {len(banco)}; sem tópico={sem_topico} sem comentário={sem_com}")
+    if a.dry_run or (not add and not upd and not limpas):
         return
     (BANCO / "questoes.json").write_text(json.dumps(banco, ensure_ascii=False, indent=1))
     meta = json.loads((BANCO / "meta.json").read_text())

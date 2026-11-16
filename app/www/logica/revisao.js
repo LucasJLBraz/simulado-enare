@@ -37,3 +37,32 @@ export function minutosEstimados(ids, progresso) {
   }, 0);
   return Math.ceil(total / 60);
 }
+
+// Destino da questão no caderno depois de uma resposta, pela mesma regra de atualizarCaderno.
+export function destinoCaderno(entrada, resposta, hoje, diasAteProva) {
+  const novo = atualizarCaderno(entrada, resposta, hoje, diasAteProva);
+  return novo
+    ? { volta: true, estava: !!entrada, dias: diasEntre(hoje, novo.proxima), proxima: novo.proxima }
+    : { volta: false, estava: !!entrada };
+}
+
+const dizerConf = { certeza: 'com certeza', duvida: 'com dúvida', chutei: 'chutando' };
+// Faixa de feedback: resultado, confiança e o destino real no caderno.
+export function mensagemFeedback({ certo, conf }, destino) {
+  const quando = destino.dias === 1 ? 'amanhã' : `em ${destino.dias} dias`;
+  const fim = destino.volta ? `Volta ${quando} no caderno de erros.`
+    : destino.estava ? 'Sai do caderno de erros.' : 'Não volta para revisão.';
+  return `${certo ? 'Acertou' : 'Errou'} ${dizerConf[conf]}. ${fim}`;
+}
+
+export const dataCurta = (iso) => `${iso.slice(8)}/${iso.slice(5, 7)}`;
+
+// Caderno inteiro: quantas questões e quando vence a primeira.
+export function resumoCaderno(progresso) {
+  const datas = Object.values(progresso).map((p) => p.caderno?.proxima).filter(Boolean).sort();
+  return { n: datas.length, proxima: datas[0] ?? null };
+}
+export function fraseCaderno({ n, proxima }, hoje) {
+  if (!n) return null;
+  return `No caderno: ${n} ${n === 1 ? 'questão' : 'questões'}. Próxima revisão: ${proxima <= hoje ? 'hoje' : dataCurta(proxima)}.`;
+}

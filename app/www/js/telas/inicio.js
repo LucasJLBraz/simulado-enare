@@ -1,13 +1,17 @@
 import { h, fmtSeg } from '../dom.js';
 import { ctx } from '../ctx.js';
-import { revisaoDoDia, minutosEstimados, hojeISO, diasEntre } from '../../logica/revisao.js';
+import { revisaoDoDia, minutosEstimados, resumoCaderno, fraseCaderno, hojeISO, diasEntre } from '../../logica/revisao.js';
 import { diagnostico } from '../../logica/dominio.js';
-import { iniciar, atualId, decorrido, retomar } from '../sessao.js';
+import { iniciar, retomar } from '../sessao.js';
+import { curto } from './comum.js';
 
 export function inicio() {
   const e = ctx.estado;
   const hoje = hojeISO();
-  const ids = revisaoDoDia(e.progresso, hoje).filter((id) => ctx.porId.has(id) && (e.config.mini.apostila || ctx.porId.get(id).origem.tipo === 'oficial'));
+  const visivel = ([id]) => ctx.porId.has(id) && (e.config.mini.apostila || ctx.porId.get(id).origem.tipo === 'oficial');
+  const prog = Object.fromEntries(Object.entries(e.progresso).filter(visivel));
+  const ids = revisaoDoDia(prog, hoje);
+  const caderno = fraseCaderno(resumoCaderno(prog), hoje);
   const min = minutosEstimados(ids, e.progresso);
   const diag = diagnostico(ctx.questoes, ctx.topicos, e.progresso);
   const foco = diag[0];
@@ -32,18 +36,20 @@ export function inicio() {
       ids.length
         ? [h('div', { class: 'grande' }, `${ids.length} ${ids.length === 1 ? 'questão' : 'questões'}`),
           h('p', { class: 'suave' }, `Cerca de ${min} minutos.`),
+          caderno && h('p', { class: 'suave' }, caderno),
           h('button', { class: 'btn prim', onclick: comecarRevisao }, 'Começar revisão')]
-        : h('p', {}, 'Nada para revisar hoje. Resolva um mini-simulado para alimentar o caderno de erros.')),
+        : [h('p', {}, caderno ? 'Nada para revisar hoje.' : 'Nada para revisar hoje. Resolva um mini-simulado para alimentar o caderno de erros.'),
+          caderno && h('p', { class: 'suave' }, caderno)]),
     h('section', { class: 'card' },
       h('h2', {}, 'Mini-simulado'),
-      foco && h('p', {}, `Foque em: ${foco.nome}.`),
+      foco && h('p', {}, `Foque em: ${curto(foco)}.`),
       foco
         ? h('a', { class: 'btn prim', href: `#/mini?topico=${foco.id}` }, 'Treinar este tópico')
         : null,
       h('a', { class: 'btn', href: '#/mini' }, 'Escolher o mini-simulado')),
     h('section', { class: 'card' },
       h('h2', {}, 'Simulado completo'),
-      h('p', { class: 'suave' }, `${ctx.meta.formato_prova.gerais} questões de conhecimentos gerais e ${ctx.meta.formato_prova.especificos} específicas, no tempo da prova.`),
+      h('p', { class: 'suave' }, 'Uma prova real do ENARE ou um simulado montado com várias edições, no tempo da prova.'),
       h('a', { class: 'btn', href: '#/simulado' }, 'Montar simulado')),
     h('section', { class: 'card' },
       h('h2', {}, 'O que estudar'),

@@ -76,3 +76,17 @@ summary { min-height: 48px; display: flex; flex-wrap: wrap; gap: 6px; align-item
 .dots i { width: 10px; height: 10px; border-radius: 50%; background: var(--borda); }
 .dots i.on { background: var(--prim); }
 .figura { display: block; max-width: 100%; height: auto; margin: 12px 0; border-radius: 8px; background: #fff; }
+.cabecalho { flex-wrap: nowrap; }
+.cabecalho strong { white-space: nowrap; }
+.cabecalho > .btn { flex: 0 0 auto; min-width: 0; }
+.cabecalho .barra { flex: 1; min-width: 24px; }
+.btn.pequeno.discreto { min-height: 36px; padding: 4px 10px; margin: 0; font-weight: 400; font-size: .9rem; color: var(--suave); }
+.faixa { margin-top: 8px; padding: 10px 12px; border-radius: 12px; border: 2px solid var(--borda); }
+.faixa.ok { background: var(--ok-bg); border-color: var(--ok); }
+.faixa.erro { background: var(--erro-bg); border-color: var(--erro); }
+.rodape { position: sticky; bottom: 0; z-index: 2; background: var(--bg); border-top: 1px solid var(--borda); padding: 8px 0 max(8px, env(safe-area-inset-bottom)); margin-top: 12px; }
+.rodape .btn { margin: 8px 0 0; }
+.btn.marcado { border-width: 2px; border-color: var(--ok); }
+.btn.perigo.marcado { border-color: var(--erro); }
+.tela-cheia { display: flex; flex-direction: column; min-height: calc(100dvh - 112px); }
+.tela-cheia .rodape { margin-top: auto; }

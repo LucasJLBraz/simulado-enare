@@ -85,3 +85,16 @@ if __name__ == "__main__":
         if nome.startswith("test_"):
             f()
     print("ok")
+
+
+def test_limpar_questao():
+    from montar_banco import limpar_questao
+    e = "Sobre X: I. Um. II. Dois. III. Três. Assinale."
+    r = limpar_questao(q("x-001", enunciado=e, alternativas=["a\uf020", "b", "c", "d", "e"],
+                         comentario={"alternativas": ["Errada. a", "(B) Incorreta. b", "Correta. c", "Errada: d", "Não e"]}))
+    assert r["enunciado"] == "Sobre X:\nI. Um.\nII. Dois.\nIII. Três. Assinale."
+    assert r["alternativas"][0] == "a"
+    assert r["comentario"]["alternativas"] == ["Errada: a", "Errada: b", "Correta: c", "Errada: d", "Não e"]
+    assert limpar_questao(r) == r  # idempotente
+    sem = q("x-002", enunciado="Atuou no CAPS II. Qual foi o procedimento?")
+    assert limpar_questao(sem)["enunciado"] == sem["enunciado"]

@@ -3,6 +3,7 @@ import { ctx } from '../ctx.js';
 import { diagnostico, motivo, ROTULO_ESTADO } from '../../logica/dominio.js';
 import { ritmoPorTopico } from '../../logica/ritmo.js';
 import { SEG_PADRAO } from '../../logica/revisao.js';
+import { curto } from './comum.js';
 
 export function estudar() {
   const e = ctx.estado;
@@ -14,7 +15,8 @@ export function estudar() {
   const cls = { domina: 'badge ok', quase_la: 'badge', base_fraca: 'badge erro' };
 
   const cartao = (t, comMotivo) => h('div', { class: 'card' },
-    h('h2', {}, t.nome),
+    h('h2', {}, curto(t)),
+    h('details', {}, h('summary', {}, 'Nome no edital'), h('p', { class: 'suave' }, t.nome)),
     h('span', { class: cls[t.estado] }, ROTULO_ESTADO[t.estado]),
     h('p', {}, comMotivo ? `Por quê: ${motivo(t)}.` : `${t.n} respostas, ${Math.round((t.erro ?? 0) * 100)}% de erro.`),
     rit[t.id] && h('p', { class: 'suave' }, `Ritmo: ${fmtMin(rit[t.id].mediaSeg)} por questão, ${rit[t.id].rotulo}.`),

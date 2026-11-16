@@ -231,11 +231,11 @@
   "comentario": {
    "geral": "O financiamento do SUS é responsabilidade solidária das três esferas de governo, princípio previsto na Constituição e na Lei 8.080/1990. A vigilância em saúde, como componente do sistema, segue essa lógica. Por isso o gabarito é a alternativa que indica financiamento tripartite, com recursos federais, estaduais e municipais.",
    "alternativas": [
-    "Errada. O município não arca sozinho com o financiamento; o SUS é cofinanciado.",
-    "Errada. Omite a União, que é parte essencial do financiamento tripartite.",
-    "Errada. O financiamento não se restringe à esfera federal.",
-    "Errada. Omite os municípios e não corresponde ao termo tripartite.",
-    "Correta. O financiamento é tripartite: União, estados e municípios."
+    "Errada: O município não arca sozinho com o financiamento; o SUS é cofinanciado.",
+    "Errada: Omite a União, que é parte essencial do financiamento tripartite.",
+    "Errada: O financiamento não se restringe à esfera federal.",
+    "Errada: Omite os municípios e não corresponde ao termo tripartite.",
+    "Correta: O financiamento é tripartite: União, estados e municípios."
    ],
    "referencia": "Constituição Federal, art. 198, § 1º; Lei 8.080/1990",
    "status": "nao_revisado",
@@ -271,11 +271,11 @@
   "comentario": {
    "geral": "O NASF-AB atua em apoio matricial às equipes de Atenção Básica, sem ser porta de entrada. Sua lógica é de corresponsabilização e construção compartilhada, o que inclui participar do planejamento conjunto com as equipes vinculadas. Essa é a competência apontada pelo gabarito.",
    "alternativas": [
-    "Errada. A implantação de UBS é atribuição da gestão, não do NASF-AB.",
-    "Errada. O NASF-AB não forma equipes por indicação do Ministério da Saúde; ele é composto conforme a gestão municipal.",
-    "Correta. Planejar em conjunto com as equipes de AB vinculadas é competência do NASF-AB.",
-    "Errada. A composição e a carga horária são definidas pela gestão e pela normativa, não pelo próprio NASF-AB.",
-    "Errada. A integração à RAS segue normativas do Ministério da Saúde e do SUS, não do CNS."
+    "Errada: A implantação de UBS é atribuição da gestão, não do NASF-AB.",
+    "Errada: O NASF-AB não forma equipes por indicação do Ministério da Saúde; ele é composto conforme a gestão municipal.",
+    "Correta: Planejar em conjunto com as equipes de AB vinculadas é competência do NASF-AB.",
+    "Errada: A composição e a carga horária são definidas pela gestão e pela normativa, não pelo próprio NASF-AB.",
+    "Errada: A integração à RAS segue normativas do Ministério da Saúde e do SUS, não do CNS."
    ],
    "referencia": "Portaria GM/MS nº 2.436/2017 (PNAB)",
    "status": "nao_revisado",
@@ -311,11 +311,11 @@
   "comentario": {
    "geral": "A PNAB trata da estrutura e da ambiência das UBS indicando que devem ser adequadas à população adscrita, à densidade demográfica, ao perfil populacional e às ações previstas, além de contar com pontos de apoio para populações dispersas. As três afirmativas descrevem esses requisitos. Por isso todas estão corretas.",
    "alternativas": [
-    "Errada. A afirmativa I está correta, mas II e III também estão.",
-    "Errada. II está correta, mas I e III também.",
-    "Errada. Faltou a afirmativa III, que também está correta.",
-    "Errada. Faltou a afirmativa I, que também está correta.",
-    "Correta. I, II e III descrevem requisitos de infraestrutura e ambiência das UBS."
+    "Errada: A afirmativa I está correta, mas II e III também estão.",
+    "Errada: II está correta, mas I e III também.",
+    "Errada: Faltou a afirmativa III, que também está correta.",
+    "Errada: Faltou a afirmativa I, que também está correta.",
+    "Correta: I, II e III descrevem requisitos de infraestrutura e ambiência das UBS."
    ],
    "referencia": "Portaria GM/MS nº 2.436/2017 (PNAB)",
    "status": "nao_revisado",
@@ -351,11 +351,11 @@
   "comentario": {
    "geral": "Na Política Nacional de Humanização, a transversalidade é o princípio que amplia a comunicação entre pessoas e grupos e transforma as relações entre os sujeitos envolvidos na produção de saúde. Ela busca romper com hierarquias rígidas e saberes isolados. Daí o gabarito.",
    "alternativas": [
-    "Errada. Pluralidade não é o princípio definido por ampliação da comunicação intra e intergrupos.",
-    "Errada. Diversidade não designa esse princípio da PNH.",
-    "Errada. Verticalidade é o oposto da lógica da PNH, que busca romper a hierarquia.",
-    "Correta. Transversalidade aumenta o grau de comunicação intra e intergrupos.",
-    "Errada. Heterogeneidade não é princípio da PNH."
+    "Errada: Pluralidade não é o princípio definido por ampliação da comunicação intra e intergrupos.",
+    "Errada: Diversidade não designa esse princípio da PNH.",
+    "Errada: Verticalidade é o oposto da lógica da PNH, que busca romper a hierarquia.",
+    "Correta: Transversalidade aumenta o grau de comunicação intra e intergrupos.",
+    "Errada: Heterogeneidade não é princípio da PNH."
    ],
    "referencia": "Brasil. Ministério da Saúde. Política Nacional de Humanização (HumanizaSUS)",
    "status": "nao_revisado",
@@ -391,11 +391,11 @@
   "comentario": {
    "geral": "A Política Nacional de Saúde da Pessoa Idosa tem como finalidade primordial recuperar, manter e promover a autonomia e a independência das pessoas idosas, com medidas coletivas e individuais. A política rejeita a ideia de que incapacidade seja consequência inevitável do envelhecimento. O gabarito reflete essa finalidade.",
    "alternativas": [
-    "Errada. A política não tem como foco a permanência em instituições asilares.",
-    "Correta. Autonomia e independência são a finalidade primordial da política.",
-    "Errada. O controle de doenças crônicas é uma ação, não a finalidade primordial.",
-    "Errada. Acesso a centros de geriatria é parte do cuidado, não a finalidade central.",
-    "Errada. Afirma que a incapacidade é inevitável, o que contraria a política."
+    "Errada: A política não tem como foco a permanência em instituições asilares.",
+    "Correta: Autonomia e independência são a finalidade primordial da política.",
+    "Errada: O controle de doenças crônicas é uma ação, não a finalidade primordial.",
+    "Errada: Acesso a centros de geriatria é parte do cuidado, não a finalidade central.",
+    "Errada: Afirma que a incapacidade é inevitável, o que contraria a política."
    ],
    "referencia": "Portaria GM/MS nº 2.528/2006",
    "status": "nao_revisado",
@@ -431,11 +431,11 @@
   "comentario": {
    "geral": "A humanização no SUS, conforme a PNH, é uma política que oferece um eixo articulador das práticas em saúde e destaca o aspecto subjetivo presente nelas. Não é um programa pontual nem restrita aos usuários. O gabarito é a alternativa que traz essa caracterização.",
    "alternativas": [
-    "Errada. A PNH é política, não programa, e a formulação foi considerada incorreta.",
-    "Errada. A humanização não idealiza o homem, e sim reconhece sujeitos concretos.",
-    "Correta. Eixo articulador das práticas, com destaque para a subjetividade.",
-    "Errada. A expressão estrita tarefa de produção de saúde reduz a proposta, que inclui também a gestão e o cuidado de si.",
-    "Errada. As ações envolvem usuários, trabalhadores e gestores, não apenas usuários."
+    "Errada: A PNH é política, não programa, e a formulação foi considerada incorreta.",
+    "Errada: A humanização não idealiza o homem, e sim reconhece sujeitos concretos.",
+    "Correta: Eixo articulador das práticas, com destaque para a subjetividade.",
+    "Errada: A expressão estrita tarefa de produção de saúde reduz a proposta, que inclui também a gestão e o cuidado de si.",
+    "Errada: As ações envolvem usuários, trabalhadores e gestores, não apenas usuários."
    ],
    "referencia": "Brasil. Ministério da Saúde. Política Nacional de Humanização",
    "status": "nao_revisado",
@@ -472,11 +472,11 @@
   "comentario": {
    "geral": "As ações das equipes de Consultório na Rua são registradas no sistema de informação da atenção básica, o Sisab, com a estratégia e-SUS APS. Isso as integra às demais equipes da Atenção Básica. O gabarito indica o Sisab.",
    "alternativas": [
-    "Errada. A RNDS é a plataforma de interoperabilidade, não o sistema de registro das ações da eCR.",
-    "Errada. A ANVISA é agência reguladora e não recebe esse registro.",
-    "Errada. O Sinan serve à notificação de agravos, não ao registro das ações da eCR.",
-    "Correta. O Sisab recebe os registros da Atenção Básica, incluindo as eCR.",
-    "Errada. Esse sistema não existe como sistema oficial do SUS."
+    "Errada: A RNDS é a plataforma de interoperabilidade, não o sistema de registro das ações da eCR.",
+    "Errada: A ANVISA é agência reguladora e não recebe esse registro.",
+    "Errada: O Sinan serve à notificação de agravos, não ao registro das ações da eCR.",
+    "Correta: O Sisab recebe os registros da Atenção Básica, incluindo as eCR.",
+    "Errada: Esse sistema não existe como sistema oficial do SUS."
    ],
    "referencia": "Portaria GM/MS nº 2.436/2017 (PNAB)",
    "status": "nao_revisado",
@@ -512,11 +512,11 @@
   "comentario": {
    "geral": "A RDC 36/2013 trata da segurança do paciente em serviços de saúde. O evento adverso é definido ali como incidente que resulta em dano ao paciente. O gabarito traz essa definição.",
    "alternativas": [
-    "Errada. Descreve dano, não evento adverso.",
-    "Errada. Descreve reação adversa, distinta do efeito terapêutico.",
-    "Errada. Descreve reação adversa a medicamento.",
-    "Errada. Descreve ocorrência imprevista, não o conceito de evento adverso.",
-    "Correta. Evento adverso é o incidente que resulta em dano à saúde."
+    "Errada: Descreve dano, não evento adverso.",
+    "Errada: Descreve reação adversa, distinta do efeito terapêutico.",
+    "Errada: Descreve reação adversa a medicamento.",
+    "Errada: Descreve ocorrência imprevista, não o conceito de evento adverso.",
+    "Correta: Evento adverso é o incidente que resulta em dano à saúde."
    ],
    "referencia": "RDC ANVISA nº 36/2013, art. 3º",
    "status": "nao_revisado",
@@ -552,11 +552,11 @@
   "comentario": {
    "geral": "A Política Nacional de Educação Permanente em Saúde parte do trabalho cotidiano e da problematização da realidade. Sua aprendizagem é significativa e busca transformar as práticas. A alternativa A reúne esses elementos, que a Portaria 1.996/2007 reforça.",
    "alternativas": [
-    "Correta. Ancorada no trabalho, na problematização, na aprendizagem significativa e na transformação das práticas.",
-    "Errada. Ancora a educação no conhecimento das instituições formadoras, não no trabalho.",
-    "Errada. Confunde com educação continuada, centrada em conhecimento técnico-científico.",
-    "Errada. Restringe-se a grupos profissionais específicos, o que contraria a lógica da política.",
-    "Errada. Foca o acúmulo de conhecimento técnico-científico, não a problematização do trabalho."
+    "Correta: Ancorada no trabalho, na problematização, na aprendizagem significativa e na transformação das práticas.",
+    "Errada: Ancora a educação no conhecimento das instituições formadoras, não no trabalho.",
+    "Errada: Confunde com educação continuada, centrada em conhecimento técnico-científico.",
+    "Errada: Restringe-se a grupos profissionais específicos, o que contraria a lógica da política.",
+    "Errada: Foca o acúmulo de conhecimento técnico-científico, não a problematização do trabalho."
    ],
    "referencia": "Portaria GM/MS nº 1.996/2007",
    "status": "nao_revisado",
@@ -593,11 +593,11 @@
   "comentario": {
    "geral": "Na classificação de Merhy, tecnologias duras são equipamentos e normas, leves-duras são os saberes bem estruturados que operam no trabalho em saúde e leves são as relações. O gabarito descreve as leves-duras como os diferentes saberes estruturados.",
    "alternativas": [
-    "Errada. Descreve tecnologias leves (vínculo, acolhimento, gestão).",
-    "Errada. Descreve tecnologias duras.",
-    "Errada. Não corresponde à definição das leves-duras.",
-    "Correta. Os saberes bem estruturados são as tecnologias leves-duras.",
-    "Errada. Restringe os saberes ao médico-biológico, o que não define a categoria."
+    "Errada: Descreve tecnologias leves (vínculo, acolhimento, gestão).",
+    "Errada: Descreve tecnologias duras.",
+    "Errada: Não corresponde à definição das leves-duras.",
+    "Correta: Os saberes bem estruturados são as tecnologias leves-duras.",
+    "Errada: Restringe os saberes ao médico-biológico, o que não define a categoria."
    ],
    "referencia": "Merhy, E. E. (1997). Em busca do tempo perdido",
    "status": "nao_revisado",
@@ -633,10 +633,10 @@
   "comentario": {
    "geral": "A eMulti atua com apoio matricial, atendimento individual, em grupo e domiciliar, ações à distância, atividades coletivas e projetos terapêuticos, ações no território. A prática setorial, isolada, contraria a lógica de trabalho integrado e intersetorial da equipe. Por isso a exceção é a alternativa E.",
    "alternativas": [
-    "Errada. Faz parte das ações da eMulti.",
-    "Errada. Ações à distância fazem parte das ações da eMulti.",
-    "Errada. Matriciamento e intervenção no território são ações centrais.",
-    "Errada. Atividades coletivas e projetos terapêuticos são ações da eMulti.",
+    "Errada: Faz parte das ações da eMulti.",
+    "Errada: Ações à distância fazem parte das ações da eMulti.",
+    "Errada: Matriciamento e intervenção no território são ações centrais.",
+    "Errada: Atividades coletivas e projetos terapêuticos são ações da eMulti.",
     "Correta (exceção). Práticas setoriais não são a lógica da eMulti, que atua de modo integrado."
    ],
    "referencia": "Portaria GM/MS nº 635/2023 (eMulti)",
@@ -673,11 +673,11 @@
   "comentario": {
    "geral": "As eCR são multiprofissionais, itinerantes e atuam in loco com articulação às UBS. A busca ativa e o cuidado a usuários de álcool, crack e outras drogas fazem parte de suas atividades. Todas as afirmativas são corretas.",
    "alternativas": [
-    "Errada. Há outras afirmativas corretas.",
-    "Errada. Faltam as demais corretas.",
-    "Errada. Falta a afirmativa II.",
-    "Errada. Falta a afirmativa I.",
-    "Correta. I, II e III descrevem as eCR."
+    "Errada: Há outras afirmativas corretas.",
+    "Errada: Faltam as demais corretas.",
+    "Errada: Falta a afirmativa II.",
+    "Errada: Falta a afirmativa I.",
+    "Correta: I, II e III descrevem as eCR."
    ],
    "referencia": "Portaria GM/MS nº 2.436/2017 (PNAB); Política Nacional para a População em Situação de Rua (Decreto 7.053/2009)",
    "status": "nao_revisado",
@@ -713,11 +713,11 @@
   "comentario": {
    "geral": "A Política Nacional de Atenção Integral à Saúde do Homem busca facilitar o acesso e a captação precoce, incluindo prevenção primária de doenças cardiovasculares e câncer, entre outros agravos. Por isso o gabarito é a alternativa B.",
    "alternativas": [
-    "Errada. A política não se limita à avaliação e ao tratamento.",
-    "Correta. Captação precoce e prevenção primária de doenças cardiovasculares e câncer.",
-    "Errada. Foca o tratamento em urgência, e não a prevenção.",
-    "Errada. Restringe-se à saúde mental, o que não corresponde ao objetivo geral.",
-    "Errada. A política propõe integração à rede, não serviços exclusivos."
+    "Errada: A política não se limita à avaliação e ao tratamento.",
+    "Correta: Captação precoce e prevenção primária de doenças cardiovasculares e câncer.",
+    "Errada: Foca o tratamento em urgência, e não a prevenção.",
+    "Errada: Restringe-se à saúde mental, o que não corresponde ao objetivo geral.",
+    "Errada: A política propõe integração à rede, não serviços exclusivos."
    ],
    "referencia": "Portaria GM/MS nº 1.944/2009 (PNAISH)",
    "status": "nao_revisado",
@@ -757,11 +757,11 @@
   "comentario": {
    "geral": "Os princípios da bioética principialista de Beauchamp e Childress são autonomia, beneficência, não-maleficência e justiça. Integralidade é princípio do SUS, não da bioética principialista. Logo o gabarito é Integralidade.",
    "alternativas": [
-    "Errada. Autonomia é princípio da bioética principialista.",
+    "Errada: Autonomia é princípio da bioética principialista.",
     "Correta (exceção). Integralidade é princípio do SUS, não da bioética principialista.",
-    "Errada. Não-maleficência é princípio da bioética principialista.",
-    "Errada. Beneficência é princípio da bioética principialista.",
-    "Errada. Justiça é princípio da bioética principialista."
+    "Errada: Não-maleficência é princípio da bioética principialista.",
+    "Errada: Beneficência é princípio da bioética principialista.",
+    "Errada: Justiça é princípio da bioética principialista."
    ],
    "referencia": "Beauchamp e Childress, Principles of Biomedical Ethics",
    "status": "nao_revisado",
@@ -797,11 +797,11 @@
   "comentario": {
    "geral": "O Código de Ética do Psicólogo e a Resolução CFP de avaliação psicológica exigem que os instrumentos estejam dentro da competência do profissional e permitam verificar de forma objetiva os requisitos da avaliação. O gabarito é a alternativa A, que traz a exigência de testes reconhecidos cientificamente e com parecer favorável no Satepsi.",
    "alternativas": [
-    "Correta. Testes devem ter respaldo científico e parecer favorável no Satepsi.",
-    "Errada. Competência e objetividade são relevantes, mas o gabarito destaca o Satepsi.",
-    "Errada. Ampla utilização não é critério.",
-    "Errada. Uso privativo não é o critério que sustenta o gabarito.",
-    "Errada. Comercialização não é critério."
+    "Correta: Testes devem ter respaldo científico e parecer favorável no Satepsi.",
+    "Errada: Competência e objetividade são relevantes, mas o gabarito destaca o Satepsi.",
+    "Errada: Ampla utilização não é critério.",
+    "Errada: Uso privativo não é o critério que sustenta o gabarito.",
+    "Errada: Comercialização não é critério."
    ],
    "referencia": "Código de Ética Profissional do Psicólogo (Resolução CFP 010/2005); Resolução CFP 09/2018",
    "status": "nao_revisado",
@@ -841,11 +841,11 @@
   "comentario": {
    "geral": "Nas atividades com testes psicológicos é vedado praticar preconceito, exploração, violência, crueldade ou opressão, induzir convicções e usar a psicologia como castigo ou tortura. Todas as afirmativas expressam vedações do Código de Ética.",
    "alternativas": [
-    "Errada. Há outras vedações corretas.",
-    "Errada. Falta o item III.",
-    "Errada. Falta o item II.",
-    "Errada. Falta o item I.",
-    "Correta. I, II e III são vedações."
+    "Errada: Há outras vedações corretas.",
+    "Errada: Falta o item III.",
+    "Errada: Falta o item II.",
+    "Errada: Falta o item I.",
+    "Correta: I, II e III são vedações."
    ],
    "referencia": "Código de Ética Profissional do Psicólogo (Resolução CFP 010/2005), art. 2º",
    "status": "nao_revisado",
@@ -881,11 +881,11 @@
   "comentario": {
    "geral": "Pela Resolução CFP 06/2019, o parecer é documento que apresenta análise técnica sobre uma questão-problema ou sobre documentos psicológicos questionados. As demais alternativas descrevem declaração, atestado, relatório psicológico e laudo.",
    "alternativas": [
-    "Correta. Parecer é análise técnica em resposta a uma questão-problema.",
-    "Errada. Descreve declaração.",
-    "Errada. Descreve atestado.",
-    "Errada. Descreve relatório psicológico.",
-    "Errada. Descreve laudo psicológico."
+    "Correta: Parecer é análise técnica em resposta a uma questão-problema.",
+    "Errada: Descreve declaração.",
+    "Errada: Descreve atestado.",
+    "Errada: Descreve relatório psicológico.",
+    "Errada: Descreve laudo psicológico."
    ],
    "referencia": "Resolução CFP nº 06/2019",
    "status": "nao_revisado",
@@ -921,11 +921,11 @@
   "comentario": {
    "geral": "O gabarito indica que as três afirmativas estão corretas. O trabalho do psicólogo no processo transexualizador respeita a diversidade subjetiva e o direito à saúde, não adota modelo patologizante e se compromete com o cuidado. As afirmativas correspondem a esse entendimento.",
    "alternativas": [
-    "Errada. Há outras corretas.",
-    "Errada. Falta a afirmativa III.",
-    "Errada. Falta a afirmativa I.",
-    "Errada. Falta a afirmativa I e III.",
-    "Correta. I, II e III são corretas."
+    "Errada: Há outras corretas.",
+    "Errada: Falta a afirmativa III.",
+    "Errada: Falta a afirmativa I.",
+    "Errada: Falta a afirmativa I e III.",
+    "Correta: I, II e III são corretas."
    ],
    "referencia": "Resolução CFP nº 01/2018; Portaria GM/MS nº 2.803/2013",
    "status": "nao_revisado",
@@ -962,11 +962,11 @@
   "comentario": {
    "geral": "O Código de Ética veda propaganda que garanta resultados, use preço como atrativo ou autopromoção desleal. É permitido referir-se a títulos e qualificações profissionais que o psicólogo possua. O gabarito é a alternativa B.",
    "alternativas": [
-    "Errada. Preço como propaganda é vedado.",
-    "Correta. Pode referir títulos e qualificações que possua.",
-    "Errada. Explorar questões sensíveis para demonstrar a importância da atividade é inadequado.",
-    "Errada. Garantir resultados é vedado.",
-    "Errada. Autopromoção com diferencial perante colegas é vedada."
+    "Errada: Preço como propaganda é vedado.",
+    "Correta: Pode referir títulos e qualificações que possua.",
+    "Errada: Explorar questões sensíveis para demonstrar a importância da atividade é inadequado.",
+    "Errada: Garantir resultados é vedado.",
+    "Errada: Autopromoção com diferencial perante colegas é vedada."
    ],
    "referencia": "Código de Ética Profissional do Psicólogo (Resolução CFP 010/2005), art. 20",
    "status": "nao_revisado",
@@ -1048,11 +1048,11 @@
   "comentario": {
    "geral": "Para atuar na saúde pública, o psicólogo precisa dominar as necessidades sociais de saúde, a multideterminação das doenças e a prevenção e promoção de saúde. Essa tríade supera a determinação psicológica única ou psicossomática. O gabarito é a alternativa A.",
    "alternativas": [
-    "Correta. Necessidades sociais, multideterminação e prevenção e promoção.",
-    "Errada. Fala em necessidades de saúde e doença psicossomática.",
-    "Errada. Propõe determinação psicológica das doenças.",
-    "Errada. Restringe a prevenção à saúde mental.",
-    "Errada. Combina conceitos inadequados."
+    "Correta: Necessidades sociais, multideterminação e prevenção e promoção.",
+    "Errada: Fala em necessidades de saúde e doença psicossomática.",
+    "Errada: Propõe determinação psicológica das doenças.",
+    "Errada: Restringe a prevenção à saúde mental.",
+    "Errada: Combina conceitos inadequados."
    ],
    "referencia": "",
    "status": "nao_revisado",
@@ -1088,11 +1088,11 @@
   "comentario": {
    "geral": "A equipe discute o quadro clínico, o desenvolvimento fetal, a ansiedade e a renda da família. Considera o sujeito como um todo, com suas necessidades biológicas, psicológicas e sociais. Isso é integralidade, o conceito norteador do gabarito.",
    "alternativas": [
-    "Correta. Integralidade considera o sujeito em suas várias dimensões.",
-    "Errada. Assistencialismo é distribuição de ajuda sem transformação.",
-    "Errada. Intersetorialidade seria articulação com outros setores; aqui o foco é a visão integral.",
-    "Errada. Interdisciplinaridade descreve a interação entre saberes, não o conceito norteador.",
-    "Errada. Multidisciplinaridade é justaposição de saberes."
+    "Correta: Integralidade considera o sujeito em suas várias dimensões.",
+    "Errada: Assistencialismo é distribuição de ajuda sem transformação.",
+    "Errada: Intersetorialidade seria articulação com outros setores; aqui o foco é a visão integral.",
+    "Errada: Interdisciplinaridade descreve a interação entre saberes, não o conceito norteador.",
+    "Errada: Multidisciplinaridade é justaposição de saberes."
    ],
    "referencia": "Lei 8.080/1990, art. 7º, II",
    "status": "nao_revisado",
@@ -1129,11 +1129,11 @@
   "comentario": {
    "geral": "O PTS na atenção ao autismo deve considerar os projetos de vida, a reabilitação psicossocial voltada à autonomia e à garantia de direitos da pessoa e de sua família. Por isso a alternativa E é o gabarito.",
    "alternativas": [
-    "Errada. Visa adaptação social, o que reduz o objetivo.",
-    "Errada. O PTS deve ser revisto periodicamente.",
-    "Errada. Protocolo padrão contraria a singularidade do PTS.",
-    "Errada. Serviços exclusivos contrariam a inclusão.",
-    "Correta. Projetos de vida, reabilitação psicossocial, autonomia e direitos."
+    "Errada: Visa adaptação social, o que reduz o objetivo.",
+    "Errada: O PTS deve ser revisto periodicamente.",
+    "Errada: Protocolo padrão contraria a singularidade do PTS.",
+    "Errada: Serviços exclusivos contrariam a inclusão.",
+    "Correta: Projetos de vida, reabilitação psicossocial, autonomia e direitos."
    ],
    "referencia": "Lei 12.764/2012; Portaria GM/MS nº 3.088/2011",
    "status": "nao_revisado",
@@ -1170,11 +1170,11 @@
   "comentario": {
    "geral": "As três afirmativas descrevem a RAPS: conjunto articulado de serviços no território, capaz de cuidar das pessoas com transtornos mentais e uso de drogas e seus familiares, com serviços plurais e diferentes complexidades.",
    "alternativas": [
-    "Errada. Há outras corretas.",
-    "Errada. Falta a III.",
-    "Errada. Falta a II.",
-    "Errada. Falta a I.",
-    "Correta. I, II e III estão corretas."
+    "Errada: Há outras corretas.",
+    "Errada: Falta a III.",
+    "Errada: Falta a II.",
+    "Errada: Falta a I.",
+    "Correta: I, II e III estão corretas."
    ],
    "referencia": "Portaria GM/MS nº 3.088/2011",
    "status": "nao_revisado",
@@ -1210,11 +1210,11 @@
   "comentario": {
    "geral": "Na clínica ampliada, o PTS considera a rede de apoio, o território e a articulação intersetorial, respeitando a singularidade e a rotina que a usuária pede. Por isso o gabarito é a alternativa C.",
    "alternativas": [
-    "Errada. Foca na medicação e minimiza outras intervenções.",
-    "Errada. Internação de longo prazo contraria a reforma psiquiátrica.",
-    "Correta. Rede de apoio, mediação de conflitos, articulação intersetorial e respeito à rotina.",
-    "Errada. Transfere a responsabilidade e reduz o CAPS à dispensação.",
-    "Errada. Restringe ações e exclui outros serviços."
+    "Errada: Foca na medicação e minimiza outras intervenções.",
+    "Errada: Internação de longo prazo contraria a reforma psiquiátrica.",
+    "Correta: Rede de apoio, mediação de conflitos, articulação intersetorial e respeito à rotina.",
+    "Errada: Transfere a responsabilidade e reduz o CAPS à dispensação.",
+    "Errada: Restringe ações e exclui outros serviços."
    ],
    "referencia": "Brasil. Ministério da Saúde. Clínica ampliada e compartilhada",
    "status": "nao_revisado",
@@ -1251,11 +1251,11 @@
   "comentario": {
    "geral": "O PTS busca traçar a estratégia de intervenção com base nas necessidades do usuário, nos recursos da equipe e no território. É singular e construído com o sujeito. O gabarito é a alternativa B.",
    "alternativas": [
-    "Errada. O PTS deve considerar necessidades e possibilidades de cada usuário.",
-    "Correta. Estratégia a partir das necessidades, dos recursos e do território.",
-    "Errada. A articulação e o suporte social ajudam a restabelecer vínculos.",
-    "Errada. Padronizar contraria a singularidade.",
-    "Errada. O foco é o usuário, e não a expectativa dos profissionais."
+    "Errada: O PTS deve considerar necessidades e possibilidades de cada usuário.",
+    "Correta: Estratégia a partir das necessidades, dos recursos e do território.",
+    "Errada: A articulação e o suporte social ajudam a restabelecer vínculos.",
+    "Errada: Padronizar contraria a singularidade.",
+    "Errada: O foco é o usuário, e não a expectativa dos profissionais."
    ],
    "referencia": "Brasil. Ministério da Saúde. Clínica ampliada e compartilhada",
    "status": "nao_revisado",
@@ -1291,11 +1291,11 @@
   "comentario": {
    "geral": "Os instrumentos do apoio matricial incluem interconsulta, atendimentos e intervenções conjuntas, visita domiciliar conjunta e contato à distância por telefone ou outras tecnologias. Essa é a alternativa E.",
    "alternativas": [
-    "Errada. Foca em intervenções dentro de especialidades.",
-    "Errada. Protocolos unidisciplinares contrariam o matriciamento.",
-    "Errada. Encaminhamento e regulação são lógica de referência e contrarreferência.",
-    "Errada. Escala de complexidade e encaminhamentos não são instrumentos do matriciamento.",
-    "Correta. Interconsulta, intervenções conjuntas, visita conjunta e contato à distância."
+    "Errada: Foca em intervenções dentro de especialidades.",
+    "Errada: Protocolos unidisciplinares contrariam o matriciamento.",
+    "Errada: Encaminhamento e regulação são lógica de referência e contrarreferência.",
+    "Errada: Escala de complexidade e encaminhamentos não são instrumentos do matriciamento.",
+    "Correta: Interconsulta, intervenções conjuntas, visita conjunta e contato à distância."
    ],
    "referencia": "Campos e Domitti (2007). Apoio matricial e equipe de referência",
    "status": "nao_revisado",
@@ -1331,11 +1331,11 @@
   "comentario": {
    "geral": "O médico de família reconhece a necessidade de apoio para conduzir o caso na atenção básica. A conduta indicada é o apoio matricial, com construção compartilhada, e não o encaminhamento imediato nem a medicalização como primeira ação.",
    "alternativas": [
-    "Correta. Apoio matricial com construção compartilhada.",
-    "Errada. Acolhimento noturno em CAPS III não é indicado para esse quadro.",
-    "Errada. Encaminhamento imediato rompe com a lógica do cuidado compartilhado.",
-    "Errada. Medicar como ação primeira medicaliza o sofrimento.",
-    "Errada. Minimiza o sofrimento que a paciente relata."
+    "Correta: Apoio matricial com construção compartilhada.",
+    "Errada: Acolhimento noturno em CAPS III não é indicado para esse quadro.",
+    "Errada: Encaminhamento imediato rompe com a lógica do cuidado compartilhado.",
+    "Errada: Medicar como ação primeira medicaliza o sofrimento.",
+    "Errada: Minimiza o sofrimento que a paciente relata."
    ],
    "referencia": "Campos e Domitti (2007)",
    "status": "nao_revisado",
@@ -1371,11 +1371,11 @@
   "comentario": {
    "geral": "O trabalho em equipe na saúde mental exige abertura ao diálogo e não se aprisiona em um único saber. As demais alternativas propõem desconsideração das especificidades, hierarquia, formação automática ou método pré-fabricado.",
    "alternativas": [
-    "Errada. Desconsiderar especificidades contraria o trabalho em equipe.",
-    "Correta. A equipe não pode se prender a um único saber homogêneo.",
-    "Errada. A hierarquização contraria a proposta.",
-    "Errada. Equipe não se forma automaticamente.",
-    "Errada. O projeto terapêutico é singular, não pré-fabricado."
+    "Errada: Desconsiderar especificidades contraria o trabalho em equipe.",
+    "Correta: A equipe não pode se prender a um único saber homogêneo.",
+    "Errada: A hierarquização contraria a proposta.",
+    "Errada: Equipe não se forma automaticamente.",
+    "Errada: O projeto terapêutico é singular, não pré-fabricado."
    ],
    "referencia": "",
    "status": "nao_revisado",
@@ -1412,11 +1412,11 @@
   "comentario": {
    "geral": "Medicalização é transformar fenômeno de ordem social, econômica ou cultural em algo reduzido ao biológico, levando a intervenção isolada. No caso de Fátima, luto e pobreza são lidos como depressão a tratar com medicamento. Esse é o gabarito.",
    "alternativas": [
-    "Errada. Confunde medicalização com necessidade coletiva de medicamentos.",
-    "Errada. Inverte o sentido do processo.",
-    "Errada. Descreve aumento de diagnósticos, sem a definição.",
-    "Correta. Passa do econômico, social ou cultural ao biológico e orgânico.",
-    "Errada. Inverte a direção da medicalização."
+    "Errada: Confunde medicalização com necessidade coletiva de medicamentos.",
+    "Errada: Inverte o sentido do processo.",
+    "Errada: Descreve aumento de diagnósticos, sem a definição.",
+    "Correta: Passa do econômico, social ou cultural ao biológico e orgânico.",
+    "Errada: Inverte a direção da medicalização."
    ],
    "referencia": "Conselho Federal de Psicologia. Subsídios para a campanha Não à medicalização da vida",
    "status": "nao_revisado",
@@ -1452,11 +1452,11 @@
   "comentario": {
    "geral": "A RAPS tem como objetivo geral ampliar o acesso e articular pontos de atenção. A alternativa E descreve esse objetivo ao falar de articulação e integração dos pontos de atenção, acolhimento e acompanhamento contínuo. Esse é o gabarito.",
    "alternativas": [
-    "Errada. A decisão de acolhimento na Unidade de Acolhimento segue regras diferentes das descritas.",
-    "Errada. A eCR atua de forma itinerante e não em ponto fixo.",
-    "Errada. Erradicar o consumo não é objetivo da RAPS.",
-    "Errada. O CAPS tem equipe multiprofissional e atende transtornos graves e persistentes.",
-    "Correta. Articulação e integração dos pontos de atenção, qualificando o cuidado."
+    "Errada: A decisão de acolhimento na Unidade de Acolhimento segue regras diferentes das descritas.",
+    "Errada: A eCR atua de forma itinerante e não em ponto fixo.",
+    "Errada: Erradicar o consumo não é objetivo da RAPS.",
+    "Errada: O CAPS tem equipe multiprofissional e atende transtornos graves e persistentes.",
+    "Correta: Articulação e integração dos pontos de atenção, qualificando o cuidado."
    ],
    "referencia": "Portaria GM/MS nº 3.088/2011",
    "status": "nao_revisado",
@@ -1497,11 +1497,11 @@
   "comentario": {
    "geral": "Os Centros de Convivência são estratégicos para a inclusão social de pessoas com transtornos mentais ou que usam drogas, por meio de espaços de convívio e sustentação das diferenças. Não são serviços de saúde com equipe responsável por ações clínicas. O gabarito é a alternativa B.",
    "alternativas": [
-    "Errada. Atribui papel clínico de ponto de atenção não correspondente.",
-    "Correta. Inclusão social e espaços de convívio.",
-    "Errada. Descreve serviços de saúde com equipe responsável por ações individuais e coletivas.",
-    "Errada. Restringe o acolhimento, o que contraria a proposta.",
-    "Errada. Descreve equipamentos assistenciais clínicos, como o CAPS."
+    "Errada: Atribui papel clínico de ponto de atenção não correspondente.",
+    "Correta: Inclusão social e espaços de convívio.",
+    "Errada: Descreve serviços de saúde com equipe responsável por ações individuais e coletivas.",
+    "Errada: Restringe o acolhimento, o que contraria a proposta.",
+    "Errada: Descreve equipamentos assistenciais clínicos, como o CAPS."
    ],
    "referencia": "Portaria GM/MS nº 3.088/2011; Portaria GM/MS nº 396/2005",
    "status": "nao_revisado",
@@ -1537,11 +1537,11 @@
   "comentario": {
    "geral": "A clínica ampliada propõe atenção e conduta singularizadas, resgata a subjetividade e considera autonomia e contexto social. Por isso a alternativa D é o gabarito.",
    "alternativas": [
-    "Errada. Trata usuário como objeto.",
-    "Errada. Enfatiza sintomatologia, contra a proposta.",
-    "Errada. Propõe isolamento, contra a reforma psiquiátrica.",
-    "Correta. Singularização, subjetividade, autonomia e contexto social.",
-    "Errada. Descreve a atenção psicossocial de forma geral, não a clínica ampliada."
+    "Errada: Trata usuário como objeto.",
+    "Errada: Enfatiza sintomatologia, contra a proposta.",
+    "Errada: Propõe isolamento, contra a reforma psiquiátrica.",
+    "Correta: Singularização, subjetividade, autonomia e contexto social.",
+    "Errada: Descreve a atenção psicossocial de forma geral, não a clínica ampliada."
    ],
    "referencia": "Brasil. Ministério da Saúde. Clínica ampliada e compartilhada",
    "status": "nao_revisado",
@@ -1578,11 +1578,11 @@
   "comentario": {
    "geral": "O CAPS acolhe a crise e busca sua significação temporal e singular para o sujeito. O CAPS é responsável pelo suporte à crise no território. Esse é o gabarito.",
    "alternativas": [
-    "Errada. Encaminhar direto ao hospital contraria a lógica territorial.",
-    "Errada. Aguardar o técnico de referência não é a orientação.",
-    "Correta. O CAPS tem responsabilidade em dar suporte à crise.",
-    "Errada. O CAPS atende crise.",
-    "Errada. Reduz a crise à agudização, sem considerar o sofrimento."
+    "Errada: Encaminhar direto ao hospital contraria a lógica territorial.",
+    "Errada: Aguardar o técnico de referência não é a orientação.",
+    "Correta: O CAPS tem responsabilidade em dar suporte à crise.",
+    "Errada: O CAPS atende crise.",
+    "Errada: Reduz a crise à agudização, sem considerar o sofrimento."
    ],
    "referencia": "Portaria GM/MS nº 3.088/2011",
    "status": "nao_revisado",
@@ -1659,11 +1659,11 @@
   "comentario": {
    "geral": "O delírio é diverso e depende de fatores complexos. Considerá-lo indica o modo como o sujeito se constitui e se relaciona com o mundo. O gabarito é E.",
    "alternativas": [
-    "Errada. A perspectiva normativa despreza o sujeito.",
-    "Errada. Parte de fora da pessoa, ignorando a trama delirante.",
-    "Errada. Reduz a um único tipo.",
-    "Errada. Define o delírio como mero sintoma que bloqueia o cuidado.",
-    "Correta. A diversidade depende de fatores complexos e indica o modo de constituição do sujeito."
+    "Errada: A perspectiva normativa despreza o sujeito.",
+    "Errada: Parte de fora da pessoa, ignorando a trama delirante.",
+    "Errada: Reduz a um único tipo.",
+    "Errada: Define o delírio como mero sintoma que bloqueia o cuidado.",
+    "Correta: A diversidade depende de fatores complexos e indica o modo de constituição do sujeito."
    ],
    "referencia": "",
    "status": "nao_revisado",
@@ -1699,11 +1699,11 @@
   "comentario": {
    "geral": "Na clínica infantojuvenil da reforma psiquiátrica e do SUS, a hipótese diagnóstica não substitui o respeito à singularidade. O diagnóstico situacional se articula à singularidade. O gabarito é C.",
    "alternativas": [
-    "Errada. Contraria a singularidade.",
-    "Errada. A escuta de familiares também é importante.",
-    "Correta. A hipótese diagnóstica não toma o lugar da singularidade.",
-    "Errada. Gênero, trabalho, educação e família devem ser considerados.",
-    "Errada. Trata a criança como objeto a ser moldado."
+    "Errada: Contraria a singularidade.",
+    "Errada: A escuta de familiares também é importante.",
+    "Correta: A hipótese diagnóstica não toma o lugar da singularidade.",
+    "Errada: Gênero, trabalho, educação e família devem ser considerados.",
+    "Errada: Trata a criança como objeto a ser moldado."
    ],
    "referencia": "",
    "status": "nao_revisado",
@@ -1739,11 +1739,11 @@
   "comentario": {
    "geral": "Exaustão emocional, despersonalização e baixa realização pessoal são as três dimensões da síndrome de Burnout descrita por Maslach. O quadro do residente é compatível com ela.",
    "alternativas": [
-    "Errada. Depressão não é caracterizada por essa tríade.",
-    "Errada. Fadiga industrial é outro conceito.",
-    "Correta. Tríade de Burnout.",
-    "Errada. Insatisfação não explica a tríade.",
-    "Errada. Não é transtorno de ansiedade."
+    "Errada: Depressão não é caracterizada por essa tríade.",
+    "Errada: Fadiga industrial é outro conceito.",
+    "Correta: Tríade de Burnout.",
+    "Errada: Insatisfação não explica a tríade.",
+    "Errada: Não é transtorno de ansiedade."
    ],
    "referencia": "Maslach e Jackson (1981)",
    "status": "nao_revisado",
@@ -1819,11 +1819,11 @@
   "comentario": {
    "geral": "Na fase de prevenção, o psicólogo atua com a comunidade na elaboração de projetos educativos sobre práticas preventivas, percepção de riscos e educação ambiental. O gabarito é E.",
    "alternativas": [
-    "Errada. A elaboração de políticas públicas com a Defesa Civil não é a atuação típica descrita para a fase de prevenção.",
-    "Errada. Descreve a fase de resposta e reconstrução.",
-    "Errada. Descreve a atuação após o desastre.",
-    "Errada. Intermediação com órgãos não é o foco da prevenção.",
-    "Correta. Projetos pedagógicos sobre prevenção, percepção de riscos e educação ambiental."
+    "Errada: A elaboração de políticas públicas com a Defesa Civil não é a atuação típica descrita para a fase de prevenção.",
+    "Errada: Descreve a fase de resposta e reconstrução.",
+    "Errada: Descreve a atuação após o desastre.",
+    "Errada: Intermediação com órgãos não é o foco da prevenção.",
+    "Correta: Projetos pedagógicos sobre prevenção, percepção de riscos e educação ambiental."
    ],
    "referencia": "",
    "status": "nao_revisado",
@@ -1859,11 +1859,11 @@
   "comentario": {
    "geral": "A redução de danos garante acesso aos serviços, continuidade do cuidado, vínculo e informações claras sobre as substâncias. Não condiciona a abstinência nem se prende a uma abordagem teórica. Por isso o gabarito é A.",
    "alternativas": [
-    "Correta. Acesso, vínculo e informação.",
-    "Errada. Desestimula vínculos, o que contraria a RD.",
-    "Errada. Vincula a uma teoria específica e a vínculos individualizados.",
-    "Errada. Propõe cessação do uso como meta.",
-    "Errada. Baseia-se em avaliações psicopatológicas."
+    "Correta: Acesso, vínculo e informação.",
+    "Errada: Desestimula vínculos, o que contraria a RD.",
+    "Errada: Vincula a uma teoria específica e a vínculos individualizados.",
+    "Errada: Propõe cessação do uso como meta.",
+    "Errada: Baseia-se em avaliações psicopatológicas."
    ],
    "referencia": "Portaria GM/MS nº 1.028/2005",
    "status": "nao_revisado",
@@ -1900,11 +1900,11 @@
   "comentario": {
    "geral": "A criança é exposta a brigas dos pais, o que caracteriza violência interpessoal intrafamiliar. O gabarito é C.",
    "alternativas": [
-    "Errada. Autoprovocada seria autolesão.",
-    "Errada. Coletiva social refere-se a grupos e Estado.",
-    "Correta. Violência interpessoal intrafamiliar.",
-    "Errada. Comunitária com conhecido é fora da família.",
-    "Errada. Comunitária com estranho é fora da família."
+    "Errada: Autoprovocada seria autolesão.",
+    "Errada: Coletiva social refere-se a grupos e Estado.",
+    "Correta: Violência interpessoal intrafamiliar.",
+    "Errada: Comunitária com conhecido é fora da família.",
+    "Errada: Comunitária com estranho é fora da família."
    ],
    "referencia": "OMS. Relatório mundial sobre violência e saúde (2002)",
    "status": "nao_revisado",
@@ -1941,11 +1941,11 @@
   "comentario": {
    "geral": "A notificação de violência contra criança e adolescente é obrigatória, e o profissional pode informar a família que notificará amparado pelo ECA, mesmo sem autorização. O gabarito é E.",
    "alternativas": [
-    "Errada. Não depende de autorização de outro familiar.",
-    "Errada. Não depende de autorização.",
-    "Errada. Notificar só se persistir descumpre a obrigação.",
-    "Errada. Não notificar é falta.",
-    "Correta. Informar que notificará, amparado pelo ECA."
+    "Errada: Não depende de autorização de outro familiar.",
+    "Errada: Não depende de autorização.",
+    "Errada: Notificar só se persistir descumpre a obrigação.",
+    "Errada: Não notificar é falta.",
+    "Correta: Informar que notificará, amparado pelo ECA."
    ],
    "referencia": "Lei 8.069/1990 (ECA), art. 13 e art. 245",
    "status": "nao_revisado",
@@ -1981,11 +1981,11 @@
   "comentario": {
    "geral": "Na saúde do trabalhador, o psicólogo investiga o ambiente e as condições de trabalho para entender os acidentes, e não culpabiliza o trabalhador. O gabarito D valoriza os relatos dos trabalhadores, que conhecem as reais condições do cotidiano.",
    "alternativas": [
-    "Errada. Investigar apenas pelo instrumento técnico ignora o saber do trabalhador.",
-    "Errada. Ação de educação continuada sem investigar o trabalho não é suficiente.",
-    "Errada. Atribui o acidente ao comportamento inseguro.",
-    "Correta. Considera relatos dos trabalhadores sobre as condições reais.",
-    "Errada. Individualiza e psicologiza o acidente."
+    "Errada: Investigar apenas pelo instrumento técnico ignora o saber do trabalhador.",
+    "Errada: Ação de educação continuada sem investigar o trabalho não é suficiente.",
+    "Errada: Atribui o acidente ao comportamento inseguro.",
+    "Correta: Considera relatos dos trabalhadores sobre as condições reais.",
+    "Errada: Individualiza e psicologiza o acidente."
    ],
    "referencia": "Portaria GM/MS nº 1.823/2012 (PNSTT)",
    "status": "nao_revisado",
@@ -2025,11 +2025,11 @@
   "comentario": {
    "geral": "Em emergências e desastres, é recomendado respeitar o silêncio e deixar as pessoas falarem quando estiverem preparadas. Debriefing forçado e garantias falsas são desaconselhados. O gabarito é C.",
    "alternativas": [
-    "Errada. Debriefing não é recomendado.",
-    "Errada. Garantias falsas não são aconselháveis.",
-    "Correta. Respeitar o silêncio e o tempo de cada pessoa.",
-    "Errada. O psicólogo atua em todas as fases.",
-    "Errada. Há agudização de transtornos já existentes."
+    "Errada: Debriefing não é recomendado.",
+    "Errada: Garantias falsas não são aconselháveis.",
+    "Correta: Respeitar o silêncio e o tempo de cada pessoa.",
+    "Errada: O psicólogo atua em todas as fases.",
+    "Errada: Há agudização de transtornos já existentes."
    ],
    "referencia": "CFP. Referências técnicas para atuação de psicólogas(os) em situações de emergências e desastres",
    "status": "nao_revisado",
@@ -4433,11 +4433,11 @@
   "comentario": {
    "geral": "A questão cobra o conhecimento da legislação do SUS voltada para populações específicas, em especial a comunidade LGBT. A Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais foi formalizada pelo Ministério da Saúde em 2011. Essa política visa eliminar a discriminação e as desigualdades institucionais, promovendo a saúde integral desse grupo. O ato normativo que a instituiu foi a Portaria nº 2.836, de 1º de dezembro de 2011.",
    "alternativas": [
-    "(A) Incorreta. A Portaria nº 2.537/2003 não corresponde à instituição da Política Nacional de Saúde Integral LGBT.",
-    "(B) Incorreta. O ano de 2006 antecede a publicação formal da política no Ministério da Saúde.",
-    "(C) Incorreta. A Portaria nº 2.221/2008 não institui essa política específica.",
-    "(D) Correta. A Política Nacional de Saúde Integral LGBT foi instituída formalmente pela Portaria GM/MS nº 2.836, de 1º de dezembro de 2011.",
-    "(E) Incorreta. O ano de 2015 não é o marco de publicação da portaria que instituiu a política."
+    "Errada: A Portaria nº 2.537/2003 não corresponde à instituição da Política Nacional de Saúde Integral LGBT.",
+    "Errada: O ano de 2006 antecede a publicação formal da política no Ministério da Saúde.",
+    "Errada: A Portaria nº 2.221/2008 não institui essa política específica.",
+    "Correta: A Política Nacional de Saúde Integral LGBT foi instituída formalmente pela Portaria GM/MS nº 2.836, de 1º de dezembro de 2011.",
+    "Errada: O ano de 2015 não é o marco de publicação da portaria que instituiu a política."
    ],
    "referencia": "Portaria GM/MS nº 2.836/2011",
    "status": "nao_revisado",
@@ -4473,11 +4473,11 @@
   "comentario": {
    "geral": "A questão aborda a avaliação em saúde segundo a clássica tríade proposta por Avedis Donabedian (Estrutura, Processo e Resultado), amplamente utilizada na avaliação normativa de serviços de saúde. A dimensão de estrutura engloba as características relativamente estáveis dos serviços, como os recursos materiais, humanos, financeiros e a organização física e sistêmica necessária para prestar o cuidado. Quando se examinam a disponibilidade e adequação de recursos para garantir o leque completo de atendimentos, está-se avaliando a estrutura.",
    "alternativas": [
-    "(A) Incorreta. A avaliação de processo refere-se às atividades desenvolvidas no cuidado em si, à relação profissional-paciente e à conformidade técnica da prestação de serviços.",
-    "(B) Incorreta. A avaliação de resultado diz respeito às mudanças observadas no estado de saúde do usuário decorrentes da intervenção realizada.",
-    "(C) Incorreta. Satisfação é uma medida de resultado sob a perspectiva do usuário, não correspondendo à análise de insumos e organização de recursos.",
-    "(D) Incorreta. Objetividade não compõe a tríade clássica de avaliação da qualidade em serviços de saúde.",
-    "(E) Correta. Conforme a tipologia de Donabedian, avaliar recursos físicos, humanos e organizacionais e sua suficiência corresponde à apreciação de estrutura."
+    "Errada: A avaliação de processo refere-se às atividades desenvolvidas no cuidado em si, à relação profissional-paciente e à conformidade técnica da prestação de serviços.",
+    "Errada: A avaliação de resultado diz respeito às mudanças observadas no estado de saúde do usuário decorrentes da intervenção realizada.",
+    "Errada: Satisfação é uma medida de resultado sob a perspectiva do usuário, não correspondendo à análise de insumos e organização de recursos.",
+    "Errada: Objetividade não compõe a tríade clássica de avaliação da qualidade em serviços de saúde.",
+    "Correta: Conforme a tipologia de Donabedian, avaliar recursos físicos, humanos e organizacionais e sua suficiência corresponde à apreciação de estrutura."
    ],
    "referencia": "Donabedian, 1980",
    "status": "nao_revisado",
@@ -4512,11 +4512,11 @@
   "comentario": {
    "geral": "A questão cobra as definições da Classificação Internacional sobre Segurança do Paciente (ICPS) da Organização Mundial da Saúde (OMS), também adotadas pelo Ministério da Saúde e ANVISA no Brasil. Incidente é qualquer evento ou circunstância que poderia ter resultado, ou resultou, em dano desnecessário ao paciente. Quando o incidente resulta efetivamente em dano ao paciente, ele é classificado como evento adverso.",
    "alternativas": [
-    "(A) Incorreta. A probabilidade de um incidente ocorrer define risco, enquanto dano é o comprometimento real da estrutura ou função do corpo.",
-    "(B) Incorreta. O comprometimento da estrutura ou função corporal e seus efeitos definem o conceito de dano, não o de incidente.",
-    "(C) Incorreta. Um incidente que atingiu o paciente mas não causou dano é definido como evento sem dano; circunstância notificável é uma situação com potencial significativo de causar dano sem que o incidente tenha ocorrido.",
-    "(D) Correta. Evento adverso é formalmente definido como o incidente que resulta em dano não intencional ao paciente.",
-    "(E) Incorreta. Evento ou circunstância que poderia ter resultado ou resultou em dano desnecessário é a definição de incidente, e não de risco."
+    "Errada: A probabilidade de um incidente ocorrer define risco, enquanto dano é o comprometimento real da estrutura ou função do corpo.",
+    "Errada: O comprometimento da estrutura ou função corporal e seus efeitos definem o conceito de dano, não o de incidente.",
+    "Errada: Um incidente que atingiu o paciente mas não causou dano é definido como evento sem dano; circunstância notificável é uma situação com potencial significativo de causar dano sem que o incidente tenha ocorrido.",
+    "Correta: Evento adverso é formalmente definido como o incidente que resulta em dano não intencional ao paciente.",
+    "Errada: Evento ou circunstância que poderia ter resultado ou resultou em dano desnecessário é a definição de incidente, e não de risco."
    ],
    "referencia": "Organização Mundial da Saúde (OMS), 2009; Resolução RDC nº 36/2013 - ANVISA",
    "status": "nao_revisado",
@@ -4552,11 +4552,11 @@
   "comentario": {
    "geral": "Emerson Merhy propõe uma análise dos processos de trabalho em saúde a partir da micropolítica e da divisão das tecnologias do cuidado em três categorias. As tecnologias duras referem-se aos equipamentos, maquinários e instrumentos materiais; as leve-duras correspondem aos saberes estruturados e organizados (clínica, epidemiologia etc.); e as leves dizem respeito às relações interpessoais, ao vínculo, acolhimento e escuta produzidos no trabalho vivo em ato. Portanto, o modelo tecnoassistencial de Merhy divide as tecnologias em leves, leve-duras e duras.",
    "alternativas": [
-    "(A) Correta. A classificação formulada por Merhy divide as tecnologias de trabalho em saúde em tecnologias leves, leve-duras e duras.",
-    "(B) Incorreta. Termos não condizentes com a teoria tecnoassistencial de Merhy.",
-    "(C) Incorreta. Conceitos inexistentes na teorização proposta pelo autor sobre micropolítica do trabalho em saúde.",
-    "(D) Incorreta. Primárias, secundárias e terciárias referem-se tradicionalmente aos níveis de atenção à saúde, não aos tipos de tecnologia do trabalho segundo Merhy.",
-    "(E) Incorreta. Categorias incorretas e sem relação com a obra referenciada."
+    "Correta: A classificação formulada por Merhy divide as tecnologias de trabalho em saúde em tecnologias leves, leve-duras e duras.",
+    "Errada: Termos não condizentes com a teoria tecnoassistencial de Merhy.",
+    "Errada: Conceitos inexistentes na teorização proposta pelo autor sobre micropolítica do trabalho em saúde.",
+    "Errada: Primárias, secundárias e terciárias referem-se tradicionalmente aos níveis de atenção à saúde, não aos tipos de tecnologia do trabalho segundo Merhy.",
+    "Errada: Categorias incorretas e sem relação com a obra referenciada."
    ],
    "referencia": "Merhy, 2002",
    "status": "nao_revisado",
@@ -4591,11 +4591,11 @@
   "comentario": {
    "geral": "A questão aborda os quatro princípios da bioética principialista proposta por Beauchamp e Childress (Autonomia, Beneficência, Não Maleficência e Justiça). O princípio da beneficência estabelece a obrigação moral de agir em benefício de outros, o que envolve maximizar os benefícios e ponderar a relação entre riscos e benefícios ao intervir. A atitude descrita no enunciado, caracterizada pelo dever ativo de ajudar, fazer o bem e ponderar riscos e vantagens para o paciente, exemplifica o Princípio da Beneficência.",
    "alternativas": [
-    "(A) Incorreta. Indiligência não é um princípio da bioética, mas uma conduta desleixada ou negligente.",
-    "(B) Incorreta. A autonomia diz respeito à capacidade de autodeterminação da pessoa em tomar decisões informadas e livres sobre sua própria vida e corpo.",
-    "(C) Incorreta. A equidade/justiça refere-se à distribuição justa de recursos, direitos e deveres em saúde.",
-    "(D) Correta. A beneficência obriga os profissionais a agir no melhor interesse do paciente, promovendo ativamente o seu bem e calculando a relação risco-benefício.",
-    "(E) Incorreta. A não maleficência consiste primordialmente na obrigação de não causar dano intencional ao paciente (primum non nocere), enquanto a beneficência implica uma ação positiva de promoção do bem."
+    "Errada: Indiligência não é um princípio da bioética, mas uma conduta desleixada ou negligente.",
+    "Errada: A autonomia diz respeito à capacidade de autodeterminação da pessoa em tomar decisões informadas e livres sobre sua própria vida e corpo.",
+    "Errada: A equidade/justiça refere-se à distribuição justa de recursos, direitos e deveres em saúde.",
+    "Correta: A beneficência obriga os profissionais a agir no melhor interesse do paciente, promovendo ativamente o seu bem e calculando a relação risco-benefício.",
+    "Errada: A não maleficência consiste primordialmente na obrigação de não causar dano intencional ao paciente (primum non nocere), enquanto a beneficência implica uma ação positiva de promoção do bem."
    ],
    "referencia": "Beauchamp & Childress, 2001",
    "status": "nao_revisado",
@@ -4630,11 +4630,11 @@
   "comentario": {
    "geral": "A história da Reforma Psiquiátrica e da Luta Antimanicomial reúne diversas correntes teóricas e movimentos institucionais internacionais que emergiram no pós-Segunda Guerra Mundial para superar o paradigma asilar. Entre os pioneiros destacam-se: a Psicoterapia Institucional e a Comunidade Terapêutica (França e Inglaterra), a Psiquiatria de Setor (França) e a Psiquiatria Preventiva (EUA), além dos movimentos mais radicais como a Antipsiquiatria (Inglaterra) e a Psiquiatria Democrática (Itália, liderada por Franco Basaglia), marcos cruciais que influenciaram diretamente a reforma brasileira.",
    "alternativas": [
-    "(A) Incorreta. A Reforma Psiquiátrica antimanicomial recusa a centralidade e a existência do hospital psiquiátrico, sustentando que mesmo humanizado ele mantém o dispositivo asilar de segregação.",
-    "(B) Incorreta. Desinstitucionalização não se reduz a desospitalização; trata-se de desconstruir a lógica manicomial e os saberes tutelares, criando novas relações sociais e de cuidado, e não apenas fechar leitos.",
-    "(C) Correta. As primeiras experiências internacionais pós-Segunda Guerra organizaram-se em torno desses eixos fundamentais de transformação da psiquiatria tradicional.",
-    "(D) Incorreta. Internações repetidas e curtas caracterizam o fenômeno da 'porta giratória' (revolving door), considerado uma fragilidade do sistema, e não a estratégia da desinstitucionalização.",
-    "(E) Incorreta. A Contrarreforma Psiquiátrica é um movimento de retrocesso que busca refundar a centralidade do hospital psiquiátrico e do modelo biomédico tradicional, opondo-se aos princípios da Reforma."
+    "Errada: A Reforma Psiquiátrica antimanicomial recusa a centralidade e a existência do hospital psiquiátrico, sustentando que mesmo humanizado ele mantém o dispositivo asilar de segregação.",
+    "Errada: Desinstitucionalização não se reduz a desospitalização; trata-se de desconstruir a lógica manicomial e os saberes tutelares, criando novas relações sociais e de cuidado, e não apenas fechar leitos.",
+    "Correta: As primeiras experiências internacionais pós-Segunda Guerra organizaram-se em torno desses eixos fundamentais de transformação da psiquiatria tradicional.",
+    "Errada: Internações repetidas e curtas caracterizam o fenômeno da 'porta giratória' (revolving door), considerado uma fragilidade do sistema, e não a estratégia da desinstitucionalização.",
+    "Errada: A Contrarreforma Psiquiátrica é um movimento de retrocesso que busca refundar a centralidade do hospital psiquiátrico e do modelo biomédico tradicional, opondo-se aos princípios da Reforma."
    ],
    "referencia": "Amarante, 1995",
    "status": "nao_revisado",
@@ -4669,11 +4669,11 @@
   "comentario": {
    "geral": "A Política Nacional de Humanização (PNH/HumanizaSUS), instituída em 2003, organiza suas diretrizes e dispositivos operacionais tanto transversalmente quanto especificando ações por nível de atenção à saúde. No âmbito da Atenção Hospitalar e da Urgência e Emergência, a PNH estabelece como diretriz fundamental o Acolhimento com Classificação de Risco (ACR), substituindo a ordem de chegada por critérios de gravidade clínica e vulnerabilidade.",
    "alternativas": [
-    "(A) Incorreta. A PNH é uma política transversal do SUS coordenada pelo Ministério da Saúde e que perpassa todos os níveis de atenção, não sendo restrita ou coordenada unicamente pela Atenção Básica.",
-    "(B) Correta. A Classificação de Risco na Urgência e Emergência é expressamente uma das diretrizes e ferramentas operacionais da PNH para esse nível de atenção.",
-    "(C) Incorreta. O acolhimento na PNH não se limita ao momento inicial ou triagem, constituindo uma postura ética e contínua de escuta e corresponsabilização em todas as etapas do cuidado.",
-    "(D) Incorreta. Terapias integrativas, aleitamento materno e cuidados paliativos são componentes de outras políticas de saúde específicas, não ações equivalentes à PNH em sua definição conceitual.",
-    "(E) Incorreta. A responsabilidade pelas ações de humanização é compartilhada por toda a equipe multiprofissional e pela gestão, não sendo atribuição exclusiva ou precípua do psicólogo."
+    "Errada: A PNH é uma política transversal do SUS coordenada pelo Ministério da Saúde e que perpassa todos os níveis de atenção, não sendo restrita ou coordenada unicamente pela Atenção Básica.",
+    "Correta: A Classificação de Risco na Urgência e Emergência é expressamente uma das diretrizes e ferramentas operacionais da PNH para esse nível de atenção.",
+    "Errada: O acolhimento na PNH não se limita ao momento inicial ou triagem, constituindo uma postura ética e contínua de escuta e corresponsabilização em todas as etapas do cuidado.",
+    "Errada: Terapias integrativas, aleitamento materno e cuidados paliativos são componentes de outras políticas de saúde específicas, não ações equivalentes à PNH em sua definição conceitual.",
+    "Errada: A responsabilidade pelas ações de humanização é compartilhada por toda a equipe multiprofissional e pela gestão, não sendo atribuição exclusiva ou precípua do psicólogo."
    ],
    "referencia": "Política Nacional de Humanização (PNH), Ministério da Saúde, 2004",
    "status": "nao_revisado",
@@ -4712,11 +4712,11 @@
   "comentario": {
    "geral": "A Resolução CFP nº 06/2019 institui as regras para a elaboração de documentos escritos produzidos pela(o) psicóloga(o) decorrentes do exercício profissional. O relatório psicológico ou laudo psicológico, que é o documento resultante de um processo de avaliação psicológica, possui uma estrutura técnica formal e obrigatória composta por tópicos bem delimitados.",
    "alternativas": [
-    "(A) Incorreta. Falta o item 'Referências', que é obrigatório no relatório psicológico conforme as diretrizes da Resolução CFP nº 06/2019.",
-    "(B) Incorreta. Essa estrutura refere-se a outros tipos de documentos e omite tópicos essenciais do laudo/relatório psicológico.",
-    "(C) Correta. Conforme a Resolução CFP nº 06/2019, o relatório/laudo psicológico é estruturado em: Identificação; Descrição da demanda; Procedimento; Análise; Conclusão; Referências.",
-    "(D) Incorreta. Omite o item obrigatório 'Procedimento', que detalha os instrumentos e técnicas empregados.",
-    "(E) Incorreta. Essa estrutura é simplificada e não condiz com o documento decorrente de avaliação psicológica previsto na resolução."
+    "Errada: Falta o item 'Referências', que é obrigatório no relatório psicológico conforme as diretrizes da Resolução CFP nº 06/2019.",
+    "Errada: Essa estrutura refere-se a outros tipos de documentos e omite tópicos essenciais do laudo/relatório psicológico.",
+    "Correta: Conforme a Resolução CFP nº 06/2019, o relatório/laudo psicológico é estruturado em: Identificação; Descrição da demanda; Procedimento; Análise; Conclusão; Referências.",
+    "Errada: Omite o item obrigatório 'Procedimento', que detalha os instrumentos e técnicas empregados.",
+    "Errada: Essa estrutura é simplificada e não condiz com o documento decorrente de avaliação psicológica previsto na resolução."
    ],
    "referencia": "Resolução CFP nº 06/2019",
    "status": "nao_revisado",
@@ -4799,11 +4799,11 @@
   "comentario": {
    "geral": "A organização das Redes de Atenção à Saúde (RAS) estrutura os serviços em pontos de atenção integrados. A Rede de Atenção às Urgências (RUE), regulamentada pela Portaria GM/MS nº 1.600/2011, é constituída por componentes específicos interligados que garantem a integralidade do cuidado em situações emergenciais, articulando desde a base comunitária até a atenção domiciliar.",
    "alternativas": [
-    "(A) Incorreta. As Residências Inclusivas pertencem ao Sistema Único de Assistência Social (SUAS); no âmbito da RAPS (Saúde), o dispositivo de desinstitucionalização é o Serviço de Residencial Terapêutico (SRT).",
-    "(B) Incorreta. A Atenção Básica é de baixa densidade tecnológica de equipamentos, porém de alta complexidade em termos de saberes, relações e resolubilidade.",
-    "(C) Correta. A Portaria nº 1.600/2011 define expressamente como componentes da RUE: Promoção/Prevenção, Atenção Básica, SAMU 192, Sala de Estabilização, UPA 24h, Componente Hospitalar e Componente Atenção Domiciliar.",
-    "(D) Incorreta. Quem atua como ordenadora da rede e coordenadora do cuidado no SUS é a Atenção Básica/Primária à Saúde, e não a Atenção Especializada.",
-    "(E) Incorreta. A estratificação de risco orienta a conduta clínica e o fluxo, mas o cuidado em saúde mental não se restringe rigidamente a um único serviço com base no nível de complexidade."
+    "Errada: As Residências Inclusivas pertencem ao Sistema Único de Assistência Social (SUAS); no âmbito da RAPS (Saúde), o dispositivo de desinstitucionalização é o Serviço de Residencial Terapêutico (SRT).",
+    "Errada: A Atenção Básica é de baixa densidade tecnológica de equipamentos, porém de alta complexidade em termos de saberes, relações e resolubilidade.",
+    "Correta: A Portaria nº 1.600/2011 define expressamente como componentes da RUE: Promoção/Prevenção, Atenção Básica, SAMU 192, Sala de Estabilização, UPA 24h, Componente Hospitalar e Componente Atenção Domiciliar.",
+    "Errada: Quem atua como ordenadora da rede e coordenadora do cuidado no SUS é a Atenção Básica/Primária à Saúde, e não a Atenção Especializada.",
+    "Errada: A estratificação de risco orienta a conduta clínica e o fluxo, mas o cuidado em saúde mental não se restringe rigidamente a um único serviço com base no nível de complexidade."
    ],
    "referencia": "Portaria GM/MS nº 1.600/2011",
    "status": "nao_revisado",
@@ -4881,11 +4881,11 @@
   "comentario": {
    "geral": "A avaliação de risco em saúde mental é uma competência clínica ampla inerente ao trabalho do psicólogo e de outros membros da equipe de saúde. Embora existam instrumentos e escalas padronizadas de estratificação de risco, a avaliação clínica, qualitativa e contextualizada de vulnerabilidades e riscos pode e deve ser realizada no próprio processo de intervenção psicológica, independentemente do uso formal de tabelas de estratificação.",
    "alternativas": [
-    "(A) Incorreta. A estratificação de risco na Atenção Básica pode e deve ser realizada por profissionais da equipe de saúde geral, não se restringindo a especialistas em saúde mental.",
-    "(B) Incorreta. O histórico de tentativas de suicídio prévias é fator de risco permanente ao longo de toda a vida da pessoa, e não apenas se tiver ocorrido no último ano.",
-    "(C) Incorreta. A categorização mecânica ignora que a família pode ser tanto fator protetivo quanto de risco/violência, e a deficiência não é, por si só, um fator de risco.",
-    "(D) Incorreta. A estratificação de risco serve para dimensionar urgência e guiar linhas de cuidado, não tendo por finalidade precípua o diagnóstico nosológico.",
-    "(E) Correta. A avaliação de risco integra a escuta e a intervenção clínica contínua do psicólogo, prescindindo de aplicação mecânica de ferramentas formais de estratificação."
+    "Errada: A estratificação de risco na Atenção Básica pode e deve ser realizada por profissionais da equipe de saúde geral, não se restringindo a especialistas em saúde mental.",
+    "Errada: O histórico de tentativas de suicídio prévias é fator de risco permanente ao longo de toda a vida da pessoa, e não apenas se tiver ocorrido no último ano.",
+    "Errada: A categorização mecânica ignora que a família pode ser tanto fator protetivo quanto de risco/violência, e a deficiência não é, por si só, um fator de risco.",
+    "Errada: A estratificação de risco serve para dimensionar urgência e guiar linhas de cuidado, não tendo por finalidade precípua o diagnóstico nosológico.",
+    "Correta: A avaliação de risco integra a escuta e a intervenção clínica contínua do psicólogo, prescindindo de aplicação mecânica de ferramentas formais de estratificação."
    ],
    "referencia": "Ministério da Saúde, Caderno de Atenção Básica nº 34 - Saúde Mental, 2013",
    "status": "nao_revisado",
@@ -4925,11 +4925,11 @@
   "comentario": {
    "geral": "O princípio da integralidade preconiza a compreensão do indivíduo em sua totalidade biopsicossocial, articulando ações de promoção, prevenção e tratamento sem fragmentar a pessoa em queixas isoladas. Diante de sintomas ansiosos e somáticos recentes combinados com isolamento social, sobrecarga de trabalho e aumento do tabagismo, a conduta inicial na Atenção Primária é o acolhimento qualificado e longitudinal para compreender o contexto de vida do usuário e suas vulnerabilidades antes de qualquer encaminhamento ou prescrição medicamentosa precoce.",
    "alternativas": [
-    "(A) Incorreta. Encaminhar imediatamente para serviço especializado fragmenta o cuidado na Atenção Básica e ignora a responsabilidade resolutiva da APS.",
-    "(B) Incorreta. Propõe uma conduta prescritiva e medicalizante precoce sem antes aprofundar a escuta dos determinantes do sofrimento.",
-    "(C) Incorreta. Realiza encaminhamentos imediatos e polarizados em especialidades médicas, contrariando o princípio da resolubilidade da Atenção Básica.",
-    "(D) Incorreta. Propõe uma padronização apressada e medicalizante com ansiolítico e inserção protocolar em grupos sem escuta prévia aprofundada.",
-    "(E) Correta. O acolhimento qualificado, feito de modo dialógico e contínuo, permite investigar os determinantes do sofrimento biopsicossocial e avaliar riscos com base na integralidade."
+    "Errada: Encaminhar imediatamente para serviço especializado fragmenta o cuidado na Atenção Básica e ignora a responsabilidade resolutiva da APS.",
+    "Errada: Propõe uma conduta prescritiva e medicalizante precoce sem antes aprofundar a escuta dos determinantes do sofrimento.",
+    "Errada: Realiza encaminhamentos imediatos e polarizados em especialidades médicas, contrariando o princípio da resolubilidade da Atenção Básica.",
+    "Errada: Propõe uma padronização apressada e medicalizante com ansiolítico e inserção protocolar em grupos sem escuta prévia aprofundada.",
+    "Correta: O acolhimento qualificado, feito de modo dialógico e contínuo, permite investigar os determinantes do sofrimento biopsicossocial e avaliar riscos com base na integralidade."
    ],
    "referencia": "Ministério da Saúde, Caderno de Atenção Básica nº 34 - Saúde Mental, 2013",
    "status": "nao_revisado",
@@ -4965,11 +4965,11 @@
   "comentario": {
    "geral": "Na perspectiva da Psicologia e da Saúde Coletiva, a queixa escolar não deve ser imediatamente patologizada ou individualizada por meio de diagnósticos neurológicos ou transtornos mentais. O fenômeno da medicalização da educação transfere problemas pedagógicos e sociais para o corpo da criança. Portanto, a conduta profissional adequada consiste em acolher a família, orientá-la e estabelecer interlocução com a escola para compreender o processo de ensino-aprendizagem em seu contexto relacional e institucional.",
    "alternativas": [
-    "(A) Incorreta. Focar a intervenção primariamente em avaliar a criança e responder à escola reproduz a lógica de culpabilização do indivíduo pelo fracasso escolar.",
-    "(B) Incorreta. Testes psicométricos precoces reforçam a tendência patologizante e medicalizante da queixa escolar.",
-    "(C) Correta. A interlocução interdisciplinar e intersetorial com a escola e a orientação familiar evitam a patologização do não aprender e contextualizam o desenvolvimento.",
-    "(D) Incorreta. Iniciar de imediato a psicoterapia individual sem avaliar o ambiente escolar e familiar ratifica a ideia de que o problema reside unicamente na criança.",
-    "(E) Incorreta. Neuropsicólogos não prescrevem medicação e essa atitude aprofunda a medicalização desnecessária da infância."
+    "Errada: Focar a intervenção primariamente em avaliar a criança e responder à escola reproduz a lógica de culpabilização do indivíduo pelo fracasso escolar.",
+    "Errada: Testes psicométricos precoces reforçam a tendência patologizante e medicalizante da queixa escolar.",
+    "Correta: A interlocução interdisciplinar e intersetorial com a escola e a orientação familiar evitam a patologização do não aprender e contextualizam o desenvolvimento.",
+    "Errada: Iniciar de imediato a psicoterapia individual sem avaliar o ambiente escolar e familiar ratifica a ideia de que o problema reside unicamente na criança.",
+    "Errada: Neuropsicólogos não prescrevem medicação e essa atitude aprofunda a medicalização desnecessária da infância."
    ],
    "referencia": "Conselho Federal de Psicologia (CFP), Medicalização da Educação e da Sociedade, 2015",
    "status": "nao_revisado",
@@ -5005,11 +5005,11 @@
   "comentario": {
    "geral": "Em situações de bioética clínica hospitalar envolvendo recusa de tratamento por convicções religiosas dos pais (como no caso de Testemunhas de Jeová e risco iminente de morte de menor), o papel do psicólogo não é tomar decisões jurídicas ou impor procedimentos, nem abandonar a família. A intervenção psicológica busca abrir espaço de mediação, escuta qualificada e diálogo, podendo incluir a autoridade religiosa para melhor compreender os valores culturais da família, facilitar a comunicação com a equipe de saúde e reduzir o sofrimento ético e emocional envolvido.",
    "alternativas": [
-    "(A) Incorreta. O direito à vida de uma criança menor de idade em iminente risco de morte se sobrepõe legal e eticamente à recusa parental por motivos religiosos no Brasil.",
-    "(B) Incorreta. Tratar o caso como mera infração tutelar ou delegar punitivamente fragiliza o cuidado humanizado em um momento crítico.",
-    "(C) Incorreta. Embora o diálogo entre equipe e família seja vital, a inclusão das lideranças e valores espirituais (conforme a alternativa D) é mais abrangente para a compreensão dos sentidos subjetivos.",
-    "(D) Correta. Articular a autoridade religiosa no processo de mediação permite compreender os significados do procedimento e dar suporte integral à família e equipe diante de dilemas bioéticos complexos.",
-    "(E) Incorreta. Adotar uma postura meramente passiva que apenas apoia a equipe e posterga o acolhimento à família prejudica o vínculo e a mediação ética em tempo hábil."
+    "Errada: O direito à vida de uma criança menor de idade em iminente risco de morte se sobrepõe legal e eticamente à recusa parental por motivos religiosos no Brasil.",
+    "Errada: Tratar o caso como mera infração tutelar ou delegar punitivamente fragiliza o cuidado humanizado em um momento crítico.",
+    "Errada: Embora o diálogo entre equipe e família seja vital, a inclusão das lideranças e valores espirituais (conforme a alternativa D) é mais abrangente para a compreensão dos sentidos subjetivos.",
+    "Correta: Articular a autoridade religiosa no processo de mediação permite compreender os significados do procedimento e dar suporte integral à família e equipe diante de dilemas bioéticos complexos.",
+    "Errada: Adotar uma postura meramente passiva que apenas apoia a equipe e posterga o acolhimento à família prejudica o vínculo e a mediação ética em tempo hábil."
    ],
    "referencia": "Código de Ética Profissional do Psicólogo (Resolução CFP nº 010/2005)",
    "status": "nao_revisado",
@@ -8413,7 +8413,7 @@
    "numero": 60
   },
   "parte": "especificos",
-  "enunciado": "Considere um psicólogo clínico-hospitalar trabalhando em um grande hospital no qual um paciente foi internado após um grave acidente de carro, em que teve traumas físicos e emocionais significativos. O paciente está ansioso para saber sobre seu estado de saúde, e a equipe solicita uma avaliação psicológica. Nesse contexto, em relação ao atendimento psicológico, analise as assertivas e assinale a alternativa que aponta a(s) correta(s). I. É necessário que o protocolo operacional do setor de Psicologia seja respeitado, tendo horário definido e espaço privativo para a avaliação. II. Para que ocorra o atendimento psicológico no hospital, o paciente precisa solicitar. III. O psicólogo deve buscar compreender como o paciente e a família percebem a situação, seus recursos psíquicos de enfrentamento e como pode ajudá-los como participante da equipe de cuidadores.",
+  "enunciado": "Considere um psicólogo clínico-hospitalar trabalhando em um grande hospital no qual um paciente foi internado após um grave acidente de carro, em que teve traumas físicos e emocionais significativos. O paciente está ansioso para saber sobre seu estado de saúde, e a equipe solicita uma avaliação psicológica. Nesse contexto, em relação ao atendimento psicológico, analise as assertivas e assinale a alternativa que aponta a(s) correta(s).\nI. É necessário que o protocolo operacional do setor de Psicologia seja respeitado, tendo horário definido e espaço privativo para a avaliação.\nII. Para que ocorra o atendimento psicológico no hospital, o paciente precisa solicitar.\nIII. O psicólogo deve buscar compreender como o paciente e a família percebem a situação, seus recursos psíquicos de enfrentamento e como pode ajudá-los como participante da equipe de cuidadores.",
   "alternativas": [
    "Apenas I.",
    "Apenas II.",
@@ -9496,7 +9496,7 @@
    "numero": 25
   },
   "parte": "especificos",
-  "enunciado": "Considerando os eixos fundamentais da Clínica Ampliada e Compartilhada, analise as assertivas e assinale a alternativa que aponta as corretas. I. A Clínica Ampliada busca construir sínteses singulares tensionando os limites de cada matriz disciplinar, visando evitar uma abordagem que privilegie excessivamente algum conhecimento específico. II. O reconhecimento da necessidade de construção compartilhada dos diagnósticos e das terapêuticas é um eixo fundamental dessa Clínica. Esse compartilhamento vai tanto na direção da equipe de saúde, dos serviços de saúde e da ação intersetorial como no sentido dos usuários. III. A lógica psicossocial de cuidado, em contraposição à lógica biomédica, postula que o objeto de trabalho de qualquer profissional de saúde deve considerar a pessoa em suas dimensões psicológicas e sociais. A proposta da Clínica Ampliada é a de se constituir como ferramenta de articulação desses dois principais enfoques, a saber: o psicológico e o social. IV. A Clínica Ampliada requer meios de trabalho e dispositivos de gestão que privilegiem uma comunicação transversal na equipe e entre equipes. Essa Clínica requer técnicas relacionais que valorizem a capacidade de escuta do outro e de si mesmo.",
+  "enunciado": "Considerando os eixos fundamentais da Clínica Ampliada e Compartilhada, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. A Clínica Ampliada busca construir sínteses singulares tensionando os limites de cada matriz disciplinar, visando evitar uma abordagem que privilegie excessivamente algum conhecimento específico.\nII. O reconhecimento da necessidade de construção compartilhada dos diagnósticos e das terapêuticas é um eixo fundamental dessa Clínica. Esse compartilhamento vai tanto na direção da equipe de saúde, dos serviços de saúde e da ação intersetorial como no sentido dos usuários.\nIII. A lógica psicossocial de cuidado, em contraposição à lógica biomédica, postula que o objeto de trabalho de qualquer profissional de saúde deve considerar a pessoa em suas dimensões psicológicas e sociais. A proposta da Clínica Ampliada é a de se constituir como ferramenta de articulação desses dois principais enfoques, a saber: o psicológico e o social.\nIV. A Clínica Ampliada requer meios de trabalho e dispositivos de gestão que privilegiem uma comunicação transversal na equipe e entre equipes. Essa Clínica requer técnicas relacionais que valorizem a capacidade de escuta do outro e de si mesmo.",
   "alternativas": [
    "Apenas I e II.",
    "Apenas II e IV.",
@@ -10445,7 +10445,7 @@
    "numero": 49
   },
   "parte": "especificos",
-  "enunciado": "Considerando a defesa de que a autonomia deve constituir-se como uma das finalidades centrais da política, da gestão e do trabalho em saúde, analise as assertivas e assinale a alternativa que aponta as corretas. I. No âmbito da Saúde Coletiva, a autonomia poderia ser traduzida em um processo de constituição de uma maior capacidade de os sujeitos compreenderem e agirem sobre si mesmos e sobre o seu contexto. Nesse sentido, a autonomia pode ser entendida como a capacidade de o sujeito lidar com a sua rede de dependências. II. Na Saúde Coletiva, a autonomia é entendida em sua forma relativa, em gradientes passíveis de terem seus limites sempre tencionados, mudados. Nesses termos, não há uma autonomia pronta a priori para todos nem para qualquer situação. III. A Saúde Coletiva trata de autonomia e independência como termos correlatos, uma vez que o sujeito será mais autônomo, quanto mais independente de tantas coisas puder ser, pois a liberdade amplia as possibilidades de estabelecimento de novas normas para a vida. IV. É preciso reconhecer que a clínica tradicional, tal como desenvolvida pela medicina a partir do século XIX, tem apresentado especial contribuição ao processo de ampliação do grau de autonomia dos pacientes.",
+  "enunciado": "Considerando a defesa de que a autonomia deve constituir-se como uma das finalidades centrais da política, da gestão e do trabalho em saúde, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. No âmbito da Saúde Coletiva, a autonomia poderia ser traduzida em um processo de constituição de uma maior capacidade de os sujeitos compreenderem e agirem sobre si mesmos e sobre o seu contexto. Nesse sentido, a autonomia pode ser entendida como a capacidade de o sujeito lidar com a sua rede de dependências.\nII. Na Saúde Coletiva, a autonomia é entendida em sua forma relativa, em gradientes passíveis de terem seus limites sempre tencionados, mudados. Nesses termos, não há uma autonomia pronta a priori para todos nem para qualquer situação.\nIII. A Saúde Coletiva trata de autonomia e independência como termos correlatos, uma vez que o sujeito será mais autônomo, quanto mais independente de tantas coisas puder ser, pois a liberdade amplia as possibilidades de estabelecimento de novas normas para a vida.\nIV. É preciso reconhecer que a clínica tradicional, tal como desenvolvida pela medicina a partir do século XIX, tem apresentado especial contribuição ao processo de ampliação do grau de autonomia dos pacientes.",
   "alternativas": [
    "Apenas I e II.",
    "Apenas II e III.",
@@ -11133,7 +11133,7 @@
    "Três Centros de Atenção Psicossocial de uma região pactuam ações conjuntas para manejo de crises e internação em leitos de saúde mental.",
    "Dois hospitais gerais firmam um convênio para otimizar o uso de seus centros cirúrgicos e reduzir a fila de usuários à espera de cirurgias eletivas.",
    "Uma Unidade Básica de Saúde encaminha um paciente para atendimento especializado e posterior tratamento em unidade de alta complexidade.",
-   "Duas Unidades Básicas de Saúde de bairros vizinhos compartilham uma equipe de Saúde Bucal para ampliar o atendimento odontológico da região. "
+   "Duas Unidades Básicas de Saúde de bairros vizinhos compartilham uma equipe de Saúde Bucal para ampliar o atendimento odontológico da região."
   ],
   "gabarito": "D",
   "gabarito_status": "definitivo",
@@ -11244,7 +11244,7 @@
    "numero": 9
   },
   "parte": "gerais",
-  "enunciado": "Sobre a Portaria nº 2.803/2013, que redefine e amplia o Processo Transexualizador no Sistema Único de Saúde, analise as diretrizes de assistência ao usuário com demanda para a realização do Processo no SUS. I. Garantir a integralidade da atenção a transexuais e travestis, centralizando a meta terapêutica nas cirurgias de transgenitalização e demais intervenções somáticas. II. Providenciar que o atendimento seja sempre realizado por equipes interdisciplinares e multiprofissionais. III. Implementar a integração com as ações e os serviços em atendimento ao Processo Transexualizador, tendo como entrada a Atenção Básica em saúde, incluindo-se o acolhimento e a humanização do atendimento livre de qualquer discriminação. As afirmativas são, na ordem apresentada,",
+  "enunciado": "Sobre a Portaria nº 2.803/2013, que redefine e amplia o Processo Transexualizador no Sistema Único de Saúde, analise as diretrizes de assistência ao usuário com demanda para a realização do Processo no SUS.\nI. Garantir a integralidade da atenção a transexuais e travestis, centralizando a meta terapêutica nas cirurgias de transgenitalização e demais intervenções somáticas.\nII. Providenciar que o atendimento seja sempre realizado por equipes interdisciplinares e multiprofissionais.\nIII. Implementar a integração com as ações e os serviços em atendimento ao Processo Transexualizador, tendo como entrada a Atenção Básica em saúde, incluindo-se o acolhimento e a humanização do atendimento livre de qualquer discriminação. As afirmativas são, na ordem apresentada,",
   "alternativas": [
    "F – V – V.",
    "V – V – V",
@@ -11371,7 +11371,7 @@
    "Em áreas consideradas de risco, é aceitável a cobertura pela equipe de ESF de até 75% do território.",
    "Não há necessidade das categorias de médicos e enfermeiros serem especialistas em medicina de família e comunidade e saúde da família, respectivamente.",
    "Para a equipe de ESF, há a obrigatoriedade de carga horária de 10 (dez) horas semanais para todos os profissionais que a compõem.",
-   "É de responsabilidade de cada profissional a distribuição da carga horária, levando em consideração o perfil demográfico e epidemiológico local atendido, garantido 100% de cobertura. "
+   "É de responsabilidade de cada profissional a distribuição da carga horária, levando em consideração o perfil demográfico e epidemiológico local atendido, garantido 100% de cobertura."
   ],
   "gabarito": "C",
   "gabarito_status": "definitivo",
@@ -11609,7 +11609,7 @@
    "Priorizar intervenções farmacológicas off-label, sem notificação.",
    "Resguardar os processos decisórios da participação de pacientes e acompanhantes.",
    "Implementar Núcleos de Segurança do Paciente nos estabelecimentos de saúde.",
-   "Usar terminologias médicas em linguagem técnica nos prontuários dos pacientes. "
+   "Usar terminologias médicas em linguagem técnica nos prontuários dos pacientes."
   ],
   "gabarito": "D",
   "gabarito_status": "definitivo",
@@ -11842,13 +11842,13 @@
    "numero": 24
   },
   "parte": "especificos",
-  "enunciado": "Opioides são substâncias amplamente empregadas em ambiente hospitalar por suas propriedades analgésicas no controle de dores extremas. Essas substâncias causam uma sensação de grande bem-estar e seu uso demanda grande cautela por seu potencial de causar dependência. Sobre essas substâncias, analise as afirmativas a seguir. I. Opioides como morfina e cocaína têm ação perturbadora sobre o SNC. II. A tolerância ao opioide faz com que o usuário precise de quantidades cada vez maiores para obter o mesmo efeito. III. Pessoas que fazem uso recreativo de opioides, como o fentanil, não apresentam sintomas de abstinência quando interrompem o uso. Está correto o que se afirma em",
+  "enunciado": "Opioides são substâncias amplamente empregadas em ambiente hospitalar por suas propriedades analgésicas no controle de dores extremas. Essas substâncias causam uma sensação de grande bem-estar e seu uso demanda grande cautela por seu potencial de causar dependência. Sobre essas substâncias, analise as afirmativas a seguir.\nI. Opioides como morfina e cocaína têm ação perturbadora sobre o SNC.\nII. A tolerância ao opioide faz com que o usuário precise de quantidades cada vez maiores para obter o mesmo efeito.\nIII. Pessoas que fazem uso recreativo de opioides, como o fentanil, não apresentam sintomas de abstinência quando interrompem o uso. Está correto o que se afirma em",
   "alternativas": [
    "II, apenas.",
    "I e II, apenas.",
    "I e III, apenas.",
    "II e III, apenas.",
-   "I, II e III. "
+   "I, II e III."
   ],
   "gabarito": "A",
   "gabarito_status": "definitivo",
@@ -12077,13 +12077,13 @@
    "numero": 30
   },
   "parte": "especificos",
-  "enunciado": "A pandemia da Covid e as tragédias climáticas recentes evidenciaram a importância da inserção da Psicologia no campo das emergências e dos desastres, ampliando as possibilidades da atuação da(o) psicóloga(o) no gerenciamento de riscos e de vulnerabilidades. Um deslizamento de terra soterrou a casa de Rejane. Ela foi resgatada com seus filhos, Junior e Jéssica, de 7 e 5 anos, e com sua avó Lourdes, de 80 anos, mas agora está desabrigada. Sobre os primeiros cuidados psicológicos nesse contexto, analise as afirmativas a seguir. I. Ajudar Rejane e sua família a suprir suas necessidades básicas, como abrigo e alimentação, e a conseguir informações sobre suporte social. II. Confortar as crianças e a idosa e ajudá-las a se sentirem mais calmas e a buscar proteção adicional para suas vulnerabilidades. III. Incentivar Rejane a falar sobre seus sentimentos e suas reações à tragédia, para desabafar e tratar o Transtorno de Estresse Pós-Traumático. Está correto o que se afirma em",
+  "enunciado": "A pandemia da Covid e as tragédias climáticas recentes evidenciaram a importância da inserção da Psicologia no campo das emergências e dos desastres, ampliando as possibilidades da atuação da(o) psicóloga(o) no gerenciamento de riscos e de vulnerabilidades. Um deslizamento de terra soterrou a casa de Rejane. Ela foi resgatada com seus filhos, Junior e Jéssica, de 7 e 5 anos, e com sua avó Lourdes, de 80 anos, mas agora está desabrigada. Sobre os primeiros cuidados psicológicos nesse contexto, analise as afirmativas a seguir.\nI. Ajudar Rejane e sua família a suprir suas necessidades básicas, como abrigo e alimentação, e a conseguir informações sobre suporte social.\nII. Confortar as crianças e a idosa e ajudá-las a se sentirem mais calmas e a buscar proteção adicional para suas vulnerabilidades.\nIII. Incentivar Rejane a falar sobre seus sentimentos e suas reações à tragédia, para desabafar e tratar o Transtorno de Estresse Pós-Traumático. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
    "I e III, apenas.",
    "II e III, apenas.",
-   "I, II e III. "
+   "I, II e III."
   ],
   "gabarito": "B",
   "gabarito_status": "definitivo",
@@ -12116,7 +12116,7 @@
    "numero": 31
   },
   "parte": "especificos",
-  "enunciado": "A Portaria GM/MS nº 5.201/2024 introduziu uma série de doenças ocupacionais que agora são de notificação obrigatória nos Serviços de Saúde, entre as quais encontram-se os transtornos mentais relacionados ao trabalho, listados a seguir. I. Síndrome de Burnout. II. Transtorno de ansiedade em trabalhadores noturnos causado pelo abuso de estimulantes. III. Depressão decorrente de assédio organizacional. IV. Doenças osteomusculares e lesões por esforços repetitivos. V. Transtorno de Déficit de Atenção e Hiperatividade. São exemplos de transtornos dessa natureza:",
+  "enunciado": "A Portaria GM/MS nº 5.201/2024 introduziu uma série de doenças ocupacionais que agora são de notificação obrigatória nos Serviços de Saúde, entre as quais encontram-se os transtornos mentais relacionados ao trabalho, listados a seguir.\nI. Síndrome de Burnout.\nII. Transtorno de ansiedade em trabalhadores noturnos causado pelo abuso de estimulantes.\nIII. Depressão decorrente de assédio organizacional.\nIV. Doenças osteomusculares e lesões por esforços repetitivos.\nV. Transtorno de Déficit de Atenção e Hiperatividade. São exemplos de transtornos dessa natureza:",
   "alternativas": [
    "I, II e III, apenas.",
    "I, III e IV, apenas.",
@@ -12272,13 +12272,13 @@
    "numero": 35
   },
   "parte": "especificos",
-  "enunciado": "Sobre os fatores de risco para o suicídio de pessoas idosas, avalie os itens a seguir. I. A perda de vínculos sociais, da ocupação produtiva e do reconhecimento social. II. A dependência física, o sentimento de sobrecarga para os familiares, bem como a violência ou a negligência familiar. III. Os lutos, as perdas em curto período de tempo e os transtornos do neurodesenvolvimento. Está correto o que se afirma em",
+  "enunciado": "Sobre os fatores de risco para o suicídio de pessoas idosas, avalie os itens a seguir.\nI. A perda de vínculos sociais, da ocupação produtiva e do reconhecimento social.\nII. A dependência física, o sentimento de sobrecarga para os familiares, bem como a violência ou a negligência familiar.\nIII. Os lutos, as perdas em curto período de tempo e os transtornos do neurodesenvolvimento. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
    "I e III, apenas.",
    "II e III, apenas.",
-   "I, II e III. "
+   "I, II e III."
   ],
   "gabarito": "B",
   "gabarito_status": "definitivo",
@@ -12514,7 +12514,7 @@
    "A internação voluntária em uma comunidade terapêutica de orientação religiosa.",
    "O acolhimento pelas equipes do CREAS por meio do programa Centro POP.",
    "A abordagem de urgência e emergência pelas equipes interdisciplinares do SAMU.",
-   "A oferta de abrigo e tratamento em um equipamento de atendimento socioeducativo. "
+   "A oferta de abrigo e tratamento em um equipamento de atendimento socioeducativo."
   ],
   "gabarito": "A",
   "gabarito_status": "definitivo",
@@ -12750,7 +12750,7 @@
    "Capacitação de professores e funcionários das escolas para identificarem e lidarem com situações de bullying.",
    "Acompanhamento psicoterápico individual, grupal e familiar, com foco no tratamento da anorexia e da bulimia nervosa.",
    "Ações educativas com as famílias com temas como comunicação não violenta, escuta ativa e questões próprias da adolescência.",
-   "Grupos de convivência para adolescentes na UBS com rodas de conversa e oficinas de expressão para tratar de temas como autoestima e padrões de beleza. "
+   "Grupos de convivência para adolescentes na UBS com rodas de conversa e oficinas de expressão para tratar de temas como autoestima e padrões de beleza."
   ],
   "gabarito": "C",
   "gabarito_status": "definitivo",
@@ -12943,7 +12943,7 @@
    "numero": 52
   },
   "parte": "especificos",
-  "enunciado": "Os processos psicológicos que permeiam o período grávido- puerperal são complexos, pois trazem grandes modificações psíquicas, acarretando extraordinárias mudanças existenciais. Sobre esses processos e as modificações psíquicas que eles provocam, analise as afirmativas a seguir. I. A ambivalência com relação à gravidez se expressa pelo desejo de querer estar e também não querer estar grávida. II. Promovem alterações do desejo e do desempenho sexual. III. No puerpério, o baby blues caracteriza-se como estado depressivo mais brando em que são comuns a hiperemotividade, as alterações do humor, a falta de confiança em si própria e os sentimentos de incapacidade. Está correto o que se afirma em",
+  "enunciado": "Os processos psicológicos que permeiam o período grávido- puerperal são complexos, pois trazem grandes modificações psíquicas, acarretando extraordinárias mudanças existenciais. Sobre esses processos e as modificações psíquicas que eles provocam, analise as afirmativas a seguir.\nI. A ambivalência com relação à gravidez se expressa pelo desejo de querer estar e também não querer estar grávida.\nII. Promovem alterações do desejo e do desempenho sexual.\nIII. No puerpério, o baby blues caracteriza-se como estado depressivo mais brando em que são comuns a hiperemotividade, as alterações do humor, a falta de confiança em si própria e os sentimentos de incapacidade. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "II, apenas.",
@@ -12988,7 +12988,7 @@
    "O comportamento suicida pode ser prevenido e a prevenção se revela desafiadora para toda a sociedade.",
    "O suicídio é um fenômeno complexo no qual a interação de fatores individuais, sociais e culturais será determinante na decisão de tirar a própria vida.",
    "A existência de uma explicação universal para o ato suicida permite que ele seja compreendido pela associação entre fatores precipitantes internos e o contexto sociocultural do ato.",
-   "O suicídio sempre esteve presente na história da humanidade, tendo adquirido significados e valores diversos, a depender da civilização e do momento histórico. "
+   "O suicídio sempre esteve presente na história da humanidade, tendo adquirido significados e valores diversos, a depender da civilização e do momento histórico."
   ],
   "gabarito": "D",
   "gabarito_status": "definitivo",
@@ -13179,7 +13179,7 @@
    "numero": 58
   },
   "parte": "especificos",
-  "enunciado": "Com relação à atuação da Psicologia na área da Saúde do Trabalhador, analise as afirmativas a seguir. I. Deve avaliar as condicionantes sociais e as condições da organização do trabalho na determinação do processo de adoecer e sofrer no trabalho. II. Deve buscar o envolvimento dos trabalhadores como sujeitos capazes de contribuir com o seu conhecimento para o avanço da compreensão do impacto do trabalho sobre o processo saúde-doença. III. Deve enfatizar a dimensão biológica do processo do adoecimento, valorizando a visão médico-farmacológica do adoecer. Está correto o que se afirma em",
+  "enunciado": "Com relação à atuação da Psicologia na área da Saúde do Trabalhador, analise as afirmativas a seguir.\nI. Deve avaliar as condicionantes sociais e as condições da organização do trabalho na determinação do processo de adoecer e sofrer no trabalho.\nII. Deve buscar o envolvimento dos trabalhadores como sujeitos capazes de contribuir com o seu conhecimento para o avanço da compreensão do impacto do trabalho sobre o processo saúde-doença.\nIII. Deve enfatizar a dimensão biológica do processo do adoecimento, valorizando a visão médico-farmacológica do adoecer. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
@@ -13264,7 +13264,7 @@
    "F – V – V.",
    "V – F – V.",
    "V – V – F.",
-   "V – F – F. "
+   "V – F – F."
   ],
   "gabarito": "C",
   "gabarito_status": "definitivo",
@@ -13499,13 +13499,13 @@
    "numero": 66
   },
   "parte": "especificos",
-  "enunciado": "Sobre escuta clínica, instrumento essencial e indispensável ao fazer psicológico, analise as afirmativas a seguir. I. Permite a construção de novas narrativas pelo paciente já que, por meio dela, há a possibilidade de ressignificação de experiências e reelaboração das histórias vividas. II. Auxilia no processo de elaboração e cura do paciente, pois permite que ele se escute e inicie um processo de transformação emocional. III. Incentiva e promove o protagonismo do paciente no processo terapêutico, implicando-o em sua própria história. Está correto o que se afirma em",
+  "enunciado": "Sobre escuta clínica, instrumento essencial e indispensável ao fazer psicológico, analise as afirmativas a seguir.\nI. Permite a construção de novas narrativas pelo paciente já que, por meio dela, há a possibilidade de ressignificação de experiências e reelaboração das histórias vividas.\nII. Auxilia no processo de elaboração e cura do paciente, pois permite que ele se escute e inicie um processo de transformação emocional.\nIII. Incentiva e promove o protagonismo do paciente no processo terapêutico, implicando-o em sua própria história. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
    "I e III, apenas.",
    "II e III, apenas.",
-   "I, II e III. "
+   "I, II e III."
   ],
   "gabarito": "C",
   "gabarito_status": "definitivo",
@@ -13738,13 +13738,13 @@
    "numero": 72
   },
   "parte": "especificos",
-  "enunciado": "Sobre o matriciamento em saúde mental, analise as afirmativas a seguir. I. Um novo modo de produzir saúde em que duas ou mais equipes, num processo de construção compartilhada, criam uma proposta de intervenção pedagógico-terapêutica. II. Uma ferramenta importante para a construção de um sistema de saúde mais integrado, resolutivo e acolhedor, em que a saúde mental é vista como parte indissociável da saúde geral da pessoa e da comunidade. III. Um dispositivo que reconhece a importância da fragmentação do cuidado, respeitando e endossando as diferenças do atendimento do leito hospitalar, da Clínica de Saúde da Família e do Consultório na Rua. Está correto o que se afirma em",
+  "enunciado": "Sobre o matriciamento em saúde mental, analise as afirmativas a seguir.\nI. Um novo modo de produzir saúde em que duas ou mais equipes, num processo de construção compartilhada, criam uma proposta de intervenção pedagógico-terapêutica.\nII. Uma ferramenta importante para a construção de um sistema de saúde mais integrado, resolutivo e acolhedor, em que a saúde mental é vista como parte indissociável da saúde geral da pessoa e da comunidade.\nIII. Um dispositivo que reconhece a importância da fragmentação do cuidado, respeitando e endossando as diferenças do atendimento do leito hospitalar, da Clínica de Saúde da Família e do Consultório na Rua. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
    "I e III, apenas.",
    "II e III, apenas.",
-   "I, II e III. "
+   "I, II e III."
   ],
   "gabarito": "B",
   "gabarito_status": "definitivo",
@@ -14013,13 +14013,13 @@
    "numero": 79
   },
   "parte": "especificos",
-  "enunciado": "Sobre a Abordagem Centrada na Pessoa, técnica psicoterápica desenvolvida por Carl Rogers na década de 1940, analise as afirmativas a seguir. I. Enfatiza a importância da empatia, da aceitação incondicional e da congruência na relação terapêutica. II. Trata-se de uma abordagem não diretiva, que valoriza a experiência do paciente, pois entende que cada pessoa deseja e é capaz de crescer. III. Facilita o crescimento e o desenvolvimento pessoal, aumentando a autoestima e potencializando a abertura para novas experiências. Está correto o que se afirma em",
+  "enunciado": "Sobre a Abordagem Centrada na Pessoa, técnica psicoterápica desenvolvida por Carl Rogers na década de 1940, analise as afirmativas a seguir.\nI. Enfatiza a importância da empatia, da aceitação incondicional e da congruência na relação terapêutica.\nII. Trata-se de uma abordagem não diretiva, que valoriza a experiência do paciente, pois entende que cada pessoa deseja e é capaz de crescer.\nIII. Facilita o crescimento e o desenvolvimento pessoal, aumentando a autoestima e potencializando a abertura para novas experiências. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
    "I e III, apenas.",
    "II e III, apenas.",
-   "I, II e III. "
+   "I, II e III."
   ],
   "gabarito": "E",
   "gabarito_status": "definitivo",
@@ -14052,7 +14052,7 @@
    "numero": 80
   },
   "parte": "especificos",
-  "enunciado": "Sobre alguns dos conceitos criados por Melanie Klein, uma das principais teóricas da psicanálise, analise as afirmativas a seguir. I. A importância da internalização das relações objetais (como o seio materno), enquanto base para o desenvolvimento psíquico do bebê. II. A percepção fragmentada do mundo pelo bebê na fase inicial do seu desenvolvimento, característica da posição esquizoparanoide, quando ele divide os objetos em bons e maus. III. O desenvolvimento da criança em quatro estágios distintos: o sensório-motor, o pré-operacional, o operacional concreto e o operacional formal. Está correto o que se afirma em",
+  "enunciado": "Sobre alguns dos conceitos criados por Melanie Klein, uma das principais teóricas da psicanálise, analise as afirmativas a seguir.\nI. A importância da internalização das relações objetais (como o seio materno), enquanto base para o desenvolvimento psíquico do bebê.\nII. A percepção fragmentada do mundo pelo bebê na fase inicial do seu desenvolvimento, característica da posição esquizoparanoide, quando ele divide os objetos em bons e maus.\nIII. O desenvolvimento da criança em quatro estágios distintos: o sensório-motor, o pré-operacional, o operacional concreto e o operacional formal. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
@@ -14259,7 +14259,7 @@
    "Deve levar consigo e manter a guarda do material no prazo de cinco anos.",
    "Deve destruí-los, visando manter a confidencialidade dos atendimentos.",
    "Deve permitir o acesso parcial, apenas aos casos que ainda estejam em curso de atendimento.",
-   "Deve lacrá-los para que o acesso aos arquivos pela profissional que a substituiu seja autorizado pela administração superior da Unidade. "
+   "Deve lacrá-los para que o acesso aos arquivos pela profissional que a substituiu seja autorizado pela administração superior da Unidade."
   ],
   "gabarito": "A",
   "gabarito_status": "definitivo",
@@ -14333,7 +14333,7 @@
    "numero": 87
   },
   "parte": "especificos",
-  "enunciado": "O psicólogo Mateus atua em um contexto multiprofissional, e sua equipe foi solicitada a produzir um relatório. Em relação a tal documento, analise as afirmativas a seguir. I. No item “Descrição da demanda”, Mateus deve descrever as informações sobre o que motivou a busca pelo processo de trabalho multiprofissional, indicando quem forneceu as informações e as demandas que levaram à solicitação do documento. II. No item “Análise”, cada profissional deve fazer sua análise separadamente, identificando, com subtítulo, o nome e a categoria profissional. III. A conclusão do relatório multiprofissional deve ser realizada separadamente, mesmo nos casos de um processo de trabalho interdisciplinar. Está correto o que se afirma em",
+  "enunciado": "O psicólogo Mateus atua em um contexto multiprofissional, e sua equipe foi solicitada a produzir um relatório. Em relação a tal documento, analise as afirmativas a seguir.\nI. No item “Descrição da demanda”, Mateus deve descrever as informações sobre o que motivou a busca pelo processo de trabalho multiprofissional, indicando quem forneceu as informações e as demandas que levaram à solicitação do documento.\nII. No item “Análise”, cada profissional deve fazer sua análise separadamente, identificando, com subtítulo, o nome e a categoria profissional.\nIII. A conclusão do relatório multiprofissional deve ser realizada separadamente, mesmo nos casos de um processo de trabalho interdisciplinar. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "II, apenas.",
@@ -14501,7 +14501,7 @@
    "A interseccionalidade aponta o imbricamento de opressões, tendo a noção de raça primazia sobre as dimensões de gênero, de classe social e de etnia.",
    "A capilarização da biopolítica nos serviços de saúde produz culpabilização individual e moralização, que podem repercutir nos sentimentos de humilhação.",
    "A determinação social dos processos de saúde e doença oferece uma visão causal das implicações da pobreza, sendo o sentimento de humilhação uma consequência.",
-   "O cuidado em saúde se sobrepõe às relações sociais de poder, podendo ser consolidado com a escolha de técnicas assistenciais eficazes que neutralizem os mecanismos de dominação. "
+   "O cuidado em saúde se sobrepõe às relações sociais de poder, podendo ser consolidado com a escolha de técnicas assistenciais eficazes que neutralizem os mecanismos de dominação."
   ],
   "gabarito": "C",
   "gabarito_status": "definitivo",
@@ -14613,7 +14613,7 @@
    "numero": 94
   },
   "parte": "especificos",
-  "enunciado": "Na atenção psicossocial no Brasil, diversos estudos têm indicado a necessidade de dar mais suporte às famílias e aos cuidadores. Com relação à inclusão das famílias na atenção psicossocial, analise as afirmativas a seguir. I. Há familiares que não se sentem preparados para cuidar, sendo ainda comum a sobrecarga das mulheres. II. É importante que os serviços ofertem informações consistentes aos familiares sobre as condições de saúde dos usuários e sobre a rede assistencial. III. É necessário considerar a incorporação dos saberes dos familiares no processo de cuidado. Está correto o que se afirma em",
+  "enunciado": "Na atenção psicossocial no Brasil, diversos estudos têm indicado a necessidade de dar mais suporte às famílias e aos cuidadores. Com relação à inclusão das famílias na atenção psicossocial, analise as afirmativas a seguir.\nI. Há familiares que não se sentem preparados para cuidar, sendo ainda comum a sobrecarga das mulheres.\nII. É importante que os serviços ofertem informações consistentes aos familiares sobre as condições de saúde dos usuários e sobre a rede assistencial.\nIII. É necessário considerar a incorporação dos saberes dos familiares no processo de cuidado. Está correto o que se afirma em",
   "alternativas": [
    "III, apenas.",
    "I e II, apenas.",
@@ -14737,7 +14737,7 @@
    "Identifica-se com as abordagens que defendem o cuidado em liberdade, denunciando a violação de direitos.",
    "Refere-se à diminuição da fissura, isto é, do desejo intenso ou mesmo da necessidade de usar a substância.",
    "Reflete como o trabalhador da saúde pode ser afetado com a temática, impondo respostas simplificadoras.",
-   "Apoia-se na mídia para o seu enfrentamento, haja vista a desconstrução de visões sensacionalistas sobre o tema das drogas. "
+   "Apoia-se na mídia para o seu enfrentamento, haja vista a desconstrução de visões sensacionalistas sobre o tema das drogas."
   ],
   "gabarito": "D",
   "gabarito_status": "definitivo",
@@ -14972,7 +14972,7 @@
    "numero": 4
   },
   "parte": "gerais",
-  "enunciado": "Sobre a Política Nacional de Vigilância em Saúde, que orienta a integração das ações no âmbito do Sistema Único de Saúde (SUS), analise as afirmativas a seguir. I. Articula as vigilâncias epidemiológica, sanitária, ambiental e em saúde do trabalhador. II. Prioriza a identificação de doenças e agravos como eixo central das ações de vigilância. III. Integra as ações de vigilância às redes de atenção e às necessidades dos territórios. Está correto o que se afirma em",
+  "enunciado": "Sobre a Política Nacional de Vigilância em Saúde, que orienta a integração das ações no âmbito do Sistema Único de Saúde (SUS), analise as afirmativas a seguir.\nI. Articula as vigilâncias epidemiológica, sanitária, ambiental e em saúde do trabalhador.\nII. Prioriza a identificação de doenças e agravos como eixo central das ações de vigilância.\nIII. Integra as ações de vigilância às redes de atenção e às necessidades dos territórios. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
@@ -15056,7 +15056,7 @@
    "promover qualificações formais para adequar os profissionais às funções institucionais.",
    "desenvolver cursos periódicos para ampliar os conhecimentos técnicos dos trabalhadores.",
    "oferecer treinamentos específicos para corrigir dificuldades identificadas pela gestão.",
-   "organizar conteúdos previamente definidos para atualizar os procedimentos profissionais. "
+   "organizar conteúdos previamente definidos para atualizar os procedimentos profissionais."
   ],
   "gabarito": "A",
   "gabarito_status": "definitivo",
@@ -15251,7 +15251,7 @@
    "Sustenta a participação da sociedade na formulação das políticas de saúde, mas preserva a vinculação do acesso aos serviços públicos à condição de trabalhador segurado pela Previdência Social.",
    "Prioriza a assistência hospitalar individual, atribuindo às ações de promoção da saúde e prevenção de doenças papel complementar na organização dos serviços.",
    "Propõe a ampliação do acesso aos serviços de saúde, mantendo, contudo, a centralização da gestão e do financiamento das ações na esfera federal.",
-   "Prioriza a coordenação federal das políticas de saúde, mantendo nos demais entes federativos funções essencialmente operacionais na execução dos serviços. "
+   "Prioriza a coordenação federal das políticas de saúde, mantendo nos demais entes federativos funções essencialmente operacionais na execução dos serviços."
   ],
   "gabarito": "A",
   "gabarito_status": "definitivo",
@@ -15284,7 +15284,7 @@
    "numero": 12
   },
   "parte": "gerais",
-  "enunciado": "Se os valores e aspirações do Sistema Único de Saúde (SUS) foram estabelecidos na Constituição de 1988, seu conteúdo institucional teve como momento fundador a aprovação da Lei Orgânica da Saúde (Lei nº 8.080/1990), que regula e operacionaliza o novo sistema de saúde, à qual seguiram-se diversas outras, que desenvolveram o arcabouço institucional do sistema pactuado em 1988. Considerando o processo de institucionalização do Sistema Único de Saúde e o disposto nas Leis nº 8.080/1990 e nº 8.142/1990, analise as afirmativas a seguir. I. A Lei Orgânica da Saúde estabeleceu, entre as diretrizes do SUS, a descentralização político-administrativa e a regionalização da rede de serviços, além da criação dos Conselhos e das Conferências de Saúde como instâncias permanentes de participação da comunidade. II. A descentralização previa um sistema com maior protagonismo dos estados e municípios na provisão das ações e serviços de saúde e na tomada de decisões, com direção única em cada esfera de governo e distribuição de competências entre os diferentes níveis de governo. III. A participação da comunidade foi institucionalizada como componente da gestão do SUS, mediante a criação dos Conselhos e das Conferências de Saúde em cada esfera de governo, com atribuições relacionadas à participação na formulação de estratégias e no controle da execução da política de saúde. Está correto o que se afirma em",
+  "enunciado": "Se os valores e aspirações do Sistema Único de Saúde (SUS) foram estabelecidos na Constituição de 1988, seu conteúdo institucional teve como momento fundador a aprovação da Lei Orgânica da Saúde (Lei nº 8.080/1990), que regula e operacionaliza o novo sistema de saúde, à qual seguiram-se diversas outras, que desenvolveram o arcabouço institucional do sistema pactuado em 1988. Considerando o processo de institucionalização do Sistema Único de Saúde e o disposto nas Leis nº 8.080/1990 e nº 8.142/1990, analise as afirmativas a seguir.\nI. A Lei Orgânica da Saúde estabeleceu, entre as diretrizes do SUS, a descentralização político-administrativa e a regionalização da rede de serviços, além da criação dos Conselhos e das Conferências de Saúde como instâncias permanentes de participação da comunidade.\nII. A descentralização previa um sistema com maior protagonismo dos estados e municípios na provisão das ações e serviços de saúde e na tomada de decisões, com direção única em cada esfera de governo e distribuição de competências entre os diferentes níveis de governo.\nIII. A participação da comunidade foi institucionalizada como componente da gestão do SUS, mediante a criação dos Conselhos e das Conferências de Saúde em cada esfera de governo, com atribuições relacionadas à participação na formulação de estratégias e no controle da execução da política de saúde. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
@@ -15450,7 +15450,7 @@
    "Dissocia a assistência em saúde da gestão, de modo que a tomada de decisão seja focada na necessidade do usuário.",
    "Busca preservar a equipe de saúde ao impedir que o usuário de saúde compartilhe suas dores durante a internação em suas redes sociais.",
    "Respeita a diretriz da clínica ampliada, de modo à ampliar os exames para o diagnóstico clínico, melhorando a análise técnica e fragmentada sobre o sujeito.",
-   "Busca transformar as relações de trabalho, ampliando o grau de contato e a comunicação entre as pessoas, tirando-as do isolamento e das relações de poder hierarquizadas. "
+   "Busca transformar as relações de trabalho, ampliando o grau de contato e a comunicação entre as pessoas, tirando-as do isolamento e das relações de poder hierarquizadas."
   ],
   "gabarito": "E",
   "gabarito_status": "definitivo",
@@ -15483,7 +15483,7 @@
    "numero": 17
   },
   "parte": "gerais",
-  "enunciado": "A Política Nacional de Vigilância em Saúde, instituída pela Resolução nº 588, de 12 de julho de 2018, é uma política pública essencial do SUS. Tem caráter universal, transversal e orientador do modelo de atenção nos territórios, sendo a sua gestão de responsabilidade exclusiva do poder público. Nesse sentido, sobre as estratégias para a organização da Vigilância em Saúde, analise as afirmativas a seguir. I. Os processos de trabalho devem estar integrados com a atenção à saúde, sendo pautados pelo conhecimento das condições sociais e econômicas do território e organizados em diversas situações. II. Os processos de trabalho devem atender ao planejamento do Ministério da Saúde, com identificação das prioridades, com base na análise da situação de saúde, no mapeamento das atividades de produção, consumo e infraestrutura e no potencial impacto no território. III. A inserção da vigilância em saúde na Rede de Atenção à Saúde (RAS) deve contribuir para a construção de linhas de cuidado que agrupem doenças e agravos e determinantes de saúde, identificando riscos e situações de vulnerabilidade. Está correto o que se afirma em",
+  "enunciado": "A Política Nacional de Vigilância em Saúde, instituída pela Resolução nº 588, de 12 de julho de 2018, é uma política pública essencial do SUS. Tem caráter universal, transversal e orientador do modelo de atenção nos territórios, sendo a sua gestão de responsabilidade exclusiva do poder público. Nesse sentido, sobre as estratégias para a organização da Vigilância em Saúde, analise as afirmativas a seguir.\nI. Os processos de trabalho devem estar integrados com a atenção à saúde, sendo pautados pelo conhecimento das condições sociais e econômicas do território e organizados em diversas situações.\nII. Os processos de trabalho devem atender ao planejamento do Ministério da Saúde, com identificação das prioridades, com base na análise da situação de saúde, no mapeamento das atividades de produção, consumo e infraestrutura e no potencial impacto no território.\nIII. A inserção da vigilância em saúde na Rede de Atenção à Saúde (RAS) deve contribuir para a construção de linhas de cuidado que agrupem doenças e agravos e determinantes de saúde, identificando riscos e situações de vulnerabilidade. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
@@ -15610,7 +15610,7 @@
    "Padronizar os procedimentos de segurança e concentrar na direção o acompanhamento dos incidentes identificados.",
    "Priorizar a notificação dos eventos adversos que resultem em dano ao paciente e adotar medidas corretivas.",
    "Orientar os profissionais sobre os riscos identificados e avaliar individualmente as condutas que resultem em incidentes.",
-   "Avaliar os incidentes após sua ocorrência e estabelecer medidas corretivas para evitar sua repetição.  Conhecimentos Específicos Psicologia"
+   "Avaliar os incidentes após sua ocorrência e estabelecer medidas corretivas para evitar sua repetição.  Conhecimentos Específicos Psicologia"
   ],
   "gabarito": "A",
   "gabarito_status": "definitivo",
@@ -15760,7 +15760,7 @@
    "numero": 24
   },
   "parte": "especificos",
-  "enunciado": "As diferentes demências, que acometem de forma prevalente as pessoas idosas, têm causas multifatoriais. É sabido que fatores de proteção psicossociais podem contribuir para postergar as manifestações clínicas mais graves das demências em idosos. Dentre esses fatores de proteção psicossociais, avalie os itens a seguir. I. As oportunidades de socialização. II. A estimulação cognitiva. III. A vacinação regular. Assinale a opção que indica os itens corretos.",
+  "enunciado": "As diferentes demências, que acometem de forma prevalente as pessoas idosas, têm causas multifatoriais. É sabido que fatores de proteção psicossociais podem contribuir para postergar as manifestações clínicas mais graves das demências em idosos. Dentre esses fatores de proteção psicossociais, avalie os itens a seguir.\nI. As oportunidades de socialização.\nII. A estimulação cognitiva.\nIII. A vacinação regular. Assinale a opção que indica os itens corretos.",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
@@ -15845,7 +15845,7 @@
    "mobilizar a comunidade para o combate à exploração do trabalho infantil e para a reinserção escolar de adolescentes evadidos.",
    "adequar a linguagem à realidade social e cultural dos interlocutores, partilhando informações de forma acessível, respeitosa e assertiva.",
    "introduzir na comunicação com os pacientes, terminologia técnica especializada acerca das diferentes manifestações psicopatológicas.",
-   "atuar com sigilo profissional, respeito à dignidade humana e compromisso ético com o bem-estar do outro, promovendo vínculos de confiança. "
+   "atuar com sigilo profissional, respeito à dignidade humana e compromisso ético com o bem-estar do outro, promovendo vínculos de confiança."
   ],
   "gabarito": "C",
   "gabarito_status": "definitivo",
@@ -16081,7 +16081,7 @@
    "Favorecer o relato do paciente sobre a situação vivida e seu significado.",
    "Facilitar a comunicação entre o paciente, a família e a equipe hospitalar.",
    "Avaliar os riscos envolvidos e os recursos psíquicos e sociais disponíveis.",
-   "Orientar o paciente sobre a melhor forma de lidar com seus conflitos pessoais. "
+   "Orientar o paciente sobre a melhor forma de lidar com seus conflitos pessoais."
   ],
   "gabarito": "E",
   "gabarito_status": "definitivo",
@@ -16232,7 +16232,7 @@
    "numero": 36
   },
   "parte": "especificos",
-  "enunciado": "Entre as doenças que podem apresentar nexo causal com as condições de trabalho, destacam-se os transtornos mentais e comportamentais. Sobre os fatores de risco ocupacionais relacionados ao alcoolismo, avalie os itens a seguir. I. Os elevados níveis de estresse e de cobrança no trabalho. II. A predisposição genética e o histórico familiar de alcoolismo. III. O trabalho em turnos noturnos e em condições de isolamento. Está correto o que se afirma em",
+  "enunciado": "Entre as doenças que podem apresentar nexo causal com as condições de trabalho, destacam-se os transtornos mentais e comportamentais. Sobre os fatores de risco ocupacionais relacionados ao alcoolismo, avalie os itens a seguir.\nI. Os elevados níveis de estresse e de cobrança no trabalho.\nII. A predisposição genética e o histórico familiar de alcoolismo.\nIII. O trabalho em turnos noturnos e em condições de isolamento. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
@@ -16400,7 +16400,7 @@
    "usar recursos lúdicos e expressivos para representar experiências traumáticas de forma simbólica e segura, favorecendo a elaboração emocional.",
    "expor gradualmente as vítimas ao estímulo de forma planejada e controlada com o objetivo de reduzir a resposta de ansiedade aguda associada ao trauma.",
    "identificar e questionar pensamentos automáticos ou catastróficos apresentados pelas pessoas afetadas pela tragédia, ajudando-as a avaliar sua adequação à realidade.",
-   "Informar sobre reações esperadas diante do evento crítico, orientar estratégias de enfrentamento e autocuidado e favorecer a utilização de recursos de apoio disponíveis. "
+   "Informar sobre reações esperadas diante do evento crítico, orientar estratégias de enfrentamento e autocuidado e favorecer a utilização de recursos de apoio disponíveis."
   ],
   "gabarito": "E",
   "gabarito_status": "definitivo",
@@ -16639,7 +16639,7 @@
    "Um quadro compatível com o mecanismo de conversão, com manifestação física de um sofrimento psíquico.",
    "Uma ocorrência de hipocondria em função da situação traumática vivenciada no contexto do trabalho.",
    "A Síndrome de Munchausen por procuração, em que o paciente simula intencionalmente sintomas físicos de doenças.",
-   "Um episódio de somatização decorrente de lesão por esforço repetitivo das cordas vocais, devido ao esgotamento profissional. "
+   "Um episódio de somatização decorrente de lesão por esforço repetitivo das cordas vocais, devido ao esgotamento profissional."
   ],
   "gabarito": "B",
   "gabarito_status": "definitivo",
@@ -16830,7 +16830,7 @@
    "numero": 51
   },
   "parte": "especificos",
-  "enunciado": "A Resolução CFP nº 01/2009 dispõe sobre a obrigatoriedade do registro documental decorrente da prestação de serviços psicológicos. De acordo com a resolução, analise as afirmativas a seguir. I. A avaliação de demanda deve ser contemplada nos documentos agrupados nos registros de cada usuário. II. O registro documental deve ser colocado à disposição dos Conselhos de Psicologia para orientação e fiscalização, somente por ordem judicial. III. Na hipótese de o registro documental ser realizado na forma de prontuário, fica garantido ao usuário ou representante legal o acesso integral às informações registradas pelo psicólogo. Está correto o que se afirma em",
+  "enunciado": "A Resolução CFP nº 01/2009 dispõe sobre a obrigatoriedade do registro documental decorrente da prestação de serviços psicológicos. De acordo com a resolução, analise as afirmativas a seguir.\nI. A avaliação de demanda deve ser contemplada nos documentos agrupados nos registros de cada usuário.\nII. O registro documental deve ser colocado à disposição dos Conselhos de Psicologia para orientação e fiscalização, somente por ordem judicial.\nIII. Na hipótese de o registro documental ser realizado na forma de prontuário, fica garantido ao usuário ou representante legal o acesso integral às informações registradas pelo psicólogo. Está correto o que se afirma em",
   "alternativas": [
    "III, apenas.",
    "I e II, apenas.",
@@ -16875,7 +16875,7 @@
    "Tem como finalidade a produção de diagnóstico.",
    "Pode ser fruto de uma única intervenção ou atendimento.",
    "Pode ser todo escrito em conjunto com outros profissionais, com exceção da conclusão.",
-   "É vedado o emprego da denominação de Relatório Psicossocial para este tipo de documento. "
+   "É vedado o emprego da denominação de Relatório Psicossocial para este tipo de documento."
   ],
   "gabarito": "C",
   "gabarito_status": "definitivo",
@@ -17311,7 +17311,7 @@
    "numero": 64
   },
   "parte": "especificos",
-  "enunciado": "No Brasil, vem se acirrando uma situação preocupante que corresponde a um movimento de contrarreforma psiquiátrica e de manicomialização do cuidado em saúde mental. Sobre o tema, analise as afirmativas a seguir. I. A internação compulsória de pessoas em situação de rua, visando a institucionalização de forma higienista. II. A exclusão progressiva do médico psiquiatra da assistência ao doente mental e da atenção psicossocial. III. A expansão das Comunidades Terapêuticas, ampliando sua articulação com as redes de saúde. Está correto o que se afirma em",
+  "enunciado": "No Brasil, vem se acirrando uma situação preocupante que corresponde a um movimento de contrarreforma psiquiátrica e de manicomialização do cuidado em saúde mental. Sobre o tema, analise as afirmativas a seguir.\nI. A internação compulsória de pessoas em situação de rua, visando a institucionalização de forma higienista.\nII. A exclusão progressiva do médico psiquiatra da assistência ao doente mental e da atenção psicossocial.\nIII. A expansão das Comunidades Terapêuticas, ampliando sua articulação com as redes de saúde. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
@@ -17356,7 +17356,7 @@
    "Inaugurou um novo estatuto para a loucura, que passou a ser designada como doença mental.",
    "Revelou a essência da loucura, conhecendo-a objetivamente por meio da cientificidade médica.",
    "Identificou o louco com o insensato da época clássica, o desatinado aos olhos da razão e da moral.",
-   "Possibilitou a superação da objetalização dos loucos, que puderam se expressar em discursividade própria. "
+   "Possibilitou a superação da objetalização dos loucos, que puderam se expressar em discursividade própria."
   ],
   "gabarito": "B",
   "gabarito_status": "definitivo",
@@ -17546,13 +17546,13 @@
    "numero": 71
   },
   "parte": "especificos",
-  "enunciado": "O atendimento psicológico domiciliar pode ocorrer em dinâmicas em que o paciente está restrito ao leito, com dificuldades de locomoção ou que está sendo submetido a cuidados paliativos. Sobre seus objetivos, analise as afirmativas a seguir. I. Oferecer suporte e possibilitar o aumento dos recursos emocionais dos pacientes. II. Orientar a família e/ou o responsável pelos cuidados do paciente. III. Participar do processo de elaboração de uma morte mais humanizada, respeitando a história de vida do paciente e sua família. Está correto o que se afirma em",
+  "enunciado": "O atendimento psicológico domiciliar pode ocorrer em dinâmicas em que o paciente está restrito ao leito, com dificuldades de locomoção ou que está sendo submetido a cuidados paliativos. Sobre seus objetivos, analise as afirmativas a seguir.\nI. Oferecer suporte e possibilitar o aumento dos recursos emocionais dos pacientes.\nII. Orientar a família e/ou o responsável pelos cuidados do paciente.\nIII. Participar do processo de elaboração de uma morte mais humanizada, respeitando a história de vida do paciente e sua família. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
    "I e III, apenas.",
    "II e III, apenas.",
-   "I, II e III. "
+   "I, II e III."
   ],
   "gabarito": "E",
   "gabarito_status": "definitivo",
@@ -17831,7 +17831,7 @@
    "Carla deve continuar atendendo as crianças e adolescentes mesmo após o nascimento de seu filho, pois tem compromisso ético nesse trabalho.",
    "Gustavo deve atender todos os casos sem ter qualquer contato com Carla, já que sua escuta e manejo independem de qualquer informação prévia.",
    "Carla deve fornecer ao psicólogo Gustavo as informações necessárias à continuidade do trabalho na clínica e aos atendimentos dos pacientes.",
-   "A clínica é responsável por passar as informações para o novo psicólogo, proibindo o contato com a profissional anterior porque isso pode contaminar a escuta de Gustavo. "
+   "A clínica é responsável por passar as informações para o novo psicólogo, proibindo o contato com a profissional anterior porque isso pode contaminar a escuta de Gustavo."
   ],
   "gabarito": "D",
   "gabarito_status": "definitivo",
@@ -17943,7 +17943,7 @@
    "numero": 81
   },
   "parte": "especificos",
-  "enunciado": "Sobre Educação Permanente em Saúde, analise as afirmativas a seguir. I. É uma prática de ensino-aprendizagem que se articula à produção de conhecimentos no cotidiano das instituições de saúde, a partir da realidade vivida pelos atores envolvidos na prática. II. É um processo político-pedagógico em que as práticas cotidianas são colocadas em análise, tendo os problemas enfrentados no dia-a-dia do trabalho e as experiências como base de interrogação e mudança. III. A Educação Permanente em Saúde valoriza o processo de ensino-aprendizagem mecânico e a absorção de conteúdos programáticos teóricos dissociados das experiências reais. Está correto o que se afirma em",
+  "enunciado": "Sobre Educação Permanente em Saúde, analise as afirmativas a seguir.\nI. É uma prática de ensino-aprendizagem que se articula à produção de conhecimentos no cotidiano das instituições de saúde, a partir da realidade vivida pelos atores envolvidos na prática.\nII. É um processo político-pedagógico em que as práticas cotidianas são colocadas em análise, tendo os problemas enfrentados no dia-a-dia do trabalho e as experiências como base de interrogação e mudança.\nIII. A Educação Permanente em Saúde valoriza o processo de ensino-aprendizagem mecânico e a absorção de conteúdos programáticos teóricos dissociados das experiências reais. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
@@ -18105,7 +18105,7 @@
    "individualização.",
    "equilíbrio interior.",
    "ufania da persona.",
-   "apagamento da sombra. "
+   "apagamento da sombra."
   ],
   "gabarito": "A",
   "gabarito_status": "definitivo",
@@ -18177,7 +18177,7 @@
    "numero": 87
   },
   "parte": "especificos",
-  "enunciado": "O comportamento suicida é um fenômeno multifatorial. Sobre  os fatores de risco para o suicídio, analise os itens a seguir. I. Transtornos mentais, previamente diagnosticados ou não. II. Abuso de álcool ou outras substâncias. III. Crenças religiosas e espirituais, que podem servir como estratégia de enfrentamento e consolo. Assinale a opção que apresenta os itens corretos.",
+  "enunciado": "O comportamento suicida é um fenômeno multifatorial. Sobre  os fatores de risco para o suicídio, analise os itens a seguir.\nI. Transtornos mentais, previamente diagnosticados ou não.\nII. Abuso de álcool ou outras substâncias.\nIII. Crenças religiosas e espirituais, que podem servir como estratégia de enfrentamento e consolo. Assinale a opção que apresenta os itens corretos.",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
@@ -18339,7 +18339,7 @@
    "atendimento no SAMU.",
    "atendimento em CAPS ou CAPS-ad.",
    "internação em um Hospital Psiquiátrico.",
-   "internação em Leito de Saúde Mental em Hospital Geral. "
+   "internação em Leito de Saúde Mental em Hospital Geral."
   ],
   "gabarito": "C",
   "gabarito_status": "definitivo",
@@ -18373,7 +18373,7 @@
    "numero": 92
   },
   "parte": "especificos",
-  "enunciado": "Sobre a atuação do(a) psicólogo nas intervenções em emergências e desastres, avalie as afirmativas a seguir. I. Participar no gerenciamento e adequação de abrigamentos, garantindo que grupos familiares e comunidades estejam mais próximos; II. Garantir espaços seguros e retorno à rotina de crianças e adolescentes; e III. Articular ações para prevenção de violências e promoção da saúde junto aos afetados. Está correto o que se afirma em",
+  "enunciado": "Sobre a atuação do(a) psicólogo nas intervenções em emergências e desastres, avalie as afirmativas a seguir.\nI. Participar no gerenciamento e adequação de abrigamentos, garantindo que grupos familiares e comunidades estejam mais próximos;\nII. Garantir espaços seguros e retorno à rotina de crianças e adolescentes; e III. Articular ações para prevenção de violências e promoção da saúde junto aos afetados. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",
@@ -18623,7 +18623,7 @@
    "opositor.",
    "antagonista.",
    "ovelha negra.",
-   "bode expiatório. "
+   "bode expiatório."
   ],
   "gabarito": "E",
   "gabarito_status": "definitivo",
@@ -18696,7 +18696,7 @@
    "numero": 100
   },
   "parte": "especificos",
-  "enunciado": "Sobre a atuação que deve ser desenvolvida pelos Psicólogos no ambiente hospitalar, analise as afirmativas a seguir. I. Ajudar o paciente e a família a compreenderem o diagnóstico e aderirem ao tratamento. II. Mediar a comunicação entre a equipe médica, a família e o paciente. III. Manter uma escuta sensível e acolhedora para o paciente do pré-cirúrgico, de forma a reduzir sua ansiedade. Está correto o que se afirma em",
+  "enunciado": "Sobre a atuação que deve ser desenvolvida pelos Psicólogos no ambiente hospitalar, analise as afirmativas a seguir.\nI. Ajudar o paciente e a família a compreenderem o diagnóstico e aderirem ao tratamento.\nII. Mediar a comunicação entre a equipe médica, a família e o paciente.\nIII. Manter uma escuta sensível e acolhedora para o paciente do pré-cirúrgico, de forma a reduzir sua ansiedade. Está correto o que se afirma em",
   "alternativas": [
    "I, apenas.",
    "I e II, apenas.",

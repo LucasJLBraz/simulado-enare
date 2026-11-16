@@ -54,12 +54,12 @@ export function ajustes() {
       h('input', { id: 'hr', type: 'time', value: e.config.lembrete.hora, onchange: (ev) => { e.config.lembrete.hora = ev.target.value || '20:00'; ctx.salvar(); if (e.config.lembrete.ativo) lembrete(); } })),
     h('div', { class: 'card' },
       h('h2', {}, 'Seus dados'),
-      h('p', { class: 'suave' }, `Contestações guardadas: ${Object.keys(e.contestacoes).length}. Envie o arquivo para quem mantém o banco refazer os comentários.`),
+      h('p', { class: 'suave' }, `Comentários que você marcou como errados: ${Object.keys(e.contestacoes).length}. Envie o arquivo para quem cuida do banco refazer esses comentários.`),
       h('button', { class: 'btn', onclick: enviar }, 'Enviar minhas marcações'),
       h('button', { class: 'btn', onclick: backup }, 'Fazer backup'),
       h('label', { class: 'btn', for: 'rest' }, 'Restaurar backup'),
       h('input', { id: 'rest', type: 'file', accept: 'application/json,.json', hidden: true, onchange: restaurar })),
-    h('button', { class: 'btn', onclick: () => ctx.ir('#/onboarding') }, 'Rever a apresentação'),
+    h('button', { class: 'btn', onclick: () => ctx.ir('#/onboarding') }, 'Ver a apresentação do app de novo'),
     msg,
     h('p', { class: 'suave' }, `Banco de questões versão ${ctx.meta.versao_banco}, ${ctx.questoes.length} questões.`));
 }

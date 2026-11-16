@@ -1,6 +1,6 @@
 // Ciclo de vida de uma sessão (mini-simulado, simulado ou revisão do dia). Sem DOM.
 import { ctx } from './ctx.js';
-import { atualizarCaderno, hojeISO, diasEntre } from '../logica/revisao.js';
+import { atualizarCaderno, destinoCaderno, hojeISO, diasEntre } from '../logica/revisao.js';
 
 export const decorrido = (s, agora = Date.now()) => s.acumuladoSeg + (s.rodandoDesde ? (agora - s.rodandoDesde) / 1000 : 0);
 export const atualId = (s) => s.fila.find((id) => !s.respostas[id]);
@@ -41,10 +41,11 @@ export function registrarResposta(s, q, resp, conf) {
   const hoje = hojeISO();
   p.respostas.push({ quando: hoje, resp, certo, conf, seg });
   const dias = e.config.dataProva ? diasEntre(hoje, e.config.dataProva) : null;
+  const destino = destinoCaderno(p.caderno, { certo, conf }, hoje, dias);
   const novo = atualizarCaderno(p.caderno, { certo, conf }, hoje, dias);
   if (novo) p.caderno = novo; else delete p.caderno;
   ctx.salvar();
-  return certo;
+  return destino;
 }
 
 export function finalizar(s) {
