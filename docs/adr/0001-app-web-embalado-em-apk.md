@@ -1,0 +1,5 @@
+# App web embalado em APK, sem hospedagem
+
+O app é escrito em tecnologia web e embalado como APK Android com Capacitor. Ele roda offline, com o banco de questões dentro do APK e o progresso guardado no próprio aparelho. Cada versão nova do banco vira um APK que o autor envia por mensagem, e a estudante instala por cima sem perder o progresso.
+
+A primeira versão era em Rust, com servidor HTTP local e interface web embutida. No Android isso exige empacotar um binário e manter um servidor rodando, e o ganho de velocidade não aparece com algumas centenas de questões. Uma PWA hospedada foi descartada porque tudo no endereço público fica público, inclusive as questões de apostila, que são material protegido. Um app nativo em Kotlin exigiria Android Studio e conhecimento de desenvolvimento mobile que o autor não tem. O APK resolve a privacidade sem trocar de tecnologia. O custo é que toda atualização passa por um APK novo, e a estudante precisa permitir uma vez a instalação de apps de fora da Play Store. O código Rust fica arquivado como referência.

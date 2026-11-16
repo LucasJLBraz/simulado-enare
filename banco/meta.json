@@ -1,0 +1,9 @@
+{
+ "versao_banco": 1,
+ "gerado_em": "2026-11-16",
+ "formato_prova": {
+  "gerais": 20,
+  "especificos": 80,
+  "minutos": 300
+ }
+}

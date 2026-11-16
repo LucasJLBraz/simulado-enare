@@ -1,0 +1,50 @@
+[
+ {
+  "id": "sus-redes",
+  "nome": "Legislação do SUS, Redes de Atenção (RAS) e Vigilância",
+  "parte": "gerais",
+  "provisorio": true
+ },
+ {
+  "id": "aps-pnh",
+  "nome": "Atenção Primária (PNAB), eMulti/NASF, PNH, Biossegurança e Segurança do Paciente",
+  "parte": "especificos",
+  "provisorio": true
+ },
+ {
+  "id": "etica-cfp",
+  "nome": "Ética Profissional, Resolução CFP nº 06/2019, SATEPSI e Bioética",
+  "parte": "especificos",
+  "provisorio": true
+ },
+ {
+  "id": "raps-caps",
+  "nome": "Reforma Psiquiátrica, RAPS, CAPS, PTS, Clínica Ampliada e Matriciamento",
+  "parte": "especificos",
+  "provisorio": true
+ },
+ {
+  "id": "ad-violencia",
+  "nome": "Álcool e Drogas (Redução de Danos), Violência, Desastres e Saúde do Trabalhador",
+  "parte": "especificos",
+  "provisorio": true
+ },
+ {
+  "id": "hospitalar",
+  "nome": "Psicologia Hospitalar, Cuidados Paliativos e Atuação em Saúde",
+  "parte": "especificos",
+  "provisorio": true
+ },
+ {
+  "id": "psicopato-neuro",
+  "nome": "Psicopatologia, Avaliação Neuropsicológica e TEA/Desenvolvimento",
+  "parte": "especificos",
+  "provisorio": true
+ },
+ {
+  "id": "psicanalise",
+  "nome": "Teoria e Clínica Psicanalítica (Freud, Ferenczi, Balint, Parentalidade e Luto)",
+  "parte": "especificos",
+  "provisorio": true
+ }
+]

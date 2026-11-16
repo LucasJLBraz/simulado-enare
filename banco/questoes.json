@@ -1,0 +1,3071 @@
+[
+ {
+  "id": "enare-2024-psicolt01-002",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 2
+  },
+  "parte": "gerais",
+  "enunciado": "A respeito da 8ª Conferência Nacional de Saúde, realizada em Brasília, no ano de 1986, assinale a afirmativa correta.",
+  "alternativas": [
+   "Estabeleceu um marco histórico, mas ainda sem participação popular.",
+   "Propôs a criação de um sistema de saúde público e de um privado, independentes.",
+   "Criou o arcabouço do SUS e a Comissão Nacional da Reforma Sanitária (CNRS).",
+   "Teve como tema central efetivando o SUS – acesso, qualidade e humanização na atenção à saúde com controle social.",
+   "Criou o Sistema Nacional de Vigilância Epidemiológica."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "sus-redes"
+  ],
+  "subtema": "História do SUS e 8ª Conferência Nacional de Saúde (1986)",
+  "comentario": {
+   "geral": "A 8ª Conferência Nacional de Saúde (1986) contou com ampla participação popular, lançou as bases político-conceituais do SUS para a Constituinte de 1988 e resultou na criação da Comissão Nacional da Reforma Sanitária (CNRS). O tema da 11ª CNS (2000) foi 'Efetivando o SUS'.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-003",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 3
+  },
+  "parte": "gerais",
+  "enunciado": "O Decreto nº 7.508/2011, como figura jurídica que dará concretude a cada ente federado frente aos compromissos comuns, instituiu",
+  "alternativas": [
+   "a alocação dos recursos do Fundo Nacional de Saúde (FNS).",
+   "o Contrato Organizativo da Ação Pública da Saúde (COAP).",
+   "o Pacto pela Saúde em defesa do SUS, pela vida e pela gestão.",
+   "os percentuais mínimos a serem investidos nas ações e serviços de saúde.",
+   "a participação direta e indireta de capital externo na assistência à saúde."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "sus-redes"
+  ],
+  "subtema": "Decreto nº 7.508/2011 e COAP",
+  "comentario": {
+   "geral": "O Decreto nº 7.508/2011 regulamenta a Lei nº 8.080/1990 e institui o Contrato Organizativo da Ação Pública da Saúde (COAP) como acordo de colaboração firmado entre entes federativos para organizar e integrar as ações e serviços de saúde na Região de Saúde.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-004",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 4
+  },
+  "parte": "gerais",
+  "enunciado": "Segundo o Art. 3º da Portaria de Consolidação nº 3/2017 do Ministério da Saúde, temos como Rede Temática de Atenção à Saúde, a",
+  "alternativas": [
+   "Rede de Atenção às Urgências e Emergências (RUE).",
+   "Rede Nacional de Prevenção da Violência e Promoção da Saúde (RNPVS).",
+   "Rede Nacional de Atenção Integral da Saúde do Trabalhador (RAIST).",
+   "Rede Brasileira de Avaliação de Tecnologias em Saúde (Rebrats).",
+   "Rede Nacional de Vigilância Epidemiológica Hospitalar (Renaveh)."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "sus-redes"
+  ],
+  "subtema": "Portaria de Consolidação nº 3/2017 — Redes Temáticas da RAS",
+  "comentario": {
+   "geral": "Na Portaria de Consolidação nº 3/2017, as Redes Temáticas prioritárias da RAS incluem a Rede Cegonha (Rede Alyne), a Rede de Atenção às Urgências e Emergências (RUE), a Rede de Atenção Psicossocial (RAPS), a Rede de Cuidados à Pessoa com Deficiência e a Rede de Atenção à Saúde das Pessoas com Doenças Crônicas.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-005",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 5
+  },
+  "parte": "gerais",
+  "enunciado": "Segundo a Portaria de Consolidação nº 3/2017 do Ministério da Saúde, a Rede de Atenção à Saúde (RAS) é definida como arranjos organizativos de ações e serviços de saúde, de diferentes densidades tecnológicas, que integradas por meio de sistemas de apoio técnico, logístico e de gestão, buscam garantir a integralidade do cuidado. A esse respeito, analise as afirmativas a seguir.\\nI. Nem todos os pontos de atenção à saúde são importantes para que os objetivos da rede de atenção à saúde sejam cumpridos.\\nII. Os pontos de atenção à saúde são espaços em que se ofertam determinados serviços de saúde, por meio de uma produção singular.\\nIII. Um dos objetivos da RAS é promover a integração sistêmica de ações e serviços de saúde com provisão de atenção contínua, integral, de qualidade, responsável e humanizada.\\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "sus-redes"
+  ],
+  "subtema": "Rede de Atenção à Saúde (RAS) — Conceito e Pontos de Atenção",
+  "comentario": {
+   "geral": "A afirmativa I é falsa porque na RAS todos os pontos de atenção à saúde são igualmente importantes (relação horizontal, sem hierarquia de importância entre eles), diferenciando-se apenas pelas densidades tecnológicas. As afirmativas II e III reproduzem fielmente o Anexo I da Portaria de Consolidação nº 3/2017.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-012",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 12
+  },
+  "parte": "gerais",
+  "enunciado": "Assinale a opção que, segundo a Resolução nº 588/2018 do Conselho Nacional de Saúde (CNS), apresenta a definição de vigilância em saúde.",
+  "alternativas": [
+   "Processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde, visando ao planejamento e à implementação de medidas de Saúde Pública.",
+   "Ações que propiciam o conhecimento e a investigação diagnóstica de doenças e agravos e a verificação da qualidade de produtos de interesse de saúde pública e do padrão de conformidade de amostras ambientais.",
+   "Promoção da saúde como parte da integralidade do cuidado na Rede de Atenção à Saúde, articuladas com as demais redes de proteção social, abrangendo atividades voltadas para adoção de práticas sociais e de saúde centradas na equidade, na participação e no controle social.",
+   "Ações de monitoramento contínuo da situação de saúde da população do País, Estado, Região, Município ou áreas de abrangência de equipes de atenção à saúde, por estudos e análises que identifiquem e expliquem problemas de saúde e o comportamento dos principais indicadores de saúde.",
+   "Conjunto articulado de ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "sus-redes"
+  ],
+  "subtema": "Resolução CNS nº 588/2018 — Política Nacional de Vigilância em Saúde",
+  "comentario": {
+   "geral": "O Art. 3º da Resolução CNS nº 588/2018 (PNVS) define a Vigilância em Saúde exatamente como o processo contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde para planejamento e implementação de medidas de saúde pública.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-013",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 13
+  },
+  "parte": "gerais",
+  "enunciado": "O Art. 16 da Resolução nº 588/2018 do Conselho Nacional de Saúde (CNS), estabelece que o financiamento das ações da vigilância em saúde, é garantido de forma",
+  "alternativas": [
+   "autônoma, apenas pelo município.",
+   "dual, pelas esferas estadual e municipal.",
+   "unívoca, apenas na esfera federal.",
+   "recíproca, pelos estados e pela União.",
+   "tripartite, pelas esferas federal, estadual e municipal."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "sus-redes"
+  ],
+  "subtema": "Financiamento da Vigilância em Saúde (Resolução CNS nº 588/2018)",
+  "comentario": {
+   "geral": "No SUS, o financiamento das ações de vigilância em saúde (Art. 16 da Resolução CNS nº 588/2018) é garantido de forma tripartite (União, Estados/DF e Municípios), de forma estável e suficiente.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-006",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 6
+  },
+  "parte": "gerais",
+  "enunciado": "A Equipe do Núcleo de Saúde da Família e Atenção Básica (NASF-AB), como competência específica, deve",
+  "alternativas": [
+   "planejar, estrategicamente, a implantação das Unidades Básicas de Saúde.",
+   "formar equipes multidisciplinares, a partir de indicações do Ministério da Saúde.",
+   "participar do planejamento conjunto com as equipes que atuam na Atenção Básica a que estão vinculadas.",
+   "ser responsável pela composição da equipe multiprofissional, definindo os profissionais e a carga horária da equipe.",
+   "atuar de forma integrada à Rede de Atenção à Saúde a partir de normativas do Conselho Nacional de Saúde."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "NASF-AB / Equipes Multiprofissionais na Atenção Básica",
+  "comentario": {
+   "geral": "De acordo com a PNAB, compete especificamente às equipes do NASF-AB participar do planejamento conjunto com as equipes que atuam na Atenção Básica (eSF/eAB) às quais estão vinculadas, exercendo apoio matricial e corresponsabilização.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-007",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 7
+  },
+  "parte": "gerais",
+  "enunciado": "Segundo a Política Nacional de Atenção Básica (PNAB), uma Unidade Básica de Saúde (UBS), em relação à infraestrutura e à ambiência, deve\\nI. estar adequada ao quantitativo de população adscrita e suas especificidades.\\nII. considerar a densidade demográfica, perfil da população e as ações e serviços de saúde a serem realizados.\\nIII. ter pontos de apoio para o atendimento de populações dispersas (rurais, ribeirinhas, assentamentos etc.).\\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "PNAB — Infraestrutura e Ambiência das UBS",
+  "comentario": {
+   "geral": "Todas as afirmativas (I, II e III) estão previstas no capítulo de Infraestrutura, Ambiência e Funcionamento da Atenção Básica da PNAB (Portaria nº 2.436/2017 / Portaria de Consolidação nº 2/2017).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-009",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 9
+  },
+  "parte": "gerais",
+  "enunciado": "Assinale a opção que indica o princípio da Política Nacional de Humanização que visa ao aumento do grau de comunicação intra e intergrupos e à transformação dos modos de relação e de comunicação entre os sujeitos implicados nos processos de produção de saúde.",
+  "alternativas": [
+   "Pluralidade.",
+   "Diversidade.",
+   "Verticalidade.",
+   "Transversalidade.",
+   "Heterogeneidade."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Política Nacional de Humanização (PNH) — Princípios",
+  "comentario": {
+   "geral": "A PNH possui três princípios estruturantes: 1) Transversalidade (ampliação do grau de comunicação intra e intergrupos, desestabilizando fronteiras dos saberes/poderes); 2) Indissociabilidade entre atenção e gestão; e 3) Protagonismo, corresponsabilidade e autonomia dos sujeitos e coletivos.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-010",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 10
+  },
+  "parte": "gerais",
+  "enunciado": "Assinale a opção que indica a finalidade primordial da Política Nacional de Saúde da Pessoa Idosa, Portaria nº 2.528/GM de 2006.",
+  "alternativas": [
+   "Garantir a permanência de portadores de doenças que necessitem de assistência médica ou de enfermagem permanente, em instituições asilares de caráter social.",
+   "Recuperar, manter e promover a autonomia e a independência dos indivíduos idosos, direcionando medidas coletivas e individuais de saúde.",
+   "Priorizar o controle e a prevenção de agravos de doenças crônicas não-transmissíveis em idosos.",
+   "Garantir o acesso de idosos aos sistemas de saúde, em especial à centros especializados de Geriatria.",
+   "Prover assistência multidisciplinar ao idoso, visto que a incapacidade funcional e as limitações físicas, cognitivas e sensoriais são consequências inevitáveis do envelhecimento."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Política Nacional de Saúde da Pessoa Idosa (Portaria nº 2.528/2006)",
+  "comentario": {
+   "geral": "Nos termos da Portaria nº 2.528/2006, a finalidade primordial da Política Nacional de Saúde da Pessoa Idosa é recuperar, manter e promover a autonomia e a independência dos indivíduos idosos, direcionando medidas coletivas e individuais de saúde para esse fim.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-011",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 11
+  },
+  "parte": "gerais",
+  "enunciado": "Em relação à humanização no âmbito do SUS, assinale a afirmativa correta.",
+  "alternativas": [
+   "Trata-se de um programa que atravessa as diferentes ações e instâncias gestoras do SUS.",
+   "Enfatiza a idealização do “homem” na construção de um sentido positivo.",
+   "Oferece um eixo articulador das práticas em saúde, destacando o aspecto subjetivo nelas presente.",
+   "Constrói trocas solidárias e comprometidas com a estrita tarefa de produção de saúde.",
+   "São ações voltadas aos sujeitos de sua ação, ou seja, seus usuários."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Humanização no SUS — Dimensão Subjetiva das Práticas em Saúde",
+  "comentario": {
+   "geral": "A PNH não é um mero 'programa' vertical (é uma política transversal), rejeita a idealização abstrata do 'homem' e contempla tanto usuários quanto trabalhadores e gestores. Ela oferece um eixo articulador das práticas em saúde, destacando o aspecto subjetivo nelas presente.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-016",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 16
+  },
+  "parte": "gerais",
+  "enunciado": "A estratégia Consultório na Rua foi instituída pela Política Nacional de Atenção Básica, em 2011, e visa ampliar o acesso da população em situação de rua aos serviços de saúde. Todas as ações realizadas pelas equipes de Consultório na Rua (eCR) devem ser registradas na(o)",
+  "alternativas": [
+   "Rede Nacional de Dados em Saúde (RNDS).",
+   "Agência Nacional de Vigilância Sanitária (ANVISA).",
+   "Sistema de Informação de Agravos de Notificação (Sinan).",
+   "Sistema de Informação em Saúde para Atenção Básica (Sisab).",
+   "Sistema de Dados de Populações Vulneráveis (SDPV)."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Consultório na Rua (eCR) e Registro no SISAB",
+  "comentario": {
+   "geral": "Como componente da Atenção Básica, todas as ações das equipes de Consultório na Rua (eCR) são registradas no Sistema de Informação em Saúde para a Atenção Básica (SISAB), por meio da estratégia e-SUS APS.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-020",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 20
+  },
+  "parte": "gerais",
+  "enunciado": "Segundo o Art. 3º, inciso IV, da RDC nº 36/2013, assinale a opção que apresenta o conceito de evento adverso.",
+  "alternativas": [
+   "O comprometimento da estrutura ou da função do corpo e/ou qualquer efeito dele oriundo.",
+   "O efeito que surge por meio de alguma reação distinta daquela que produz o efeito terapêutico.",
+   "O efeito causado por fármaco que leva ou pode levar a um desfecho negativo.",
+   "A ocorrência imprevista que acontece durante a assistência à saúde.",
+   "O evento ou circunstância que resulte em dano à saúde."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Segurança do Paciente — RDC nº 36/2013 (Evento Adverso)",
+  "comentario": {
+   "geral": "A RDC Anvisa nº 36/2013 (Art. 3º, IV) diferencia 'incidente' (evento ou circunstância que poderia ter resultado, ou resultou, em dano desnecessário à saúde) de 'evento adverso' (incidente que resulta efetivamente em dano à saúde). Já a alternativa A descreve o conceito de 'dano'.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-023",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 23
+  },
+  "parte": "especificos",
+  "enunciado": "A Portaria nº 1.996 GM/MS/2007 definiu as novas diretrizes e as estratégias para a implementação da Política Nacional de Educação Permanente em Saúde, com o objetivo de evidenciar a importância da formação de recursos humanos para a consolidação do Sistema Único de Saúde. A portaria reforçou o conceito de educação permanente como prática educativa",
+  "alternativas": [
+   "ancorada no trabalho e no conhecimento prévio dos trabalhadores, na problematização da realidade, na aprendizagem significativa e na transformação das práticas.",
+   "ancorada no conhecimento técnico-científico das Instituições formadoras, na aprendizagem significativa e na transformação das práticas.",
+   "continuada, ancorada no conhecimento técnico-científico das Instituições formadoras, na aprendizagem significativa e na transformação das práticas.",
+   "definida e voltada para a especificidade de cada grupo profissional do campo da saúde, ancorada no conhecimento técnico-científico das Instituições formadoras e na aprendizagem significativa.",
+   "permanente, ancorada no acúmulo de conhecimentos técnico-científicos pelos trabalhadores, com o objetivo de promover a transformação das práticas de saúde."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Política Nacional de Educação Permanente em Saúde (Portaria nº 1.996/2007)",
+  "comentario": {
+   "geral": "A Educação Permanente em Saúde (EPS) distingue-se da Educação Continuada por ser aprendizagem no e pelo trabalho: ancora-se no processo de trabalho cotidiano e no conhecimento prévio dos trabalhadores, utilizando a problematização da realidade e a aprendizagem significativa para transformar as práticas.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-026",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 26
+  },
+  "parte": "especificos",
+  "enunciado": "O cuidado em saúde é um somatório de decisões quanto ao uso de tecnologias, que tenta ser o mais adequado possível às necessidades de cada paciente. Merhy (1997) classifica as tecnologias envolvidas no trabalho em saúde como “tecnologias duras”, “leves-duras” e “leves”. Sobre as tecnologias leves-duras, assinale a afirmativa correta.",
+  "alternativas": [
+   "Tecnologias de relações do tipo produção de vínculo, autonomização, acolhimento e gestão.",
+   "Tecnologias referente ao uso de equipamentos tecnológicos, normas e estruturas organizacionais.",
+   "Tecnologias utilizadas pelos profissionais para definir a forma de cuidado melhor indicado para cada paciente.",
+   "Tecnologias que dizem respeito aos diferentes saberes bem estruturados que operam no processo de trabalho em saúde.",
+   "Tecnologias que dizem respeito aos saberes médico biológicos que operam no processo de trabalho em saúde."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Tecnologias do Trabalho em Saúde (Emerson Merhy)",
+  "comentario": {
+   "geral": "Em Merhy (1997): Tecnologias Leves = tecnologias de relações (vínculo, acolhimento, escuta - alternativa A); Tecnologias Leve-duras = saberes bem estruturados que operam no trabalho em saúde (clínica, epidemiologia, psicanálise, teorias psicológicas - alternativa D); Tecnologias Duras = equipamentos, máquinas e normas organizacionais (alternativa B).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-035",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 35
+  },
+  "parte": "especificos",
+  "enunciado": "As equipes multiprofissionais na Atenção Primária à Saúde (eMulti) são compostas por profissionais de saúde de diferentes áreas de conhecimento que atuam de maneira complementar e integrada com as equipes da Atenção Primária à Saúde – APS e da Rede de Atenção à Saúde - RAS. As opções a seguir apresentam ações desenvolvidas, prioritariamente, pela eMulti, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "O atendimento individual, em grupo e domiciliar.",
+   "A oferta de ações de saúde à distância.",
+   "O matriciamento e intervenções no território.",
+   "As atividades coletivas e a construção de projetos terapêuticos.",
+   "O desenvolvimento de práticas setoriais."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Equipes Multiprofissionais na APS (eMulti — Portaria GM/MS nº 635/2023)",
+  "comentario": {
+   "geral": "A Portaria GM/MS nº 635/2023 prevê como ações prioritárias da eMulti: atendimento individual, em grupo e domiciliar; atividades coletivas; apoio matricial; discussões de casos e construção de PTS; intervenções no território; ações de saúde à distância e práticas INTERSETORIAIS (e não práticas meramente 'setoriais' isoladas).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-050",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 50
+  },
+  "parte": "especificos",
+  "enunciado": "No Brasil, o cuidado com a população em situação de rua obteve importante conquista com a definição da Política Nacional para a População em Situação de Rua (PNPR), que levou ao surgimento do Consultório na Rua e do Centro POP. Sobre o Consultório na Rua (eCR), analise as afirmativas a seguir.\\nI. As eCR são multiprofissionais e lidam com os diferentes problemas e necessidades de saúde da população em situação de rua.\\nII. As eCR desempenharão suas atividades in loco, de forma itinerante, desenvolvendo ações compartilhadas e integradas às Unidades Básicas de Saúde (UBS).\\nIII. As atividades das eCR incluirão a busca ativa e o cuidado aos usuários de álcool, crack e outras drogas.\\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "População em Situação de Rua e Consultório na Rua (eCR)",
+  "comentario": {
+   "geral": "Todas as afirmativas (I, II e III) descrevem corretamente a atuação das equipes de Consultório na Rua (eCR) segundo a PNAB e a Portaria nº 122/2011: atuação multiprofissional, itinerante in loco, integrada às UBS e aos CAPS, incluindo busca ativa e redução de danos para álcool e outras drogas.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-052",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 52
+  },
+  "parte": "especificos",
+  "enunciado": "A Política Nacional de Atenção Integral à Saúde do Homem tem como objetivo orientar as ações e serviços de saúde para a população masculina, com integralidade e equidade, primando pela humanização da atenção. Sua implementação visa",
+  "alternativas": [
+   "à avaliação e ao tratamento de acordo com os agravos à saúde do homem.",
+   "à captação precoce, nas atividades de prevenção primária, das doenças cardiovasculares e do câncer, entre outros agravos recorrentes.",
+   "à oferta de tratamento na rede de urgência e emergência, a fim de não comprometer as atividades laborais.",
+   "à captação precoce de transtornos psiquiátricos e oferta de atendimento no campo da saúde mental.",
+   "à organização de serviços de saúde orientados exclusivamente para atendimento com foco na saúde do homem."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Política Nacional de Atenção Integral à Saúde do Homem (PNAISH)",
+  "comentario": {
+   "geral": "A PNAISH enfatiza a porta de entrada pela Atenção Primária (já que historicamente os homens ingressavam no sistema pela atenção especializada/urgência com quadros agravados), priorizando a captação precoce em prevenção primária de agravos recorrentes como doenças cardiovasculares e cânceres.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-014",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 14
+  },
+  "parte": "gerais",
+  "enunciado": "As opções a seguir apresentam princípios da chamada Bioética Principialista, à exceção de uma. Assinale-a.",
+  "alternativas": [
+   "Autonomia.",
+   "Integralidade.",
+   "Não-maleficiência.",
+   "Beneficência.",
+   "Justiça."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "etica-cfp"
+  ],
+  "subtema": "Bioética Principialista (Beauchamp e Childress)",
+  "comentario": {
+   "geral": "Os quatro princípios da Bioética Principialista de Beauchamp e Childress são: Autonomia, Beneficência, Não-maleficência e Justiça (confira também a questão 66 da mesma prova!). 'Integralidade' é um princípio doutrinário do SUS, e não da Bioética Principialista.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-030",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 30
+  },
+  "parte": "especificos",
+  "enunciado": "A Avaliação Psicológica é um processo estruturado composto de métodos, técnicas e instrumentos, com o objetivo de prover informações para a tomada de decisão no âmbito individual, grupal ou institucional, com base em demandas, condições e finalidade específicas. Segundo o Código de Ética Profissional, o psicólogo, ao definir um protocolo de avaliação utilizando testes, deverá garantir que os testes escolhidos",
+  "alternativas": [
+   "sejam reconhecidos cientificamente e estejam com parecer favorável no site do Sistema de Avaliação de Testes Psicológicos (SATEPSI), sob risco de incorrer em falta ética.",
+   "estejam dentro de sua perícia profissional e que permitam verificar de forma objetiva os requisitos da avaliação, sob risco de incorrer em falta ética.",
+   "sejam reconhecidos cientificamente e tenham histórico de ampla utilização no campo da Psicologia, sob risco de incorrer em falta ética.",
+   "sejam de uso privativo do psicólogo e reconhecidos cientificamente, sob risco de incorrer em falta ética.",
+   "estejam dentro da lista de testes amplamente comercializados, sob risco de incorrer em falta ética."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "etica-cfp"
+  ],
+  "subtema": "Avaliação Psicológica, SATEPSI e Responsabilidade Ética",
+  "comentario": {
+   "geral": "Segundo a Resolução CFP nº 09/2018 (e Resolução CFP nº 31/2022) e o Código de Ética Profissional, constitui falta ética a utilização de testes psicológicos que não possuam parecer favorável vigente no SATEPSI (salvo em casos estritos de pesquisa acadêmica amparada por protocolo).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-036",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 36
+  },
+  "parte": "especificos",
+  "enunciado": "Um psicólogo ao receber uma paciente para avaliação psicológica decide por elaborar um protocolo com a utilização de testes. Ao psicólogo, na produção, validação, tradução, normatização, comercialização e aplicação de testes psicológicos é vedado:\\nI. Realizar atividades que caracterizem preconceito, exploração, violência, crueldade ou opressão.\\nII. Induzir a convicções políticas, filosóficas, morais, ideológicas, religiosas, étnicas e de orientação sexual.\\nIII. Utilizar práticas psicológicas como instrumentos de castigo, tortura ou qualquer forma de violência.\\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "etica-cfp"
+  ],
+  "subtema": "Vedações Éticas na Produção e Aplicação de Testes Psicológicos",
+  "comentario": {
+   "geral": "Todas as três afirmativas (I, II e III) correspondem às vedações éticas expressas na Resolução CFP nº 09/2018 e no Art. 2º do Código de Ética Profissional do Psicólogo.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-044",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 44
+  },
+  "parte": "especificos",
+  "enunciado": "A atuação do psicólogo demanda uma atitude avaliativa que oriente sua atuação. A Resolução CFP nº 06/2019 instituiu as regras para a elaboração dos diferentes documentos produzidos pelo psicólogo. No parecer, o psicólogo deve redigir um documento com a finalidade de",
+  "alternativas": [
+   "apresentar uma análise técnica, que responda a uma questão-problema ou aos documentos psicológicos questionados.",
+   "registrar, de forma objetiva e sucinta, as informações sobre a prestação de serviço realizado ou em realização.",
+   "certificar, com fundamento em um diagnóstico sobre determinada situação, as condições psicológicas de quem, por requerimento, o solicita.",
+   "documentar, por meio de um texto circunstanciado, as condicionantes sociais da pessoa atendida, e gere recomendações e intervenções.",
+   "apresentar o resultado de um processo de avaliação, com a finalidade de subsidiar decisões relacionadas ao contexto em que surgiu a demanda."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "etica-cfp"
+  ],
+  "subtema": "Resolução CFP nº 06/2019 — Modalidades de Documentos (Parecer Psicológico)",
+  "comentario": {
+   "geral": "Pela Resolução CFP nº 06/2019: (A) Parecer Psicológico = pronunciamento técnico que responde a uma questão-problema ou analisa documentos psicológicos questionados; (B) Declaração; (C) Atestado Psicológico; (D) Relatório (psicológico/multiprofissional); (E) Laudo Psicológico.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-045",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 45
+  },
+  "parte": "especificos",
+  "enunciado": "A Psicologia ganhou importância no processo transexualizador, mediante as Resoluções 1.482 de 1997 e 1.955 de 2010, as quais dispõem que o psicólogo deve ser membro da equipe multidisciplinar necessária ao acompanhamento das pessoas transexuais que busquem os serviços de referência. Sobre o trabalho do psicólogo nessas equipes, analise as afirmativas a seguir.\\nI. O psicólogo deve pautar sua prática no respeito à diversidade subjetiva da pessoa que livremente opta pelo processo transexualizador, garantindo seu direito constitucional à saúde.\\nII. A assistência psicológica não deve se orientar por um modelo patologizado ou corretivo da transexualidade e deve possibilitar que o sujeito se certifique de sua demanda, englobando todo o seu contexto social.\\nIII. Na avaliação psicológica, os aspectos não correlatos à vivência trans e quaisquer características de desordens psíquicas devem ser consideradas com a finalidade de promoção da saúde do sujeito.\\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "II, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "etica-cfp"
+  ],
+  "subtema": "Atuação do Psicólogo no Processo Transexualizador e Despatologização",
+  "comentario": {
+   "geral": "De acordo com a Nota Técnica e a Resolução CFP nº 01/2018 sobre atuação com pessoas transexuais e travestis, todas as afirmativas (I, II e III) estão corretas: o psicólogo atua na promoção de saúde e autonomia, vedada qualquer postura patologizante ou terapia de reversão/conversão.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-060",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 60
+  },
+  "parte": "especificos",
+  "enunciado": "O Psicólogo trabalhará visando promover a saúde e a qualidade de vida das pessoas e das coletividades e contribuirá para a eliminação de quaisquer formas de negligência, discriminação, exploração, violência, crueldade e opressão. Para garantir o cumprimento desse princípio fundamental do Código de Ética Profissional, o psicólogo, ao promover publicamente seus serviços, poderá",
+  "alternativas": [
+   "usar o preço justo do seu serviço como forma de propaganda.",
+   "fazer referência aos títulos ou às qualificações profissionais que possua.",
+   "abordar questões psicológicas sensíveis para demonstrar a importância da sua atividade profissional.",
+   "garantir os resultados do tratamento, como forma de promover seus serviços.",
+   "autopromover seus serviços, demonstrando o diferencial em relação aos outros profissionais."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "etica-cfp"
+  ],
+  "subtema": "Código de Ética Profissional do Psicólogo — Publicidade Profissional (Art. 20)",
+  "comentario": {
+   "geral": "Segundo o Art. 20 do Código de Ética Profissional do Psicólogo (Resolução CFP nº 010/2005), ao promover publicamente seus serviços o psicólogo fará referência apenas a títulos ou qualificações profissionais que possua (alínea b), sendo expressamente vedado utilizar o preço como forma de propaganda, fazer previsão taxativa de resultados ou autopromoção em detrimento de outros profissionais.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-027",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 27
+  },
+  "parte": "especificos",
+  "enunciado": "O Sistema Único de Saúde (SUS), como sistema de saúde pública, contempla todo o povo brasileiro. A Psicologia chega tardiamente ao campo da Saúde Pública ainda buscando definir sua atuação e sua contribuição teórica e as formas de incorporação do biológico e do social ao psicológico. Com relação à entrada da Psicologia no campo da Saúde Pública, analise as afirmativas a seguir.\\nI. A Psicologia entra na Saúde Pública com a dupla função de elaborar formas mais eficientes de lidar com as questões básicas de saúde mental e construir um movimento político de resistência ao modelo neoliberal de gestão social.\\nII. A Psicologia é inicialmente colocada como pertencente ao segundo e terceiro setor da saúde e não ao primário, visto que se partia do pressuposto de que a Psicologia trataria a doença mental e não a sua prevenção.\\nIII. O trabalho do Psicólogo na Saúde Pública procura abandonar os enfoques centrados em um indivíduo abstrato e a-histórico, tão frequentes na Psicologia Clínica tradicional.\\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Inserção Histórica da Psicologia na Saúde Pública Brasileira",
+  "comentario": {
+   "geral": "Conforme a literatura clássica de Psicologia e Saúde Pública (Spink; Dimenstein; Boarini), todas as afirmativas (I, II e III) estão corretas: historicamente a inserção ocorreu nos níveis secundário/terciário sob modelo curativo, exigindo a superação do modelo clínico individualista e a-histórico.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-028",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 28
+  },
+  "parte": "especificos",
+  "enunciado": "O psicólogo, ao atuar na Saúde Pública, precisa assumir o compromisso com um novo paradigma assistencial, que, por vezes, é pouco abordado durante a sua graduação. Entre os conceitos que instrumentalizam o psicólogo para atuar especialmente no campo da saúde pública, e que o capacitam nos processos de intervenção e de produção de conhecimento estão",
+  "alternativas": [
+   "as necessidades sociais de saúde, a multideterminação das doenças e a prevenção e promoção de saúde.",
+   "as necessidades de saúde, a produção da doença psicossomática e a prevenção de doenças.",
+   "as necessidades sociais de saúde, a determinação psicológica das doenças e a prevenção e promoção de saúde.",
+   "as necessidades sociais de saúde, a multideterminação das doenças e a prevenção em saúde mental.",
+   "as necessidades de saúde, a produção da doença psicossomática e a prevenção em saúde mental."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Conceitos Estruturantes da Psicologia na Saúde Pública",
+  "comentario": {
+   "geral": "A atuação em Saúde Pública exige superar o determinismo puramente psicológico ou biológico, apoiando-se na tríade: necessidades sociais de saúde, multideterminação do processo saúde-doença e ações articuladas de prevenção e promoção da saúde.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-029",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 29
+  },
+  "parte": "especificos",
+  "enunciado": "Uma gestante é acompanhada em uma unidade básica. Sua gestação caminha bem, mas ela está profundamente ansiosa, pois não foi uma gravidez desejada, e sua família encontra-se em dificuldades financeiras. A equipe responsável pela paciente se reúne, discute seu caso, não apenas seu quadro clínico e o desenvolvimento fetal, mas como ajudá-la a reduzir sua ansiedade e a criar possibilidades de sua família ter uma renda melhor. Assinale a opção que indica o conceito norteador dessa prática de cuidado em saúde.",
+  "alternativas": [
+   "Integralidade.",
+   "Assistencialismo.",
+   "Intersetorialidade.",
+   "Interdisciplinaridade.",
+   "Multidisciplinaridade."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Princípio da Integralidade no Cuidado",
+  "comentario": {
+   "geral": "O olhar que articula o quadro clínico obstétrico às dimensões psíquicas (ansiedade) e socioeconômicas da gestante expressa diretamente o princípio da Integralidade do cuidado em saúde.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-039",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 39
+  },
+  "parte": "especificos",
+  "enunciado": "O Projeto Terapêutico Singular (PTS) é o direcionamento das ofertas de cuidado construído a partir da identificação das necessidades dos sujeitos e de suas famílias, em seus contextos reais de vida, englobando diferentes dimensões. O psicólogo que atua nos serviços de atendimento às pessoas com transtorno do espectro autista deverá, na elaboração do PTS, considerar",
+  "alternativas": [
+   "o processo de reabilitação psicossocial da pessoa com TEA e sua família, com vistas à adaptação social.",
+   "a necessidade de não revisão dos projetos terapêuticos singulares a fim de avaliar os efeitos longitudinais da intervenção.",
+   "a definição do protocolo a ser aplicado no serviço para responder às demandas da pessoa com TEA e sua família.",
+   "a vinculação da pessoa com TEA em serviços exclusivos para essa população.",
+   "os projetos de vida, o processo de reabilitação psicossocial com vistas à produção de autonomia e a garantia dos direitos da pessoa com TEA e sua família."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Projeto Terapêutico Singular (PTS) e Reabilitação Psicossocial no TEA",
+  "comentario": {
+   "geral": "Segundo a Linha de Cuidado para a Atenção às Pessoas com TEA no SUS, o PTS não visa mera 'adaptação social' normativa nem protocolos rígidos: ele considera os projetos de vida, a reabilitação psicossocial voltada à produção de autonomia e a garantia de direitos da pessoa e sua família.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-040",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 40
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre a Rede de Atenção Psicossocial (RAPS) analise as afirmativas a seguir.\\nI. É um conjunto de diferentes serviços disponíveis nas cidades e nas comunidades, que articulados formam uma rede.\\nII. É capaz de cuidar das pessoas com transtornos mentais e com problemas em decorrência do uso de drogas, bem como a seus familiares.\\nIII. É composta por serviços plurais, com diferentes graus de complexidade e que promovem assistência integral para diferentes demandas.\\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Rede de Atenção Psicossocial (RAPS) — Estrutura e Abrangência",
+  "comentario": {
+   "geral": "Todas as afirmativas (I, II e III) estão corretas e sintetizam a concepção da RAPS instituída pela Portaria nº 3.088/2011 (consolidada na Portaria de Consolidação nº 3/2017).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-061",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 61
+  },
+  "parte": "especificos",
+  "enunciado": "Catarina, 54 anos, passa a ser acompanhada pelo CAPS durante sua primeira crise. O CAPS descobriu que ela não tem suporte familiar, que o apartamento estava indo a leilão e que há três semanas ela havia perdido a guarda de seu filho mais novo. Catarina aceitou ser acompanhada pelo CAPS a partir de seu pedido de ajuda para retornar para sua casa, mas advertiu à equipe que 'nada pode mudar na minha rotina'. A partir da situação clínica apresentada e na perspectiva da clínica ampliada, assinale a opção que apresenta o elemento que você levaria em consideração para a construção do projeto terapêutico singular no CAPS.",
+  "alternativas": [
+   "Focar na medicação de Catarina para que ela possa se controlar e viver de forma adequada em seu prédio, na articulação intersetorial e na manutenção de sua rotina, como pedido por ela, sem intervenções adicionais, para evitar conflitos.",
+   "Priorizar a internação de longo prazo em um hospital psiquiátrico para Catarina, isolando-a dos vizinhos e dos problemas sociais.",
+   "Identificar a rede de apoio de Catarina, incluindo apoio psicossocial, mediação de conflitos com os vizinhos e articulação intersetorial, respeitando a necessidade de Catarina manter aspectos de sua rotina.",
+   "Encaminhar Catarina para um serviço de assistência social visando resolver as questões econômicas e habitacionais e deixando o CAPS responsável pela distribuição dos medicamentos.",
+   "Restringir as ações do CAPS ao acompanhamento domiciliar de Catarina, sem envolver outros serviços ou intervenções comunitárias."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Clínica Ampliada e PTS em Situação de Crise no CAPS",
+  "comentario": {
+   "geral": "Na perspectiva da clínica ampliada e da atenção psicossocial, o PTS no CAPS não se reduz à medicação nem terceiriza o cuidado social: envolve mapear a rede de apoio, mediar conflitos no território (vizinhos/síndica), articular a rede intersetorial (moradia, assistência, justiça) e negociar o cuidado respeitando a singularidade da usuária.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-063",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 63
+  },
+  "parte": "especificos",
+  "enunciado": "Na construção do Projeto Terapêutico Singular (PTS), podemos ressaltar quatro momentos importantes: definição de hipóteses diagnósticas; definição das metas; divisão de responsabilidades; avaliação e reavaliação. Considerando a construção de um Projeto Terapêutico Singular (PTS), assinale a afirmativa correta.",
+  "alternativas": [
+   "As ações devem ser desenvolvidas desconsiderando as necessidades e as possibilidades de cada usuário, de forma que ultrapassem a estrutura física dos serviços de saúde.",
+   "O objetivo é traçar a estratégia de intervenção, considerando as necessidades do usuário, os recursos disponíveis pela equipe e o território a que pertence sua família.",
+   "A articulação dos serviços com o oferecimento de suporte social aos pacientes não contribui para o restabelecimento de vínculos fragilizados ao longo do processo de adoecimento.",
+   "A equipe deve reproduzir uma experiência bem-sucedida de um outro usuário para padronizar o tratamento, objetivando garantir resultados consistentes em todos os pacientes.",
+   "O foco da construção deve ser o usuário em sua singularidade e esse processo deve contemplar a expectativa dos profissionais que atuam no caso sobre o que deve ou não ser tratado a partir do ponto de vista de cada um."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Construção do Projeto Terapêutico Singular (PTS) e Território",
+  "comentario": {
+   "geral": "O PTS é coproduzido entre equipe, usuário e família, articulando as necessidades singulares do sujeito, os recursos da equipe e as potencialidades do território onde o usuário e sua família vivem.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-079",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 79
+  },
+  "parte": "especificos",
+  "enunciado": "Matriciamento ou apoio matricial é um modo de produzir saúde em que duas ou mais equipes, em um processo de construção compartilhada, criam uma proposta de intervenção pedagógico-terapêutica. Assinale a opção que apresenta os instrumentos do processo de matriciamento.",
+  "alternativas": [
+   "Atendimento, visita domiciliar e intervenções conjuntas entre profissionais de saúde dentro de suas especialidades para garantir a área de saber em profundidade.",
+   "Protocolos unidisciplinares, atendimentos centralizados nos núcleos específicos de cada especialidade e interconsulta.",
+   "Interconsulta, encaminhamento entre especialistas e centros de regulação para agilizar o agendamento da consulta.",
+   "Atendimentos e intervenções conjuntas, visita domiciliar conjunta, escala de complexidade para qualificar os encaminhamentos entre os diferentes níveis de atenção.",
+   "Interconsulta, atendimentos e intervenções conjuntas, visita domiciliar conjunta e contato à distância com o uso do telefone e de outras tecnologias de comunicação."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Matriciamento / Apoio Matricial — Instrumentos",
+  "comentario": {
+   "geral": "Segundo o Guia Prático de Matriciamento em Saúde Mental (Chiaverini et al., MS, 2011), os instrumentos do processo de matriciamento incluem: elaboração conjunta do PTS, interconsulta, consulta conjunta, visita domiciliar conjunta, contato à distância (telefone/tecnologias de comunicação), genograma e ecomapa.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-080",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 80
+  },
+  "parte": "especificos",
+  "enunciado": "Carla, 35 anos, busca atendimento, pela primeira vez, em uma Unidade Básica de Saúde, com queixas de ansiedade e insônia recorrentes nos últimos dois meses após ter saído de seu emprego. O médico de família identifica a possibilidade de um quadro de ansiedade com características depressivas, no entanto, reconhece a necessidade de apoio para conduzir a situação. Considerando o caso clínico apresentado, assinale a opção que apresenta a conduta que se aplica à situação de Carla.",
+  "alternativas": [
+   "Realização do apoio matricial na busca da produção de saúde, em um processo de construção compartilhada.",
+   "Indicação de acolhimento noturno em centro de atenção psicossocial tipo III para monitoramento dos sintomas.",
+   "Encaminhamento imediato para um psicólogo especializado em transtornos de ansiedade.",
+   "Prescrição de medicamentos psicotrópicos para controlar os sintomas de ansiedade e depressão como ação primeira.",
+   "Orientação para que a paciente busque alternativas de lazer por não estar em sofrimento."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Saúde Mental na Atenção Básica e Apoio Matricial",
+  "comentario": {
+   "geral": "Quadros leves a moderados de sofrimento psíquico reativo na Atenção Primária não demandam encaminhamento automático para atenção especializada ou CAPS III, nem medicalização imediata: a conduta preconizada é o apoio matricial (construção compartilhada entre equipe de referência da UBS e matriciadores de saúde mental).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-081",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 81
+  },
+  "parte": "especificos",
+  "enunciado": "O trabalho em equipe é central na concepção dos novos serviços de saúde mental e implica disposição para dialogar e interagir constantemente com outros profissionais. Sobre o trabalho em equipe, assinale a afirmativa correta.",
+  "alternativas": [
+   "Uma equipe de cuidados se forma a partir da perspectiva de desconsiderar as especificidades de certas ações em nome de abolir a diversidade das formações profissionais.",
+   "Uma equipe de cuidados não pode se deixar aprisionar por saberes prévios e deixar capturar-se em um único saber, tornando-o homogêneo.",
+   "Uma equipe de cuidados deve se organizar a partir da hierarquia das profissões, numa distribuição mais verticalizada do poder de intervenção.",
+   "Uma equipe de cuidados se forma de modo automático, basta contratar diferentes profissionais e colocá-los em determinado serviço para que se tenha um trabalho em equipe.",
+   "Uma equipe de cuidados sustenta o projeto terapêutico de seus usuários a partir de um método pré-fabricado de trabalho e saberes definitivos."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Trabalho em Equipe Multiprofissional na Saúde Mental",
+  "comentario": {
+   "geral": "O trabalho interdisciplinar em saúde mental preserva os núcleos específicos de formação sem hierarquia verticalizada, mas exige que a equipe não se deixe capturar por um único saber hegemônico/homogêneo nem por receitas pré-fabricadas.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-083",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 83
+  },
+  "parte": "especificos",
+  "enunciado": "Fátima, 45 anos, chega ao ambulatório de saúde mental encaminhada por seu médico de família, que solicita tratamento psiquiátrico devido a um quadro de depressão. Fátima relata que tem cinco filhos, incluindo um bebê, não tem conseguido dormir desde o falecimento de seu esposo há três meses e enfrenta sérias dificuldades financeiras para alimentar as crianças. Assinale a alternativa que apresenta a definição do fenômeno da medicalização.",
+  "alternativas": [
+   "A transformação da natureza de um fenômeno, que traz a necessidade coletiva da prescrição de medicamentos como forma de aliviar o sofrimento diante da crise econômica, social e cultural que enfrentamos.",
+   "A transformação da natureza de um fenômeno, que deixa de ser considerado uma questão de mesmo sofrimento psíquico para uma sociedade, para se tornar algo predominantemente da ordem do econômico, social ou cultural.",
+   "A transformação da natureza de um fenômeno, a depressão, por exemplo, que traz a necessidade de aumentar os diagnósticos e prescrições, de forma ampliada, como solução eficaz, visto que a depressão é um aspecto importante socialmente.",
+   "A transformação da natureza de um fenômeno, que deixa de ser predominantemente econômico, social ou cultural para se tornar algo reduzido à ordem do biológico, do orgânico, acarretando intervenção isolada.",
+   "A transformação da natureza de um fenômeno, que deixa de ser biológico e contextual do sofrimento psíquico, para se tornar algo multifatorial que inclui o econômico, o social e o cultural."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Medicalização do Sofrimento Psíquico e Determinantes Sociais",
+  "comentario": {
+   "geral": "A medicalização da vida consiste em converter questões de ordem social, política, econômica, cultural e subjetiva (como o luto recente somado à fome e desamparo material) em problemas estritamente biológicos/orgânicos individuais, gerando intervenções médicas isoladas.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-093",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 93
+  },
+  "parte": "especificos",
+  "enunciado": "Considerando o que está estabelecido acerca da Rede de Atenção Psicossocial (RAPS), assinale a afirmativa correta.",
+  "alternativas": [
+   "O acolhimento na Unidade de Acolhimento será definido pela equipe que acompanha o usuário na Atenção Básica ou pela equipe do Centro de Atenção Psicossocial de referência, que será responsável pela elaboração do projeto terapêutico singular do usuário.",
+   "A Equipe de Consultório na Rua é constituída por profissionais que atuam em ponto de atenção fixado, ofertando ações e cuidados de saúde para a população em situação de rua na unidade de saúde determinada, considerando suas diferentes necessidades de saúde.",
+   "Erradicar o consumo de crack, álcool e outras drogas e, dessa forma, ampliar o acesso à atenção psicossocial da população em geral, regulando e organizando as demandas e os fluxos, se constitui como um dos objetivos específicos da RAPS.",
+   "O Centro de Atenção Psicossocial é constituído por equipe uniprofissional que atua sob a ótica unidisciplinar e realiza atendimento às pessoas com transtornos mentais simples e persistentes.",
+   "Garantir a articulação e a integração dos pontos de atenção das redes de saúde no território, qualificando o cuidado por meio do acolhimento, do acompanhamento contínuo e da atenção às urgências, se constitui como um dos objetivos gerais da RAPS."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Objetivos Gerais e Funcionamento da RAPS (Portaria nº 3.088/2011)",
+  "comentario": {
+   "geral": "Nos termos do Art. 3º, IV da Portaria nº 3.088/2011 (Portaria de Consolidação nº 3/2017), 'garantir a articulação e integração dos pontos de atenção das redes de saúde no território, qualificando o cuidado por meio do acolhimento, do acompanhamento contínuo e da atenção às urgências' é um objetivo geral da RAPS. Na alternativa A, o acesso à Unidade de Acolhimento é definido exclusivamente pela equipe do CAPS de referência.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-094",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 94
+  },
+  "parte": "especificos",
+  "enunciado": "Os Centros de Convivência são unidades públicas, articuladas às Redes de Atenção à Saúde, em especial à Rede de Atenção Psicossocial. Neles são oferecidos espaços de sociabilidade, de produção e de intervenção na cultura e na cidade, à população em geral. Sobre os Centros de Convivência, assinale a afirmativa correta.",
+  "alternativas": [
+   "São pontos de atenção do componente estratégias de desinstitucionalização da rede de atenção psicossocial substitutiva, onde são oferecidos às pessoas com transtornos mentais espaços de sociabilidade, de produção e intervenção na cidade.",
+   "São estratégicos para a inclusão social das pessoas com transtornos mentais e pessoas que fazem uso de crack, álcool e outras drogas, por meio da construção de espaços de convívio e sustentação das diferenças na comunidade e em variados espaços da cidade.",
+   "São serviços de saúde constituídos por equipe multiprofissional responsável por um conjunto de ações de saúde, de âmbito individual e coletivo, que abrange a promoção e a proteção da saúde, a prevenção de agravos, o diagnóstico, o tratamento medicamentoso e a reabilitação.",
+   "São espaços de articulação com a vida, em que as pessoas com transtornos mentais decorrentes do uso de álcool e outras drogas, por suas vulnerabilidades, em tratamento na rede substitutiva, terão restrição de acolhimento a depender da intensidade do seu uso.",
+   "São considerados equipamentos assistenciais que se organizam para oferecer atendimento diferenciado na atenção psicossocial, incluindo a dispensação de medicação e o atendimento individual ou em grupo, seja psiquiátrico ou psicoterápico."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Centros de Convivência e Cultura na RAPS",
+  "comentario": {
+   "geral": "Na RAPS, os Centros de Convivência pertencem ao componente da Atenção Básica em Saúde (e não ao componente de desinstitucionalização, que inclui SRT e PVC) e não realizam tratamento médico, psicoterápico ou dispensação de medicamentos: são espaços estratégicos de inclusão social, sociabilidade e sustentação das diferenças na cidade.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-095",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 95
+  },
+  "parte": "especificos",
+  "enunciado": "A Reforma Psiquiátrica é considerada um processo histórico de formulação crítica e prática que tem como objetivos e estratégias o questionamento e a elaboração de propostas de transformação do modelo clássico e do paradigma da psiquiatria, ao propor um novo lugar social para a loucura e uma clínica ampliada. Em relação à clínica ampliada, assinale a afirmativa correta.",
+  "alternativas": [
+   "Empenha-se em propor atenção na melhoria dos sintomas, transformando os usuários em objetos de intervenções, já que eles não possuem conhecimentos técnicos para pensar o cuidado.",
+   "Empenha-se em propor atenção a partir das questões de vida do sujeito, com a intenção de enfatizar uma abordagem sintomatológica da doença, em contraposição às práticas homogeneizantes.",
+   "Empenha-se em propor atenção na perspectiva da produção de saúde, buscando o isolamento social para uma resposta mais efetiva do cuidado em ambiente hospitalar ou ambulatorial especializado.",
+   "Empenha-se em propor atenção e conduta singularizadas, com o objetivo de resgatar a subjetividade do usuário, considerando sua autonomia e o contexto social em que ele está inserido.",
+   "Empenha-se em propor atenção e estratégias de inclusão social dos sujeitos, buscando o seu foco na iniciativa organizativa do novo modelo assistencial na perspectiva da atenção psicossocial."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Reforma Psiquiátrica e Clínica Ampliada",
+  "comentario": {
+   "geral": "A Clínica Ampliada desloca o foco da doença/sintoma para o sujeito concreto em sua existência-sofrimento, propondo atenção e condutas singularizadas que resgatam a subjetividade, a autonomia e a inserção sociocultural do usuário.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-096",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 96
+  },
+  "parte": "especificos",
+  "enunciado": "Rafael, 19 anos, após rompimento com a namorada, passou a ficar a maior parte do tempo dentro de um quartinho. No CAPS, fala que seu trabalho é 'confidencial' e, após o oferecimento do almoço, recusou-se a comer afirmando que só come alimentos na cor vermelha pois ajudam a 'purificar seu sangue', ficando nervoso. Diante dessa situação, sobre o acolhimento no CAPS, assinale a afirmativa correta.",
+  "alternativas": [
+   "O CAPS, após avaliar a situação, deve encaminhá-lo diretamente a um hospital de emergência, onde há profissionais mais capacitados para lidar com essas situações.",
+   "O CAPS, devido à convivência com o usuário que costuma ter frequência diária na instituição, deve orientá-lo para o técnico de referência, em função do vínculo existente entre eles, e, na ausência deste, o paciente deve aguardar para ser acolhido quando o técnico estiver presente.",
+   "A responsabilidade de lidar com as situações de crise reforça a responsabilidade do CAPS em dar suporte à crise, buscando sua significação temporal e singular para o sujeito.",
+   "Apesar de sua responsabilidade territorial, os CAPS não são serviços de emergência e, portanto, não devem atender situações de crise.",
+   "O acolhimento da crise deve ser reduzido ao que podemos chamar de agudização da sintomatologia psiquiátrica em que o sujeito não está em sofrimento."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Acolhimento à Crise no CAPS",
+  "comentario": {
+   "geral": "O acolhimento à crise é atribuição central e indelegável do CAPS no território (não devendo o usuário aguardar ausência de técnico nem ser sumariamente despachado ao hospital), buscando escutar a significação singular e temporal da crise na história do sujeito.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-097",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 97
+  },
+  "parte": "especificos",
+  "enunciado": "João, 20 anos, permanecia enclausurado em sua própria casa. Foi proposto a João e à sua família um trabalho de acompanhamento terapêutico (AT), pelo qual se desenvolveria uma exploração acompanhada do entorno de sua casa, apostando em uma ampliação do território existencial de João e em um processo de desterritorialização de seu entorno. A partir desse fragmento, assinale a opção que articula a clínica ao território.",
+  "alternativas": [
+   "Essa clínica exige delicadeza e atenção, pois há sempre o risco de que, ao convidar os sujeitos e sua loucura para participar das trocas sociais no território da cidade, estejamos, inadvertidamente, forçando-os a se adaptar ao modo de vida hegemônico.",
+   "Essa clínica exige delicadeza e atenção, pois busca excluir os loucos e sua loucura das trocas sociais no território da cidade, sem qualquer consideração ou adaptação ao modo de vida hegemônico.",
+   "Essa clínica exige delicadeza e atenção, pois se sustenta na noção de esquadrinhamento da sociedade, que delimita áreas de abrangência e se orienta pelo frio mapa de uma cidade.",
+   "Essa clínica exige delicadeza e atenção, porque instala o olho vigilante do poder disciplinar que se ramifica e adere às rotinas cotidianas, transmutando-as ao sabor das conveniências do mercado.",
+   "Essa clínica exige delicadeza e atenção, pois, ao problematizar o olhar sobre o território, para pensar quais os modos de vida que estão sendo produzidos e que clínica é possível aí realizar, leva os pacientes a adaptarem-se ao modo de vida hegemônico."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Acompanhamento Terapêutico (AT), Clínica e Território",
+  "comentario": {
+   "geral": "Na clínica territorial e no Acompanhamento Terapêutico (Palombini; Lancetti), a circulação pela cidade exige cuidado ético-político constante para não operar como ortopedia moral ou adaptação forçada do sujeito psicótico ao modo de vida hegemônico, mas sim tensionar o próprio território para acolher a diferença.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-099",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 99
+  },
+  "parte": "especificos",
+  "enunciado": "O delírio, em uma clínica que aposta na subjetividade, é uma ferramenta de acesso ao sujeito e de abordagem da experiência na psicose. 'O delírio preenche o meu vazio existencial', disse Anita. Diante do enunciado, acerca da experiência do delírio, assinale a afirmativa correta.",
+  "alternativas": [
+   "Devemos lidar com a experiência delirante a partir de uma perspectiva normativa, segundo as regras gerais que regem a instituição e que são para todos.",
+   "O trabalho feito com o delírio na clínica dos serviços territoriais se dá a partir de uma abordagem de fora da pessoa, que enfatiza aspectos funcionais do tratamento, visto que não partimos da trama delirante em si.",
+   "O delírio é um só, ou seja, é uma alteração do juízo da realidade, como sugerem os manuais diagnósticos.",
+   "O delírio, tão diverso em sua dimensão experiencial, é um fenômeno definido como sintoma que subtrai o sujeito do mundo compartilhado, impedindo o acesso da equipe de referência ao cuidado.",
+   "A diversidade que marca a experiência delirante está na dependência de fatores complexos que exigem consideração, principalmente se o fizermos indicador do modo do sujeito constituir a si e sua relação com o mundo."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Abordagem do Delírio na Clínica dos Serviços Territoriais",
+  "comentario": {
+   "geral": "Inspirada na concepção psicanalítica (em que o delírio é uma tentativa de cura/reconstrução do laço com a realidade) e na clínica psicossocial, a experiência delirante é tomada como indicador singular do modo de o sujeito constituir a si mesmo e sua relação com o mundo.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-100",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 100
+  },
+  "parte": "especificos",
+  "enunciado": "Acerca das orientações para a clínica infantil e juvenil no contexto da reforma psiquiátrica e do Sistema Único de Saúde (SUS), assinale a afirmativa correta.",
+  "alternativas": [
+   "Todo o cuidado dedicado às crianças e aos adolescentes está submetido à adaptação implacável a um padrão predefinido de normalidade.",
+   "A escuta da criança é priorizada ao longo do acompanhamento em detrimento da escuta de seus familiares ou responsáveis, no intuito de preservar a confiança na relação terapêutica.",
+   "A elaboração de uma hipótese diagnóstica não deve tomar o lugar do respeito à singularidade, que deve ser sempre articulado ao diagnóstico situacional.",
+   "Os conflitos quanto às questões de gênero, trabalho, educação e família devem ser desconsiderados, se quisermos falar da saúde mental na adolescência.",
+   "A intervenção tecnicista se faz necessária em crianças pequenas, pois trata-se de um objeto a ser moldado para o futuro."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Saúde Mental Infantojuvenil no SUS e Diagnóstico Situacional",
+  "comentario": {
+   "geral": "Segundo os cadernos do Ministério da Saúde ('Caminhos para uma Política de Saúde Mental Infantojuvenil'), a criança/adolescente é sujeito de direitos e de desejo: a hipótese diagnóstica nunca deve substituir a singularidade e precisa ser articulada ao diagnóstico situacional (laços familiares, escola, território).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-025",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 25
+  },
+  "parte": "especificos",
+  "enunciado": "Um jovem profissional iniciou a enriquecedora experiência da residência em saúde e, no segundo ano da formação, começou a apresentar exaustão emocional, despersonalização, baixa realização pessoal e perda da satisfação e eficiência no atendimento aos pacientes. Essa sintomatologia é compatível com o quadro de",
+  "alternativas": [
+   "depressão.",
+   "fadiga Industrial.",
+   "síndrome de Burnout.",
+   "insatisfação profissional.",
+   "transtorno de ansiedade."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Saúde do Trabalhador e Síndrome de Burnout na Residência",
+  "comentario": {
+   "geral": "A tríade clássica de Maslach & Jackson para a Síndrome de Burnout (Esgotamento Profissional) é composta exatamente por: 1) Exaustão emocional; 2) Despersonalização (distanciamento afetivo/cinismo); e 3) Baixa realização profissional.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-033",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 33
+  },
+  "parte": "especificos",
+  "enunciado": "Um paradigma a ser ultrapassado na clínica psicossocial, na área de álcool/drogas, é o da criminalização das pessoas que usam drogas. No campo das intervenções psicossociais, o psicólogo deverá atuar com o objetivo de",
+  "alternativas": [
+   "vincular as pessoas que usam drogas ao atendimento médico-psiquiátrico.",
+   "aumentar o tempo de abstinência das pessoas que usam drogas.",
+   "inserir as pessoas que usam drogas em algum programa de redução de danos.",
+   "vincular as pessoas que usam drogas a alguma psicoterapia individual ou grupal.",
+   "ampliar o pertencimento social e o direito social das pessoas que usam drogas."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Clínica Psicossocial em Álcool e Outras Drogas — Direitos e Pertencimento",
+  "comentario": {
+   "geral": "Conforme as Referências Técnicas para Atuação de Psicólogas(os) em Políticas Públicas de Álcool e Outras Drogas (CFP/CREPOP), a superação do paradigma proibicionista/criminalizador exige atuar para ampliar o pertencimento social, a cidadania e o acesso aos direitos sociais dos usuários.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-038",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 38
+  },
+  "parte": "especificos",
+  "enunciado": "As consequências psicológicas de um desastre são inevitáveis, pois este se configura como uma fonte acelerada de estresse, de ameaça à vida e fonte de destruição. Na fase de prevenção, o psicólogo deve atuar",
+  "alternativas": [
+   "na elaboração de políticas públicas junto com os outros profissionais que atuam na área da Defesa Civil.",
+   "na estruturação da ajuda humanitária, no retorno o mais breve possível à normalidade e no resgate moral da população atendida.",
+   "nos sinistros, direta ou indiretamente, ajudando a trabalhar as consequências do desastre sobre a vida das vítimas, da comunidade e dos profissionais.",
+   "na elaboração de ações públicas, em uma equipe de profissionais de diferentes áreas, agindo como intermediário junto aos órgãos competentes.",
+   "como colaborador na elaboração de projetos pedagógicos sobre práticas preventivas, percepção dos riscos e educação ambiental."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Psicologia das Emergências e Desastres — Fase de Prevenção",
+  "comentario": {
+   "geral": "Na gestão integral de riscos e desastres (PNPDEC), a atuação na fase de PREVENÇÃO (antes do sinistro) envolve colaborar em projetos pedagógicos comunitários voltados a práticas preventivas, percepção de riscos e educação ambiental; já as alternativas B e C referem-se às fases de resposta e reconstrução.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-043",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 43
+  },
+  "parte": "especificos",
+  "enunciado": "As estratégias de Redução de Danos (RD) visam minimizar riscos e danos associados ao uso de drogas, ainda que os usuários não pretendam ou não consigam interromper o consumo, em um dado marco temporal. Assinale a opção que apresenta estratégias de redução de danos que podem ser utilizadas pelo psicólogo na abordagem relacionada ao uso de álcool e outras drogas.",
+  "alternativas": [
+   "Garantir o acesso aos serviços da rede de saúde e a continuidade de oferta de cuidados integrais; investir na construção de vínculos; dar informações claras e corretas sobre os efeitos das substâncias usadas.",
+   "Garantir a continuidade de oferta de cuidados integrais; desestimular a construção de vínculos afetivos; propor intervenções clínicas com base na Terapia Cognitivo Comportamental.",
+   "Garantir o acesso aos serviços coletivos da rede de saúde e aos cuidados adequados; estimular a construção de vínculos individualizados; propor uma intervenção clínica com base na Teoria Psicanalítica.",
+   "Garantir a continuidade de oferta de cuidados integrais; investir na construção de vínculos coletivos; propor um projeto terapêutico para a cessação do uso de álcool e outras drogas.",
+   "Garantir o acesso aos serviços da rede de saúde e a continuidade de oferta de cuidados integrais; construir vínculos personalizados; propor um projeto terapêutico com base em avaliações psicopatológicas."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Estratégias de Redução de Danos (RD) na Prática do Psicólogo",
+  "comentario": {
+   "geral": "A Redução de Danos apoia-se na baixa exigência, na garantia de acesso e continuidade do cuidado integral na rede, no investimento no vínculo com o usuário e na oferta de informações claras e cientificamente corretas sobre os efeitos e riscos das substâncias.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-048",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 48
+  },
+  "parte": "especificos",
+  "enunciado": "João, 9 anos, foi levado pela avó à unidade básica de saúde por choro intenso, insônia e recusa em ficar em casa com os pais. Em atendimento com o psicólogo, a criança relata que seus pais brigam muito e que muitas vezes tem medo de que algo ruim aconteça com sua mãe. O contexto ao qual João está exposto é característico de violência",
+  "alternativas": [
+   "autoprovocada.",
+   "coletiva social.",
+   "interpessoal intrafamiliar.",
+   "interpessoal comunitária conhecido.",
+   "interpessoal comunitária estranho."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Tipologia da Violência — Violência Interpessoal Intrafamiliar",
+  "comentario": {
+   "geral": "Segundo a classificação da OMS e do Ministério da Saúde (VIVA/SINAN), a exposição da criança à violência doméstica/conjugal entre os pais configura violência interpessoal intrafamiliar (psicológica/testemunho de violência doméstica).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-049",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 49
+  },
+  "parte": "especificos",
+  "enunciado": "A notificação de casos de violência cabe aos serviços de saúde e todos os profissionais devem avaliar qual o melhor momento de registro na ficha de notificação, bem como o encaminhamento ao Conselho Tutelar. Caso a família não queira ou não aceite a notificação, o profissional deverá",
+  "alternativas": [
+   "conseguir a autorização para a notificação por meio de outro familiar.",
+   "abordá-la com a finalidade de que autorizem a notificação.",
+   "informá-la que, caso a situação de violência se mantenha, irá notificar o caso aos órgãos competentes.",
+   "não apresentar a notificação de modo a não cometer falha ética, com base no Código de Ética Profissional.",
+   "informá-la que irá notificar o caso aos órgãos competentes, amparado pelo Estatuto da Criança e do Adolescente."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Notificação Compulsória de Violência contra Criança e Adolescente (ECA)",
+  "comentario": {
+   "geral": "Nos termos do Art. 13 e Art. 245 do Estatuto da Criança e do Adolescente (ECA - Lei nº 8.069/1990), a notificação de casos suspeitos ou confirmados de violência contra criança ou adolescente é compulsória para os profissionais de saúde e independe de autorização familiar, devendo a família ser informada de forma transparente e ética.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-053",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 53
+  },
+  "parte": "especificos",
+  "enunciado": "O serviço de saúde do trabalhador de uma Unidade da Rede SUS realiza ação de vigilância em relação aos acidentes com perfurocortantes ocorridos mensalmente no hospital. O psicólogo observou em uma ação interdisciplinar que o setor de pediatria vem apresentando várias notificações de acidente no grupo de técnicos de enfermagem. Assinale a opção que indica o procedimento correto a ser seguido pelo psicólogo.",
+  "alternativas": [
+   "Utilizar os recursos e instrumentos tecnicamente disponíveis para a investigação e o estudo dos riscos do ambiente da pediatria e as condições de trabalho dos técnicos de enfermagem.",
+   "Realizar reunião com a chefia do setor de pediatria e trabalhador para definir um programa de educação continuada sobre prevenção de acidentes de trabalho na equipe de enfermagem.",
+   "Considerar o relato das chefias do setor de pediatria que serão capazes de descrever os comportamentos inseguros dos técnicos de enfermagem e assim explicar o aumento do número de acidentes no setor de pediatria.",
+   "Considerar os relatos dos técnicos de enfermagem, tanto individuais quanto coletivos, que sabem descrever as reais condições e imprevistos que ocorrem no cotidiano de trabalho e são capazes de explicar o aumento do número de acidentes no setor de pediatria.",
+   "Realizar anamnese ocupacional com os técnicos de enfermagem acidentados com o objetivo de relacionar a ocorrência do acidente com algum transtorno mental."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Saúde do Trabalhador e Clínica da Atividade / Ergonomia (Saber Operário)",
+  "comentario": {
+   "geral": "Na Saúde do Trabalhador (Modelo Operário Italiano, Ergonomia da Atividade e Psicodinâmica do Trabalho), rejeita-se a culpabilização individual ('ato inseguro') e valoriza-se o saber prático dos próprios trabalhadores sobre o trabalho real (distinto do trabalho prescrito) por meio de relatos individuais e coletivos.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-077",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 77
+  },
+  "parte": "especificos",
+  "enunciado": "A respeito do trabalho do Psicólogo junto à população afetada por emergências e desastres, assinale a afirmativa correta.",
+  "alternativas": [
+   "Deve-se realizar intervenções na intenção de fazer o indivíduo discorrer sobre o evento ocorrido com a técnica do debriefing psicológico.",
+   "É aconselhável que o psicólogo dê garantias da melhoria do cenário crítico a fim de que a estabilidade emocional e a positividade sejam mantidas.",
+   "É recomendado o respeito ao silêncio dando espaço para que as pessoas, espontaneamente, e quando preparadas falem sobre a situação, compartilhando-a ou não com familiares e vizinhos.",
+   "As ações de redução de desastres abrangem prevenção, preparação, resposta e reconstrução; entretanto ao psicólogo cabe atuar só na fase da resposta, ou seja, nos impactos na saúde mental.",
+   "Seu trabalho é intensificado já que no cenário pós-desastre há o aumento na incidência de transtornos psicóticos e de ansiedade pós-traumática, e não a agudização de transtornos já existentes."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Primeiros Cuidados Psicológicos em Emergências e Desastres",
+  "comentario": {
+   "geral": "Nos Primeiros Cuidados Psicológicos (OMS/CFP), o 'debriefing psicológico' forçado é contraindicado (pode retraumatizar), assim como falsas promessas. Recomenda-se respeitar o silêncio e o tempo subjetivo de cada pessoa para falar espontaneamente quando se sentir segura.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-082",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 82
+  },
+  "parte": "especificos",
+  "enunciado": "A Redução de Danos é uma estratégia de saúde pública que busca controlar possíveis consequências adversas ao consumo de psicoativos – lícitos ou ilícitos, buscando a inclusão social e cidadania para usuários de drogas. Assinale a opção que expressa a lógica de redução de danos.",
+  "alternativas": [
+   "Remete a políticas proibicionistas e redução da oferta, na ideia moral do prazer associado ao pecado.",
+   "Consiste em criminalizar o uso de psicoativos, visando desestimular o consumo e proteger a saúde pública.",
+   "A meta aceitável é a abstinência total, inclusive como condição para o tratamento, pois o indivíduo precisa aceitar que tem uma doença incurável.",
+   "Tem como princípio a dependência de drogas como uma doença biológica que merece tratamento e reabilitação.",
+   "Tem como princípio o respeito à autonomia dos sujeitos na perspectiva de um cuidado ampliado de saúde, que se contrapõe às práticas de recolhimento dos usuários em abrigos ou para a internação compulsória."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Princípios Ético-Políticos da Redução de Danos",
+  "comentario": {
+   "geral": "A lógica da Redução de Danos fundamenta-se no respeito aos direitos humanos e à autonomia dos sujeitos na perspectiva do cuidado em liberdade e ampliado em saúde, opondo-se ao proibicionismo moral, à exigência de abstinência como pré-requisito e às internações compulsórias.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-041",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 41
+  },
+  "parte": "especificos",
+  "enunciado": "A especialidade da psicologia que considera que o ser humano diante da doença manifesta subjetividades e o seu estilo de adoecer e que disponibiliza para doentes, familiares e equipe de saúde o saber psicológico, a fim de resgatar a singularidade do paciente, suas emoções, crenças e valores, é denominada",
+  "alternativas": [
+   "Psicologia da Saúde.",
+   "Psicologia Médica.",
+   "Psicologia Hospitalar.",
+   "Medicina Psicossomática.",
+   "Medicina Comportamental."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "hospitalar"
+  ],
+  "subtema": "Conceito e Especificidade da Psicologia Hospitalar (Simonetti / Angerami-Camon)",
+  "comentario": {
+   "geral": "A definição apresentada refere-se especificamente à Psicologia Hospitalar, cujo objeto é a subjetividade em torno do adoecimento e da hospitalização na tríade paciente-família-equipe de saúde.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-042",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 42
+  },
+  "parte": "especificos",
+  "enunciado": "A avaliação psicológica para cirurgia bariátrica tem caráter compulsório por se tratar de um procedimento invasivo, que resulta em grande impacto na vida da pessoa, da sua família, parceiros e grupos aos quais pertence. É importante que, no contexto de tratamento da obesidade e na indicação de cirurgia bariátrica, o psicólogo",
+  "alternativas": [
+   "avalie as psicopatologias e realize uma análise holística, considerando os aspectos biopsicossociais, os recursos internos e o suporte familiar do paciente para realizar o procedimento.",
+   "avalie as psicopatologias e inicie psicoterapia focal com a finalidade de preparar o paciente para se submeter ao procedimento e lidar com suas consequências.",
+   "use os testes psicológicos padronizados para avaliar o paciente com indicação de procedimento cirúrgico para tratamento da obesidade, a fim de emitir laudo psicológico para a equipe médica.",
+   "use os testes psicológicos padronizados para avaliar comorbidades psicopatológicas que contraindiquem a realização de procedimento cirúrgico para tratamento da obesidade.",
+   "avalie as psicopatologias e desenvolva uma abordagem psicanalítica, de modo a permitir ao paciente elaborar os traumas relacionados ao ganho de peso, antes de emitir laudo psicológico para a equipe médica."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "hospitalar"
+  ],
+  "subtema": "Avaliação Psicológica e Acompanhamento em Cirurgia Bariátrica",
+  "comentario": {
+   "geral": "Na avaliação pré e pós-bariátrica, o psicólogo não se restringe à aplicação mecânica de testes nem a uma abordagem teórica única: realiza uma avaliação compreensiva/biopsicossocial que investiga psicopatologias, compreensão do procedimento, recursos internos de enfrentamento e rede de suporte familiar/social.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-064",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 64
+  },
+  "parte": "especificos",
+  "enunciado": "Um dos pilares nos cuidados prestados a qualquer indivíduo que apresente uma doença ameaçadora da vida envolve uma comunicação efetiva entre o paciente, seus familiares ou rede de apoio, e os profissionais de saúde. Entre os instrumentos utilizados encontra-se a reunião familiar. Sobre a reunião familiar, assinale a afirmativa correta.",
+  "alternativas": [
+   "É um procedimento interdisciplinar, que envolve apenas médicos e enfermeiros, e que auxilia a alcançar um cuidado mais humano e verdadeiro.",
+   "Visa expor quais são os valores e as preferências dos profissionais para transmitir aos familiares o que é consenso entre eles, e definir estratégias de cuidados atuais e futuros.",
+   "Deve acontecer em um momento tardio da admissão hospitalar, no momento em que é preciso tomar decisões em situações críticas.",
+   "É recomendado que sejam incluídos nela os aspectos médicos, psicossociais, a perspectiva do paciente sobre sua doença e cuidados, mas excluindo os aspectos espirituais envolvidos, a fim de evitar controvérsias.",
+   "As questões mais difíceis, com frequência, não são abordadas por dificuldade da própria equipe, já que a maioria dos profissionais de saúde, em sua formação, tem pouco preparo para comunicação."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "hospitalar"
+  ],
+  "subtema": "Comunicação de Más Notícias e Reunião Familiar em Cuidados Paliativos",
+  "comentario": {
+   "geral": "A reunião familiar envolve toda a equipe multiprofissional (incluindo psicólogo e assistente social), deve ser precoce, escutar os valores do paciente/família e incluir a dimensão espiritual. A literatura aponta que temas difíceis frequentemente deixam de ser abordados pelo déficit de treinamento em comunicação na formação em saúde.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-076",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 76
+  },
+  "parte": "especificos",
+  "enunciado": "Leia o fragmento: 'O presente documento traduz desde já o meu desejo consciente, livre e esclarecido, no que concerne aos cuidados de saúde que pretendo receber, ou que não pretendo receber, no caso de, por qualquer razão, me encontrar incapaz de expressar a minha vontade pessoal e autonomamente.' Utilizado pelo paciente em conjunto com a equipe multidisciplinar, em cuidados paliativos, dá-se a este documento o nome de",
+  "alternativas": [
+   "testamento familiar.",
+   "consentimento assistido.",
+   "orientações post-mortem.",
+   "diretivas antecipadas de vontade.",
+   "Lei de diretrizes e base em saúde."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "hospitalar"
+  ],
+  "subtema": "Diretivas Antecipadas de Vontade (DAV) em Cuidados Paliativos",
+  "comentario": {
+   "geral": "As Diretivas Antecipadas de Vontade (DAV / Testamento Vital, regulamentadas no Brasil pela Resolução CFM nº 1.995/2012) constituem o registro prévio dos desejos do paciente sobre os cuidados e tratamentos que deseja ou não receber caso se torne incapaz de se expressar.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-084",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 84
+  },
+  "parte": "especificos",
+  "enunciado": "Maria, ao receber a notícia de que tem câncer, de imediato, a associou à iminência de morte. Em razão disso, ela pensou em passar a guarda de sua filha para a irmã. Profundamente angustiada, Maria não conseguiu iniciar sua quimioterapia e isso acarretou uma urgência subjetiva. Sobre a ocorrência de urgências subjetivas no contexto hospitalar, assinale a afirmativa correta.",
+  "alternativas": [
+   "A urgência de Maria é um curto-circuito entre o instante de ver e o momento de compreender.",
+   "O trabalho do psicanalista será o de acolher a impotência de Maria no momento, visto não ter outros recursos para o cuidado da filha.",
+   "O psicanalista deve sustentar a clínica da demanda a ser formulada em palavras, de forma a reintroduzir Maria na cadeia significante.",
+   "Na urgência subjetiva de Maria, o psicanalista deve privilegiar o tempo de concluir, diferente de uma análise em que se prioriza o tempo de compreender.",
+   "O psicanalista deve focar na urgência da equipe que precisa iniciar logo a quimioterapia em detrimento da possibilidade de separação da filha que gerou a angústia."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "hospitalar"
+  ],
+  "subtema": "Urgências Subjetivas no Contexto Hospitalar (Clínica Psicanalítica no Hospital)",
+  "comentario": {
+   "geral": "Na urgência subjetiva (em referência ao tempo lógico de Lacan: curto-circuito entre o instante de ver e o tempo de concluir, saltando o tempo de compreender), o trauma emudece o sujeito na angústia. O trabalho do psicanalista no hospital é abrir uma pausa para o 'tempo de compreender', sustentando que o ponto de angústia possa ser colocado em palavras e reintroduzido na cadeia significante.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-085",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 85
+  },
+  "parte": "especificos",
+  "enunciado": "Um psicólogo residente recebeu um pedido de atendimento a um paciente internado em quarto compartilhado com 4 outros internos. Sobre as referências técnicas para atuação de psicólogas(os) nos serviços hospitalares do SUS (2019), conforme o Conselho Federal de Psicologia, assinale a afirmativa correta.",
+  "alternativas": [
+   "O setting terapêutico necessita ser preservado, o que inviabiliza o atendimento no leito com pessoas circulando próximo.",
+   "A escuta clínica deve desconsiderar as interfaces com os processos biológicos, visto que a condição orgânica já é avaliada por outros profissionais.",
+   "No curso da internação, cabe ao psicólogo manter horários pré-definidos e datas marcadas para melhor organização do profissional e do próprio paciente.",
+   "Não poderá ser acertado encaminhamento para outro psicólogo caso o paciente seja transferido para a UTI, dado que ele já foi avaliado previamente.",
+   "O paciente buscou o hospital para receber cuidados médicos e pode não compreender, a princípio, a disponibilidade do psicólogo para atendê-lo, apresentando indisposição e preconceitos."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "hospitalar"
+  ],
+  "subtema": "Referências Técnicas do CFP para Atuação em Serviços Hospitalares do SUS (2019)",
+  "comentario": {
+   "geral": "Segundo as Referências Técnicas do CFP/CREPOP (2019), no hospital geral o atendimento ocorre frequentemente à beira do leito em enfermarias compartilhadas (o setting é sustentado pela postura ética e técnica do psicólogo, não pelas paredes físicas), e como a demanda inicial do paciente é dirigida à medicina, cabe ao psicólogo ofertar a escuta manejando eventuais resistências ou desconhecimento.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-057",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 57
+  },
+  "parte": "especificos",
+  "enunciado": "Tomás tem 4 anos e fala frases simples. Sua interação social se limita a interesses especiais reduzidos e apresenta comunicação não verbal acentuadamente estranha e dificuldades para lidar com a mudança. Seus comportamentos são inflexíveis, restritos e repetitivos e aparecem com frequência suficiente para serem observados pela família e pela escola, interferindo no seu funcionamento social em uma variedade de contextos. Exige apoio substancial no curso do seu neurodesenvolvimento. As dificuldades de Tomás são compatíveis com o diagnóstico pelo DSM-5 de",
+  "alternativas": [
+   "Transtorno da Comunicação.",
+   "Transtorno do Espectro Autista nível 1.",
+   "Transtorno do Espectro Autista nível 2.",
+   "Transtorno do Espectro Autista nível 3.",
+   "Transtorno do Desenvolvimento Intelectual."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicopato-neuro"
+  ],
+  "subtema": "Diagnóstico do Transtorno do Espectro Autista (DSM-5) — Níveis de Suporte",
+  "comentario": {
+   "geral": "No DSM-5, os especificadores de gravidade do TEA são: Nível 1 ('Exigindo apoio'), Nível 2 ('Exigindo apoio substancial' — fala frases simples, interação restrita a interesses especiais reduzidos, sofrimento/dificuldade para mudar o foco) e Nível 3 ('Exigindo apoio muito substancial').",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-058",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 58
+  },
+  "parte": "especificos",
+  "enunciado": "Rodrigo, 30 anos, adotou durante sua vida um padrão de relacionamento caracterizado pela alternância entre a extrema idealização e a desvalorização, tentando de tudo para evitar o abandono real ou imaginário. Após discutir com a parceira, teve impulso de se automutilar, além de relatar descontrole alimentar, uso de drogas, sentimento crônico de vazio e raiva intensa e inapropriada. Sua sintomatologia permite considerar que se trata de uma personalidade",
+  "alternativas": [
+   "borderline.",
+   "histriônica.",
+   "narcisista.",
+   "dependente.",
+   "obsessiva-compulsiva."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicopato-neuro"
+  ],
+  "subtema": "Transtornos da Personalidade — Personalidade Borderline",
+  "comentario": {
+   "geral": "O quadro reúne os critérios clássicos do Transtorno da Personalidade Borderline (DSM-5): esforços desesperados para evitar abandono real ou imaginado, relações instáveis alternando idealização e desvalorização, impulsividade danosa (compulsão alimentar, substâncias), autolesão, sentimento crônico de vazio e raiva intensa.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-059",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 59
+  },
+  "parte": "especificos",
+  "enunciado": "Uma das áreas da cognição avaliadas pelo Psicólogo que atua com avaliação neuropsicológica é a função executiva. No âmbito da avaliação das funções executivas, os resultados previstos em quadros de disfunção executiva serão",
+  "alternativas": [
+   "alteração de memória operacional e alterações da percepção visual e de linguagem.",
+   "alteração do planejamento, alteração de linguagem e alterações de memória de curto prazo.",
+   "alteração do planejamento, déficit de atenção seletiva e sustentada, déficit de abstração, alterações de memória operacional e falta de flexibilidade mental.",
+   "alteração do planejamento, déficit de atenção seletiva e sustentada e alterações de memória de curto prazo.",
+   "alteração do planejamento, déficit de atenção seletiva e sustentada, alterações de memória de longo prazo e alteração de linguagem."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicopato-neuro"
+  ],
+  "subtema": "Avaliação Neuropsicológica — Funções Executivas e Disfunção Executiva",
+  "comentario": {
+   "geral": "As funções executivas englobam controle inibitório, memória operacional (working memory), flexibilidade cognitiva/mental, planejamento, abstração e controle atencional (seletivo e sustentado). Quadros de disfunção executiva comprometem especificamente esses domínios.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-098",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 98
+  },
+  "parte": "especificos",
+  "enunciado": "Sérgio foi afastado do trabalho, referindo estar muito 'incomodado com as pessoas na rua' e 'com os colegas no trabalho', julgando que 'estão sempre falando mal ou rindo dele'. Refere que está muito difícil viver assim com todos 'tomando conta da sua vida' e que, mesmo quando está em casa, 'escuta as pessoas na rua falando a seu respeito'. Assinale a opção que apresenta a alteração psicopatológica apresentada por Sérgio.",
+  "alternativas": [
+   "Alteração da memória: confabulações.",
+   "Alteração da afetividade: distimia.",
+   "Alteração da sensopercepção: alucinação auditiva.",
+   "Alteração do pensamento: pensamento confusional.",
+   "Alteração da consciência: torpor."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicopato-neuro"
+  ],
+  "subtema": "Semiologia Psicopatológica — Alterações da Sensopercepção (Alucinação Auditiva)",
+  "comentario": {
+   "geral": "Escutar vozes comentando seus atos ou falando a seu respeito na ausência de estímulo real externo caracteriza alteração qualitativa da sensopercepção: alucinação auditiva (frequentemente associada a delírio de referência/persecutório).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-065",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 65
+  },
+  "parte": "especificos",
+  "enunciado": "Leia o trecho de Michel Houellebecq: 'as pessoas constroem sozinhas a engrenagem da própria desgraça, dão corda até o fim e depois a engrenagem continua rodando, inevitavelmente... até o último segundo.' O texto ilustra aquilo que, na existência humana, se opõe vigorosamente ao desejo de curar, manifesto de modo especial em jovens psicoterapeutas. Assinale a opção que apresenta o conceito psicanalítico que pode ser identificado no texto.",
+  "alternativas": [
+   "Repetição.",
+   "Resistência.",
+   "Elaboração.",
+   "Transferência.",
+   "Rememoração."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicanalise"
+  ],
+  "subtema": "Conceitos Fundamentais da Psicanálise — Compulsão à Repetição",
+  "comentario": {
+   "geral": "A 'engrenagem da própria desgraça' que continua rodando inexoravelmente ilustra a Compulsão à Repetição (Freud, 1914/1920), vinculada à pulsão de morte e ao retorno daquilo que não pôde ser simbolizado/rememorado.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-069",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 69
+  },
+  "parte": "especificos",
+  "enunciado": "Em 1917, no artigo Luto e Melancolia, Freud tenta esclarecer a essência da melancolia, comparando-a com o afeto normal do luto. De acordo com o texto, assinale a afirmativa correta.",
+  "alternativas": [
+   "Na melancolia é o mundo que se torna pobre e vazio; no luto é o próprio ego.",
+   "Duas operações psíquicas finalizam o processo do luto: a prova de realidade e o movimento de retorno da libido à própria pessoa.",
+   "São traços intrínsecos à semiologia do luto: a perturbação do sentimento de autoestima, a autorrecriminação e a expectativa delirante de punição.",
+   "Tanto o enlutado quanto o melancólico, na perda de um objeto amado, têm consciência da perda que deu origem à patologia e sabem o que foi perdido com ele.",
+   "O abandono de uma posição libidinal, quando da perda do objeto, não é feito sem oposição e pode resultar em negação, ou até mesmo chegar a uma psicose alucinatória de desejo."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicanalise"
+  ],
+  "subtema": "Freud — Luto e Melancolia (1917)",
+  "comentario": {
+   "geral": "Em 'Luto e Melancolia' (1917), Freud afirma que o ser humano nunca abandona de bom grado uma posição libidinal: a oposição ao teste de realidade pode ser tão intensa que produz um afastamento da realidade e a retenção do objeto por meio de uma psicose alucinatória de desejo. Note que no luto é o mundo que se torna pobre e vazio, enquanto na melancolia é o próprio ego (o inverso da alternativa A).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-073",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 73
+  },
+  "parte": "especificos",
+  "enunciado": "Michael Balint ao estudar a relação entre o médico e seu paciente focou seu trabalho na contratransferência manifestada pelo médico em relação a ele. A partir do trabalho com grupos de médicos, ele estabeleceu diversas categorias que dão fundamento à sua teoria sobre a 'função apostólica' e o poder terapêutico da própria figura do profissional. Assinale a opção que apresenta a categoria que melhor traduz o papel relacional do profissional em Balint.",
+  "alternativas": [
+   "O nomadismo medical.",
+   "O conluio do anonimato.",
+   "A organização da doença.",
+   "O médico como remédio.",
+   "O oferecimento da doença."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicanalise"
+  ],
+  "subtema": "Michael Balint — Relação Médico-Paciente ('O Médico como Remédio')",
+  "comentario": {
+   "geral": "Em 'O Médico, seu Paciente e a Doença', Michael Balint cunhou a célebre formulação de que o medicamento mais frequentemente utilizado na clínica é o próprio médico ('o médico como remédio'), analisando seus efeitos colaterais, posologia e implicações contratransferenciais.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-074",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 74
+  },
+  "parte": "especificos",
+  "enunciado": "Ferenczi defendeu, como segunda regra fundamental da psicanálise, que quem quer que queira analisar alguém deve, ele próprio, ser antes analisado. Com a dissecção de muitos psiquismos humanos e sobretudo o nosso, saberemos quando e como comunicar algo ao paciente, e como agirmos e reagirmos a ele. A isso, o autor chama de tato psicológico. É correto afirmar que essa expressão equivale a",
+  "alternativas": [
+   "empatia.",
+   "resistência.",
+   "transferência.",
+   "atenção flutuante.",
+   "contratransferência."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicanalise"
+  ],
+  "subtema": "Sándor Ferenczi — Elasticidade da Técnica e Tato Psicológico (Empatia)",
+  "comentario": {
+   "geral": "Em 'A Elasticidade da Técnica Psicanalítica' (1928), Sándor Ferenczi define explicitamente que o 'tato psicológico' (saber quando e como comunicar algo ao analisando e quando calar) nada mais é do que a faculdade de 'sentir com' (Einfühlung), isto é, a empatia.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-008",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 8
+  },
+  "parte": "gerais",
+  "enunciado": "Segundo a Portaria nº 198/2004, que institui a Política Nacional de Educação Permanente em Saúde como estratégia do SUS para a formação e o desenvolvimento de trabalhadores para o setor, a condução locorregional da Política será efetivada mediante um Colegiado de Gestão configurado como polo de educação permanente em saúde para o SUS com as funções de:\\nI. identificar necessidades de formação e de desenvolvimento dos trabalhadores de saúde e construir estratégias e processos que qualifiquem a atenção e a gestão em saúde e fortaleçam o controle social;\\nII. mobilizar a formação de gestores de sistemas, ações e serviços para a integração da rede de atenção como cadeia de cuidados progressivos à saúde;\\nIII. articular e estimular a transformação das práticas de saúde e de educação na saúde no conjunto do SUS e das instituições de ensino.\\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "II, apenas.",
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Política Nacional de Educação Permanente em Saúde (Portaria nº 198/2004)",
+  "comentario": {
+   "geral": "Todas as afirmativas (I, II e III) constam literalmente na Portaria GM/MS nº 198/2004 como funções dos Polos de Educação Permanente em Saúde.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-015",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 15
+  },
+  "parte": "gerais",
+  "enunciado": "A Portaria nº 837/2014 estabelece que a Equipe de Saúde da População Ribeirinha (eSFR) será composta por, no mínimo,",
+  "alternativas": [
+   "dois médicos, preferencialmente da especialidade de Família e Comunidade; um enfermeiro, preferencialmente especialista em Saúde da Família; um microscopista; e dois agentes de saúde.",
+   "um médico, preferencialmente da especialidade de Família e Comunidade; um enfermeiro, preferencialmente especialista em Saúde da Família; e um auxiliar ou técnico de enfermagem.",
+   "um médico, preferencialmente da especialidade de Família e Comunidade; um enfermeiro, preferencialmente especialista em Saúde da Família; um cirurgião dentista, especialista em Saúde da Família; e um auxiliar ou técnico de enfermagem.",
+   "um médico, preferencialmente da especialidade de Família e Comunidade; um enfermeiro, preferencialmente especialista em Saúde da Família; um cirurgião dentista, especialista em Saúde da Família; e quatro agentes de saúde.",
+   "um médico, preferencialmente da especialidade de Família e Comunidade; um enfermeiro, preferencialmente especialista em Saúde da Família; um cirurgião dentista, especialista em Saúde da Família; um técnico ou auxiliar em saúde bucal; e dois auxiliares ou técnicos de enfermagem."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Equipe de Saúde da População Ribeirinha (eSFR — Portaria nº 837/2014)",
+  "comentario": {
+   "geral": "Segundo a Portaria nº 837/2014 (e PNAB), a composição mínima da Equipe de Saúde da Família Ribeirinha (eSFR) conta com: 1 médico (preferencialmente de Família e Comunidade), 1 enfermeiro (preferencialmente especialista em Saúde da Família) e 1 auxiliar ou técnico de enfermagem.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-017",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 17
+  },
+  "parte": "gerais",
+  "enunciado": "Segundo a Norma Regulamentadora de Segurança e Saúde no Trabalho em Estabelecimentos de Saúde (NR 32), os agentes biológicos são classificados em classes de risco. Assinale a opção que apresenta um risco classe 2.",
+  "alternativas": [
+   "Risco individual moderado para o trabalhador, mas com alta probabilidade de disseminação para a coletividade. Pode causar doenças ao ser humano, para as quais existem meios eficazes de profilaxia ou tratamento.",
+   "Baixo risco individual para o trabalhador e para a coletividade, mas com moderada probabilidade de causar doença ao ser humano.",
+   "Risco individual moderado para o trabalhador e com baixa probabilidade de disseminação para a coletividade. Pode causar doenças ao ser humano, para as quais existem meios eficazes de profilaxia ou tratamento.",
+   "Risco individual moderado para o trabalhador e com moderada probabilidade de disseminação para a coletividade. Pode causar doenças ao ser humano, para as quais nem sempre existem meios eficazes de profilaxia ou tratamento.",
+   "Baixo risco individual para o trabalhador e com probabilidade de moderada disseminação para a coletividade. Pode causar doenças ao ser humano, para as quais existem meios eficazes de profilaxia, mas nem sempre de tratamento."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Biossegurança e NR 32 — Classificação de Risco dos Agentes Biológicos (Classe 2)",
+  "comentario": {
+   "geral": "No Anexo I da NR 32, a Classe de Risco 2 caracteriza-se por: risco individual moderado para o trabalhador e baixa probabilidade de disseminação para a coletividade, podendo causar doenças ao ser humano para as quais existem meios eficazes de profilaxia ou tratamento.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-018",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 18
+  },
+  "parte": "gerais",
+  "enunciado": "Segundo a NR 32, assinale a opção que apresenta apenas agentes biológicos.",
+  "alternativas": [
+   "Microrganismos (geneticamente modificados ou não); tecidos orgânicos; culturas de células; vetores e príons.",
+   "Microrganismos (geneticamente modificados ou não); parasitas; culturas de células; toxinas e príons.",
+   "Microrganismos (geneticamente modificados ou não); tecidos orgânicos; parasitas; vetores e toxinas.",
+   "Microrganismos (geneticamente modificados ou não); culturas de células; vetores; tecidos orgânicos e toxinas.",
+   "Microrganismos (geneticamente modificados ou não); tecidos orgânicos; vetores; toxinas e príons."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "NR 32 — Definição de Agentes Biológicos",
+  "comentario": {
+   "geral": "Segundo o item 32.2.1.1 da NR 32, consideram-se agentes biológicos os microrganismos, geneticamente modificados ou não; as culturas de células; os parasitas; as toxinas e os príons.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-019",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 19
+  },
+  "parte": "gerais",
+  "enunciado": "Segundo o Programa Nacional de Segurança do Paciente (PNSP), assinale a opção que indica a cor obrigatória da pulseira de identificação do paciente.",
+  "alternativas": [
+   "Azul.",
+   "Amarela.",
+   "Vermelha.",
+   "Branca.",
+   "Verde."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "aps-pnh"
+  ],
+  "subtema": "Programa Nacional de Segurança do Paciente (PNSP) — Identificação do Paciente",
+  "comentario": {
+   "geral": "De acordo com o Protocolo de Identificação do Paciente do Ministério da Saúde / Anvisa (PNSP), a pulseira padrão utilizada para identificação do paciente deve ser de cor branca.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-024",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 24
+  },
+  "parte": "especificos",
+  "enunciado": "A depressão da adolescência é considerada uma depressão diferenciada, com causas e efeitos específicos. Segundo a literatura clínica sobre vínculos na adolescência, a patologização da adolescência pode ser compreendida como uma problemática dos vínculos, na medida em que",
+  "alternativas": [
+   "identifica uma associação importante entre o desamparo infantil e o desenvolvimento da depressão na adolescência.",
+   "identifica uma associação importante entre a ausência paterna e o desenvolvimento da depressão na adolescência.",
+   "identifica uma associação importante entre a ausência materna e o desenvolvimento da depressão na adolescência.",
+   "identifica uma associação importante entre um padrão de apego inseguro na infância e o desenvolvimento da depressão na adolescência.",
+   "identifica uma associação importante entre um padrão de apego intenso na infância e o desenvolvimento da depressão na adolescência."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicanalise"
+  ],
+  "subtema": "Depressão na Adolescência e Problemática dos Vínculos / Apego",
+  "comentario": {
+   "geral": "Estudos sobre vinculação e depressão na adolescência apontam associação significativa entre um padrão de apego inseguro construído na infância e a vulnerabilidade ao desenvolvimento de quadros depressivos na passagem adolescente.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-031",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 31
+  },
+  "parte": "especificos",
+  "enunciado": "O termo 'retardo mental' ganhou conotação pejorativa e foi substituído por Deficiência Intelectual (DI) no DSM-5, ou por transtorno do desenvolvimento intelectual na CID-11. Assinale a opção que apresenta os pilares do seu diagnóstico.",
+  "alternativas": [
+   "Os prejuízos intelectuais, adaptativos e criativos, que ocorrem antes dos 18 anos.",
+   "As limitações nas habilidades cognitivas e o prejuízo intelectual, que ocorrem antes dos 18 anos.",
+   "Os transtornos de aprendizagem e do desenvolvimento da linguagem, que ocorrem antes dos 18 anos.",
+   "Os problemas no desenvolvimento da linguagem, associados a problemas no funcionamento social, que ocorrem antes dos 18 anos.",
+   "As limitações nas habilidades cognitivas e os prejuízos intelectuais, adaptativos e criativos, associados a problemas no funcionamento social, que ocorrem antes dos 18 anos."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicopato-neuro"
+  ],
+  "subtema": "Deficiência Intelectual (DSM-5) / Transtorno do Desenvolvimento Intelectual (CID-11)",
+  "comentario": {
+   "geral": "O diagnóstico de Deficiência Intelectual exige déficits nas funções intelectuais/cognitivas e no funcionamento adaptativo (conceitual, social e prático) com início durante o período do desenvolvimento (antes dos 18 anos).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-034",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 34
+  },
+  "parte": "especificos",
+  "enunciado": "A psicanálise trouxe um novo olhar sobre a gestação, ao descrever a dinâmica psicológica da parturiente. Sobre as ansiedades da gestação, analise as afirmativas a seguir.\\nI. As ansiedades da gestação se estruturam sobre uma armação, que é a reativação de angústias do nascimento.\\nII. As ansiedades da gestação são de perda, de esvaziamento, de castração, de castigo pela sexualidade e de defrontação com um desconhecido, o filho.\\nIII. O interjogo das ansiedades produz o estado de confusão, com as sensações concomitantes de estranheza, despersonalização e perda da identidade.\\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicanalise"
+  ],
+  "subtema": "Psicanálise e Gestação — Ansiedades da Parturiente (Raquel Soifer)",
+  "comentario": {
+   "geral": "Baseada na obra clássica 'Psicologia da Gravidez, Parto e Puerpério' (Raquel Soifer), todas as afirmativas (I, II e III) descrevem fielmente a dinâmica psíquica e as ansiedades reativadas na gestação.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-037",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 37
+  },
+  "parte": "especificos",
+  "enunciado": "Na anamnese, procedimento que tem grande relevância no processo de avaliação neuropsicológica, são abordados os sintomas clínicos, cognitivos e comportamentais que compõem a história clínica do paciente. Analise as afirmativas:\\nI. Os dados obtidos na anamnese permitem ao psicólogo levantar os sinais de alerta do impacto das doenças pregressas no âmbito cognitivo.\\nII. Os dados da anamnese são importantes para o diagnóstico preciso dos transtornos que podem estar comprometendo a cognição do paciente.\\nIII. A anamnese psicológica possibilita criar um rapport com o paciente e seus familiares antes de iniciar os testes neuropsicológicos.\\nIV. A anamnese é fundamental para que o psicólogo planeje quais esferas cognitivas serão avaliadas e defina os testes neuropsicológicos que serão utilizados.\\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I, II e III, apenas.",
+   "II, III e IV, apenas.",
+   "I, II, III e IV."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicopato-neuro"
+  ],
+  "subtema": "Anamnese na Avaliação Neuropsicológica",
+  "comentario": {
+   "geral": "Todas as quatro afirmativas (I, II, III e IV) estão corretas: na avaliação neuropsicológica, a anamnese orienta o levantamento de hipóteses, a construção do rapport e o planejamento da bateria de instrumentos.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-046",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 46
+  },
+  "parte": "especificos",
+  "enunciado": "A respeito do tratamento clínico de base psicanalítica para pessoa com Transtorno do Espectro Autista, a busca da abertura do fechamento autístico, a partir da construção de uma relação de confiança (transferência), tem como foco",
+  "alternativas": [
+   "a expressão dos sentimentos e vivências no setting analítico para interpretação de traumas infantis pelo psicanalista.",
+   "a aquisição de comportamentos adaptados modelados no setting psicanalítico.",
+   "a elaboração de um protocolo de intervenção que permita a aquisição de comportamentos adaptados.",
+   "o acesso a um programa de aprendizagem que permita a expressão de sentimentos de uma maneira funcionalmente adaptada.",
+   "a redução das angústias e a localização das fragilidades nas trocas afetivas que produzem o isolamento, potencializando a capacidade de relação com os outros, a partir de seus interesses singulares."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicopato-neuro"
+  ],
+  "subtema": "Clínica Psicanalítica no Transtorno do Espectro Autista (TEA)",
+  "comentario": {
+   "geral": "Conforme a Linha de Cuidado para Pessoas com TEA no SUS (MS), a clínica psicanalítica do autismo não opera por modelagem comportamental padronizada, mas aposta nos interesses singulares do sujeito (e objetos autísticos/ilhas de competência) para apaziguar a angústia e ampliar a abertura ao laço com o outro.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-047",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 47
+  },
+  "parte": "especificos",
+  "enunciado": "Na abordagem terapêutica da pessoa com Transtorno do Espectro Autista, a técnica voltada à redução de comportamentos não adaptativos (estereotipias, agressividade etc.), com foco na substituição por novos comportamentos socialmente mais aceitáveis e que sirvam aos mesmos propósitos de modo mais eficiente, sendo amplamente preconizada é conhecida como",
+  "alternativas": [
+   "Terapia de Integração Sensorial (TIS).",
+   "Comunicação Suplementar Alternativa (CSA).",
+   "Acompanhamento Terapêutico (AT).",
+   "Tratamento e Educação para Crianças com Transtornos do Espectro do Autismo (TEACCH).",
+   "Análise do Comportamento Aplicada (Applied Behavioral Analysis – ABA)."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicopato-neuro"
+  ],
+  "subtema": "Intervenção Comportamental no TEA — Análise do Comportamento Aplicada (ABA)",
+  "comentario": {
+   "geral": "A Análise do Comportamento Aplicada (ABA) avalia a função dos comportamentos no ambiente e atua no ensino intensivo de repertórios funcionais e na substituição de comportamentos disruptivos por comportamentos funcionalmente equivalentes e socialmente adaptativos.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-051",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 51
+  },
+  "parte": "especificos",
+  "enunciado": "Helena, 65 anos, foi encaminhada ao ambulatório de psicologia do hospital com diagnóstico clínico de fibromialgia associado a sintomas de ansiedade e depressão. Surgiram conteúdos relacionados ao abandono familiar, fragilidade de vínculos de suporte emocional e social e perdas recentes. Na perspectiva do cuidado integral à pessoa idosa, a atuação do psicólogo deverá ser estruturada",
+  "alternativas": [
+   "a partir de uma avaliação neuropsicológica que permita inserir a paciente em um programa de reabilitação cognitiva.",
+   "em uma abordagem psicossocial com foco na inserção sociofamiliar ou abrigamento.",
+   "na abordagem psicanalítica, permitindo que a paciente elabore os conteúdos inconscientes deflagrados pela doença.",
+   "em uma abordagem interdisciplinar, flexível e adaptável às necessidades da paciente, identificando sua rede de suporte social e suas necessidades atuais.",
+   "em uma avaliação de funcionalidade, que permita inserir a paciente em um programa de atividades instrumentais de vida diária (AIVD)."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "hospitalar"
+  ],
+  "subtema": "Cuidado Integral à Pessoa Idosa com Dor Crônica (Fibromialgia) e Depressão",
+  "comentario": {
+   "geral": "No cuidado integral à pessoa idosa em ambulatório hospitalar, a atuação estrutura-se de forma interdisciplinar, flexível e centrada nas necessidades biopsicossociais atuais da paciente e no fortalecimento de sua rede de suporte social.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-054",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 54
+  },
+  "parte": "especificos",
+  "enunciado": "Rafael, trabalhador do setor bancário há 15 anos, sofreu dois assaltos no banco no último mês e, no último, foi feito refém por algumas horas. Nos dias que se seguiram não conseguiu trabalhar e não conseguia dormir, permanecendo em estado de tensão, sobressaltado sempre que algum fato, ruído ou modificação do ambiente lembrava o risco de um novo assalto. O histórico e a sintomatologia permitem supor quadro de",
+  "alternativas": [
+   "Psicose Reativa.",
+   "Transtorno de Ansiedade.",
+   "Transtorno Depressivo.",
+   "Transtorno Obsessivo Compulsivo.",
+   "Transtorno do Estresse Pós-Traumático."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Saúde do Trabalhador e Transtorno de Estresse Pós-Traumático (TEPT)",
+  "comentario": {
+   "geral": "A exposição direta a evento traumático ameaçador à vida no trabalho (assalto com tomada de refém) seguida de revivescência, esquiva, insônia e hiperexcitabilidade/sobressalto caracteriza o Transtorno do Estresse Pós-Traumático (TEPT), reconhecido inclusive na Lista de Doenças Relacionadas ao Trabalho.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-055",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 55
+  },
+  "parte": "especificos",
+  "enunciado": "Leia o fragmento (CFP/CREPOP, 2008): 'O ponto de partida para a formação do psicólogo deverá ser a compreensão do mundo pela qual os indivíduos produzem e reproduzem a sua existência... Essa autoprodução dos indivíduos não ocorre no isolamento, mas em sociedade, o que os define de imediato como seres sociais.' Nesse contexto, a formação do psicólogo deve",
+  "alternativas": [
+   "valorizar os processos de individuação, levando sempre em conta o seu caráter histórico e processual.",
+   "restringir sua atuação ao contexto das organizações empresariais.",
+   "enfatizar a formação em Psicologia do Trabalho e as abordagens psicológicas desse campo.",
+   "criar instrumentos que permitam melhor compreender as vivências subjetivas e os traumas no trabalho.",
+   "adquirir noções/conceitos e diagnósticos psicopatológicos desencadeados pelo trabalho."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Formação do Psicólogo em Saúde do Trabalhador (CFP/CREPOP, 2008)",
+  "comentario": {
+   "geral": "Segundo as Referências Técnicas em Saúde do Trabalhador do CFP/CREPOP (2008), a formação deve compreender os processos de subjetivação/individuação sempre a partir de seu caráter histórico, social e processual.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-056",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 56
+  },
+  "parte": "especificos",
+  "enunciado": "Nos canais de teleatendimento, Gaulejac (2007) destaca a ideologia gerencialista como uma tecnologia de poder utilizada para manter o controle sobre os trabalhadores, o culto à eficiência em que tudo é submetido a critérios de utilidade e o trabalhador é transformado em variável do processo produtivo. A presença da ideologia gerencialista mostra que o controle exercido é",
+  "alternativas": [
+   "físico e mental, o que produz o desgaste do trabalhador no desempenho das tarefas.",
+   "predominantemente físico, o que desgasta o trabalhador no desempenho das tarefas.",
+   "predominantemente mental, o que desgasta o trabalhador no desempenho das tarefas.",
+   "focado nas metas de qualidade, produzindo o desgaste do trabalhador no desempenho das tarefas.",
+   "focado na avaliação de desempenho proposta pela sociedade empresária."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Sociologia Clínica do Trabalho — Ideologia Gerencialista (Vincent de Gaulejac)",
+  "comentario": {
+   "geral": "Em 'Gestão como Doença Social' (2007), Vincent de Gaulejac demonstra que o poder gerencialista substitui a coerção puramente física disciplinar por uma mobilização psíquica e controle predominantemente mental, gerando intenso desgaste mental e psíquico.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-062",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 62
+  },
+  "parte": "especificos",
+  "enunciado": "João, 45 anos, estava há três dias sem dormir, inquieto, irritado, falando muito e dizendo que sua cabeça estava como 'um disco arranhado'. No CAPS, mencionou relutância em buscar ajuda profissional, citando experiências anteriores negativas, enquanto sua esposa expressou preocupação. Assinale a opção que indica a estratégia de abordagem mais adequada para estabelecer uma relação de confiança com João e sua família.",
+  "alternativas": [
+   "Cuidadosa e respeitosa, oferecendo uma escuta acolhedora e desprovida de expectativas e preconceitos.",
+   "Crítica e prescritiva, oferecendo segurança e sugestões do que é melhor que ele faça em sua vida e na relação familiar.",
+   "Distante e desinteressada, visto que a responsabilidade da construção do projeto terapêutico é do usuário e de sua família.",
+   "Preventiva e rápida, indicando ao paciente a intervenção do conselho tutelar pela gravidade do seu caso.",
+   "Rápida e impositiva, estabelecendo diretrizes e expectativas claras desde o início, sem considerar as necessidades individuais."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "raps-caps"
+  ],
+  "subtema": "Acolhimento e Vínculo no CAPS com Usuário e Família",
+  "comentario": {
+   "geral": "Diante de histórico de experiências institucionais negativas e agitação psíquica, a construção do vínculo terapêutico no CAPS exige postura cuidadosa, respeitosa e escuta acolhedora, livre de julgamentos morais ou imposições prescritivas.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-066",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 66
+  },
+  "parte": "especificos",
+  "enunciado": "A atuação do psicólogo em comitês de ética hospitalar exige seu conhecimento em bioética. De acordo com a versão de Beauchamp e Childress, em Principles of Biomedical Ethics, essa linha de pensamento apresenta quatro princípios basilares. Assinale a opção que os apresenta.",
+  "alternativas": [
+   "Racionalidade, benevolência, prudência e autonomia.",
+   "Justiça, não maleficência, beneficência e autonomia.",
+   "Justiça, benevolência, racionalidade e assistencialismo.",
+   "Justiça, não maleficência, integralidade e assistencialismo.",
+   "Racionalidade, integralidade, prudência e assistencialismo."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "etica-cfp"
+  ],
+  "subtema": "Comitês de Ética Hospitalar e Bioética Principialista (Beauchamp & Childress)",
+  "comentario": {
+   "geral": "Os quatro princípios clássicos de Beauchamp & Childress são: Autonomia, Beneficência, Não-maleficência e Justiça. Veja como a FGV cobrou o mesmo conceito tanto em Conhecimentos Gerais (Q.14) quanto em Específicos (Q.66)!",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-067",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 67
+  },
+  "parte": "especificos",
+  "enunciado": "Luiz vive com sua mãe e apresenta um transtorno obsessivo-compulsivo grave. A mãe é responsável por buscar caminhos na rua livres de ameaças e, em casa, cumpre sem colocar limites todos os rituais de limpeza doméstica, temerosa de que a situação do filho se agrave, colocando as necessidades e desejos de Luiz acima de sua própria vida pessoal. Em Psicologia, esse tipo de fenômeno é identificado como",
+  "alternativas": [
+   "Altruísmo.",
+   "Compaixão.",
+   "Liberalismo.",
+   "Codependência.",
+   "Permissividade."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicopato-neuro"
+  ],
+  "subtema": "Dinâmica Familiar nos Transtornos Mentais — Codependência",
+  "comentario": {
+   "geral": "A acomodação familiar extrema em que o familiar organiza toda a própria existência em função dos sintomas/rituais do paciente, anulando suas próprias necessidades e retroalimentando involuntariamente o ciclo sintomático, caracteriza a codependência.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-068",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 68
+  },
+  "parte": "especificos",
+  "enunciado": "Parentalidade é um termo relativamente recente, que começou a ser utilizado na literatura psicanalítica francesa, a partir dos anos 60, para marcar a dimensão do processo de construção da relação dos pais com os filhos. Nesta perspectiva, assinale a opção que apresenta uma importante característica desse processo.",
+  "alternativas": [
+   "A relação de consanguinidade ou de aliança é suficiente para assegurar o exercício da parentalidade.",
+   "O processo de filiação se inicia após o nascimento do bebê, a partir da transmissão consciente da história infantil dos pais.",
+   "Podemos restringir a parentalidade à gestação e ao nascimento de um filho, já que as identificações infantis não determinam a parentalidade.",
+   "A pré-história da criança se inicia na história individual dos pais; o desejo de ter um filho, de tornar-se pai e tornar-se mãe, reatualiza as fantasias de suas próprias infâncias e do tipo de cuidado parental que tiveram.",
+   "O amor parental é um retorno e uma reprodução do narcisismo dos pais, que ao valorizar a criança visam abandonar seu próprio narcisismo."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicanalise"
+  ],
+  "subtema": "Psicanálise e Parentalidade — Transmissão Psíquica e Fantasias Infantis",
+  "comentario": {
+   "geral": "Na clínica psicanalítica da parentalidade (Lebovici; Solis-Ponton; Bydlowski), a parentalidade não é dada apenas pelo vínculo biológico, mas construída psiquicamente desde a pré-história da criança na história infantil inconsciente dos próprios pais.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-070",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 70
+  },
+  "parte": "especificos",
+  "enunciado": "A característica essencial dos transtornos somatoformes é a presença repetida de sintomas físicos associados à busca persistente de assistência médica, sem que se encontre uma base orgânica para os mesmos. Segundo a CID-10, assinale a opção que indica um transtorno somatoforme.",
+  "alternativas": [
+   "Fictício.",
+   "Conversivo.",
+   "Psicastenia.",
+   "Dissociativo.",
+   "Hipocondríaco."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicopato-neuro"
+  ],
+  "subtema": "Classificação Internacional de Doenças (CID-10) — Transtornos Somatoformes",
+  "comentario": {
+   "geral": "Na CID-10, o agrupamento F45 (Transtornos Somatoformes) inclui o Transtorno de Somatização (F45.0), o Transtorno Somatoforme Indiferenciado (F45.1), o Transtorno Hipocondríaco (F45.2), a Disfunção Autonômica Somatoforme (F45.3) e o Transtorno Doloroso Somatoforme Persistente (F45.4). Já os transtornos conversivos/dissociativos ficam em F44 e o Transtorno Fictício em F68.1.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-072",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 72
+  },
+  "parte": "especificos",
+  "enunciado": "Um paciente crônico é aquele que é portador de uma doença permanente, que deixa incapacidade residual ou que requeira longos períodos de observação, controle e cuidados. Assinale a opção que apresenta uma questão geral que envolve seu universo psicossocioafetivo.",
+  "alternativas": [
+   "A impossibilidade de adaptação da pessoa portadora da doença crônica à vida.",
+   "A inviabilidade de desencadeamento no paciente de mecanismos defensivos múltiplos.",
+   "Há uma coincidência entre o fato de ser afetado por uma doença crônica e ser, no plano psicológico, um doente crônico.",
+   "A produção de uma quebra na dinâmica do desenvolvimento do indivíduo global sem, entretanto, abalar sua condição sociocultural.",
+   "A possibilidade de que longos períodos de internação levem o paciente a manter a cronicidade da doença a fim de obter cuidados que fora do hospital não teria."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "hospitalar"
+  ],
+  "subtema": "Psicologia Hospitalar — Paciente Crônico e Ganho Secundário na Hospitalização",
+  "comentario": {
+   "geral": "Em contextos de vulnerabilidade socioafetiva e hospitalizações prolongadas, o hospital pode passar a suprir necessidades básicas e afetivas ausentes fora dele (hospitalismo / ganho secundário), levando o paciente a resistir inconscientemente à alta ou à melhora.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-075",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 75
+  },
+  "parte": "especificos",
+  "enunciado": "Boris Cyrulnik, etólogo, neuropsiquiatra e psicanalista francês, marcou em sua obra 'Os patinhos feios' (2004) um novo direcionamento conceitual para o termo resiliência. Assinale a opção que o apresenta.",
+  "alternativas": [
+   "Uma tessitura feita a partir de um vínculo inconsciente e de processo de desconstrução de sentido.",
+   "Um atributo aprendido por meio da vivência pessoal de situações traumáticas em ambientes com privação de liberdade.",
+   "Um processo de superação, um modo de subjetivação, que se dá no encontro com o outro, sendo resultado de fatores pessoais, institucionais e/ou do contexto social.",
+   "Um atributo intrínseco existente em determinadas pessoas, como algo inerente à sua personalidade, que se expressa naturalmente, sem levar em conta o aprendizado.",
+   "A capacidade do ser humano de desenvolver habilidades de superação perante situações reais que lhe são adversas, mas que não se constituem como traumas psicológicos."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Conceito de Resiliência em Boris Cyrulnik ('Os Patinhos Feios')",
+  "comentario": {
+   "geral": "Para Boris Cyrulnik, a resiliência nunca é um atributo inato ou individual isolado ('invulnerabilidade'), mas um processo dinâmico de subjetivação ('tricutar' um vínculo) que se tece no encontro com 'tutores de resiliência' (outros significativos, instituições, cultura e rede social).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-078",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 78
+  },
+  "parte": "especificos",
+  "enunciado": "A crescente necessidade de enfrentamento dos problemas ligados à violência nos territórios tem colocado para os profissionais de saúde importantes desafios, provocando impactos sobre a estrutura e o funcionamento dos serviços. Sobre essa temática, assinale a afirmativa correta.",
+  "alternativas": [
+   "A ampla compreensão da problemática das relações sociais não é capaz de habilitar o profissional de saúde para a correta análise dos elementos envolvidos no processo de saúde/doença.",
+   "As condições de violência nos territórios, em termos de representações e práticas, articulam-se na vida cotidiana e representam um desafio permanente, afetando as ações de gestão, o trabalho dos profissionais e os usuários do Sistema Único de Saúde.",
+   "A violência deve ser abordada exclusivamente como um problema de segurança pública, sem que sejam considerados os impactos sociais e de sofrimento psíquico.",
+   "As relações entre territórios e condições de vida não são determinantes dos processos de adoecimento.",
+   "O enfrentamento da violência nos territórios deve se concentrar na punição dos agressores, sem necessidade de intervenções preventivas ou educativas."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "ad-violencia"
+  ],
+  "subtema": "Violência nos Territórios e Impactos sobre os Serviços do SUS",
+  "comentario": {
+   "geral": "A violência é reconhecida pela OMS e pelo Ministério da Saúde como grave problema de saúde pública que atravessa o cotidiano dos territórios, impactando simultaneamente a saúde dos usuários, o processo de trabalho das equipes e a gestão dos serviços do SUS.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-086",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 86
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre a inserção do psicanalista nas equipes de saúde, assinale a afirmativa correta.",
+  "alternativas": [
+   "Ao psicanalista não cabe trabalhar com as dificuldades da equipe relacionadas ao paciente adoecido.",
+   "A presença de um psicanalista na instituição de saúde é justificada, prioritariamente, para orientar a conduta das equipes.",
+   "As três práticas de cuidado em saúde, nomeadas de clínica, institucional e de formação de profissionais de saúde, não estão interligadas.",
+   "O trabalho do psicanalista na instituição de saúde é o de transformar o caso clínico em um quadro clínico para entendimento dos demais profissionais.",
+   "A equipe, quando se depara com dificuldades em que a subjetividade atravessa a cena institucional, convoca o psicanalista."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "hospitalar"
+  ],
+  "subtema": "Inserção do Psicanalista nas Equipes de Saúde Hospitalares",
+  "comentario": {
+   "geral": "No hospital geral, a equipe médica/multiprofissional costuma acionar o psicólogo/psicanalista justamente nos pontos de impasse em que a subjetividade do paciente (angústia, recusa ao tratamento, luto, conflito familiar) irrompe e escapa ao saber biomédico.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-087",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 87
+  },
+  "parte": "especificos",
+  "enunciado": "A presença do psicanalista no hospital tem como consequência a aproximação inevitável entre médicos e psicanalistas. Sobre a relação entre ambos, assinale a afirmativa correta.",
+  "alternativas": [
+   "O lugar da psicanálise na medicina é marginal, de extraterritorialidade.",
+   "O psicanalista está inserido na equipe para acrescentar sua especialidade aos demais.",
+   "Psicanálise e medicina podem conviver por partilharem os mesmos campos e limites.",
+   "Freud sustentou a posição de que o psicanalista, em sua época, necessitava ter como pré-requisito o diploma médico.",
+   "O discurso médico sustenta o imperativo metodológico de inclusão da subjetividade do paciente diante da execução do ato de salvar vidas."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "hospitalar"
+  ],
+  "subtema": "Psicanálise e Medicina no Hospital (Lugar de Extraterritorialidade — Clavreul / Moretto)",
+  "comentario": {
+   "geral": "Retomando Lacan ('Psicanálise e Medicina', 1966) e Maria Lívia Tourinho Moretto ('O que pode um analista no hospital?'), o lugar da psicanálise perante a medicina é marginal e de 'extraterritorialidade', pois enquanto o discurso médico precisa metodologicamente objetivar o corpo para operar, a psicanálise recolhe justamente o sujeito excluído pela operação médica.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-088",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 88
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre as especificidades da avaliação psicológica no hospital, analise as afirmativas a seguir.\\nI. A avaliação psicológica do paciente internado em hospital deve seguir o modelo do psicodiagnóstico tradicional.\\nII. A avaliação psicológica oferece subsídios para a equipe decidir sobre o momento de uma cirurgia eletiva.\\nIII. A entrevista diagnóstica se aplica ao contexto hospitalar, ao passo que a entrevista preventiva não se aplica a esse contexto.\\nEstá correto o que se afirma em",
+  "alternativas": [
+   "II, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "hospitalar"
+  ],
+  "subtema": "Especificidades da Avaliação Psicológica no Contexto Hospitalar",
+  "comentario": {
+   "geral": "A afirmativa I é falsa porque no hospital a avaliação é breve, focal e adaptada ao setting de internação (diferente do psicodiagnóstico clínico clássico longo). A III é falsa pois entrevistas preventivas aplicam-se amplamente ao hospital (ex.: preparo cirúrgico). A II é verdadeira: a avaliação psicológica subsidia decisões da equipe quanto ao momento oportuno para cirurgias eletivas.",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-089",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 89
+  },
+  "parte": "especificos",
+  "enunciado": "A avaliação do psicanalista foi solicitada para uma idosa que cantava ininterruptamente no curso da internação. A equipe suspeitava de quadro maníaco ou negação da doença avançada. Na escuta, a idosa disse que a música representava uma época importante de sua juventude e que queria transmitir essa alegria de viver para sua filha, para morrer em paz. Analise as afirmativas:\\nI. A não diferenciação das noções de sintoma e sofrimento pode contribuir para a patologização do sofrimento.\\nII. Não se apresentam resultados à equipe pelo dever de respeitar o sigilo, no intuito de proteger a intimidade da idosa e da filha.\\nIII. A perspectiva psicanalítica acerca do tema da avaliação psicológica tem suas especificidades e encontra seus impasses.\\nEstá correto o que se afirma em",
+  "alternativas": [
+   "I, apenas.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas.",
+   "I, II e III."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "hospitalar"
+  ],
+  "subtema": "Diferença entre Sintoma e Sofrimento na Avaliação Hospitalar",
+  "comentario": {
+   "geral": "As afirmativas I e III estão corretas: tomar toda expressão subjetiva (como o canto de despedida da idosa) como sintoma psicopatológico gera patologização; já a afirmativa II é incorreta porque cabe ao psicólogo dar devolutiva ética à equipe (compartilhando apenas o necessário para qualificar o cuidado e desconstruir o rótulo maníaco).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ },
+ {
+  "id": "enare-2024-psicolt01-092",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2024/2025",
+   "banca": "FGV",
+   "prova": "PSICOLT01",
+   "numero": 92
+  },
+  "parte": "especificos",
+  "enunciado": "Sandra, durante a pandemia de Covid-19, foi internada devido a uma metástase cerebral sem visitas presenciais. Vivenciou um luto antecipatório e criou, com o auxílio de sua psicanalista, a escrita de um livro para seu filho. Sobre o luto de Sandra, assinale a afirmativa correta.",
+  "alternativas": [
+   "O luto não pode ser considerado uma experiência coletiva por não sustentar o pacto social.",
+   "O luto de Sandra tem relação apenas com as possíveis perdas, não fundamentando a estrutura do desejo.",
+   "Sandra testemunha, com a escrita, o limite do discurso e inclusive de sua formalização: onde o discurso não diz, testemunha.",
+   "A Covid-19 manteve nossa relação com a morte como contingencial, tal como a experiência de Freud na Primeira Guerra.",
+   "A privação é a falta real de um objeto imaginário, a frustração é a falta imaginária de um objeto simbólico e a castração é a falta simbólica de um objeto real."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [
+   "psicanalise"
+  ],
+  "subtema": "Luto Antecipatório, Escrita e Testemunho na Clínica Psicanalítica",
+  "comentario": {
+   "geral": "Na clínica psicanalítica diante do real da morte e do trauma, a escrita opera como função de testemunho e transmissão simbólica ao filho ali onde o discurso comum encontra seu limite diante do indizível. (Nota: na alternativa E, as definições lacanianas da falta estão invertidas: castração é falta simbólica de objeto imaginário; frustração é falta imaginária de objeto real; privação é falta real de objeto simbólico).",
+   "referencia": "",
+   "status": "nao_revisado",
+   "versao": 1
+  },
+  "fonte_url": "https://mapa-vagas-enare-ebserh.conhecimento.fgv.br/provas-gabaritos/multiuni/Provas/PSICOLOGIA%20(PSICOLT01).pdf"
+ }
+]
