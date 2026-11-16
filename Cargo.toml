@@ -1,0 +1,16 @@
+[package]
+name = "enare-psicologia-simulado"
+version = "1.0.0"
+edition = "2021"
+authors = ["Uso Pessoal - Preparação ENARE Psicologia"]
+description = "Aplicação em Rust para Simulados, Mini Simulados e Diagnóstico de Foco da Residência em Psicologia (ENARE/FGV)"
+
+[[bin]]
+name = "enare_psicologia"
+path = "src/main.rs"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+strip = true

@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ENARE Psicologia — Simulados & Diagnóstico (Rust App)</title>
+<style>
+  :root {
+    --bg: #0f172a;
+    --surface: #1e293b;
+    --surface-2: #334155;
+    --text: #f8fafc;
+    --muted: #94a3b8;
+    --primary: #38bdf8;
+    --primary-dark: #0284c7;
+    --success: #22c55e;
+    --danger: #ef4444;
+    --warning: #f59e0b;
+    --border: #334155;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.55;
+    padding-bottom: 48px;
+  }
+  header {
+    background: linear-gradient(90deg, #0f172a 0%, #1e293b 100%);
+    border-bottom: 1px solid var(--border);
+    padding: 18px 28px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+  .brand h1 { font-size: 1.25rem; font-weight: 700; color: var(--primary); }
+  .brand p { font-size: 0.85rem; color: var(--muted); }
+  .nav-tabs { display: flex; gap: 8px; flex-wrap: wrap; }
+  .btn {
+    background: var(--surface-2);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 9px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.88rem;
+    transition: all 0.15s;
+  }
+  .btn:hover { border-color: var(--primary); }
+  .btn.active, .btn-primary {
+    background: var(--primary-dark);
+    border-color: var(--primary);
+    color: #fff;
+  }
+  .btn-danger { background: #7f1d1d; border-color: var(--danger); }
+  .container { max-width: 1120px; margin: 24px auto; padding: 0 20px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-bottom: 24px; }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  .card h2 { font-size: 1.05rem; margin-bottom: 10px; color: var(--primary); }
+  .card h3 { font-size: 0.95rem; margin-bottom: 8px; }
+  .kpi-num { font-size: 1.9rem; font-weight: 800; margin: 6px 0; }
+  .badge {
+    display: inline-block;
+    padding: 3px 9px;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 700;
+  }
+  .badge-crit { background: rgba(239,68,68,0.2); color: #fca5a5; border: 1px solid var(--danger); }
+  .badge-warn { background: rgba(245,158,11,0.2); color: #fcd34d; border: 1px solid var(--warning); }
+  .badge-ok   { background: rgba(34,197,94,0.2); color: #86efac; border: 1px solid var(--success); }
+  .badge-info { background: rgba(56,189,248,0.15); color: #7dd3fc; border: 1px solid var(--primary); }
+  .option-btn {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    width: 100%;
+    text-align: left;
+    background: rgba(15,23,42,0.55);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 13px 16px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: 0.95rem;
+    transition: all 0.12s;
+  }
+  .option-btn:hover { border-color: var(--primary); background: rgba(56,189,248,0.08); }
+  .option-btn.selected { border-color: var(--primary); background: rgba(2,132,199,0.28); }
+  .option-btn.correct { border-color: var(--success); background: rgba(34,197,94,0.22); }
+  .option-btn.wrong { border-color: var(--danger); background: rgba(239,68,68,0.22); }
+  .opt-letter {
+    min-width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    background: var(--surface-2);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 0.85rem;
+  }
+  .progress-bar {
+    width: 100%;
+    height: 9px;
+    background: #0f172a;
+    border-radius: 99px;
+    overflow: hidden;
+    margin: 8px 0;
+  }
+  .progress-fill { height: 100%; background: var(--primary); transition: width 0.3s; }
+  select, input[type="number"] {
+    background: #0f172a;
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 9px 12px;
+    border-radius: 8px;
+    font-size: 0.92rem;
+    width: 100%;
+    margin-top: 6px;
+    margin-bottom: 14px;
+  }
+  .comment-box {
+    margin-top: 14px;
+    padding: 14px;
+    border-radius: 10px;
+    background: rgba(15,23,42,0.8);
+    border-left: 4px solid var(--primary);
+    font-size: 0.92rem;
+  }
+  .hidden { display: none !important; }
+  .q-nav-dots { display: flex; flex-wrap: wrap; gap: 6px; margin: 14px 0; }
+  .q-dot {
+    width: 32px; height: 32px; border-radius: 6px;
+    border: 1px solid var(--border); background: var(--surface-2);
+    color: var(--text); font-weight: 600; font-size: 0.8rem;
+    cursor: pointer;
+  }
+  .q-dot.answered { background: var(--primary-dark); border-color: var(--primary); }
+  .q-dot.current { outline: 2px solid #fff; }
+  .q-dot.flagged { border-color: var(--warning); color: #fcd34d; }
+  a { color: var(--primary); }
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <h1>ENARE Psicologia — Simulados & Diagnóstico (Rust)</h1>
+    <p>Questões oficiais FGV/Ebserh • Análise de Erros • Matriz de Prioridade de Estudo</p>
+  </div>
+  <div class="nav-tabs">
+    <button class="btn active" id="tab-btn-home" onclick="mostrarAba('home')">Montar Simulado</button>
+    <button class="btn" id="tab-btn-foco" onclick="mostrarAba('foco')">No que devo focar</button>
+    <button class="btn" id="tab-btn-erros" onclick="mostrarAba('erros')">Caderno de Erros</button>
+  </div>
+</header>
+
+<div class="container">
+  <!-- ABA 1: CONFIGURAR SIMULADO / MINI SIMULADO -->
+  <div id="aba-home">
+    <div class="grid">
+      <div class="card">
+        <h2>Simulado Rápido / Personalizado</h2>
+        <label>Modo de Prática:</label>
+        <select id="cfg-modo">
+          <option value="mini_inteligente">Mini Simulado Inteligente (Prioriza Erros e Pontos Fracos)</option>
+          <option value="padrao_enare">Simulado Proporcional ENARE (20% SUS + 80% Psicologia)</option>
+          <option value="por_eixo">Treino Direcionado por Eixo Temático</option>
+          <option value="todas">Maratona Completa (Todas as questões do banco)</option>
+        </select>
+
+        <label>Filtrar por Eixo Temático (opcional):</label>
+        <select id="cfg-eixo">
+          <option value="TODOS">Todos os 8 Eixos Temáticos</option>
+        </select>
+
+        <label>Quantidade de Questões:</label>
+        <select id="cfg-qtd">
+          <option value="5">Mini Simulado Curto — 5 questões</option>
+          <option value="10" selected>Mini Simulado Padrão — 10 questões</option>
+          <option value="15">Mini Simulado Estendido — 15 questões</option>
+          <option value="25">Simulado Médio — 25 questões</option>
+          <option value="93">Simulado Completo — Todas as 93 questões oficiais válidas</option>
+        </select>
+
+        <label style="display:flex;align-items:center;gap:8px;margin-bottom:14px;cursor:pointer;">
+          <input type="checkbox" id="cfg-imediato"> Mostrar gabarito e comentário imediatamente ao marcar cada questão
+        </label>
+
+        <button class="btn btn-primary" style="width:100%;padding:12px;" onclick="iniciarSimulado()">
+          Iniciar Simulado Agora
+        </button>
+      </div>
+
+      <div class="card">
+        <h2>Resumo do Seu Desempenho</h2>
+        <div id="resumo-kpis">Carregando estatísticas...</div>
+        <div style="margin-top:16px;display:flex;gap:10px;flex-wrap:wrap;">
+          <button class="btn" onclick="iniciarRevisaoErros()">Treinar Apenas Questões que Errei</button>
+          <button class="btn btn-danger" onclick="resetarProgresso()">Zerar Histórico</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ABA DE EXECUÇÃO DO SIMULADO -->
+  <div id="aba-quiz" class="hidden">
+    <div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:12px;">
+        <div>
+          <span class="badge badge-info" id="q-badge-comp"></span>
+          <span class="badge badge-warn" id="q-badge-eixo"></span>
+        </div>
+        <div style="font-weight:700;color:var(--muted);" id="q-timer">Tempo: 00:00</div>
+      </div>
+
+      <div class="q-nav-dots" id="q-dots"></div>
+
+      <h3 id="q-header" style="color:var(--primary);margin-bottom:6px;"></h3>
+      <p id="q-subtema" style="font-size:0.85rem;color:var(--muted);margin-bottom:14px;"></p>
+      <div id="q-enunciado" style="white-space:pre-line;font-size:1.02rem;margin-bottom:18px;"></div>
+
+      <div id="q-opcoes"></div>
+      <div id="q-feedback-imediato" class="comment-box hidden"></div>
+
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-top:18px;flex-wrap:wrap;gap:10px;">
+        <div style="display:flex;gap:8px;">
+          <button class="btn" onclick="navegarQuestao(-1)">← Anterior</button>
+          <button class="btn" onclick="alternarRevisao()">⚑ Marcar p/ Dúvida</button>
+          <button class="btn" onclick="navegarQuestao(1)">Próxima →</button>
+        </div>
+        <button class="btn btn-primary" onclick="finalizarSimulado()">Finalizar e Corrigir Simulado</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ABA DE RESULTADO DO SIMULADO -->
+  <div id="aba-resultado" class="hidden">
+    <div class="card" style="margin-bottom:20px;">
+      <h2>Diagnóstico do Simulado Finalizado</h2>
+      <div id="res-sumario" style="margin:12px 0;"></div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:14px;">
+        <button class="btn btn-primary" onclick="mostrarAba('foco')">Ver Matriz 'No que devo focar'</button>
+        <button class="btn" onclick="mostrarAba('home')">Novo Simulado</button>
+      </div>
+    </div>
+    <div id="res-lista-questoes"></div>
+  </div>
+
+  <!-- ABA 2: NO QUE DEVO FOCAR (DIAGNÓSTICO POR EIXO) -->
+  <div id="aba-foco" class="hidden">
+    <div class="card" style="margin-bottom:20px;">
+      <h2>Matriz de Prioridade de Estudo — ENARE Psicologia</h2>
+      <p style="color:var(--muted);font-size:0.9rem;margin-bottom:14px;">
+        Ordenada automaticamente pelo Índice de Prioridade de Estudo (IPE), que cruza a sua taxa de erro em cada eixo com o peso estratégico do tema nas provas do ENARE/FGV.
+      </p>
+      <div id="lista-diagnostico-eixos"></div>
+    </div>
+  </div>
+
+  <!-- ABA 3: CADERNO DE ERROS -->
+  <div id="aba-erros" class="hidden">
+    <div class="card" style="margin-bottom:20px;">
+      <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;">
+        <div>
+          <h2>Caderno Inteligente de Erros</h2>
+          <p style="color:var(--muted);font-size:0.9rem;">Todas as questões em que sua última resposta foi incorreta, com comentário técnico e trilha de revisão.</p>
+        </div>
+        <button class="btn btn-primary" onclick="iniciarRevisaoErros()">Gerar Mini Simulado com Meus Erros</button>
+      </div>
+    </div>
+    <div id="lista-caderno-erros"></div>
+  </div>
+</div>
+
+<script>
+let BANCO = [];
+let DIAGNOSTICO = { eixos: [], historico: [] };
+let QUIZ = {
+  questoes: [],
+  respostas: {},
+  duvidas: {},
+  atual: 0,
+  inicioMs: 0,
+  timerId: null,
+  modo: "",
+  imediato: false
+};
+
+async function carregarDados() {
+  const [rQ, rD] = await Promise.all([
+    fetch('/api/questoes').then(r => r.json()),
+    fetch('/api/diagnostico').then(r => r.json())
+  ]);
+  BANCO = rQ;
+  DIAGNOSTICO = rD;
+  popularSeletorEixos();
+  renderizarResumoHome();
+  renderizarDiagnosticoFoco();
+  renderizarCadernoErros();
+}
+
+function popularSeletorEixos() {
+  const sel = document.getElementById('cfg-eixo');
+  if (sel.options.length > 1) return;
+  const vistos = new Set();
+  BANCO.forEach(q => {
+    if (!vistos.has(q.eixo_cod)) {
+      vistos.add(q.eixo_cod);
+      const opt = document.createElement('option');
+      opt.value = q.eixo_cod;
+      opt.textContent = q.eixo_nome;
+      sel.appendChild(opt);
+    }
+  });
+}
+
+function mostrarAba(aba) {
+  ['home', 'quiz', 'resultado', 'foco', 'erros'].forEach(id => {
+    document.getElementById('aba-' + id).classList.toggle('hidden', id !== aba);
+  });
+  ['home', 'foco', 'erros'].forEach(id => {
+    const b = document.getElementById('tab-btn-' + id);
+    if (b) b.classList.toggle('active', id === aba);
+  });
+}
+
+function renderizarResumoHome() {
+  let resp = 0, acertos = 0, errAtuais = 0;
+  BANCO.forEach(q => {
+    resp += q.tentativas;
+    acertos += q.acertos;
+    if (q.tentativas > 0 && !q.ultimo_acerto) errAtuais++;
+  });
+  const perc = resp > 0 ? ((acertos / resp) * 100).toFixed(1) : "0.0";
+  const criticos = DIAGNOSTICO.eixos.filter(e => e.nivel_alerta === 'CRITICO' || e.nivel_alerta === 'ATENCAO');
+  const focoPrincipal = criticos.length > 0 ? criticos[0].nome : (DIAGNOSTICO.eixos[0] ? DIAGNOSTICO.eixos[0].nome : "Realize seu 1º simulado");
+
+  document.getElementById('resumo-kpis').innerHTML = `
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;">
+      <div>
+        <div style="color:var(--muted);font-size:0.82rem;">Aproveitamento Global</div>
+        <div class="kpi-num" style="color:var(--primary);">${perc}%</div>
+        <div style="font-size:0.82rem;color:var(--muted);">${acertos} acertos em ${resp} marcações</div>
+      </div>
+      <div>
+        <div style="color:var(--muted);font-size:0.82rem;">Questões Pendentes no Caderno de Erros</div>
+        <div class="kpi-num" style="color:${errAtuais > 0 ? 'var(--danger)' : 'var(--success)'};">${errAtuais}</div>
+        <div style="font-size:0.82rem;color:var(--muted);">Banco total: ${BANCO.length} questões FGV</div>
+      </div>
+    </div>
+    <div class="comment-box" style="margin-top:14px;">
+      <strong>Foco Prioritário Recomendado Agora:</strong><br>
+      <span>${focoPrincipal}</span>
+    </div>
+  `;
+}
+
+function iniciarSimulado() {
+  const modo = document.getElementById('cfg-modo').value;
+  const eixo = document.getElementById('cfg-eixo').value;
+  const qtd = parseInt(document.getElementById('cfg-qtd').value, 10) || 10;
+  const imediato = document.getElementById('cfg-imediato').checked;
+
+  let pool = BANCO.filter(q => eixo === 'TODOS' || q.eixo_cod === eixo);
+  if (pool.length === 0) pool = [...BANCO];
+
+  // Embaralhar
+  pool = [...pool].sort(() => Math.random() - 0.5);
+
+  if (modo === 'mini_inteligente') {
+    const mapaIpe = {};
+    DIAGNOSTICO.eixos.forEach(e => { mapaIpe[e.codigo] = e.indice_prioridade; });
+    pool.sort((a, b) => {
+      const errA = (a.tentativas > 0 && !a.ultimo_acerto) ? 1 : 0;
+      const errB = (b.tentativas > 0 && !b.ultimo_acerto) ? 1 : 0;
+      if (errA !== errB) return errB - errA;
+      const naoRespA = a.tentativas === 0 ? 1 : 0;
+      const naoRespB = b.tentativas === 0 ? 1 : 0;
+      if (naoRespA !== naoRespB) return naoRespB - naoRespA;
+      return (mapaIpe[b.eixo_cod] || 50) - (mapaIpe[a.eixo_cod] || 50);
+    });
+  } else if (modo === 'padrao_enare' && eixo === 'TODOS') {
+    const gerais = pool.filter(q => q.competencia.includes('Gerais'));
+    const espec = pool.filter(q => !q.competencia.includes('Gerais'));
+    const nGerais = Math.max(1, Math.round(qtd * 0.2));
+    const nEspec = Math.max(1, qtd - nGerais);
+    pool = [...gerais.slice(0, nGerais), ...espec.slice(0, nEspec)];
+  }
+
+  const selecionadas = modo === 'todas' ? pool : pool.slice(0, qtd);
+  comecarQuiz(selecionadas, modo, imediato);
+}
+
+function iniciarRevisaoErros() {
+  const erros = BANCO.filter(q => q.tentativas > 0 && !q.ultimo_acerto);
+  if (erros.length === 0) {
+    alert("Você não possui questões pendentes no Caderno de Erros! Iniciando um Mini Simulado Inteligente de 10 questões.");
+    document.getElementById('cfg-modo').value = 'mini_inteligente';
+    iniciarSimulado();
+    return;
+  }
+  comecarQuiz(erros, "Revisão de Erros", true);
+}
+
+function comecarQuiz(questoes, modo, imediato) {
+  if (QUIZ.timerId) clearInterval(QUIZ.timerId);
+  QUIZ = {
+    questoes,
+    respostas: {},
+    duvidas: {},
+    atual: 0,
+    inicioMs: Date.now(),
+    timerId: null,
+    modo,
+    imediato
+  };
+  QUIZ.timerId = setInterval(() => {
+    const s = Math.floor((Date.now() - QUIZ.inicioMs) / 1000);
+    const mm = String(Math.floor(s / 60)).padStart(2, '0');
+    const ss = String(s % 60).padStart(2, '0');
+    document.getElementById('q-timer').textContent = `Tempo: ${mm}:${ss}`;
+  }, 1000);
+
+  mostrarAba('quiz');
+  renderizarQuestaoAtual();
+}
+
+function renderizarQuestaoAtual() {
+  const q = QUIZ.questoes[QUIZ.atual];
+  document.getElementById('q-badge-comp').textContent = q.competencia;
+  document.getElementById('q-badge-eixo').textContent = q.eixo_nome;
+  document.getElementById('q-header').textContent = `Questão ${QUIZ.atual + 1} de ${QUIZ.questoes.length} — (${q.prova} • Q.${q.numero_original})`;
+  document.getElementById('q-subtema').textContent = `Subtema: ${q.subtema}`;
+  document.getElementById('q-enunciado').textContent = q.enunciado;
+
+  const dots = document.getElementById('q-dots');
+  dots.innerHTML = '';
+  QUIZ.questoes.forEach((item, idx) => {
+    const b = document.createElement('button');
+    b.className = 'q-dot' +
+      (QUIZ.respostas[item.id] ? ' answered' : '') +
+      (idx === QUIZ.atual ? ' current' : '') +
+      (QUIZ.duvidas[item.id] ? ' flagged' : '');
+    b.textContent = idx + 1;
+    b.onclick = () => { QUIZ.atual = idx; renderizarQuestaoAtual(); };
+    dots.appendChild(b);
+  });
+
+  const letras = ['A', 'B', 'C', 'D', 'E'];
+  const marcada = QUIZ.respostas[q.id];
+  const opcoesDiv = document.getElementById('q-opcoes');
+  opcoesDiv.innerHTML = '';
+
+  q.alternativas.forEach((texto, idx) => {
+    const L = letras[idx];
+    const btn = document.createElement('button');
+    let cls = 'option-btn';
+    if (marcada === L) cls += ' selected';
+    if (QUIZ.imediato && marcada) {
+      if (L === q.gabarito) cls += ' correct';
+      else if (L === marcada && marcada !== q.gabarito) cls += ' wrong';
+    }
+    btn.className = cls;
+    btn.innerHTML = `<span class="opt-letter">${L}</span><span>${texto}</span>`;
+    btn.onclick = () => selecionarAlternativa(q.id, L);
+    opcoesDiv.appendChild(btn);
+  });
+
+  const fb = document.getElementById('q-feedback-imediato');
+  if (QUIZ.imediato && marcada) {
+    const acertou = marcada === q.gabarito;
+    fb.classList.remove('hidden');
+    fb.innerHTML = `
+      <div style="font-weight:700;color:${acertou ? 'var(--success)' : 'var(--danger)'};margin-bottom:6px;">
+        ${acertou ? '✓ Resposta Correta!' : `✗ Você marcou (${marcada}) — Gabarito Oficial FGV: (${q.gabarito})`}
+      </div>
+      <div><strong>Comentário Técnico:</strong> ${q.comentario}</div>
+      <div style="margin-top:6px;font-size:0.84rem;color:var(--muted);">
+        <strong>Diretriz de Foco:</strong> ${q.trilha} | <a href="${q.fonte_url}" target="_blank">Ver Caderno Oficial FGV</a>
+      </div>
+    `;
+  } else {
+    fb.classList.add('hidden');
+  }
+}
+
+function selecionarAlternativa(idQuestao, letra) {
+  QUIZ.respostas[idQuestao] = letra;
+  renderizarQuestaoAtual();
+}
+
+function alternarRevisao() {
+  const q = QUIZ.questoes[QUIZ.atual];
+  QUIZ.duvidas[q.id] = !QUIZ.duvidas[q.id];
+  renderizarQuestaoAtual();
+}
+
+function navegarQuestao(delta) {
+  const novo = QUIZ.atual + delta;
+  if (novo >= 0 && novo < QUIZ.questoes.length) {
+    QUIZ.atual = novo;
+    renderizarQuestaoAtual();
+  }
+}
+
+async function finalizarSimulado() {
+  if (QUIZ.timerId) clearInterval(QUIZ.timerId);
+  const tempo_s = Math.floor((Date.now() - QUIZ.inicioMs) / 1000);
+  const payload = {
+    modo: QUIZ.modo,
+    tempo_s,
+    respostas: QUIZ.questoes.map(q => ({
+      id: q.id,
+      marcada: QUIZ.respostas[q.id] || '-'
+    })).filter(r => r.marcada !== '-')
+  };
+
+  await fetch('/api/submeter', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(payload)
+  });
+
+  await carregarDados();
+  renderizarResultadoSimulado(tempo_s);
+  mostrarAba('resultado');
+}
+
+function renderizarResultadoSimulado(tempo_s) {
+  let acertos = 0;
+  const errosPorEixo = {};
+
+  QUIZ.questoes.forEach(q => {
+    const m = QUIZ.respostas[q.id] || '-';
+    if (m === q.gabarito) acertos++;
+    else {
+      errosPorEixo[q.eixo_nome] = (errosPorEixo[q.eixo_nome] || 0) + 1;
+    }
+  });
+
+  const total = QUIZ.questoes.length;
+  const perc = ((acertos / total) * 100).toFixed(1);
+  const eixosCriticos = Object.entries(errosPorEixo).sort((a, b) => b[1] - a[1]);
+
+  let htmlFoco = '';
+  if (eixosCriticos.length > 0) {
+    htmlFoco = `<div class="comment-box" style="margin-top:12px;border-left-color:var(--danger);">
+      <strong>No que focar a partir deste simulado (Eixos com mais erros):</strong>
+      <ul style="margin-top:6px;padding-left:20px;">
+        ${eixosCriticos.map(([nome, qtd]) => `<li><strong>${nome}</strong>: ${qtd} erro(s) nesta bateria</li>`).join('')}
+      </ul>
+    </div>`;
+  }
+
+  document.getElementById('res-sumario').innerHTML = `
+    <div class="kpi-num" style="color:${perc >= 70 ? 'var(--success)' : 'var(--warning)'};">
+      ${acertos} / ${total} acertos (${perc}%)
+    </div>
+    <p style="color:var(--muted);">Tempo total: ${tempo_s} segundos</p>
+    ${htmlFoco}
+  `;
+
+  const lista = document.getElementById('res-lista-questoes');
+  lista.innerHTML = '';
+  QUIZ.questoes.forEach((q, idx) => {
+    const m = QUIZ.respostas[q.id] || 'Não respondida';
+    const acertou = m === q.gabarito;
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.style.marginBottom = '14px';
+    card.style.borderLeft = `5px solid ${acertou ? 'var(--success)' : 'var(--danger)'}`;
+    card.innerHTML = `
+      <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:8px;">
+        <strong>Questão ${idx + 1} (${q.prova} - Q.${q.numero_original}) — ${q.subtema}</strong>
+        <span class="badge ${acertou ? 'badge-ok' : 'badge-crit'}">
+          ${acertou ? `✓ Acertou (${q.gabarito})` : `✗ Marcou (${m}) | Gabarito: (${q.gabarito})`}
+        </span>
+      </div>
+      <p style="font-size:0.94rem;margin-bottom:10px;white-space:pre-line;">${q.enunciado}</p>
+      <p style="font-size:0.9rem;color:#86efac;margin-bottom:8px;">
+        <strong>Alternativa Correta (${q.gabarito}):</strong> ${q.alternativas[q.gabarito.charCodeAt(0) - 65]}
+      </p>
+      <div class="comment-box">
+        <strong>Por que (${q.gabarito}) está correta:</strong> ${q.comentario}<br>
+        <span style="font-size:0.84rem;color:var(--muted);"><strong>O que revisar:</strong> ${q.trilha} • <a href="${q.fonte_url}" target="_blank">Fonte Oficial FGV</a></span>
+      </div>
+    `;
+    lista.appendChild(card);
+  });
+}
+
+function renderizarDiagnosticoFoco() {
+  const div = document.getElementById('lista-diagnostico-eixos');
+  div.innerHTML = '';
+  DIAGNOSTICO.eixos.forEach(e => {
+    let badgeClass = 'badge-info', badgeText = 'Ainda Não Avaliado';
+    if (e.nivel_alerta === 'CRITICO') { badgeClass = 'badge-crit'; badgeText = 'Prioridade Crítica — Estudar Agora'; }
+    else if (e.nivel_alerta === 'ATENCAO') { badgeClass = 'badge-warn'; badgeText = 'Atenção — Revisão Direcionada'; }
+    else if (e.nivel_alerta === 'CONSOLIDADO') { badgeClass = 'badge-ok'; badgeText = 'Domínio Consolidado'; }
+
+    const item = document.createElement('div');
+    item.className = 'card';
+    item.style.marginBottom = '14px';
+    item.innerHTML = `
+      <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;">
+        <h3>${e.nome}</h3>
+        <span class="badge ${badgeClass}">${badgeText}</span>
+      </div>
+      <div class="progress-bar">
+        <div class="progress-fill" style="width:${e.taxa_acerto}%;background:${e.taxa_acerto < 60 ? 'var(--danger)' : (e.taxa_acerto < 78 ? 'var(--warning)' : 'var(--success)')};"></div>
+      </div>
+      <div style="font-size:0.86rem;color:var(--muted);display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;">
+        <span>Aproveitamento: <strong>${e.taxa_acerto}%</strong> (${e.acertos}/${e.respondidas} respostas | ${e.erros} erros)</span>
+        <span>Questões no banco: ${e.total_banco} | Índice de Prioridade (IPE): <strong>${e.indice_prioridade}</strong></span>
+      </div>
+      <div class="comment-box" style="margin-top:10px;">
+        <strong>Roteiro de Estudo Recomendado:</strong> ${e.trilha}
+      </div>
+    `;
+    div.appendChild(item);
+  });
+}
+
+function renderizarCadernoErros() {
+  const div = document.getElementById('lista-caderno-erros');
+  const erros = BANCO.filter(q => q.tentativas > 0 && !q.ultimo_acerto);
+  if (erros.length === 0) {
+    div.innerHTML = `<div class="card"><p style="color:var(--muted);">Nenhum erro pendente no momento. Realize um simulado ou mini simulado para popular seu diagnóstico de erros!</p></div>`;
+    return;
+  }
+  div.innerHTML = '';
+  erros.forEach(q => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.style.marginBottom = '14px';
+    card.style.borderLeft = '4px solid var(--danger)';
+    card.innerHTML = `
+      <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:8px;">
+        <strong>${q.prova} (Q.${q.numero_original}) — ${q.eixo_nome}</strong>
+        <span class="badge badge-crit">Última marcação: (${q.ultima_marcacao}) | Correta: (${q.gabarito})</span>
+      </div>
+      <p style="font-size:0.85rem;color:var(--muted);margin-bottom:8px;">Subtema: ${q.subtema}</p>
+      <p style="white-space:pre-line;font-size:0.95rem;margin-bottom:10px;">${q.enunciado}</p>
+      <p style="font-size:0.9rem;color:#86efac;margin-bottom:8px;">
+        <strong>Gabarito Oficial (${q.gabarito}):</strong> ${q.alternativas[q.gabarito.charCodeAt(0) - 65]}
+      </p>
+      <div class="comment-box">
+        <strong>Comentário:</strong> ${q.comentario}<br>
+        <span style="font-size:0.84rem;color:var(--muted);"><strong>Foco de revisão:</strong> ${q.trilha}</span>
+      </div>
+    `;
+    div.appendChild(card);
+  });
+}
+
+async function resetarProgresso() {
+  if (!confirm("Deseja realmente zerar todo o seu histórico de simulados e estatísticas?")) return;
+  await fetch('/api/resetar', { method: 'POST' });
+  await carregarDados();
+}
+
+window.addEventListener('keydown', (e) => {
+  if (document.getElementById('aba-quiz').classList.contains('hidden')) return;
+  const key = e.key.toUpperCase();
+  const q = QUIZ.questoes[QUIZ.atual];
+  if (!q) return;
+  if (['A', 'B', 'C', 'D', 'E'].includes(key)) selecionarAlternativa(q.id, key);
+  else if (['1', '2', '3', '4', '5'].includes(key)) {
+    const L = ['A', 'B', 'C', 'D', 'E'][parseInt(key, 10) - 1];
+    selecionarAlternativa(q.id, L);
+  } else if (e.key === 'ArrowRight') navegarQuestao(1);
+  else if (e.key === 'ArrowLeft') navegarQuestao(-1);
+});
+
+carregarDados();
+</script>
+</body>
+</html>
