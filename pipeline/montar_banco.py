@@ -49,8 +49,8 @@ def validar(qs, topicos_ids=None):
 
 # Afirmativas "I. ... II. ..." começam em linha própria (só se o texto tem I e II em sequência).
 _AFIRM = re.compile(r"(?<=[.:;?!)])\s+(?=(?:I{1,3}|IV|V|VI)\.\s+[A-ZÀ-Ú\"“])")
-# Comentário por alternativa: "Errada. x", "Correta. x", "(B) Incorreta. x" viram "Errada: x" / "Correta: x".
-_PREFIXO = re.compile(r"^(?:\([A-E]\)\s*)?(Errada|Incorreta|Correta)\.\s+")
+# Comentário por alternativa: "Errada. x", "Incorreta: x", "(B) Incorreta. x" viram "Errada: x" / "Correta: x".
+_PREFIXO = re.compile(r"^(?:\([A-E]\)\s*)?(Errada|Incorreta|Correta)[.:]\s+")
 
 
 def limpar_questao(q):

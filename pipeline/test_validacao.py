@@ -80,13 +80,6 @@ def test_comentar_com_cliente_falso():
         assert len(list(Path(d).glob("*.json"))) == 1  # 1 requisição, em cache
 
 
-if __name__ == "__main__":
-    for nome, f in list(globals().items()):
-        if nome.startswith("test_"):
-            f()
-    print("ok")
-
-
 def test_limpar_questao():
     from montar_banco import limpar_questao
     e = "Sobre X: I. Um. II. Dois. III. Três. Assinale."
@@ -98,3 +91,10 @@ def test_limpar_questao():
     assert limpar_questao(r) == r  # idempotente
     sem = q("x-002", enunciado="Atuou no CAPS II. Qual foi o procedimento?")
     assert limpar_questao(sem)["enunciado"] == sem["enunciado"]
+
+
+if __name__ == "__main__":
+    for nome, f in list(globals().items()):
+        if nome.startswith("test_"):
+            f()
+    print("ok")

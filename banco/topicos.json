@@ -11,7 +11,7 @@
   "item": "1.2",
   "nome": "Sistema Único de Saúde (SUS): Princípios, diretrizes legislações estruturantes (Lei nº 8.080/1990, Lei nº 8.142/1990 e Decreto nº 7.508/2011); organização e funcionamento; controle social",
   "parte": "gerais",
-  "curto": "SUS: princípios e organização"
+  "curto": "SUS: princípios, leis, controle social"
  },
  {
   "id": "edital-1.3",
@@ -88,14 +88,14 @@
   "item": "13.1",
   "nome": "Atuação do psicólogo e suas especialidades. Atuação em equipe multiprofissional",
   "parte": "especificos",
-  "curto": "Atuação do psicólogo"
+  "curto": "Atuação e especialidades do psicólogo"
  },
  {
   "id": "edital-13.2",
   "item": "13.2",
   "nome": "Avaliação psicológica no contexto ambulatorial, hospitalar e domiciliar",
   "parte": "especificos",
-  "curto": "Avaliação ambulatorial e hospitalar"
+  "curto": "Avaliação psicológica hospitalar e ambulatorial"
  },
  {
   "id": "edital-13.3",
@@ -123,7 +123,7 @@
   "item": "13.6",
   "nome": "Ética profissional do psicólogo",
   "parte": "especificos",
-  "curto": "Ética profissional"
+  "curto": "Ética no exercício profissional"
  },
  {
   "id": "edital-13.7",
@@ -172,7 +172,7 @@
   "item": "13.13",
   "nome": "Saúde mental e atenção psicossocial. Teorias e técnicas psicoterápicas",
   "parte": "especificos",
-  "curto": "Saúde mental e psicoterapias"
+  "curto": "Atenção psicossocial e psicoterapias"
  },
  {
   "id": "edital-13.14",
@@ -193,14 +193,14 @@
   "item": "13.16",
   "nome": "Avaliação psicológica para procedimentos em saúde",
   "parte": "especificos",
-  "curto": "Avaliação para procedimentos"
+  "curto": "Avaliação psicológica para procedimentos"
  },
  {
   "id": "edital-13.17",
   "item": "13.17",
   "nome": "Psicologia nas redes de atenção à saúde e linha de cuidado",
   "parte": "especificos",
-  "curto": "Psicologia nas redes"
+  "curto": "Linha de cuidado (psicologia)"
  },
  {
   "id": "edital-13.18",
@@ -242,7 +242,7 @@
   "item": "13.23",
   "nome": "Código de Ética Profissional do Psicólogo",
   "parte": "especificos",
-  "curto": "Código de Ética"
+  "curto": "Código de Ética do Psicólogo"
  },
  {
   "id": "edital-13.24",
@@ -284,7 +284,7 @@
   "item": "13.29",
   "nome": "Suicídio: fatores de risco e intervenções. Teorias psicológicas da vida adulta e envelhecimento",
   "parte": "especificos",
-  "curto": "Suicídio e envelhecimento"
+  "curto": "Suicídio; adulto e idoso"
  },
  {
   "id": "edital-13.30",

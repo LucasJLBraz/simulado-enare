@@ -47,8 +47,8 @@ export function miniSetup({ params }) {
         if (!confirmarNova()) return;
         ctx.salvar();
         const fila = sortear(p, vistos, n).map((q) => q.id);
-        const nome = c.topico === 'misturado' ? 'Misturado' : curto(ctx.topicos.find((t) => t.id === c.topico));
-        iniciar({ tipo: 'mini', titulo: `Mini-simulado: ${nome}`, fila, feedback: c.feedback, totalSeg: c.timer ? fila.length * 180 : null });
+        const nome = c.topico === 'misturado' ? 'misturado' : curto(ctx.topicos.find((t) => t.id === c.topico));
+        iniciar({ tipo: 'mini', titulo: `Mini-simulado ${nome}`, fila, feedback: c.feedback, totalSeg: c.timer ? fila.length * 180 : null });
         ctx.ir('#/questao');
       } }, `Começar com ${n} ${n === 1 ? 'questão' : 'questões'}`),
       h('a', { class: 'btn', href: '#/' }, 'Voltar')));

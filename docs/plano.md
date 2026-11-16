@@ -59,7 +59,7 @@ O código Rust antigo vai para `legado/rust/`.
 - **Questão de apostila**: só entra quando a opção está ligada e sempre com selo.
 - **Ritmo**: tempo por questão guardado e comparado ao tempo da prova por questão.
 - **Comentário**: botões confirmar e contestar. "Enviar minhas marcações" gera um arquivo com contestações e progresso.
-- **Telas**: início com revisão do dia em destaque, mini-simulado, simulado completo, O que estudar. Onboarding de 4 telas. Lembrete diário com horário ajustável.
+- **Telas**: início com revisão do dia em destaque, mini-simulado, simulado completo, O que estudar. Onboarding de 5 telas. Lembrete diário com horário ajustável.
 
 ## Conferência
 

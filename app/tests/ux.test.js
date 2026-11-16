@@ -71,11 +71,12 @@ test('antes e depois por tópico: janela de 2 semanas e mínimo de 5 respostas',
   const recentes = ['2026-05-20', '2026-05-25', '2026-05-26', '2026-05-27', '2026-05-30'].map((d) => R(d, true));
   const qs = [Q('1'), Q('2', 'b'), { ...Q('3'), origem: { tipo: 'apostila' } }];
   const ad = antesDepois(qs, { 1: { respostas: [...antigas, ...recentes] }, 2: { respostas: recentes.slice(0, 4) }, 3: { respostas: recentes } }, hoje);
-  assert.equal(ad.a.antes, 14); // (0+1)/(5+2)
-  assert.equal(ad.a.depois, 86); // (5+1)/(5+2)
-  assert.equal(fraseAntesDepois(ad.a), '14% → 86%');
+  assert.equal(ad.a.antes, 0); // 0 de 5 certas
+  assert.equal(ad.a.depois, 100);
+  assert.equal(fraseAntesDepois(ad.a), 'acertava 0%, agora acerta 100%');
   assert.equal(ad.b.depois, null); // 4 respostas: sem porcentagem
-  assert.equal(fraseAntesDepois(ad.b), 'poucas questões ainda');
+  assert.equal(fraseAntesDepois(ad.b), 'ainda sem 2 semanas de histórico'); // nada com mais de 2 semanas
+  assert.equal(fraseAntesDepois({ nAntes: 2, antes: null, depois: 80 }), 'poucas questões ainda');
   assert.equal(ad.a.n, 10); // apostila fora
   // limite da janela: 13 dias atrás ainda é recente, 14 já é antes
   const lim = antesDepois([Q('1')], { 1: { respostas: [R('2026-05-17', true), R('2026-05-16', true)] } }, hoje);
@@ -89,7 +90,7 @@ test('rótulo só com 5 respostas, resumo por tópico e linha do Início', () =>
   const itens = [{ qid: '1', resp: 'A', certo: false }, { qid: '2', resp: 'A', certo: true }, { qid: '3', resp: null }];
   assert.deepEqual(resumoPorTopico(itens, porId), [{ id: 'a', n: 2, acertos: 1 }]);
   assert.match(fraseProgresso({}, H), /depois das primeiras respostas/);
-  assert.equal(fraseProgresso({ a: { respostas: [R(H, false)] } }, H), 'Nas últimas 2 semanas você respondeu 1 questão. Erros com certeza corrigidos: 0.');
+  assert.equal(fraseProgresso({ a: { respostas: [R(H, false)] } }, H), 'Nas últimas 2 semanas você respondeu 1 questão. Você corrigiu 0 erros que cometeu com certeza. Ainda faltam corrigir 1.');
 });
 
 test('estado antigo continua abrindo', () => {
@@ -98,4 +99,9 @@ test('estado antigo continua abrindo', () => {
   assert.deepEqual(n.revisaoHoje, { data: null, feitas: 0 });
   assert.equal(n.config.ocultarRelogio, false);
   assert.equal(n.config.dataProva, '2026-12-01');
+});
+
+test('motivo com menos de 5 respostas não fala em taxa de erro', async () => {
+  const { motivo } = await import('../www/logica/dominio.js');
+  assert.equal(motivo({ peso: 0.16, n: 2, erro: 1 }), 'cai 16% da prova e você respondeu só 2');
 });

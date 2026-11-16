@@ -19,14 +19,14 @@ export function vencidasHoje(hoje) {
 // Começar sessão nova com outra pausada pede confirmação.
 export function confirmarNova() {
   const s = ctx.estado.sessao;
-  return !s || confirm(`Você tem uma sessão pausada (${s.titulo}). Começar outra descarta essa, e as respostas já dadas continuam salvas. Continuar?`);
+  return !s || confirm(`Você tem uma sessão em andamento (${s.titulo}). Começar outra descarta essa, e as respostas já dadas continuam salvas. Continuar?`);
 }
 
 // Antes e depois do tópico: duas barras ou "poucas questões ainda".
 export function blocoAntesDepois(ad) {
   if (!ad || ad.antes == null || ad.depois == null) return h('p', { class: 'suave' }, `Antes e depois: ${fraseAntesDepois(ad)}.`);
   const linha = (r, v) => h('div', { class: 'linha-barra' }, h('span', { class: 'suave' }, r), h('div', { class: 'barra' }, h('div', { style: `width:${v}%` })), h('span', {}, `${v}%`));
-  return h('div', {}, h('p', { class: 'suave' }, `Domínio antes e nas últimas 2 semanas: ${fraseAntesDepois(ad)}.`), linha('Antes', ad.antes), linha('Agora', ad.depois));
+  return h('div', {}, linha('Acertava', ad.antes), linha('Acerta agora', ad.depois));
 }
 
 // Gabarito, comentário por alternativa (só da marcada e da correta; as outras ficam recolhidas),
@@ -44,9 +44,7 @@ export function cartaoGabarito(q, resp) {
       h('div', { class: 'linha' },
         h('button', { class: 'btn' + (conf ? ' marcado' : ''), onclick: agir(conf ? 'limpar' : 'confirmar') }, conf ? 'Marcado: o comentário me ajudou' : 'O comentário me ajudou'),
         h('button', { class: 'btn' + (contest ? ' perigo marcado' : ''), onclick: agir(contest ? 'limpar' : 'contestar') }, contest ? 'Marcado: acho que está errado' : 'Acho que o comentário está errado')),
-      h('p', { class: 'suave' }, contest || conf
-        ? 'Toque de novo no botão para desfazer.'
-        : 'A sua marca fica guardada neste aparelho e segue no arquivo de "Enviar minhas marcações", em Ajustes. Comentário marcado como errado é refeito na próxima atualização do banco.')));
+      (contest || conf) && h('p', { class: 'suave' }, (contest ? 'Marcado. O comentário será refeito na próxima atualização do banco.' : 'Marca guardada.') + ' Toque de novo para desfazer.')));
   };
   pintar();
   const alt = (i) => {

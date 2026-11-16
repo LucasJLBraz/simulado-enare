@@ -49,5 +49,6 @@ export function diagnostico(questoes, topicos, progresso, { apostila = false } =
 export function motivo(t) {
   const cai = Math.round(t.peso * 100);
   if (t.erro == null) return `cai ${cai}% da prova e você ainda não respondeu nenhuma questão`;
+  if (t.n < 5) return `cai ${cai}% da prova e você respondeu só ${t.n}`;
   return `cai ${cai}% da prova e você erra ${Math.round(t.erro * 100)}%`;
 }

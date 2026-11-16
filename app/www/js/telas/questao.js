@@ -36,7 +36,8 @@ export function questao() {
     if (rest != null) {
       relogio.textContent = `Restam ${fmtSeg(rest)}`;
       relogio.className = 'relogio' + (rest <= 600 ? ' fim' : '');
-      for (const l of avisosPendentes(rest, s.totalSeg, s.avisos)) {
+      // Avisos de tempo só aparecem com o relógio à vista.
+      if (!ctx.estado.config.ocultarRelogio) for (const l of avisosPendentes(rest, s.totalSeg, s.avisos)) {
         s.avisos.push(l); ctx.salvar();
         avisar(`Faltam ${l / 60} minutos`);
       }

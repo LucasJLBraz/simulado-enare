@@ -1,11 +1,11 @@
 // Progresso: antes e depois por tópico, erros com certeza corrigidos e resumo por tópico de uma sessão.
-import { dominio, ehOficial } from './dominio.js';
+import { ehOficial } from './dominio.js';
 import { diasEntre } from './revisao.js';
 
 export const JANELA_DIAS = 14;
 export const MIN_RESPOSTAS = 5;
 
-// Por tópico: domínio nas últimas 2 semanas (depois) contra tudo o que veio antes (antes), só questões oficiais.
+// Por tópico: taxa de acerto nas últimas 2 semanas (depois) contra tudo o que veio antes (antes), só questões oficiais.
 // Com menos de 5 respostas numa das partes não há porcentagem (null).
 export function antesDepois(questoes, progresso, hoje) {
   const porId = new Map(questoes.map((q) => [q.id, q]));
@@ -18,9 +18,9 @@ export function antesDepois(questoes, progresso, hoje) {
       (diasEntre(r.quando, hoje) < JANELA_DIAS ? x.depois : x.antes).push(r);
     }
   }
-  const pct = (rs) => (rs.length >= MIN_RESPOSTAS ? Math.round(dominio(rs) * 100) : null);
+  const pct = (rs) => (rs.length >= MIN_RESPOSTAS ? Math.round((rs.filter((r) => r.certo).length / rs.length) * 100) : null);
   return Object.fromEntries(Object.entries(t).map(([k, x]) =>
-    [k, { n: x.antes.length + x.depois.length, antes: pct(x.antes), depois: pct(x.depois) }]));
+    [k, { n: x.antes.length + x.depois.length, nAntes: x.antes.length, antes: pct(x.antes), depois: pct(x.depois) }]));
 }
 
 // Erro com certeza corrigido: depois de errar com certeza, a mesma questão é acertada com certeza.
@@ -43,9 +43,9 @@ const plural = (n, um, varios) => `${n} ${n === 1 ? um : varios}`;
 export function fraseProgresso(progresso, hoje) {
   let n = 0;
   for (const p of Object.values(progresso)) for (const r of p.respostas || []) if (diasEntre(r.quando, hoje) < JANELA_DIAS) n++;
-  const { corrigidos } = errosCorrigidos(progresso);
-  if (!n && !corrigidos) return 'Seu progresso aparece aqui depois das primeiras respostas.';
-  return `Nas últimas 2 semanas você respondeu ${plural(n, 'questão', 'questões')}. Erros com certeza corrigidos: ${corrigidos}.`;
+  const { corrigidos, pendentes } = errosCorrigidos(progresso);
+  if (!n && !corrigidos && !pendentes) return 'Seu progresso aparece aqui depois das primeiras respostas.';
+  return `Nas últimas 2 semanas você respondeu ${plural(n, 'questão', 'questões')}. ${fraseCorrigidos(errosCorrigidos(progresso))}`;
 }
 
 export function fraseCorrigidos({ corrigidos, pendentes }) {
@@ -55,7 +55,8 @@ export function fraseCorrigidos({ corrigidos, pendentes }) {
 
 // Texto do antes e depois de um tópico.
 export function fraseAntesDepois(ad) {
-  return ad && ad.antes != null && ad.depois != null ? `${ad.antes}% → ${ad.depois}%` : 'poucas questões ainda';
+  if (ad && ad.antes != null && ad.depois != null) return `acertava ${ad.antes}%, agora acerta ${ad.depois}%`;
+  return ad && ad.nAntes === 0 ? 'ainda sem 2 semanas de histórico' : 'poucas questões ainda';
 }
 
 // Itens respondidos de uma sessão agrupados por tópico: [{ id, n, acertos }], quem mais perdeu primeiro.

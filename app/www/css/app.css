@@ -95,3 +95,4 @@ summary { min-height: 48px; display: flex; flex-wrap: wrap; gap: 6px; align-item
 .linha-barra span:first-child { width: 3.5em; }
 .linha-barra span:last-child { width: 3em; text-align: right; }
 .item-sessao { display: flex; flex-direction: column; gap: 2px; color: var(--texto); text-decoration: none; }
+.linha-barra span:first-child { width: 6.5em; }
