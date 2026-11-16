@@ -108,3 +108,29 @@ summary.btn { display: block; }
 .link-sess { color: var(--prim); text-decoration: underline; }
 .link-sum::before { content: '▸'; margin-right: 6px; text-decoration: none; display: inline-block; }
 details[open] > .link-sum::before { content: '▾'; }
+
+/* Visual refresh: own palette, softer surfaces, clearer hierarchy (no layout changes). */
+:root { --bg: #f4f2fb; --borda: #e2def0; --prim: #4b3fc4; --sel: #e9e6fb; --sombra: 0 1px 2px rgba(30,20,80,.06), 0 4px 14px rgba(30,20,80,.06); }
+@media (prefers-color-scheme: dark) { :root { --bg: #111018; --card: #1c1a26; --borda: #322e44; --prim: #a99ffb; --prim-t: #14112a; --sel: #2b2650; --sombra: none; } }
+body { font-family: "Inter", "Roboto Flex", Roboto, system-ui, -apple-system, "Segoe UI", sans-serif; letter-spacing: -.005em; }
+h1 { font-size: 1.6rem; font-weight: 800; letter-spacing: -.02em; }
+h2 { font-weight: 700; letter-spacing: -.01em; }
+.card { border-color: transparent; box-shadow: var(--sombra); border-radius: 20px; padding: 18px; }
+.card.destaque { border: 0; box-shadow: inset 4px 0 0 var(--prim), var(--sombra); }
+.btn { border-radius: 14px; transition: transform .08s, filter .15s; }
+.btn:active, .opcao:active, .escolha button:active { transform: scale(.98); }
+.btn.prim { box-shadow: 0 2px 8px color-mix(in srgb, var(--prim) 35%, transparent); }
+.opcao { border-width: 1.5px; box-shadow: var(--sombra); }
+.opcao .letra { display: inline-grid; place-items: center; min-width: 2em; height: 2em; border-radius: 50%; background: var(--sel); color: var(--prim); }
+.opcao.certa .letra { background: var(--ok); color: #fff; }
+.opcao.errada .letra { background: var(--erro); color: #fff; }
+.escolha button { border-width: 1.5px; }
+.escolha button.sel, .opcao.sel { border-color: var(--prim); }
+.badge { font-weight: 700; letter-spacing: .01em; }
+.comentario { background: var(--sel); border-left: 3px solid var(--prim); border-radius: 4px 12px 12px 4px; }
+.barra { height: 10px; background: color-mix(in srgb, var(--borda) 70%, var(--bg)); }
+.barra > div { background: linear-gradient(90deg, var(--prim), color-mix(in srgb, var(--prim) 70%, #2fb7a6)); border-radius: 99px; }
+#nav { border-top: 0; box-shadow: 0 -2px 12px rgba(30,20,80,.06); }
+#nav a.ativo { color: var(--prim); box-shadow: inset 0 3px 0 var(--prim); }
+.topo-questao, .rodape { background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); }
+.faixa { border-width: 0; border-left: 4px solid var(--borda); border-radius: 4px 12px 12px 4px; }
