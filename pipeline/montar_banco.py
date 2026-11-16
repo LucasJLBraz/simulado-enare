@@ -64,6 +64,9 @@ def mesclar(existentes, novas):
         if cn and (not ca or cn.get("versao", 1) > ca.get("versao", 1)):
             atual["comentario"] = cn
             upd += 1
+        if atual.get("gabarito_status") == "provisorio" and n.get("gabarito_status") == "definitivo":
+            atual["gabarito"], atual["gabarito_status"] = n["gabarito"], "definitivo"
+            upd += 1
     return banco, add, upd
 
 

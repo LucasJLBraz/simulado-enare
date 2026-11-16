@@ -1,4 +1,11 @@
 // Pequeno helper de DOM. Texto sempre entra como texto (nunca como HTML).
+// replaceChildren/append imprimem "false" de `cond && el`; frag() descarta esses valores.
+export function frag(...kids) {
+  const f = document.createDocumentFragment();
+  for (const c of kids.flat(9)) if (c != null && c !== false) f.append(c.nodeType ? c : String(c));
+  return f;
+}
+
 export function h(tag, props, ...kids) {
   const e = document.createElement(tag);
   for (const [k, v] of Object.entries(props || {})) {

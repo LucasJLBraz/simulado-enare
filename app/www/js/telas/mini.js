@@ -1,4 +1,4 @@
-import { h } from '../dom.js';
+import { h, frag } from '../dom.js';
 import { ctx } from '../ctx.js';
 import { sortear } from '../../logica/sorteio.js';
 import { iniciar } from '../sessao.js';
@@ -17,7 +17,7 @@ export function miniSetup({ params }) {
     const p = pool();
     const ineditas = p.filter((q) => !vistos.has(q.id)).length;
     const n = Math.max(1, Math.min(c.n, p.length || 1));
-    raiz.replaceChildren(
+    raiz.replaceChildren(frag(
       h('h1', {}, 'Mini-simulado'),
       h('label', { class: 'campo' }, 'Quantas questões?'),
       h('div', { class: 'linha stepper' },
@@ -46,7 +46,7 @@ export function miniSetup({ params }) {
         iniciar({ tipo: 'mini', titulo: `Mini-simulado: ${nome}`, fila, feedback: c.feedback, totalSeg: c.timer ? fila.length * 180 : null });
         ctx.ir('#/questao');
       } }, `Começar com ${n} ${n === 1 ? 'questão' : 'questões'}`),
-      h('a', { class: 'btn', href: '#/' }, 'Voltar'));
+      h('a', { class: 'btn', href: '#/' }, 'Voltar')));
   };
   desenhar();
   return raiz;

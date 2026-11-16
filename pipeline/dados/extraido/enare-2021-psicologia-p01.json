@@ -1,0 +1,1427 @@
+[
+ {
+  "id": "enare-2021-psicologia-p01-001",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 1
+  },
+  "parte": "gerais",
+  "enunciado": "Considerando o contexto da história das políticas de saúde no Brasil, assinale a alternativa que apresenta características pertinentes ao período que corresponde ao final do império e à primeira república.",
+  "alternativas": [
+   "Foi um período baseado no autoritarismo e privatização dos recursos de saúde, visando principalmente fortalecer os moldes capitalistas.",
+   "Teve como momento marcante a criação do INPS em 1946, para racionalização administrativa da assistência médica e cobertura previdenciária.",
+   "Nesse período, havia privilegiamento da prática médica individual, assistencialista e especializada em detrimento às ações de saúde pública que ocorreram a partir de 1974.",
+   "Foi um período apoiado no desenvolvimento de terceirização da prestação de serviços médicos devido à incapacidade da rede própria do Estado em fornecer assistência adequada à saúde.",
+   "Nesse período, os serviços médicos hospitalares estavam nas mãos de entidades filantrópicas, como as Santas Casas, que tinham hospitais em diversas cidades."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 2
+ },
+ {
+  "id": "enare-2021-psicologia-p01-002",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 2
+  },
+  "parte": "gerais",
+  "enunciado": "Na composição originária do movimento sanitário no Brasil, podem ser identificadas três vertentes principais, sendo que a primeira vertente, caracterizada por difundir a teoria da medicina social, é constituída por",
+  "alternativas": [
+   "médicos residentes e renovação estudantil.",
+   "movimento estudantil e centro brasileiro de estudos de saúde.",
+   "profissionais da área de saúde coletiva e academia.",
+   "união nacional de estudantes e movimento Brasil livre.",
+   "liga acadêmica de saúde e movimento liberal estudantil."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 2
+ },
+ {
+  "id": "enare-2021-psicologia-p01-003",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 3
+  },
+  "parte": "gerais",
+  "enunciado": "É possível afirmar que os principais desdobramentos da oitava Conferência Nacional de Saúde foram a constituição da Comissão Nacional da Reforma Sanitária (CNRS) e a conformação do(a)",
+  "alternativas": [
+   "Plenária Nacional de Saúde.",
+   "Pacto pela Saúde.",
+   "Constituição Federal de 1986.",
+   "Norma Operacional de Saúde.",
+   "Aliança Democrática em Saúde."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 2
+ },
+ {
+  "id": "enare-2021-psicologia-p01-004",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 4
+  },
+  "parte": "gerais",
+  "enunciado": "O arranjo institucional do SUS prevê uma série de instâncias de negociação e estabelecimento de pactos, envolvendo diferentes níveis gestores do sistema e diversos segmentos da sociedade. Tal arranjo permite que vários atores – mesmo os não diretamente responsáveis pelo desempenho de funções típicas da gestão dos sistemas – participem do processo decisório sobre a política de saúde. Assim, é possível afirmar que, na estrutura decisória e institucional do SUS, a representação dos gestores na esfera MUNICIPAL se dá por meio do(a)",
+  "alternativas": [
+   "Conass.",
+   "Comissão Bipartite.",
+   "Comam.",
+   "Cosems.",
+   "Comissão Tripartite."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 2
+ },
+ {
+  "id": "enare-2021-psicologia-p01-005",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 5
+  },
+  "parte": "gerais",
+  "enunciado": "As bases legais sobre a participação social no SUS foram promulgadas em 1990 na Lei Orgânica da Saúde (LOS). É importante registrar que a LOS foi editada após importantes vetos do governo em uma atmosfera muito nebulosa quanto à efetivação das conquistas constitucionais. A lei n° 8.080/90 reafirma, no seu artigo 7°, a participação social como um princípio para o SUS e a lei n° 8.142/90, no seu artigo 1°, define que",
+  "alternativas": [
+   "o orçamento da seguridade social destinará ao Sistema Único de Saúde (SUS), de acordo com a receita estimada, os recursos necessários à realização de suas finalidades.",
+   "as ações e serviços públicos de saúde e os serviços privados contratados ou conveniados que integram o Sistema Único de Saúde (SUS) sejam deliberados pelo conselho social de saúde.",
+   "a formulação da política de medicamentos, equipamentos, imunobiológicos e outros insumos de interesse para a saúde e a participação na sua produção fique a cargo do conselho nacional de saúde.",
+   "sem prejuízo das funções do poder legislativo, sejam criados os conselhos e as conferências de saúde como forma de instituição de participação da comunidade na gestão do SUS.",
+   "a assistência às pessoas, por intermédio de ações de promoção, proteção e recuperação da saúde, seja realizada sob fiscalização dos respectivos conselhos de saúde."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 3
+ },
+ {
+  "id": "enare-2021-psicologia-p01-006",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 6
+  },
+  "parte": "gerais",
+  "enunciado": "Os gestores de uma região de saúde realizaram planejamento regional integrado para a elaboração do contrato organizativo da ação pública, que tem a função de definir entre os entes federativos as suas responsabilidades no SUS, sendo um instrumento",
+  "alternativas": [
+   "jurídico que explicita os compromissos pactuados em cada região de saúde.",
+   "de hierarquização dos prestadores de saúde conveniados ao SUS.",
+   "de coleta de dados para o planejamento local de saúde.",
+   "para capacitação dos entes federativos na organização da atenção básica.",
+   "de alocação de recursos centralizado na esfera federal de Governo."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 3
+ },
+ {
+  "id": "enare-2021-psicologia-p01-007",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 7
+  },
+  "parte": "gerais",
+  "enunciado": "Os acadêmicos da residência multiprofissional realizaram, junto aos profissionais das regionais de saúde, um evento para capacitar secretários municipais de saúde sobre o processo de regionalização e explicaram que a regionalização em saúde tem como finalidade",
+  "alternativas": [
+   "implantar políticas de saúde inclusivas e garantir ambiente acolhedor nas unidades de saúde.",
+   "conduzir a implantação dos modelos de atenção em saúde mais adequados à realidade da população.",
+   "organizar os serviços de saúde em cada região, para que as pessoas possam ter acesso a todos os tipos de atendimento ofertados.",
+   "estratificar os níveis de atenção em saúde para garantir principalmente as ações de atenção primária em saúde em cada região.",
+   "delimitar as regiões de saúde para garantir o acesso aos serviços de saúde à população com baixa renda."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 3
+ },
+ {
+  "id": "enare-2021-psicologia-p01-008",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 8
+  },
+  "parte": "gerais",
+  "enunciado": "Atravessamos uma crise sem precedentes na história do Sistema Único de Saúde. Para além dos tantos desafios enfrentados no cotidiano, com a pandemia da covid-19 a situação se agrava, acarretando sobrecarga ainda maior para o sistema de saúde, concretizando a urgência de uma organização do serviço em Redes de Atenção à Saúde (RAS). Assim, como uma das características das RAS, tem-se",
+  "alternativas": [
+   "que o conhecimento e a ação clínica são concentrados nos profissionais, principalmente médicos.",
+   "o aumenta à ênfase nas ações de saúde curativas e que visam à reabilitação.",
+   "que os serviços especializados devem ser desconcentrados para garantir igualdade.",
+   "que a forma de reação do sistema à demanda é reativa e episódica.",
+   "que a coordenação da atenção se dá por meio da atenção primária em saúde."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2021-psicologia-p01-009",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 9
+  },
+  "parte": "gerais",
+  "enunciado": "A queda dos indicadores de incidência, mortalidade e ocupação de leitos de UTI, decorrentes da pandemia da Covid-19, vem configurando um cenário que pode ser resultado do avanço da campanha de vacinação que ocorre no país. Com base no exposto e considerando os conceitos da epidemiologia, qual alternativa refere-se à definição de incidência?",
+  "alternativas": [
+   "Possibilidade de adoecimento por determinado agente, fator de risco ou conjunto de causas.",
+   "Frequência com que surgem novos casos de uma doença em um intervalo de tempo.",
+   "Número de casos existentes de uma doença em um dado momento.",
+   "Taxa de portadores de determinada doença em relação à população susceptível.",
+   "Relação entre frequências atribuídas de determinado evento, sendo que, no numerador, é registrada a frequência absoluta do evento."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2021-psicologia-p01-010",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 10
+  },
+  "parte": "gerais",
+  "enunciado": "Os anos de 2020/2021 foram marcados pela Emergência em Saúde Pública de Importância Internacional (ESPII) decorrente da pandemia de Coronavírus. Nesse contexto, para o enfrentamento das emergências em saúde pública nas diferentes esferas de gestão, o sistema de saúde conta com uma rede integrada de unidades de alerta e resposta, denominada rede",
+  "alternativas": [
+   "Cievs.",
+   "Sinan.",
+   "Sia-SUS.",
+   "Rename.",
+   "Renases."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2021-psicologia-p01-011",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 11
+  },
+  "parte": "gerais",
+  "enunciado": "São competências da Agência Nacional de Vigilância Sanitária (ANVISA), EXCETO",
+  "alternativas": [
+   "coordenar o Sistema Nacional de Vigilância Sanitária.",
+   "gerenciar as Operadoras de Planos de Saúde e a capacidade de qualificação da própria função reguladora em consonância com os preceitos do SUS.",
+   "estabelecer normas e padrões sobre limites de contaminantes, resíduos tóxicos, desinfetantes, metais pesados e outros que envolvam risco à saúde.",
+   "conceder registros de produtos, segundo as normas de sua área de atuação.",
+   "estabelecer normas, propor, acompanhar e executar as políticas, as diretrizes e as ações de vigilância sanitária."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2021-psicologia-p01-012",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 12
+  },
+  "parte": "gerais",
+  "enunciado": "Um grupo de profissionais de saúde, que trabalha em uma Equipe de Saúde da Família e utiliza o modelo explicativo e as ações propostas por Leavell e Clark sobre o potencial das ações no ambiente e nos estilos de vida na prevenção de doenças, sabe que, ao realizar as atividades propostas pela equipe de promoção em saúde, estas ocorrem no período de",
+  "alternativas": [
+   "prevenção secundária.",
+   "proteção específica.",
+   "reabilitação.",
+   "diagnóstico precoce.",
+   "pré-patogênese."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 4
+ },
+ {
+  "id": "enare-2021-psicologia-p01-013",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 13
+  },
+  "parte": "gerais",
+  "enunciado": "A Política Nacional de Atenção Básica tem na Saúde da Família sua estratégia prioritária para expansão e consolidação da Atenção Básica, sendo uma de suas diretrizes",
+  "alternativas": [
+   "a indivisibilidade do cuidado.",
+   "o apoio ambulatorial.",
+   "as ações solidárias.",
+   "a população adscrita.",
+   "a gestão de apoio à infraestrutura."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2021-psicologia-p01-014",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 14
+  },
+  "parte": "gerais",
+  "enunciado": "Os residentes, juntamente com os profissionais do pronto atendimento de um hospital universitário, realizaram um cronograma de atividades para os profissionais do setor, com enfoque na Educação Permanente, a qual",
+  "alternativas": [
+   "é uma estratégia descontínua de capacitação com rupturas no tempo: com cursos periódicos sem sequência constante.",
+   "representa uma continuidade do modelo escolar ou acadêmico, centralizado na atualização de conhecimentos.",
+   "incorpora o ensino e o aprendizado à vida cotidiana das organizações e às práticas sociais e laborais.",
+   "tem enfoque disciplinar, em ambiente didático e baseado em técnicas de transmissão de conhecimento.",
+   "conceitua tecnicamente a prática enquanto campo de aplicação de conhecimentos especializados."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2021-psicologia-p01-015",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 15
+  },
+  "parte": "gerais",
+  "enunciado": "Uma equipe de saúde interdisciplinar desenvolve, em espaços de atenção à saúde mental, uma atuação integrada da equipe, valorizando outros aspectos além do diagnóstico psiquiátrico e da medicação no tratamento dos usuários, que é definida, dentro da Política Nacional de Humanização, como",
+  "alternativas": [
+   "projeto terapêutico singular.",
+   "programa saúde para todos.",
+   "ambiência.",
+   "modelo de gestão em saúde mental.",
+   "práticas integrativas de saúde coletiva."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2021-psicologia-p01-016",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 16
+  },
+  "parte": "gerais",
+  "enunciado": "A discriminação por orientação sexual e por identidade de gênero incide na determinação social da saúde, no processo de sofrimento e adoecimento decorrente do preconceito e do estigma social reservado às populações de lésbicas, gays, bissexuais, travestis e transexuais/outros. Assim, no âmbito do Sistema Único de Saúde (SUS), a Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais (Política Nacional de Saúde Integral LGBT) é instituída pela portaria n°",
+  "alternativas": [
+   "2.537/2003.",
+   "2.132/2006.",
+   "2.221/2008.",
+   "2.836/2011.",
+   "2.754/2015."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2021-psicologia-p01-017",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 17
+  },
+  "parte": "gerais",
+  "enunciado": "Ao realizar a avaliação normativa, ao verificarmos os recursos de uma intervenção, assim como sua organização para saber se os recursos serão suficientes para oferecer o leque completo de serviços prestados, faz-se uma apreciação de",
+  "alternativas": [
+   "processo.",
+   "resultado.",
+   "satisfação.",
+   "objetividade.",
+   "estrutura."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2021-psicologia-p01-018",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 18
+  },
+  "parte": "gerais",
+  "enunciado": "A seguir, são citados alguns conceitos-chave da Classificação Internacional de Segurança do Paciente da Organização Mundial da Saúde. Assinale a alternativa que apresenta corretamente um desses conceitos.",
+  "alternativas": [
+   "Dano – probabilidade de um incidente ocorrer.",
+   "Incidente – comprometimento da estrutura ou função do corpo e/ou qualquer efeito dele oriundo.",
+   "Circunstância Notificável – incidente que atingiu o paciente, mas não causou dano.",
+   "Evento Adverso – incidente que resulta em dano ao paciente.",
+   "Risco – evento ou circunstância que poderia ter resultado, ou resultou, em dano desnecessário ao paciente."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 5
+ },
+ {
+  "id": "enare-2021-psicologia-p01-019",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 19
+  },
+  "parte": "gerais",
+  "enunciado": "O termo “modelo assistencial” é utilizado com diversas variações terminológicas. Uma delas, utilizada por Merhy, é a denominação de “modelo tecnoassistencial” que por sua vez, designa um processo composto por “tecnologias do trabalho em saúde” e a assistência, como uma “tecnologia do cuidado”, operada por três tipos de arranjos tecnológicos, sendo eles as tecnologias:",
+  "alternativas": [
+   "leves, leve-duras e duras.",
+   "compactas, estruturais e reclusas.",
+   "construtivas, distributivas e analistas.",
+   "primárias, secundárias e terciárias.",
+   "rasas, intermediárias e terminais."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2021-psicologia-p01-020",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 20
+  },
+  "parte": "gerais",
+  "enunciado": "Maurício é residente em um hospital público e, na sua atuação profissional, sempre reconheceu seu dever em ajudar o outro, considerando que, maximizando o bem do outro, possivelmente reduziria o mal. Além disso, na sua atuação profissional, sempre foi comprometido a avaliar riscos e benefícios aos quais os seus clientes estão expostos ao se decidir por determinados procedimentos. Pode-se relacionar a atitude de Maurício ao que, em Bioética, se conhece por Princípio do(a)",
+  "alternativas": [
+   "Indiligência.",
+   "Autonomia.",
+   "Equidade.",
+   "Beneficência.",
+   "Não maleficência."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 6
+ },
+ {
+  "id": "enare-2021-psicologia-p01-022",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 22
+  },
+  "parte": "especificos",
+  "enunciado": "Em relação ao movimento da Luta Antimanicomial, é correto afirmar que",
+  "alternativas": [
+   "A Reforma Psiquiátrica defende o cuidado em liberdade priorizando serviços substitutivos, sem negar, todavia, a relevância da instituição hospital psiquiátrico em situações de crise, desde que esse seja humanizado.",
+   "O processo de desinstitucionalização também pode ser denominado como desospitalização, pois de forma literal se refere ao fechamento de hospitais psiquiátricos.",
+   "Suas primeiras experiências emergiram após a 2ª Guerra Mundial das quais se destacam três importantes grupos: a Comunidade Terapêutica e a Psicoterapia Institucional; a Psiquiatria de Setor e a Psiquiatria Preventiva; e a Antipsiquiatria e a Psiquiatria Democrática.",
+   "No processo de desinstitucionalização, as internações psiquiátricas repetidas e de curta duração se configuram como uma estratégia viável à substituição das internações psiquiátricas de longa duração.",
+   "A Contrarreforma Psiquiátrica é um movimento contemporâneo que tem como principal objetivo a continuidade do projeto da Reforma Psiquiátrica, em consonância com seus pressupostos epistemológicos."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2021-psicologia-p01-023",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 23
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a alternativa correta em relação à Política Nacional de Humanização (PNH).",
+  "alternativas": [
+   "Configura-se como um Programa coordenado pela Atenção Básica com diretrizes específicas aos diferentes níveis de atenção.",
+   "Na definição de diretrizes por nível de atenção, estabelece-se a Classificação de Risco na Urgência e Emergência.",
+   "O acolhimento é ferramenta fundamental para a PNH e se refere ao momento inicial de todo atendimento em saúde no qual se inicia a construção do vínculo com o usuário e a apreensão de suas demandas.",
+   "São exemplos de ações que equivalem à PNH: a inserção de terapias integrativas no tratamento, ações de promoção de saúde no território, programa de aleitamento materno e cuidados paliativos, entre outros.",
+   "Ao integrar uma equipe multiprofissional, almeja-se que o profissional de psicologia assuma a responsabilidade por coordenar ações de humanização no cuidado em saúde, considerando as especificidades de sua formação teórica e técnica."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2021-psicologia-p01-024",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 24
+  },
+  "parte": "especificos",
+  "enunciado": "A avaliação psicológica é um processo de investigação de fenômenos psicológicos cujo objetivo é prover informações à tomada de decisões. Qual é a estrutura do documento que deve comunicar o resultado do processo de avaliação psicológica?",
+  "alternativas": [
+   "Identificação; Descrição da demanda; Procedimento; Análise; Conclusão.",
+   "Título; Nome da pessoa ou instituição atendida; Nome do solicitante; Finalidade; Descrição.",
+   "Identificação; Descrição da demanda; Procedimento; Análise; Conclusão; Referências.",
+   "Identificação; Descrição da demanda; Análise; Conclusão; Referências.",
+   "Título; Nome da pessoa atendida; Finalidade; Informações sobre o atendimento."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 7
+ },
+ {
+  "id": "enare-2021-psicologia-p01-025",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 25
+  },
+  "parte": "especificos",
+  "enunciado": "São afirmativas corretas quanto às especificidades da atuação do psicólogo no âmbito hospitalar, EXCETO",
+  "alternativas": [
+   "além do atendimento prestado diretamente ao usuário hospitalizado, o psicólogo também realiza atendimento aos familiares nesse contexto.",
+   "ao identificar uma situação de violência deve realizar a notificação junto ao Sistema de Informação de Agravos de Notificação.",
+   "o atendimento psicológico no âmbito hospitalar é realizado a partir da solicitação da equipe do setor quando esta identifica a necessidade de avaliação e/ou acompanhamento psicológico.",
+   "ao atuar em equipes multiprofissionais o psicólogo deve manter registro do acompanhamento em prontuário multiprofissional.",
+   "o psicólogo tem competência para participar dos Protocolos de Morte Encefálica."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2021-psicologia-p01-026",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 26
+  },
+  "parte": "especificos",
+  "enunciado": "Considerando a estrutura, a organização e o fluxo da Rede de Saúde, assinale a alternativa correta.",
+  "alternativas": [
+   "As Residências Inclusivas são importantes dispositivos do Componente de Estratégia de Desinstitucionalização no âmbito da Rede de Atenção Psicossocial.",
+   "O nível de complexidade da Atenção Básica é classificado como baixo em função da menor complexidade dos casos acompanhados nesse ponto da rede em relação aos outros.",
+   "São alguns dos componentes da Rede de Urgência e Emergência: Serviço Móvel de Urgência e Emergência, Unidade de Pronto Atendimento, Atenção Básica de Saúde, Componente Hospitalar e Componente Domiciliar.",
+   "A Atenção Especializada é ordenadora da rede de saúde devido às suas especificidades e competência na avaliação de riscos, embora todos os pontos da atenção sejam co-responsáveis pelo cuidado dos usuários.",
+   "A partir do instrumento de Estratificação de Risco em Saúde Mental é definido o serviço – de baixa, média ou alta complexidade – que será o responsável pelo cuidado em saúde mental do usuário."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2021-psicologia-p01-027",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 27
+  },
+  "parte": "especificos",
+  "enunciado": "São ações pertinentes à Vigilância em Saúde, EXCETO",
+  "alternativas": [
+   "educação permanente para os profissionais de saúde e ações de reestruturação do trabalho.",
+   "notificação de eventos adversos e queixas técnicas relacionadas a equipamento médico-hospitalar, imunoglobulinas, vacinas, agrotóxicos, entre outros.",
+   "monitoramento esporádico dos principais determinantes de saúde circunscrito a um determinado local e periodicidade.",
+   "ações de prevenção e promoção de saúde no contexto da Atenção Primária em Saúde.",
+   "ações que visam à proteção e à recuperação de saúde de agravos e riscos advindos do trabalho."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 8
+ },
+ {
+  "id": "enare-2021-psicologia-p01-028",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 28
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre a avaliação de riscos em saúde mental, assinale a alternativa correta.",
+  "alternativas": [
+   "A Estratificação de Risco em Saúde Mental deve ser feita por profissionais com formação específica em saúde mental.",
+   "Históricos de violência e de tentativas de suicídio são considerados fatores de risco quando presentes no último ano.",
+   "A família e o uso de psicofármacos são considerados fatores protetivos e o uso de substâncias psicoativas e a deficiência são consideradas fatores de risco.",
+   "A Estratificação de Riscos em Saúde Mental tem como um dos objetivos o diagnóstico que subsidiará a construção do Projeto Terapêutico Singular de forma mais efetiva.",
+   "A avaliação de risco é parte do processo de intervenção psicológica e pode ser realizada sem o uso da Estratificação de Risco em Saúde Mental."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2021-psicologia-p01-029",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 29
+  },
+  "parte": "especificos",
+  "enunciado": "Considere o seguinte relato: “Usuário, 35 anos, busca atendimento na UBS sob a queixa de ‘dificuldades para dormir, episódios de sudorese e aperto no peito’ há cerca de 2 meses. Relata que reside sozinho, trabalha como motorista de transporte público em período integral, não mantém outras atividades nem relações além do trabalho, mantém contato esporádico com sua família. Após o surgimento desses sintomas passou a fazer uso de tabaco em grande quantidade, diariamente”. Diante dessas informações, qual deve ser a conduta da equipe inicialmente de acordo com o princípio da integralidade?",
+  "alternativas": [
+   "Realizar Estratificação de Risco em Saúde Mental e, em caso de médio ou alto risco, realizar encaminhamento para serviço especializado de saúde mental para acompanhamento multiprofissional.",
+   "Realizar encaminhamento para atendimento de psicoterapia na unidade e para consulta médica para que o médico da saúde da família avalie a necessidade de ansiolítico.",
+   "Realizar encaminhamento para avaliação médica a fim de eliminar a hipótese de risco para cardiopatia e em seguida para avaliação psiquiátrica para investigação diagnóstica de transtorno mental.",
+   "Realizar Estratificação de Risco em Saúde Mental e, em caso de baixo risco, inserir o usuário nos programas disponíveis na unidade, como: grupo de tabagismo, grupo de saúde mental e tratamento com ansiolítico.",
+   "Realizar acolhimento, se necessário em mais de um atendimento, a fim de identificar os determinantes da situação de sofrimento psíquico e avaliar riscos."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 9
+ },
+ {
+  "id": "enare-2021-psicologia-p01-030",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 30
+  },
+  "parte": "especificos",
+  "enunciado": "Considere o seguinte relato: “Mãe de criança de 9 anos busca atendimento de psicologia no ambulatório de saúde mental com encaminhamento da escola no qual consta ‘dificuldade de aprendizagem, desatenção, irritabilidade, recusa em realizar as tarefas, não domina a leitura e a escrita’”. Diante da demanda apresentada ao profissional de psicologia no âmbito da saúde, qual das alternativas a seguir apresenta a conduta mais adequada?",
+  "alternativas": [
+   "Realizar avaliação psicológica da criança e, ao final do processo avaliativo, emitir documento pertinente em devolutiva à escola.",
+   "Realizar avaliação psicopedagógica da criança, preferencialmente com a utilização de testes psicométricos, como o Wisc-V, a fim de identificar possível déficit cognitivo, e assim definir o encaminhamento mais adequado.",
+   "Realizar orientação à mãe, propor diálogo com a escola com foco na compreensão do contexto de ensino-aprendizagem e das especificidades do desenvolvimento humano.",
+   "Realizar psicoterapia com a criança considerando sua vivência de sofrimento psíquico diante das dificuldades escolares.",
+   "Encaminhar a criança para avaliação com neuropsicólogo infantil para que ele avalie a necessidade de medicação diante da queixa de déficit de atenção."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2021-psicologia-p01-031",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 31
+  },
+  "parte": "especificos",
+  "enunciado": "Considere o seguinte relato: “Criança nasce de 29 semanas e logo é transferida para a Unidade de Terapia Intensiva Neonatal, seu quadro clínico é considerado gravíssimo. Os pais da criança manifestam importante situação de sofrimento e medo pela perda da filha, expressam importante vínculo com ela. Após duas semanas de internação e inúmeras intervenções clínicas, a equipe médica constata a necessidade de realização de transfusão de sangue na criança em caráter urgente. Ao serem comunicados do fato, os pais da criança se negam alegando que esse procedimento fere os princípios de sua religião, mesmo compreendendo os riscos e a gravidade do quadro da filha, negam-se a aceitar a realização do procedimento. Diante do fato, a equipe médica afirma que não poderá se abster de realizar o procedimento sem o qual a criança terá grandes chances de evoluir a óbito”. Diante da situação, considerando o compromisso ético com a saúde e vida da criança e do vínculo com a família, qual das alternativas a seguir se apresenta como mais adequada para o psicólogo do setor?",
+  "alternativas": [
+   "Apoiar a decisão dos pais por compreender que a religião é um importante fator protetivo da família e que sua crença deve ser respeitada.",
+   "Acionar o serviço social do hospital na tentativa de sensibilizar os pais sobre a importância da realização do procedimento, devendo, em último caso, acionar o Conselho Tutelar como forma de proteger a criança.",
+   "Propor uma intervenção entre a equipe médica e a família na tentativa de solucionar o conflito.",
+   "Incluir a autoridade religiosa no contexto da intervenção com a família e a equipe na busca pela compreensão dos sentidos atribuídos ao procedimento e valores religiosos da família.",
+   "Apoiar a decisão da equipe médica quanto à realização da transfusão dada sua urgência e, posteriormente, acolher as angústias dos pais diante desse conflito."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 10
+ },
+ {
+  "id": "enare-2021-psicologia-p01-032",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 32
+  },
+  "parte": "especificos",
+  "enunciado": "Considere o seguinte relato: “Usuário, 20 anos, primeira internação em leito de hospital geral. Foi encaminhado à Emergência Psiquiátrica pela família após episódio de desorganização, agitação e alucinações visuais e auditivas. Durante o período da internação se mantém calmo e receptivo às abordagens da equipe, verbalizando, todavia, o desejo de ir para casa. Por esse motivo, no 5º dia de internação, apresenta comportamento agitado (anda de um lado para o outro, taquilálico e aumenta o volume da voz) e verbaliza que irá embora em hora determinada naquele mesmo dia. A equipe toda é mobilizada. A enfermeira de plantão opta por iniciar o ‘Protocolo de segurança’, acionando a Guarda Municipal. Aos poucos, todavia, o usuário vai aceitando as intervenções da equipe. Mesmo assim, o dito Protocolo de segurança não é suspenso e ele recebe contenção mecânica e química”. Diante do caso, assinale a alternativa em que apresenta ponderações relevantes ao trabalho em equipe no âmbito da Atenção Psicossocial nessa perspectiva?",
+  "alternativas": [
+   "Em casos de agitação, conforme exemplificado, é recomendável que haja a realização de tais protocolos de segurança como uma forma de preservar a integridade do usuário e da equipe.",
+   "É função e responsabilidade da equipe de enfermagem, nesse contexto, definir pelos protocolos de segurança ao paciente. Todavia é desejável que a equipe possa discutir cada caso a fim de contribuir com as condutas durante a internação.",
+   "A verbalização do desejo de alta hospitalar deve ser compreendida pela equipe como recusa ao tratamento e, portanto, indicativo de piora de seu quadro.",
+   "O caso ilustrativo não representa uma situação na qual há a indicação de contenção mecânica.",
+   "Diante dessa situação, a equipe deveria avaliar a alta do usuário conforme manifestação de seu desejo, preservando assim o princípio da autonomia."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2021-psicologia-p01-033",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 33
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a alternativa correta sobre o acompanhamento/atendimento psicológico no âmbito da Rede de Atenção Psicossocial.",
+  "alternativas": [
+   "Na Unidade de Pronto Atendimento, o psicólogo realiza avaliação dos casos cuja demanda é de saúde mental, como: crise de ansiedade, crise psiquiátrica e tentativa de suicídio.",
+   "Usuários em acompanhamento psicoterápico poderão receber atendimentos psicológicos quando acolhidos em leito ou em internação psiquiátrica se desejarem, sem que isso implique em falta ética, pois o acompanhamento nesses contextos não se configura como psicoterapia clínica.",
+   "O acompanhamento de psicoterapia deve preservar o setting, de modo que, intervenções fora desse contexto, como visitas domiciliares, não são indicadas.",
+   "No contexto de internação psiquiátrica é recomendável que os atendimentos de psicologia sejam realizados com o psiquiatra, na lógica multiprofissional.",
+   "No atendimento à população em situação de rua, o psicólogo intervém principalmente na orientação e sensibilização para o autocuidado e para a redução de danos."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2021-psicologia-p01-034",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 34
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a alternativa INCORRETA sobre o exame do estado mental.",
+  "alternativas": [
+   "São fontes de informação para o exame do estado mental: observação, anamnese, relato de familiares ou outros informantes.",
+   "A partir da realização do exame do estado mental, é possível diagnosticar transtornos mentais.",
+   "O exame do estado mental não é atribuição exclusiva do psicólogo ou do psiquiatra.",
+   "A Escala de Glasgow avalia o nível de consciência e é relevante para o diagnóstico clínico no contexto hospitalar.",
+   "A avaliação das funções psicofisiológicas também é contemplada no exame do estado mental."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 11
+ },
+ {
+  "id": "enare-2021-psicologia-p01-035",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 35
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre o fenômeno do suicídio em interface com a assistência em saúde, assinale a alternativa INCORRETA.",
+  "alternativas": [
+   "Há um aumento significativo das tentativas de suicídio e mortes por suicídio em períodos de crise econômica.",
+   "A atribuição de caráter irracional e injustificado ao ato com intenção suicida se relaciona diretamente com o paradigma da ciência médica.",
+   "Tentativas de suicídio devem ser notificadas ao Sistema Nacional de Informação de Agravos nos serviços de saúde.",
+   "O fenômeno do suicídio é expressão do aumento de casos de transtorno depressivo no mundo, assim como indicam os manuais diagnósticos.",
+   "A epidemiologia das tentativas de suicídio e suicídio revelam importantes determinantes relacionados ao sexo, ao gênero e à sexualidade."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2021-psicologia-p01-036",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 36
+  },
+  "parte": "especificos",
+  "enunciado": "Na compreensão e intervenção dos processos de luto, é correto afirmar que",
+  "alternativas": [
+   "o processo de luto é também um processo adaptativo no qual a intervenção pode auxiliar na construção de novos sentidos para o vínculo com o objeto perdido.",
+   "o foco da intervenção deve se dirigir à duração do luto, pois processos muito estendidos são compreendidos como lutos complicados e podem necessitar de outras intervenções.",
+   "o luto é um processo natural e comum aos que perdem um vínculo importante. A intervenção psicológica pode auxiliar o enlutado a passar pelas fases pré-definidas para a elaboração do luto.",
+   "nas situações de luto antecipatório, a intervenção deve buscar amenizar seus efeitos, uma vez que esse processo é considerado nocivo e eventualmente patológico.",
+   "a intervenção psicológica no processo de luto é centrada na pessoa e tem como principal objetivo a construção de recursos psíquicos para a elaboração da perda, por se tratar de uma vivência singular e pessoal."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2021-psicologia-p01-037",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 37
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a alternativa correta em relação aos pressupostos dos cuidados paliativos.",
+  "alternativas": [
+   "A prática de cuidados paliativos se destina aos casos de adultos ou idosos com doenças ameaçadoras da vida e crônicas, sem possibilidade de reversão ou tratamentos curativos.",
+   "Os cuidados paliativos convergem com o princípio da integralidade da assistência à saúde, contudo sua prática não é normatizada no âmbito do SUS.",
+   "Os cuidados paliativos perpassam o diagnóstico, prognóstico, tratamento e se encerram na ocasião da morte do usuário.",
+   "Opondo-se à ortotanásia, a prática de cuidados paliativos também é denominada eutanásia.",
+   "A prática de cuidados paliativos abrange todos os níveis de atenção em saúde."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2021-psicologia-p01-038",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 38
+  },
+  "parte": "especificos",
+  "enunciado": "Considerando as intervenções com usuário e familiares no contexto dos Cuidados Paliativos, assinale a alternativa correta.",
+  "alternativas": [
+   "Ao avaliar importante sofrimento psíquico e ausência de recursos psíquicos de enfrentamento de familiares, a equipe pode deliberar por resguardar algumas informações relativas ao prognóstico preservado do usuário.",
+   "O conjunto de desejos expresso pelo usuário por meio das Diretivas Antecipadas de vontade é um importante suporte ético, resguardado em Resolução do CFM, na tomada de decisões da equipe.",
+   "As intervenções dos profissionais de psicologia ao usuário e aos familiares não devem, no contexto de cuidados paliativos, serem registradas em prontuário multiprofissional.",
+   "É recomendável que as intervenções diretas às famílias (como grupos de apoio e aconselhamento psicológico) não sejam realizadas pelo mesmo profissional que acompanha o usuário.",
+   "Na intervenção ao(s) familiar(es) cuidador(es), no âmbito domiciliar, não é indicada a abordagem ao luto como forma de não favorecer o desinvestimento no cuidado com o usuário e a angústia da família."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 12
+ },
+ {
+  "id": "enare-2021-psicologia-p01-040",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 40
+  },
+  "parte": "especificos",
+  "enunciado": "A atuação do psicólogo hospitalar no contexto da pandemia por Covid-19 explicitou as potencialidades desse profissional junto às equipes, usuários e familiares. Assinale a alternativa correta a esse respeito.",
+  "alternativas": [
+   "O psicólogo acompanha as famílias dos usuários hospitalizados disponibilizando informações sobre a evolução do quadro clínico e intervenções da equipe multiprofissional.",
+   "Excepcionalmente no contexto da pandemia, foi permitido ao psicólogo prestar acompanhamento psicoterápico à sua equipe de trabalho como forma de promover cuidado com as equipes da linha de frente.",
+   "O psicólogo pode prestar acompanhamento psicoterápico aos familiares de usuários hospitalizados, conforme avaliar a necessidade e a prioridade.",
+   "Foi permitido ao psicólogo, para os casos de maior fragilidade dos familiares, comunicar o óbito como forma de acolher e auxiliar a família na elaboração do luto.",
+   "A realização de visitas aos usuários hospitalizados, por meio das tecnologias da informação e comunicação, requer do profissional importante avaliação da condição do usuário e de familiares, não sendo indicada para todos os casos/momentos."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 13
+ },
+ {
+  "id": "enare-2021-psicologia-p01-041",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 41
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a alternativa correta quanto aos aspectos históricos da constituição da psicologia enquanto ciência e profissão no Brasil.",
+  "alternativas": [
+   "Desde o início de sua constituição, a psicologia assumiu compromisso social contra as formas de opressão e desigualdade no país.",
+   "A Lei nº 4119/62 estabeleceu a regulamentação da psicologia enquanto profissão e a criação dos Conselhos Federal e Regionais de Psicologia.",
+   "A inserção do psicólogo em diferentes campos (como educação, assistência social, saúde pública e trabalho) é considerada recente, pois inicialmente a atuação era circunscrita ao contexto clínico privado.",
+   "A psicologia se consolidou enquanto profissão no Brasil a partir de princípios positivistas, alinhado ao projeto de modernização do país.",
+   "Há o consenso de que nos diferentes contextos de atuação o foco da intervenção psicológica é o indivíduo, eixo central que garante o caráter científico específico da psicologia."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2021-psicologia-p01-042",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 42
+  },
+  "parte": "especificos",
+  "enunciado": "Partindo dos pressupostos estabelecidos nas políticas do SUS, assinale a alternativa que corresponde corretamente a especificidades do trabalho em saúde.",
+  "alternativas": [
+   "As tecnologias do trabalho em saúde se referem ao conhecimento técnico e teórico pertinente a cada área profissional.",
+   "As tecnologias do trabalho em saúde são um conjunto de saberes sistematizados de diferentes áreas.",
+   "O trabalho, enquanto atividade tipicamente humana, compartilha de particularidades no âmbito da saúde e da educação quanto ao seu valor.",
+   "Os termos “educação continuada” e “educação permanente” são equivalentes.",
+   "O objetivo final do trabalho em saúde é a remissão da doença/queixa e, consequentemente, da produção de vida."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2021-psicologia-p01-044",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 44
+  },
+  "parte": "especificos",
+  "enunciado": "Em relação às especificidades das intervenções psicológicas no contexto da Clínica Ampliada, assinale a alternativa correta.",
+  "alternativas": [
+   "Opondo-se à visão biomédica, o psicólogo atua, nesse contexto, na desconstrução da doença e do diagnóstico.",
+   "As intervenções devem se voltar para o reconhecimento da importância e adesão ao tratamento.",
+   "A função do profissional de psicologia é instrumentalizar, com instrumentos teóricos e técnicos da psicologia, a equipe para que esta possa ampliar o olhar diante das queixas dos usuários.",
+   "Nas reuniões para discussão do Projeto Terapêutico Singular, o psicólogo deve resguardar o sigilo de suas intervenções no contexto dos atendimentos com o usuário.",
+   "Na escuta, busca compreender o sentido do adoecimento/diagnóstico para o usuário."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 14
+ },
+ {
+  "id": "enare-2021-psicologia-p01-045",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 45
+  },
+  "parte": "especificos",
+  "enunciado": "Considere o seguinte relato: “Acompanhamento de psicoterapia, em ambulatório de saúde mental, de adolescente de 14 anos. Após algumas sessões, a adolescente relata planejamento suicida, porém pede que a informação não seja compartilhada com seus pais”. Diante da situação, qual conduta o psicólogo deve seguir?",
+  "alternativas": [
+   "Priorizar o vínculo com a adolescente a fim de continuar lhe prestando suporte psicológico e não quebrar o sigilo do atendimento.",
+   "Orientar os responsáveis da adolescente para que a levem à Emergência Psiquiátrica para avaliação da necessidade de internação.",
+   "Informar sobre a necessidade de quebra do sigilo, propor e negociar acordos com a adolescente no contexto terapêutico e orientar os pais quanto à supervisão.",
+   "Afirmar a manutenção do segredo, como forma de preservar o vínculo, e, para a segurança da adolescente, conversar com os responsáveis fazendo a ressalva de que eles não devem informar que foram comunicados do fato pelo psicólogo.",
+   "Informar sobre a necessidade de compartilhar a informação por segurança e, caso a adolescente mantenha o pedido, propor que outra pessoa próxima possa ser informada no lugar dos responsáveis, como um amigo ou vizinho."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2021-psicologia-p01-046",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 46
+  },
+  "parte": "especificos",
+  "enunciado": "Considere o seguinte relato: “Adolescente, 16 anos, busca atendimento em Unidade de Pronto Atendimento sob a queixa de ‘dor de estômago’. Por estar desacompanhado, o médico do plantão solicita que o serviço social e o de psicologia avaliem/acompanhem o caso”. Considerando a legislação vigente, qual deve ser a conduta da equipe?",
+  "alternativas": [
+   "Realizar atendimento de saúde ao adolescente desde que este assine um Termo de Responsabilidade.",
+   "Acionar o Conselho Tutelar para verificação e acompanhamento do contexto familiar do adolescente.",
+   "Realizar atendimento de saúde ao adolescente e comunicar um responsável sobre o atendimento.",
+   "Não permitir a saída do adolescente até que um responsável compareça para acompanhá-lo no atendimento.",
+   "Em todo caso, não prestar atendimento ao adolescente desacompanhado."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2021-psicologia-p01-047",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 47
+  },
+  "parte": "especificos",
+  "enunciado": "No atendimento psicológico com crianças e adolescentes, é correto afirmar que",
+  "alternativas": [
+   "a entrevista inicial com os pais pode ser realizada com a criança/adolescente, como forma de trabalhar o vínculo terapêutico.",
+   "as reuniões devolutivas e de orientação com os pais devem acontecer regularmente com o objetivo de comunicar a eles os conteúdos trabalhados durante as sessões.",
+   "as demandas apresentadas pelos pais devem ser o foco do trabalho terapêutico com a criança/adolescente e também nas sessões de orientação aos pais.",
+   "o trabalho terapêutico com crianças deve ser estruturado a partir da identificação das demandas delas, nas entrevistas iniciais, em um delineamento de atividades que dirijam a criança à elaboração desses conteúdos.",
+   "como estratégia para formação do vínculo com a criança/adolescente, o psicólogo firma um contrato psicológico no qual especifica o princípio da confidencialidade e do sigilo."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 15
+ },
+ {
+  "id": "enare-2021-psicologia-p01-048",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 48
+  },
+  "parte": "especificos",
+  "enunciado": "Sobre a compreensão e o manejo das alucinações, é correto afirmar que",
+  "alternativas": [
+   "são sintomas negativos da esquizofrenia e devem ser tratadas com antipsicóticos.",
+   "são alterações do pensamento e devem ser avaliadas no exame do estado mental.",
+   "a abordagem dos Ouvidores de Vozes converge com os princípios da Atenção Psicossocial.",
+   "na avaliação do estado mental não se deve perguntar sobre a presença de alucinações como forma de não incitar a simulação.",
+   "no contexto de intervenção cabe ao psicólogo negar as alucinações como forma de mostrar ao usuário que elas são alterações da consciência e, portanto, não reais."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2021-psicologia-p01-049",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 49
+  },
+  "parte": "especificos",
+  "enunciado": "Em relação à saúde da população indígena, assinale a alternativa correta.",
+  "alternativas": [
+   "A fomentação à exploração de terras indígenas pela mineração e pelo agronegócio e a atribuição de demarcação de terras indígenas ao Ministério da Agricultura são ações atuais que impactam diretamente na saúde indígena.",
+   "As equipes de saúde dos Distritos Sanitários serão compostas por médicos, enfermeiros e auxiliares de enfermagem.",
+   "A Política Nacional de Saúde Indígena se organiza por meio de Distritos Sanitários, definidos por meio de estudos epidemiológicos em cooperação entre gestão estadual e municipal.",
+   "A FUNAI é o órgão responsável pela execução das ações da Política Nacional de Saúde Indígena, conforme definido no Decreto nº 3.156/99.",
+   "De acordo com a Política Nacional de Saúde Indígena, o controle social de cada Distrito de Saúde Indígena será abrangido pelo Conselho Municipal de Saúde do município de referência."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2021-psicologia-p01-050",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 50
+  },
+  "parte": "especificos",
+  "enunciado": "Em relação à compreensão do racismo e de suas implicações à assistência em saúde, assinale a alternativa correta.",
+  "alternativas": [
+   "A interseccionalidade é uma estratégia analítica que visa problematizar a estrutura das desigualdades sociais, categorizando-as em maior ou menor potencial de risco.",
+   "A Política Nacional de Saúde Integral da População Negra se posiciona contra as iniquidades de raça/etnia, sendo outras pautas (como gênero, orientação sexual e classe) inerentes a outras políticas específicas.",
+   "A “diferença” demarcada por Basaglia em sua crítica à psiquiatria também aplica ao determinante étnico/racial e se torna evidente na análise do perfil da população encarcerada.",
+   "Desde sua origem enquanto ciência e profissão, a psicologia dispôs e dispõe de recursos para o enfrentamento das diferentes formas de dominação e opressão.",
+   "O princípio da equidade compreende a igualdade entre todas as pessoas, sem distinção de sexo, classe, raça, etnia, religião ou orientação sexual."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 16
+ },
+ {
+  "id": "enare-2021-psicologia-p01-051",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 51
+  },
+  "parte": "especificos",
+  "enunciado": "Considerando o contexto social e histórico do sistema prisional em interface com a atuação da psicologia da população em privação de liberdade, assinale a alternativa correta.",
+  "alternativas": [
+   "O psicólogo que acompanha o usuário em privação de liberdade poderá, quando solicitado pelo juiz, emitir laudo ou parecer técnico a fim de subsidiar uma decisão judicial.",
+   "Do ponto de vista de suas implicações jurídicas, a política de saúde mental está diretamente relacionada ao sistema prisional.",
+   "A maior parte dos homens em privação de liberdade é negra, todavia, entre as mulheres, não há diferença significativa de raça e etnia.",
+   "O Decreto nº 9.761/2019 se posiciona ética e politicamente contra a necropolítica pública no Brasil.",
+   "De acordo com a legislação atual, é atribuição exclusiva do psicólogo a realização de exame criminológico."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2021-psicologia-p01-052",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 52
+  },
+  "parte": "especificos",
+  "enunciado": "Considere o seguinte relato: “No contexto de atuação de uma UTI Covid, a psicóloga do setor tem recebido queixas por parte da equipe médica sobre uma família ‘de difícil comunicação’ (sic). Relatam que, por mais que explicitem a gravidade do quadro do usuário e da má evolução, em cada nova ligação a família do paciente pergunta ao final da ligação ‘mas então ele está melhorando, não é?!’” Diante da situação, quais são as possibilidades de intervenção?",
+  "alternativas": [
+   "Propor à família e à equipe que os boletins médicos passem a ser feitos por via escrita, como forma de registrar o conteúdo de cada boletim.",
+   "Assumir a responsabilidade por comunicar a família sobre a evolução clínica do caso, considerando que o atendimento de psicologia possibilita mais tempo para diálogo e esclarecimento de dúvidas.",
+   "Verificar com a família a possibilidade de que algum familiar ou amigo próximo com maior capacidade de compreensão possa receber os boletins médicos.",
+   "Realizar intervenção com a equipe médica e com a família acerca dos sentidos atribuídos aos termos e conteúdos comunicados por cada parte.",
+   "Articular a equipe da Atenção Básica de referência para que um profissional da equipe possa se responsabilizar por acompanhar os boletins médicos."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 17
+ },
+ {
+  "id": "enare-2021-psicologia-p01-053",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 53
+  },
+  "parte": "especificos",
+  "enunciado": "Considere o seguinte relato: “Criança, 9 anos, aos 4 anos de idade diagnosticada com TDAH, desde então faz uso de Ritalina. Reside em uma casa de cinco cômodos com sua mãe, seu pai, seu tio e sua avó. Todos são acompanhados pelo CAPS e fazem tratamento para algum transtorno mental. Está, há 3 semanas, sem a medicação porque seus pais perderam a última consulta com o psiquiatra, na qual teriam a receita da medicação renovada. A escola já havia comunicado a UBS há alguns meses que a criança não estava fazendo o uso regular da medicação. Desse modo, o caso é levado para discussão de equipe da UBS de referência pela ACS do serviço com a preocupação de possível negligência com o tratamento da criança”. Diante das informações, quais achados são relevantes para a intervenção nesse caso?",
+  "alternativas": [
+   "Investigar a condição da criança a fim de identificar possíveis situações de conflito, violência e/ou negligência por parte da família.",
+   "Propor uma parceria com a escola para que a medicação possa ser administrada pela equipe pedagógica.",
+   "Realizar encaminhamento para neurologista infantil para avaliar a necessidade de medicação e para o CAPSi para que a criança receba acompanhamento multiprofissional.",
+   "Reavaliar com a equipe a necessidade da medicação e o diagnóstico da criança, realizar acompanhamento familiar.",
+   "Realizar encaminhamento para o CAPSi e para o CRAS diante da vulnerabilidade social da família. Em caso de persistência da negligência com o tratamento da criança, notificar o Conselho Tutelar."
+  ],
+  "gabarito": "D",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 18
+ },
+ {
+  "id": "enare-2021-psicologia-p01-054",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 54
+  },
+  "parte": "especificos",
+  "enunciado": "Assinale a alternativa correta quanto à atenção à “crise psiquiátrica”, a partir dos pressupostos da atenção psicossocial.",
+  "alternativas": [
+   "A crise se caracteriza como uma disfunção biológica e, por esse motivo, a intervenção deve incluir o uso de psicofarmacoterapia.",
+   "A crise deve ser manejada pelos serviços de urgência e emergência, pelos profissionais do SAMU ou da Emergência Psiquiátrica.",
+   "A crise é o resultado de uma série de fatores que envolvem terceiros e a intervenção, nessa situação, não necessariamente indicará internação ou psicofarmacoterapia.",
+   "Em situações de crise, deve se recomendar a internação para garantir a saúde e a integridade do usuário.",
+   "A crise se caracteriza como uma disfunção psíquica do sujeito diante da insuficiência de recursos psíquicos de enfrentamento de uma situação conflitante, a intervenção deve ser preventiva na construção de recursos a fim de evitar a situação crítica."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 18
+ },
+ {
+  "id": "enare-2021-psicologia-p01-055",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 55
+  },
+  "parte": "especificos",
+  "enunciado": "Na organização e realização de uma oficina de intervenção em saúde, o profissional deve considerar suas especificidades. Diante do exposto, é correto afirmar que",
+  "alternativas": [
+   "para que o trabalho tenha alcance terapêutico deve garantir, inicialmente, a homogeneidade entre os membros.",
+   "o papel do coordenador no grupo é central, pois ele deve mediar as tarefas do grupo conforme suas demandas.",
+   "o coordenador deve manter planejamento flexível e assumir papel ativo, porém auxiliar e não central.",
+   "nesse contexto apresenta finalidades pedagógicas e, portanto, é aplicada em contextos de orientação e informação.",
+   "apresenta grande potencial enquanto intervenção de psicoeducação, todavia não abrange sentimentos e emoções."
+  ],
+  "gabarito": "C",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 18
+ },
+ {
+  "id": "enare-2021-psicologia-p01-056",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 56
+  },
+  "parte": "especificos",
+  "enunciado": "No contexto de acompanhamento em acolhimento em leito no CAPS, qual deve ser a conduta da equipe diante da recusa do uso de medicação via oral por parte do usuário?",
+  "alternativas": [
+   "Avaliar a possibilidade de que a medicação seja administrada por outras vias, sem prejuízo ao tratamento.",
+   "Avaliar a possibilidade de encaminhamento do usuário para internação em leito psiquiátrico em hospital geral para ajuste medicamentoso e continuidade do acompanhamento psicossocial no CAPS, após a alta hospitalar.",
+   "Suspender imediatamente o uso da medicação, em respeito à autonomia do usuário, e manter os demais acompanhamentos conforme o Projeto Terapêutico Singular.",
+   "Condicionar a continuidade do acompanhamento ao uso da medicação, dada a importância da farmacoterapia.",
+   "Avaliar com o usuário o sentido e os efeitos a partir do uso da medicação e sua importância e acompanhar com a equipe possíveis efeitos adversos para ajustes necessários."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 19
+ },
+ {
+  "id": "enare-2021-psicologia-p01-057",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 57
+  },
+  "parte": "especificos",
+  "enunciado": "Tomando a compreensão de saúde enquanto dimensão biopsicossocial, é correto afirmar que",
+  "alternativas": [
+   "representa a superação da predominância do modelo biomédico na saúde, promovendo a compreensão dialética dos processos de saúde-doença.",
+   "apreende a complexidade e a totalidade da existência humana quanto aos seus aspectos biológicos, psicológicos e sociais no processo saúde-doença.",
+   "em consonância com o conceito de integralidade, compreende a saúde como a somatória de determinantes biológicos, psicológicos e sociais.",
+   "compreende a igualdade da competência técnica entre as diferentes áreas para lidar com quaisquer situações e demandas do usuário.",
+   "transcendendo a essa compreensão, a perspectiva interdisciplinar exige uma redução situacional conectada a aspectos gerais, como um recurso metodológico, diante de cada demanda específica."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 19
+ },
+ {
+  "id": "enare-2021-psicologia-p01-058",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 58
+  },
+  "parte": "especificos",
+  "enunciado": "Considere o seguinte relato: “Usuário de 28 anos, que é acompanhado pelo CAPS, é internado em hospital geral para tratamento de quadro clínico, em acompanhamento. Durante a internação, é acompanhado pelo serviço de psicologia. No momento da alta, o psicólogo do setor recebe a solicitação de emissão de documento pelo serviço de referência sobre o acompanhamento realizado no contexto da hospitalização”. Diante da demanda, qual deve ser o documento apresentado à equipe de referência?",
+  "alternativas": [
+   "Atestado psicológico.",
+   "Parecer psicológico.",
+   "Declaração.",
+   "Laudo psicológico.",
+   "Relatório psicológico."
+  ],
+  "gabarito": "E",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 19
+ },
+ {
+  "id": "enare-2021-psicologia-p01-059",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 59
+  },
+  "parte": "especificos",
+  "enunciado": "Diante da solicitação da realização de uma avaliação psicológica, assinale a alternativa que apresenta corretamente quais procedimentos e cuidados devem ser mantidos pelo profissional.",
+  "alternativas": [
+   "Não deve utilizar de outras fontes, além dos instrumentos psicológicos, como informações de terceiros ou visitas domiciliares.",
+   "Deve recusar a realização de avaliação psicológica caso tenha vínculos, atuais ou anteriores, com o avaliando.",
+   "Possui autonomia para escolha dos instrumentos a serem utilizados, porém deve incluir ao menos um teste psicológico, com parecer favorável pelo SATEPSI.",
+   "Ao final do processo, deve emitir parecer psicológico ressaltando a demanda, os instrumentos utilizados e os resultados conclusivos.",
+   "Deve informar sobre a finalidade do procedimento após realização da avaliação como forma de evitar interferências indesejáveis ao trabalho."
+  ],
+  "gabarito": "B",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 20
+ },
+ {
+  "id": "enare-2021-psicologia-p01-060",
+  "origem": {
+   "tipo": "oficial",
+   "exame": "ENARE",
+   "edicao": "2021/2022",
+   "banca": "AOCP",
+   "prova": "PSICOLOGIA-P01",
+   "numero": 60
+  },
+  "parte": "especificos",
+  "enunciado": "Em relação aos conhecimentos de epidemiologia aplicada à saúde, é correto afirmar que",
+  "alternativas": [
+   "a queda da prevalência pode estar associada à maior letalidade ou ao aumento da taxa de cura da doença.",
+   "a incidência se refere ao número de casos, novos e pré-existentes de uma doença em determinado período.",
+   "o estudo de delineamento transversal observa os dados em um dado período do tempo e determina a incidência de uma doença.",
+   "a prevalência se refere à frequência de novos casos de uma doença em determinado período.",
+   "o estudo de coorte ou de seguimento observa dois grupos, sendo um exposto (à variável) e o outro não, com objetivo de obter a prevalência de uma doença."
+  ],
+  "gabarito": "A",
+  "gabarito_status": "definitivo",
+  "topicos": [],
+  "fonte_url": "https://www.gov.br/hubrasil/pt-br/ensino-e-pesquisa/exame-nacional-de-residencia-enare/edicoes-anteriores/2021-2022/provas/area-uni-e-multiprofissional/psicologia-psicol-divulgar.pdf",
+  "pdf_pagina": 20
+ }
+]

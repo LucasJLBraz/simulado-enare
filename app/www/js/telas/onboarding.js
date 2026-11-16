@@ -1,4 +1,4 @@
-import { h } from '../dom.js';
+import { h, frag } from '../dom.js';
 import { ctx } from '../ctx.js';
 
 const PASSOS = [
@@ -15,14 +15,14 @@ export function onboarding() {
   const desenhar = () => {
     const [titulo, texto] = PASSOS[i];
     const ultimo = i === PASSOS.length - 1;
-    raiz.replaceChildren(
+    raiz.replaceChildren(frag(
       h('div', { class: 'dots' }, PASSOS.map((_, k) => h('i', { class: k === i ? 'on' : '' }))),
       h('h1', {}, titulo), h('p', {}, texto),
       ultimo && h('input', { type: 'date', id: 'data-prova', 'aria-label': 'Data da prova', value: ctx.estado.config.dataProva || '',
         onchange: (e) => { ctx.estado.config.dataProva = e.target.value || null; ctx.salvar(); } }),
       h('button', { class: 'btn prim', onclick: () => (ultimo ? fim() : (i++, desenhar())) }, ultimo ? 'Começar' : 'Próxima'),
       i > 0 && h('button', { class: 'btn', onclick: () => { i--; desenhar(); } }, 'Voltar'),
-      !ultimo && h('button', { class: 'btn', onclick: fim }, 'Pular'));
+      !ultimo && h('button', { class: 'btn', onclick: fim }, 'Pular')));
   };
   desenhar();
   return raiz;

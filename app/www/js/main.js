@@ -1,6 +1,6 @@
 import { ctx } from './ctx.js';
 import { carregar } from './estado.js';
-import { h } from './dom.js';
+import { h, frag } from './dom.js';
 import { limparContestacoesAntigas } from '../logica/marcacoes.js';
 import { normalizarSessao } from './sessao.js';
 import { onboarding } from './telas/onboarding.js';
@@ -27,11 +27,11 @@ function desenhar() {
   const { nome, arg, params } = rota();
   const app = document.getElementById('app');
   const tela = telas[nome] || inicio;
-  app.replaceChildren(tela({ arg, params }));
+  app.replaceChildren(frag(tela({ arg, params })));
   window.scrollTo(0, 0);
   const n = document.getElementById('nav');
   n.hidden = !comNav.has(nome);
-  n.replaceChildren(...nav.map(([href, rot, id]) => h('a', { href, class: id === nome ? 'ativo' : '' }, rot)));
+  n.replaceChildren(frag(...nav.map(([href, rot, id]) => h('a', { href, class: id === nome ? 'ativo' : '' }, rot))));
 }
 
 async function boot() {
@@ -41,8 +41,8 @@ async function boot() {
       fetch(`banco/${n}.json`).then((r) => { if (!r.ok) throw new Error(n); return r.json(); })));
     Object.assign(ctx, { questoes, topicos, meta, porId: new Map(questoes.map((q) => [q.id, q])) });
   } catch {
-    app.replaceChildren(h('div', { class: 'card' }, h('h1', {}, 'Banco de questões não encontrado'),
-      h('p', {}, 'Rode "npm run banco" na pasta app e abra o app de novo.')));
+    app.replaceChildren(frag(h('div', { class: 'card' }, h('h1', {}, 'Banco de questões não encontrado'),
+      h('p', {}, 'Rode "npm run banco" na pasta app e abra o app de novo.'))));
     return;
   }
   ctx.estado = carregar();

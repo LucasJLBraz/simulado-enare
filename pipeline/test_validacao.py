@@ -32,6 +32,14 @@ def test_mesclar_mantem_ids_e_comentario_mais_novo():
     assert [b["id"] for b in banco] == ["x-001"] and "pdf_pagina" not in banco[0]
 
 
+
+def test_mesclar_troca_provisorio_por_definitivo():
+    banco, _, upd = mesclar([q("x-001", gabarito="B", gabarito_status="provisorio")],
+                            [q("x-001", gabarito="C", gabarito_status="definitivo")])
+    assert upd == 1 and banco[0]["gabarito"] == "C" and banco[0]["gabarito_status"] == "definitivo"
+    banco, _, upd = mesclar([q("x-001", gabarito="B")], [q("x-001", gabarito="C", gabarito_status="provisorio")])
+    assert upd == 0 and banco[0]["gabarito"] == "B"
+
 def test_extrair_montar_anulada_e_rejeicao():
     def qq(n, alts=5):
         return {"numero": n, "enun": "texto", "alts": list("abcde")[:alts], "paginas": {1}, "parte": "gerais", "img": False}

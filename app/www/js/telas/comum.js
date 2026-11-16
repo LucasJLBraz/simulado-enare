@@ -1,4 +1,4 @@
-import { h, badgesOrigem } from '../dom.js';
+import { h, badgesOrigem, frag } from '../dom.js';
 import { ctx } from '../ctx.js';
 import { contestacaoAtiva, marcar } from '../../logica/marcacoes.js';
 
@@ -14,12 +14,12 @@ export function cartaoGabarito(q, resp) {
     const contest = contestacaoAtiva(q, ctx.estado);
     const conf = !contest && !!ctx.estado.confirmacoes[q.id];
     const agir = (t) => () => { marcar(ctx.estado, q, t); ctx.salvar(); pintar(); };
-    botoes.replaceChildren(
+    botoes.replaceChildren(frag(
       h('button', { class: 'btn' + (conf ? ' prim' : ''), onclick: agir(conf ? 'limpar' : 'confirmar') }, conf ? 'Comentário confirmado' : 'Confirmar comentário'),
-      h('button', { class: 'btn' + (contest ? ' perigo' : ''), onclick: agir(contest ? 'limpar' : 'contestar') }, contest ? 'Contestado (toque para desfazer)' : 'Contestar comentário'));
+      h('button', { class: 'btn' + (contest ? ' perigo' : ''), onclick: agir(contest ? 'limpar' : 'contestar') }, contest ? 'Contestado (toque para desfazer)' : 'Contestar comentário')));
   };
   pintar();
-  raiz.append(
+  raiz.append(frag(
     h('div', { class: 'opcoes' }, q.alternativas.map((a, i) => {
       const L = LETRAS[i];
       const cls = L === q.gabarito ? 'certa' : L === resp ? 'errada' : '';
@@ -33,7 +33,7 @@ export function cartaoGabarito(q, resp) {
     com.referencia && h('p', { class: 'suave' }, `Referência: ${com.referencia}`),
     com.status === 'nao_revisado' && h('p', { class: 'suave' }, 'Comentário ainda não revisado.'),
     q.gabarito_status === 'provisorio' && h('p', { class: 'badge prov' }, 'Gabarito provisório: pode mudar quando a banca publicar o definitivo.'),
-    botoes);
+    botoes));
   return raiz;
 }
 

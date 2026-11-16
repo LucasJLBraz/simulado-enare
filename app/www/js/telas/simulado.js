@@ -1,4 +1,4 @@
-import { h } from '../dom.js';
+import { h, frag } from '../dom.js';
 import { ctx } from '../ctx.js';
 import { montar, edicoes, provaReal, MIN_POR_QUESTAO } from '../../logica/simulado.js';
 import { iniciar } from '../sessao.js';
@@ -18,7 +18,7 @@ export function simuladoSetup() {
     const total = s.total ?? Math.round(n() * s.porQ * 60);
     const ed = eds.find((x) => x.edicao === s.edicao);
     const faltam = s.tipo === 'montado' ? montar(ctx.questoes, vistos, f).faltam : null;
-    raiz.replaceChildren(
+    raiz.replaceChildren(frag(
       h('h1', {}, 'Simulado completo'),
       h('label', { class: 'campo' }, 'Tipo'),
       h('div', { class: 'escolha' },
@@ -49,7 +49,7 @@ export function simuladoSetup() {
           fila: qs.map((q) => q.id), modo: s.modo, feedback: 'fim', totalSeg: total, porQuestaoSeg: Math.round((total / qs.length)) });
         ctx.ir('#/questao');
       } }, 'Começar simulado'),
-      h('a', { class: 'btn', href: '#/' }, 'Voltar'));
+      h('a', { class: 'btn', href: '#/' }, 'Voltar')));
   };
   desenhar();
   return raiz;

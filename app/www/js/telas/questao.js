@@ -1,4 +1,4 @@
-import { h, fmtSeg, badgesOrigem } from '../dom.js';
+import { h, fmtSeg, badgesOrigem, frag } from '../dom.js';
 import { ctx } from '../ctx.js';
 import { avisosPendentes } from '../../logica/simulado.js';
 import { atualId, decorrido, restante, marcarQuestaoExibida, registrarResposta, finalizar, pausar, retomar, pular } from '../sessao.js';
@@ -87,7 +87,7 @@ export function questao() {
         cartaoGabarito(q, r.resp),
         h('button', { class: 'btn prim', onclick: proxima }, atualId(s) ? 'Próxima questão' : 'Ver resultado'));
     }
-    raiz.replaceChildren(...corpo);
+    raiz.replaceChildren(frag(...corpo));
     tick();
   };
   mostrar();

@@ -11,8 +11,8 @@ from pathlib import Path
 import pymupdf
 
 ALT = re.compile(r"^\(([A-E])\)\s*(.*)$")
-CABECALHO = r"^(EXAME NACIONAL DE RESIDÊNCIA|INSTITUTO \w+|PSICOLOGIA|Tipo\s+\d+\s*[–-]\s*Página\s*\d+)\s*$"
-PARTE_HEAD = re.compile(r"^Compet[êe]ncias \(Conhecimentos")
+CABECALHO = r"^((?i:EXAME NACIONAL DE RESIDÊNCIA)|INSTITUTO \w+|PSICOLOGIA|Tipo\s+\d+\s*[–-]\s*Página\s*\d+)\s*$"
+PARTE_HEAD = re.compile(r"^Compet[êe]ncias \(Conhecimentos", re.I)
 ANULADA = {"X", "*", "ANULADA", "ANULADO"}
 DEPENDE_IMG = re.compile(r"\b(figura|imagem|gráfico|grafico|quadro|tabela|ilustra\w*)\b", re.I)
 DIR = Path(__file__).parent
