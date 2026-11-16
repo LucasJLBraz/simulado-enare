@@ -27,7 +27,7 @@ export function progresso() {
       })
       : h('p', { class: 'suave' }, 'Nenhuma sessão terminada ainda. Os resultados ficam aqui.'),
     h('h2', {}, 'Antes e depois por tópico'),
-    h('p', { class: 'suave' }, 'Domínio nas últimas 2 semanas contra o que veio antes, só com questões oficiais. Com menos de 5 respostas numa das partes não há porcentagem.'),
+    h('p', { class: 'suave' }, 'Quanto você acertava antes e quanto acerta nas últimas 2 semanas, só com questões oficiais. Com menos de 5 respostas num dos períodos não há porcentagem.'),
     topicos.length
       ? topicos.map((t) => h('div', { class: 'card' }, h('h2', {}, curto(t)),
         comparavel(t) ? blocoAntesDepois(ad[t.id]) : h('p', { class: 'suave' }, fraseAntesDepois(ad[t.id]))))

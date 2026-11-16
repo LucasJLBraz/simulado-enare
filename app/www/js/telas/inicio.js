@@ -5,6 +5,7 @@ import { diagnostico } from '../../logica/dominio.js';
 import { fraseProgresso } from '../../logica/progresso.js';
 import { iniciar, retomar } from '../sessao.js';
 import { curto, vencidasHoje, confirmarNova } from './comum.js';
+const duracao = (m) => (m < 60 ? `${m} min` : `${Math.floor(m / 60)} h${m % 60 ? ` ${m % 60} min` : ''}`);
 
 export function inicio() {
   const e = ctx.estado;
@@ -25,7 +26,7 @@ export function inicio() {
   // 10, 25 ou todas; erros com certeza vêm primeiro (ordem de revisaoDoDia).
   const tamanhos = [10, 25].filter((n) => n < ids.length).concat(ids.length);
   const botao = (n, k) => h('button', { class: 'btn' + (k === 0 ? ' prim' : ''), onclick: () => comecarRevisao(n) },
-    tamanhos.length === 1 ? 'Começar revisão' : `Revisar ${n === ids.length ? `todas as ${n} questões` : `${n} questões`}, cerca de ${minutosEstimados(ids.slice(0, n), e.progresso)} min`);
+    tamanhos.length === 1 ? 'Começar revisão' : `Revisar ${n === ids.length ? `todas as ${n} questões` : `${n} questões`}, cerca de ${duracao(minutosEstimados(ids.slice(0, n), e.progresso))}`);
 
   return h('div', {},
     h('h1', {}, 'Olá, bons estudos'),
